@@ -19,7 +19,9 @@ Bushido
 
 C
 Christmas
+Complete Crystal = OK 
 Clover = OK
+Crystal Advance = OK
 
 D
 Dark Worshop
@@ -58,6 +60,7 @@ L
 Legends Red = OK
 Lets Go Pikachu
 Light Platinum
+Liquid Cristal = OK
 
 M
 MegaBlue = OK
@@ -87,6 +90,8 @@ Reborn
 Ruby Stars = OK
 
 S
+Shin Pokemon Green = Att e OK
+
 Sol e Luna = Sem imagem
 Sovereing
 Spiral Root = OK 
@@ -110,3 +115,13 @@ VerdeHierba = OK
 XYNaturiaVersion = OK
 YuGiOh = OK
 Zei = OK
+
+https://www.pokeharbor.com/category/roms/gbc/page/4/
+https://pokemonromhack.com/category/gbc-rom-hacks
+https://www.pokecommunity.com/showthread.php?t=406522
+https://www.pokecommunity.com/showthread.php?t=487597
+https://www.pokeharbor.com/2021/06/pokemon-perfect-red-blue/
+https://pokemonromhacks.com/pokemon-perfect-blue/
+https://www.pokecommunity.com/showthread.php?t=483263
+https://www.pokecommunity.com/forumdisplay.php?f=184&order=desc&page=4
+https://pokebat.net/2018/02/pokemon-orange-gbc-hack.html

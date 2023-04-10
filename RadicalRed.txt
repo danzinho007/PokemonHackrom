@@ -1,0 +1,29 @@
+Name: Pokemon Radical Red
+Ver.: v3.1 (Att 26/10/2022)
+Plataforma:GBA
+Autor: Yuuiii
+Rom Base: Fire Red
+Realease: 13/07/2020
+Status: Complete
+Language:English
+Fórum: https://www.pokecommunity.com/showthread.php?t=437688
+Description: A mesma história de Fire Red, com atualização e implementação de novas mecânicas.
+
+Golpes e habilidades até 8 gen
+Mega Evolução, Z-Moves
+
+·       Level vai até 250
+
+·       TMs reutilizáveis  e expansão de TMs
+
+·       Mecanismo de treinamento d Evs
+
+·       Gen 8 Exp Share
+
+·       Habilidades Ocultas
+
+·       Sistema de dia e noite
+
+·       Dexnav: permite procurar pokémon com habilidades ocultas e outras coisas
+
+·       Itens de Breeding (reprodução de pokémon) funcionais e atualizados, como Destiny Knot, Everstone, etc
