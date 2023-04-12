@@ -8,11 +8,13 @@ https://projectpokemon.org/home/files/category/199-rom-hacks/?sortby=file_last_c
 
 Vi :
 https://aminoapps.com/c/pokemon-amino-ptbr/page/blog/como-fazer-a-sua-hack-rom-parte-1/lWdZ_lgsQu3m1PEBj3RraKa58k6NDM3pQ4
+https://www.b4gamez.com/best-pokemon-fan-games/
 https://criarumjogo.com/como-criar-um-hack-rom-de-pokemon-pelo-android/
 https://www.getwox.com/pt/download-de-pokemon-rom-hacks/
 https://br.ifunny.co/video/como-esta-minha-hack-rom-e-as-geracoes-de-pokemon-XhpmGqjr9
 
 https://www.pokeharbor.com/2022/11/25-best-pokemon-rom-hacks-of-2022/
+https://www.pokemoncoders.com/pokemon-fire-red-rom-hacks/
 https://pokemonhackromclub.forumcommunity.net/?t=60444334
 https://www.pokemythology.net/melhor-hack-rom-pokemon-raptor/2827/
 
@@ -29,52 +31,67 @@ Versão traduzida dos jogos japoneses
 https://www.pokecommunity.com/showthread.php?t=492958&fromrand=1
 
 A
-Apocalipsis 2021 = Sem imagem
+-Adventures Red Chapter = OK
+-Apocalipsis 2021 = Sem imagem
 Aquamarine = OK
 Ash Gray = OK
 
 B
-Batalha del multiverso = Sem imagem
-Battle Labyrinth = OK
+-Batalha del multiverso = Sem imagem
+-Battle Labyrinth = OK
 -Bizarre
 -Black 2 Kaizo = OK
+-Black Cinder = OK
+-Blaze Black 2 = OK
 -Blaze Black 2 Redux = OK
 -Blazing Emerald = OK
 https://pokemon-blazing-emerald.fandom.com/wiki/Pokemon_Blazing_Emerald_Wiki
 Divisão Físico e Especial
 TMs infinitas
 -Blazed Glazed = OK
+-Blue Kaizo = OK
 -Brown = OK e OK
 https://rijon.fandom.com/wiki/Pok%C3%A9mon_Brown
 -Bushido
 
 C
 Christmas
-Complete Crystal = OK 
-Clover = OK
+-Complete Crystal = OK 
+-Clockwork
+-Cloud White = OK
+-Clover = OK
 -Crystal Advance = OK
 -Crystal Clear = OK
 Compre casa
 Iniciais : 24
 Mundo Aberto
+-Crystal Kaizo = OK
+-Cyan = OK
 
 
 D
 -Dark Rising = OK
 -Dark Rising 2 = OK
 Pokemon : 193
+-Dark Rising 3 = OK
+-Dark Rising Order = OK
+-Dark Rising Origins = OK
 -Dark Violet = OK
 Pokemon : 210 ( Ger 1 - 4 )
 -Dark Worship
 -Digimon Gray
 
 E
-EclatPourpre = OK
+-EclatPourpre = OK
+-Eclipse = OK
 -Emerald Crest = OK
 Mega Evolução
+-Emerald Double = OK
 -Emerald Kaizo = OK
+https://www.pokecommunity.com/showthread.php?t=395830
 Desafiante
 -Emerald Rogue = OK
+-Empyrean = OK
 -Espada Escudo = OK 
 -Exceeded = OK
 Dificuldades : 4 ( Fácil, Normal, Difícil e Muito Difícil )
@@ -82,15 +99,21 @@ Mega Evolução
 Pokemon : ( Ger 1 - 8 )
 
 F
+-Factory Adventure = OK
 -Fallen = OK
 -Fat Kid Version = OK
+-Fire Ash = OK
+-Fire Burn = OK
 -FireGoldVersion = OK
 -FirexRed Extended = OK
 https://www.pokecommunity.com/showthread.php?t=466535
+-Floral Tempus = OK
+-Fuligin = OK
 -Fused Dimensions = OK e OK
 https://docs.google.com/spreadsheets/d/1Rkxo4l3bYedKTVCq0iEBoaVSc5kvYM4Qp4Y2yU-ITqM/edit#gid=0
 -Fused Midnight = Sem imagem
 -Fusion 3 = OK
+-Fusion Generation 2 = OK
 
 
 G
@@ -106,13 +129,17 @@ Região : 3
 -GS Chronicles = OK
 POkemon = ( 1 - 8 )
 
+H
 -Heliodor
 
 I
 India Ruby = OK
 Infinite Fusion
-Inflamed Red = OK
-IslasDeViento = OK
+-Inflamed Red = OK
+-Ironemon = OK
+-Insurgence = OK
+Guia = https://pokuniverse.com/rom-hacks/pokemon-insurgence-guide/
+-IslasDeViento = OK
 
 Jupiter = OK
 
@@ -125,63 +152,79 @@ K
 -Legends Red = OK
 -Lets GO Eeevee = OK
 -Lets Go Pikachu = OK
+-Life = OK
 -Light Platinum = OK
 Gerações : 4
 Região : Zhery
 Revanche = não
 -Liquid Cristal = OK
+-Little Cup Red = OK
 
 M
 MegaBlue = OK
-MindCrystal = OK
-MoemonBonds = OK 
+-MindCrystal = OK
+-Mirage of Tales = OK
+-MoemonBonds = OK 
 -MoemonMegaFireRed = OK 
 -Moon Black 2 = OK
 Mega Evolução = Fora da Batalha
 Pokemon World Tournament
 -My Life = Sem foto
 
-NES = OK
+---N---
+-Nameless Fire Red = OK
+-NES = OK
+-Normal Version = OK
 
 O
 Odyssey = OK
 -Omega = OK
 -Orange Islands = OK
+-Outlaw = OK
 
 P
-Platinum Red
+-Phoenix Rising = OK
+-Platinum Red
 -Platinum Redux = OK
 Shiny = 1/257
 -Pokeverse = OK
+-Primeval Black 2 = OK
 -Prism 
-Psychic Adventure = OK
+-Project Bug = OK
+-Psychic Adventure = OK
+-Pyrite = OK
 
-Q
+--- Q ---
 -Quetzal
-Quetzal Multiplayer
+-Quetzal Multiplayer
 
 R
 -Radical Red Version = OK
 -Rainbow = OK
--Reborn
+-Reborn = OK
+-Rejuvenation = OK
 -Renegade Platinum = OK
 -Resolute Version = OK
 Departamento de Batalha
 Mega Evolução
 -Rocket Edition = OK
-
+-Rocket Strike = OK
+-RossoFuoco = OK
 -Rowe = OK
 -Ruby Stars = OK
+-Rusty = OK
 
 S
-Shin Pokemon Green = Att e OK
-
-Sol e Luna = Sem imagem
+-Shin Pokemon Green = Att e OK
+-Snakewood = OK
+-Sol e Luna = Sem imagem
 Sovereing
-Spiral Root = OK 
-Stone Dragon
-Stone Dragon 2
-Swords & Shield ( Ger 8 )= OK 
+-Spiral Root = OK 
+-Sprite Swap = OK
+-Stone Dragon
+-Stone Dragon 2
+-Strike = OK
+-Swords & Shield ( Ger 8 )= OK 
 
 T 
 -TerraNova = Sem imagem
@@ -198,13 +241,15 @@ Puzzles : 40
 U
 -Ultimate Fusion = OK 
 Fusão Pokemon
+-Ultra Shiny Gold Sigma = OK
 -Unbound = OK
 Missão Secundária
 Pokemon = ( 1 - 8 )
 -Uranium = OK
 
 V
-VariantEmerald = OK
+-VariantEmerald = OK
+-Vega = OK
 -VerdeHierba = OK
 -Voyager = OK
 
