@@ -1,4 +1,4 @@
-Jogando atualmente :
+﻿Jogando atualmente :
 
 Famosinhas :
 
@@ -61,6 +61,50 @@ U_B shin pokemon = Versão Shiny. OK
 U-FR_Pokemon_Ice_Blue_2.0 = Mapa muito longo ( verificar ) OK
 V
 Verde Musgo = Legalzinho
+
+---------------------------
+
+Números
+2004 = 
+A
+Attv12.18 = 
+AzulRando = 
+Blazing Emerald 1.6 = !!! 
+Blue = 
+Blue(patched) = 
+Brown 2014 Final = !!
+C
+Crystal Clear Standard 2.5.6 = 
+Dark Cry Fix Alpha 2.6.7 = !!!
+Dark Violet Final 2018 V1 = !!!
+Eclipse = !!!
+Flora Sky Rebirth Build v7.3.6 = !!!
+G
+Gaia v2.5 = !!!  
+God of Arena v180715 = !!! 
+Hyper Emerald 807 = !!! 
+Indigo Power Tournament vApril 25th 2021 = 
+Modern Emerald = 
+Oak's Dream 2 V1.3 =
+P
+PBattle = 
+Perfect Red = !!!
+PK Plat Pro Full = !!!
+PK SW.SH v9.1 = 
+PKMN Reboot (by yogurcomics) = 
+Pocket Monsters = 
+Pokemon - Diabound = 
+Pokemon Indigo = 
+Pokémon Sweet 2th = !!! 
+ProjectBugV1.0.3 = 
+Purple =
+Q 
+Quartz =
+U
+U_B shin pokemon =
+U-FR_Pokemon_Ice_Blue_2.0 =
+V
+Verde Musgo
 
 Mapas :
 
