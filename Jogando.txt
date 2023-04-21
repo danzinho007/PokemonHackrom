@@ -104,7 +104,7 @@ U
 U_B shin pokemon =
 U-FR_Pokemon_Ice_Blue_2.0 =
 V
-Verde Musgo
+Verde Musgo = !!!
 
 Mapas :
 
