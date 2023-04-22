@@ -245,6 +245,7 @@ https://www.pokecommunity.com/showthread.php?t=261735
 -Altered Platinum = OK ( Postado ) Capa 
 -Ambre Rouge = OK ( Postado ) Capa
 -Anarchy = 
+Ano : 2016 ( ? )
 -Ancient = 
 Focado em Batalhas 3 x 3
 -Apocalipsis 2021 = Sem imagem
@@ -705,6 +706,7 @@ Focado nas Ilhas Laranja
 -NES = OK ( Postado )
 -Never = 
 -New Hoenn = 
+Ano : 2017 ( ? )
 -Normal Version = OK ( Postado )
 -Nukleon = 
 
@@ -829,6 +831,8 @@ Pokemon = ( 1 - 8 )
 -Scale Fang : OK ( Postado ) 
 Fakemon
 Nova Região
+-Scarlet =
+Ano : 2015 ( ? )
 -Seasons = ... e ok
 -Shattered Dreams =
 -Shield Ultimate =  
@@ -842,9 +846,11 @@ Hack do ano de 2010 !!!
 Nova Região
 -Silver 97 Reforged = ok e ok
 -Silver Legend = 
+Ano : 2015 ( ? )
 -Silver Yellow = OK ( Postado )
 -Sinnoh Legacy = 
 -Sky Twilight = 
+Ano : 2016 ( ? )
 -Snakewood = OK ( Postado )
 
 --- So --- 

@@ -1,23 +1,57 @@
 ﻿Jogando atualmente :
 
+Mecânicas :
+Dexnav 
+Exp XY 
+HM não necessário
+Mundo aberto 
+Missões Secundárias 
+New Game +
+Raid
+TMs Infinitos
+
 Famosinhas :
 
-Blazing Emerald = 2
-Blue Kaizo = Lv acima de 100
+Blazing Emerald 
+Blue Kaizo = Lv até 115 ( vc 100 )
 Brown = 2
-Crystal Clear = 1
-Crystal Kaizo
-Dark Rising = 5
+Crystal Clear 
+Crystal Kaizo = Lv até 120 ( vc 100 )
+Dark Rising =
 Dark Worship
+Emerald Kaizo = 
 Enhanced Emerald = Lv Acima de 100
-Flora Sky = 2
-Hyper Emerald = 10 versões ( Hard 5.3 )
-Light Platinum = 4 versões
-R.O.W.E = 1
+Flora Sky 
+Hyper Emerald = Hard 5.3 
+Light Platinum =
+R.O.W.E =
 Radical Red
-Renegade Platinum = 2 versões 
-Unbound = 3 versões 
+Renegade Platinum = 
+Unbound = Missões Secundárias 
 Verde Musgo = 2
+
+Lv 100 +
+-Blue Kaizo = Lv 115 ( vc 100 )
+-Crystal Kaizo Lv 120 ( vc 100 )
+-Enhanced Emerald = Lv 100+
+
+-Ash Gray = Lv 40
+-Blue Kaizo = Lv 115
+-Cloud White = Lv 57
+-Crystal Kaizo Lv 120
+-Dark Realm = Lv 80
+-Enhanced Emerald = Lv 100+
+-Glazed = Lv 75 dps 79
+-Light Platinum = Lv 73
+-Mega Power = Lv 88
+-Purple = Lv 100
+-Resolute = Lv 93
+-Shiny Gold Sigma = Lv 94
+-SW SH Ultimate = Lv 50
+-Theta Emerald = Lv 50
+-Victory Fire = Lv 75
+-Zeta = Lv 70
+
 Let's Go Lugia = TMs Infinitas, Exp All
 Naruto Advanced
 Quetzal = Pokémon seguindo, 40 inicias
