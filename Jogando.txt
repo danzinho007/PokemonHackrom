@@ -54,7 +54,7 @@ Blue = Versão que editei com programas. OK
 Blue(patched) = Versão ??
 Brown 2014 Final = Daorinha, mapa enorme a toa. OK
 C
-Coral Version 2022 Demo v1.2 = bugou !!!
+Coral Version 2022 Demo v1.2 = bugou, pesquisei e nãoa chei solução 
 Crystal Clear Standard 2.5.6 = Travado. OK
 Dark Cry Fix Alpha 2.6.7 = Tela piscando a noite na batalha, mapa bonito, começou meio sem noção pois tem matinho e depois caverna, level alto no começo, gostei do sistema de dia e noite e o jogo começa rápido. !!! OK
 Dark Violet Final 2018 V1 = Selo !!!
@@ -90,6 +90,7 @@ U
 U_B shin pokemon = Versão Shiny. OK
 U-FR_Pokemon_Ice_Blue_2.0 = Mapa muito longo ( verificar ) OK
 V
+Vega Fairy Edition EX 1.3 = Boa !!!
 Verde Musgo = Legalzinho
 
 ---------------------------
