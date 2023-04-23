@@ -24,16 +24,21 @@ Roubar Pokémon = 1
 TMs Infinitos = 1
 Wonder Trade  =
 
-História Própria com novo mapa :
-Brown
-Coral
-Dark Violet
-Flora Sky
-Gaia 
-Light Platinum
-Sweet = Novos tipos
-Sword Shield
-Verde Musgo
+História Própria com nova região  :
+1-Black White 3 Genesis
+2-Brown 2014 Final
+3-Coral Island
+4-Dark Violet
+5-Eclipse
+6-Flora Sky
+7-Gaia
+8-Gold 97 Reforged
+9-Light Platinum
+9-Quartz
+10-Sweet
+11-Sword Shield
+12-Vega
+13-Verde Musgo
 
 Competitivo : 
 Battle
@@ -67,6 +72,13 @@ Lv 100 +
 -Crystal Kaizo Lv 120 ( vc 100 )
 -Enhanced Emerald = Lv 100+
 Outras : 
+-Dark Worship 
+-Emerald Kaizo
+-Hyper Emerald Ash Version
+-Radical Red
+-Yellow Kaizo 
+-Yellow Supreme
+
 -Ash Gray = Lv 40
 -Blue Kaizo = Lv 115
 -Cloud White = Lv 57
@@ -88,12 +100,30 @@ Outras :
 -Victory Fire = Lv 75
 -Zeta = Lv 70
 
+---De boa :
+-Ash Gray 
+-Cloud White 
+-Liquid Crystal 
+-Theta Emerald 
+-Verde Musgo 
+
 ---Mega Evolução---
 -Cloud White = 32
 -Delta Emerald = Mega evolui por level
 -Gaia = 17
 -Mega Power = 
 -Resolute = 
+
+Rota :
+Caterpie
+Charmander
+Lillipup
+Pidgey
+Rattata
+Weedle
+Zigzagoon 
+Zigzagoon alola
+Zorua
 
 Let's Go Lugia = TMs Infinitas, Exp All
 Naruto Advanced
