@@ -42,6 +42,7 @@ Lv 100 +
 -Dark Realm = Lv 80
 -Enhanced Emerald = Lv 100+
 -Glazed = Lv 75 dps 79
+-Hyper Emerald = Lv 100
 -Light Platinum = Lv 73
 -Mega Power = Lv 88
 -Purple = Lv 100
