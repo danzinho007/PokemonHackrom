@@ -1,40 +1,72 @@
 ﻿Jogando atualmente :
 
-Mecânicas :
-Dexnav 
-Exp XY 
-HM não necessário
-Mundo aberto 
-Missões Secundárias 
+Mecânicas Hackrom :
+Dexnav = 1
+Dynamax
+Exp All = 1
+Exp XY = 1
+Fakemon = 1
+Gigantamax
+HM não necessário = 1
+Level Cap = É quando você precisa vencer o ginásio pra continuar evoluíndo
+Level igual = É hackrom que o pokémon do mato ou treinador é igual ao eu maior
+Level Treinador = É hackrom que o level do treinador é igual ao seu maior
+Mapa novo = Mapa novo porém modificado
+Mega Evolução = 1
+Mundo aberto = 1
+Missões Secundárias = 1
 New Game +
-Raid
-TMs Infinitos
+Pokémon Seguindo = 1
+Raid = 
+Randomizer = 
+Região Nova = To falando Mapa do Mundo 
+Roubar Pokémon = 1
+TMs Infinitos = 1
+Wonder Trade  =
+
+História Própria com novo mapa :
+Brown
+Coral
+Dark Violet
+Flora Sky
+Gaia 
+Light Platinum
+Sweet = Novos tipos
+Sword Shield
+Verde Musgo
+
+Competitivo : 
+Battle
+God of Arena
+Ice Blue = Não 
+Indigo Power Tournament
+World Tournament
 
 Famosinhas :
-
 Blazing Emerald 
-Blue Kaizo = Lv até 115 ( vc 100 )
-Brown = 2
+Blue Kaizo 
+Brown
 Crystal Clear 
-Crystal Kaizo = Lv até 120 ( vc 100 )
+Crystal Kaizo 
 Dark Rising =
 Dark Worship
-Emerald Kaizo = 
-Enhanced Emerald = Lv Acima de 100
+Emerald Kaizo
+Enhanced Emerald
 Flora Sky 
 Hyper Emerald = Hard 5.3 
 Light Platinum =
 R.O.W.E =
 Radical Red
 Renegade Platinum = 
-Unbound = Missões Secundárias 
-Verde Musgo = 2
+Unbound 
+Verde Musgo = 
 
+Difíceis :
 Lv 100 +
 -Blue Kaizo = Lv 115 ( vc 100 )
 -Crystal Kaizo Lv 120 ( vc 100 )
 -Enhanced Emerald = Lv 100+
-
+Outras : 
 -Ash Gray = Lv 40
 -Blue Kaizo = Lv 115
 -Cloud White = Lv 57
@@ -44,6 +76,7 @@ Lv 100 +
 -Glazed = Lv 75 dps 79
 -Hyper Emerald = Lv 100
 -Light Platinum = Lv 73
+-Liquid Crystal = Lv 49
 -Mega Power = Lv 88
 -Purple = Lv 100
 -Resolute = Lv 93
