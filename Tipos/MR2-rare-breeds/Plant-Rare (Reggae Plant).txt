@@ -1,0 +1,327 @@
+[CloneCD] 
+Version=3
+
+[Disc] 
+TocEntries=17 
+Sessions=1 
+DataTracksScrambled=0 
+CDTextLength=0 
+
+[Session 1] 
+PreGapMode=0 
+PreGapSubC=0 
+
+[Entry 0] 
+Session=1 
+Point=0xa0 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=1 
+PSec=0 
+PFrame=0 
+PLBA=4350 
+
+[Entry 1] 
+Session=1 
+Point=0xa1 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=14 
+PSec=0 
+PFrame=0 
+PLBA=62850 
+
+[Entry 2] 
+Session=1 
+Point=0xa2 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=62 
+PSec=20 
+PFrame=62 
+PLBA=280412 
+
+[Entry 3] 
+Session=1 
+Point=0x01 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=0 
+PSec=2 
+PFrame=32 
+PLBA=32 
+
+[Entry 4] 
+Session=1 
+Point=0x02 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=3 
+PSec=54 
+PFrame=60 
+PLBA=17460 
+
+[Entry 5] 
+Session=1 
+Point=0x03 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=11 
+PSec=2 
+PFrame=17 
+PLBA=49517 
+
+[Entry 6] 
+Session=1 
+Point=0x04 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=14 
+PSec=57 
+PFrame=27 
+PLBA=67152 
+
+[Entry 7] 
+Session=1 
+Point=0x05 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=17 
+PSec=57 
+PFrame=35 
+PLBA=80660 
+
+[Entry 8] 
+Session=1 
+Point=0x06 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=22 
+PSec=14 
+PFrame=62 
+PLBA=99962 
+
+[Entry 9] 
+Session=1 
+Point=0x07 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=25 
+PSec=31 
+PFrame=45 
+PLBA=114720 
+
+[Entry 10] 
+Session=1 
+Point=0x08 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=31 
+PSec=5 
+PFrame=12 
+PLBA=139737 
+
+[Entry 11] 
+Session=1 
+Point=0x09 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=33 
+PSec=56 
+PFrame=55 
+PLBA=152605 
+
+[Entry 12] 
+Session=1 
+Point=0x0a 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=38 
+PSec=37 
+PFrame=70 
+PLBA=173695 
+
+[Entry 13] 
+Session=1 
+Point=0x0b 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=42 
+PSec=53 
+PFrame=50 
+PLBA=192875 
+
+[Entry 14] 
+Session=1 
+Point=0x0c 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=46 
+PSec=42 
+PFrame=72 
+PLBA=210072 
+
+[Entry 15] 
+Session=1 
+Point=0x0d 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=51 
+PSec=14 
+PFrame=37 
+PLBA=230437 
+
+[Entry 16] 
+Session=1 
+Point=0x0e 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=58 
+PSec=49 
+PFrame=52 
+PLBA=264577
+
+[TRACK 1]
+MODE=0
+INDEX 1=32 
+[TRACK 2]
+MODE=0
+INDEX 1=17460 
+[TRACK 3]
+MODE=0
+INDEX 1=49517 
+[TRACK 4]
+MODE=0
+INDEX 1=67152 
+[TRACK 5]
+MODE=0
+INDEX 1=80660 
+[TRACK 6]
+MODE=0
+INDEX 1=99962 
+[TRACK 7]
+MODE=0
+INDEX 1=114720 
+[TRACK 8]
+MODE=0
+INDEX 1=139737 
+[TRACK 9]
+MODE=0
+INDEX 1=152605 
+[TRACK 10]
+MODE=0
+INDEX 1=173695 
+[TRACK 11]
+MODE=0
+INDEX 1=192875 
+[TRACK 12]
+MODE=0
+INDEX 1=210072 
+[TRACK 13]
+MODE=0
+INDEX 1=230437 
+[TRACK 14]
+MODE=0
+INDEX 1=264577

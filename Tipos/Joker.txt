@@ -1,0 +1,364 @@
+[CloneCD] 
+Version=2 
+
+[Disc] 
+TocEntries=17 
+Sessions=1 
+DataTracksScrambled=0 
+CDTextLength=1386 
+
+[CDText] 
+Entries=77 
+Entry 0=80 00 00 00 53 50 41 57 4e 20 54 48 45 20 41 4c 
+Entry 1=80 00 01 0c 42 55 4d 00 28 43 41 4e 27 54 20 59 
+Entry 2=80 01 02 08 4f 55 29 20 54 52 49 50 20 4c 49 4b 
+Entry 3=80 01 03 0f 45 20 49 20 44 4f 00 4c 4f 4e 47 20 
+Entry 4=80 02 04 05 48 41 52 44 20 52 4f 41 44 20 4f 55 
+Entry 5=80 02 05 0f 54 20 4f 46 20 48 45 4c 4c 00 53 41 
+Entry 6=80 03 06 02 54 41 4e 00 4b 49 43 4b 20 54 48 45 
+Entry 7=80 04 07 08 20 50 2e 41 2e 00 54 49 4e 59 20 52 
+Entry 8=80 05 08 06 55 42 42 45 52 42 41 4e 44 00 46 4f 
+Entry 9=80 06 09 02 52 20 57 48 4f 4d 20 54 48 45 20 42 
+Entry 10=80 06 0a 0e 45 4c 4c 20 54 4f 4c 4c 53 20 28 54 
+Entry 11=80 06 0b 0f 48 45 20 49 52 4f 4e 59 20 4f 46 20 
+Entry 12=80 06 0c 0f 49 54 20 41 4c 4c 29 00 54 4f 52 4e 
+Entry 13=80 07 0d 04 20 41 50 41 52 54 00 53 4b 49 4e 20 
+Entry 14=80 08 0e 05 55 50 20 50 49 4e 20 55 50 00 4f 4e 
+Entry 15=80 09 0f 02 45 20 4d 41 4e 20 41 52 4d 59 00 53 
+Entry 16=80 0a 10 01 50 41 57 4e 00 54 2d 34 20 53 54 52 
+Entry 17=80 0b 11 07 41 49 4e 00 46 41 4d 49 4c 49 41 52 
+Entry 18=80 0c 12 08 00 4e 4f 20 52 45 4d 4f 52 53 45 20 
+Entry 19=80 0d 13 0b 28 49 20 57 41 4e 4e 41 20 44 49 45 
+Entry 20=80 0d 14 0f 29 00 41 20 50 4c 41 4e 45 20 53 43 
+Entry 21=80 0e 15 0a 52 41 50 45 44 20 49 54 53 20 42 45 
+Entry 22=80 0e 16 0f 4c 4c 59 20 4f 4e 20 41 20 53 4f 4f 
+Entry 23=80 0e 17 0f 54 59 20 59 45 4c 4c 4f 57 20 4d 4f 
+Entry 24=80 0e 18 0f 4f 4e 00 00 00 00 00 00 00 00 00 00 
+Entry 25=81 00 19 00 56 41 52 49 4f 55 53 00 46 69 6c 74 
+Entry 26=81 01 1a 04 65 72 20 2c 20 54 68 65 20 43 72 79 
+Entry 27=81 01 1b 0f 73 74 61 6c 20 4d 65 74 68 6f 64 00 
+Entry 28=81 02 1c 00 4d 61 72 69 6c 79 6e 20 4d 61 6e 73 
+Entry 29=81 02 1d 0c 6f 6e 20 2c 20 53 6e 65 61 6b 65 72 
+Entry 30=81 02 1e 0f 20 50 69 6d 70 73 00 4f 72 62 69 74 
+Entry 31=81 03 1f 05 61 6c 20 2c 20 4b 69 72 6b 20 48 61 
+Entry 32=81 03 20 0f 6d 6d 65 74 74 00 4b 6f 72 6e 20 2c 
+Entry 33=81 04 21 06 20 44 75 73 74 20 42 72 6f 74 68 65 
+Entry 34=81 04 22 0f 72 73 00 42 75 74 74 68 6f 6c 65 20 
+Entry 35=81 05 23 09 53 75 72 66 65 72 73 20 2c 20 4d 6f 
+Entry 36=81 05 24 0f 62 79 00 4d 65 74 61 6c 6c 69 63 61 
+Entry 37=81 06 25 09 20 2c 20 44 4a 20 53 70 6f 6f 6b 79 
+Entry 38=81 06 26 0f 00 53 74 61 62 62 69 6e 67 20 57 65 
+Entry 39=81 07 27 0b 73 74 77 61 72 64 20 2c 20 57 69 6e 
+Entry 40=81 07 28 0f 6b 00 4d 61 6e 73 75 6e 20 2c 20 38 
+Entry 41=81 08 29 0a 30 38 20 53 74 61 74 65 00 50 72 6f 
+Entry 42=81 09 2a 03 64 69 67 79 20 2c 20 54 6f 6d 20 4d 
+Entry 43=81 09 2b 0f 6f 72 65 6c 6c 6f 00 53 69 6c 76 65 
+Entry 44=81 0a 2c 05 72 63 68 61 69 72 20 2c 20 56 69 74 
+Entry 45=81 0a 2d 0f 72 6f 00 48 65 6e 72 79 20 52 6f 6c 
+Entry 46=81 0b 2e 09 6c 69 6e 73 20 2c 20 47 6f 6c 64 69 
+Entry 47=81 0b 2f 0f 65 00 49 6e 63 75 62 75 73 20 2c 20 
+Entry 48=81 0c 30 0a 44 2e 4a 2e 20 47 72 65 79 62 6f 79 
+Entry 49=81 0c 31 0f 00 53 6c 61 79 65 72 20 2c 20 41 74 
+Entry 50=81 0d 32 0b 61 72 69 20 54 65 65 6e 61 67 65 20 
+Entry 51=81 0d 33 0f 52 69 6f 74 00 53 6f 75 6c 20 43 6f 
+Entry 52=81 0e 34 07 75 67 68 69 6e 67 20 2c 20 52 6f 6e 
+Entry 53=81 0e 35 0f 69 20 53 69 7a 65 00 00 00 00 00 00 
+Entry 54=86 00 36 00 45 4b 36 38 34 39 34 00 00 00 00 00 
+Entry 55=8e 00 37 00 00 55 53 2d 53 4d 31 2d 39 37 2d 30 
+Entry 56=8e 01 38 0b 31 30 39 33 00 55 53 2d 53 4d 31 2d 
+Entry 57=8e 02 39 07 39 37 2d 30 31 32 39 38 00 55 53 2d 
+Entry 58=8e 03 3a 03 53 4d 31 2d 39 37 2d 30 31 33 30 32 
+Entry 59=8e 03 3b 0f 00 55 53 2d 53 4d 31 2d 39 37 2d 30 
+Entry 60=8e 04 3c 0b 31 32 39 36 00 55 53 2d 53 4d 31 2d 
+Entry 61=8e 05 3d 07 39 37 2d 30 31 33 30 30 00 55 53 2d 
+Entry 62=8e 06 3e 03 53 4d 31 2d 39 37 2d 30 31 33 30 39 
+Entry 63=8e 06 3f 0f 00 55 53 2d 53 4d 31 2d 39 37 2d 30 
+Entry 64=8e 07 40 0b 31 33 30 33 00 55 53 2d 53 4d 31 2d 
+Entry 65=8e 08 41 07 39 37 2d 30 31 33 30 34 00 55 53 2d 
+Entry 66=8e 09 42 03 53 4d 31 2d 39 37 2d 30 31 33 31 30 
+Entry 67=8e 09 43 0f 00 55 53 2d 53 4d 31 2d 39 37 2d 30 
+Entry 68=8e 0a 44 0b 31 33 30 38 00 55 53 2d 53 4d 31 2d 
+Entry 69=8e 0b 45 07 39 37 2d 30 31 32 39 34 00 55 53 2d 
+Entry 70=8e 0c 46 03 53 4d 31 2d 39 37 2d 30 31 33 30 36 
+Entry 71=8e 0c 47 0f 00 55 53 2d 53 4d 31 2d 39 37 2d 30 
+Entry 72=8e 0d 48 0b 31 33 30 35 00 55 53 2d 53 4d 31 2d 
+Entry 73=8e 0e 49 07 39 37 2d 30 31 32 39 35 00 00 00 00 
+Entry 74=8f 00 4a 00 01 01 0e 00 19 1d 00 00 00 00 01 00 
+Entry 75=8f 01 4b 00 00 00 00 00 00 00 13 03 4c 00 00 00 
+Entry 76=8f 02 4c 00 00 00 00 00 09 00 00 00 00 00 00 00 
+
+[Session 1] 
+PreGapMode=0 
+PreGapSubC=0 
+
+[Entry 0] 
+Session=1 
+Point=0xa0 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=1 
+PSec=0 
+PFrame=0 
+PLBA=4350 
+
+[Entry 1] 
+Session=1 
+Point=0xa1 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=14 
+PSec=0 
+PFrame=0 
+PLBA=62850 
+
+[Entry 2] 
+Session=1 
+Point=0xa2 
+ADR=0x01 
+Control=0x04 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=62 
+PSec=18 
+PFrame=17 
+PLBA=280217 
+
+[Entry 3] 
+Session=1 
+Point=0x01 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=0 
+PSec=2 
+PFrame=0 
+PLBA=0 
+
+[Entry 4] 
+Session=1 
+Point=0x02 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=4 
+PSec=30 
+PFrame=20 
+PLBA=20120 
+
+[Entry 5] 
+Session=1 
+Point=0x03 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=8 
+PSec=51 
+PFrame=67 
+PLBA=39742 
+
+[Entry 6] 
+Session=1 
+Point=0x04 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=12 
+PSec=37 
+PFrame=55 
+PLBA=56680 
+
+[Entry 7] 
+Session=1 
+Point=0x05 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=15 
+PSec=59 
+PFrame=35 
+PLBA=71810 
+
+[Entry 8] 
+Session=1 
+Point=0x06 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=20 
+PSec=11 
+PFrame=72 
+PLBA=90747 
+
+[Entry 9] 
+Session=1 
+Point=0x07 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=24 
+PSec=51 
+PFrame=15 
+PLBA=111690 
+
+[Entry 10] 
+Session=1 
+Point=0x08 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=29 
+PSec=44 
+PFrame=20 
+PLBA=133670 
+
+[Entry 11] 
+Session=1 
+Point=0x09 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=35 
+PSec=11 
+PFrame=52 
+PLBA=158227 
+
+[Entry 12] 
+Session=1 
+Point=0x0a 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=39 
+PSec=25 
+PFrame=72 
+PLBA=177297 
+
+[Entry 13] 
+Session=1 
+Point=0x0b 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=43 
+PSec=54 
+PFrame=42 
+PLBA=197442 
+
+[Entry 14] 
+Session=1 
+Point=0x0c 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=49 
+PSec=13 
+PFrame=60 
+PLBA=221385 
+
+[Entry 15] 
+Session=1 
+Point=0x0d 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=52 
+PSec=35 
+PFrame=67 
+PLBA=236542 
+
+[Entry 16] 
+Session=1 
+Point=0x0e 
+ADR=0x01 
+Control=0x00 
+TrackNo=0 
+AMin=0 
+ASec=0 
+AFrame=0 
+ALBA=-150 
+Zero=0 
+PMin=56 
+PSec=52 
+PFrame=10 
+PLBA=255760

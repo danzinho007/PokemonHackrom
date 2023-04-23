@@ -1,0 +1,150 @@
+Please give original credit to this link and the following users if posting elsewhere:
+https://projectpokemon.org/home/files/file/2575-every-npc-in-game-trade-and-gift-pokémon/
+
+@Taargus Taargus - For providing the PK5s for all languages of B2W2 Yancy and Curtis trades, and also the Korean Black 2 Petilil!
+@RobustRabbit - For providing CHT SM and USUM trades!
+@ViolentDarkBrown - For providing all languages of trades in Let's Go, Pikachu/Eevee, Sword/Shield, and Brilliant Diamond/Shining Pearl!
+
+Thanks!
+
+
+
+Legend:
+^ = RNGReporter: https://projectpokemon.org/home/files/file/2030-rng-reporter/
+* = PKHeX's Encounter Database: Open PKHeX->Tools->Data->Encounter Database (or press Ctrl+N)
+
+
+
+Generation 1:
+
+-All trades and gifts in this Generation have random IVs, Gender, and a Shiny possibility.
+-Trainer IDs are random for in-game trades.
+-If importing a French, Italian, or Spanish NPC trade Pokémon to generation 7+ via PKHeX, be sure to set the language tag to the folder you took it from and set the OT name to the following after doing so:
+
+French: Dresseur
+Italian: Allenatore
+Spanish: Entrenador
+
+-Nothing in the Unused folder can legally be transferred to generation 7+ (Beedrill and Pidgeot can be legal when sent to said generation(s), but not with French, Italian, or Spanish OTs as shown above).
+
+Generation 2:
+
+-Spearow, Shuckle, and the Stadium 2 gifts have random IVs, Gender, and a Shiny possibility.
+-For the Stadium 2 Farfetch'd, you have to remove Baton Pass in order for it to be legal upon transferring to generation 7+; Gligar can transfer with Earthquake retained on its moveset.
+-Due to the Korean GS VC titles being unable to connect with other international copies (the original GBC carts reportedly can), the lowest legitimate levels possible for these VC titles are 30 for Rhydon, and 15 for Rapidash (included and marked).
+-Remove the Mail Held Item from Spearow or delete it in-game if importing it into its native generation games as the Mail data will become corrupted.
+
+Generation 3:
+
+-With the exception of Nidoran(F), Nidoran(M), Nidorina, Nidorino, and Italian Jynx, you can change the Origin Game of any Ruby/Sapphire and FireRed/LeafGreen trades to their counterpart.
+-You can change the Origin Game of the Pokémon Box gifts to Ruby, Sapphire, FireRed, LeafGreeen, or Emerald.
+-The Colosseum, Box, and XD trades/gifts all have random Natures and IVs, so you can use RNGReporter^ to create a valid Colo/XD PID-IV algorithm that will change them to your desire, or you can use PKHeX's Encounter Database* to generate one.
+-XD in-game trades have a Shiny possibility.
+-Channel Jirachi also have random Natures and either OT gender; you can use PKHeX's Encounter Database* to generate one, or RNGReporter^ to try and find a valid PID for your specification.
+-You can change the Origin Game of WISHMKR Jirachi to Ruby, Sapphire, FireRed, LeafGreen, or Emerald.
+-Anything in the Colosseum Unreleased folders is not meant to be transferred to generation 6+.
+-Remove the Mail Held Items from Corsola, Skitty, Jynx, Meowth, Horsea, and Plusle or delete them in-game if importing any of them into their native generation games as their Mail data will become corrupted.
+
+Generation 4:
+
+-You can change the Origin Game of the Diamond/Pearl and HeartGold/SoulSilver trades to their counterpart.
+-You can alter the IVs for any of the Pokémon Ranch trades (and also the PID, Nature, and Ability of (1) or (2) for Phione and Mew only).
+-Remove the Mail Held Item from Spearow or delete it in-game if importing it into its native generation games as the Mail data will become corrupted.
+
+Generation 5:
+
+-With the exception of Cottonee, Petilil, and Basculin, you can change any of the Pokémon's Origin Game of the Black/White and Black 2/White 2 trades to their counterpart.
+-The PIDs of B2W2 trades are random.
+-The PIDs, IVs, Gender, and Nature are random with the Yancy and Curtis trades.
+-N's Pokémon except Zorua can be in any Poké Ball type given it's valid.
+
+Generation 6:
+
+-You can change any X/Y and OR/AS trades' Origin Game to their counterpart.
+-You can change the Geolocation data in the Main tab and in the Memories tab (Geolocation data in Memories will be deleted if transferred to generation 7+).
+-You can change the Memory Feeling text in the notOT tab.
+-You can reroll any PIDs and Encryption Constants.
+-With the exception of Chespin, Fennekin, Froakie, and Ralts, you can alter any of the Pokémon's IVs, but you MUST leave the 31 IV for the specific stats of the following:
+
+Farfetch'd = Speed
+Steelix = Defense
+Bisharp = Attack
+Magikarp = Attack and Sp. Attack
+Makuhita = Attack
+Skitty = Speed
+Corsola = HP and Sp. Defense
+
+Generation 7:
+
+-You can change any Sun/Moon and Ultra Sun/Ultra Moon trades' Origin Game to their counterpart.
+-You can change the Geolocation data in the Main tab.
+-You can reroll any PIDs and Encryption Constants.
+-You can alter any of the Pokémon's IVs, but you MUST leave the 31 IV for the specific stats of the following:
+
+Machop = Attack
+Bounsweet = Attack
+Poliwhirl = HP
+Happiny = Sp. Attack
+Graveler = Defense
+Steenee = Sp. Defense
+Talonflame = Speed
+Hawlucha = Attack
+Noibat = Sp. Attack
+Barboach = HP
+Arbok = Defense
+Trevenant = Sp. Defense
+Shellos = Defense
+Tauros = Speed
+
+Let's Go, Pikachu!/Eevee!:
+
+-With the exception of Vulpix, Sandshrew, Meowth, and Grimer, you can change the Origin Game to the counterpart.
+-The PIDs, Nature, Gender, Encryption Constants, and IVs of all the trades are random and they have a Shiny possibility.
+-The base AVs of all trades randomly range the following for each Pokémon's stat:
+
+Rattata = 0-5
+Geodude = 0-5
+Diglett = 0-5
+Sandshrew = 0-5
+Vulpix = 0-5
+Raichu = 0-10
+Marowak = 0-10
+Grimer = 0-10
+Meowth = 0-10
+Exeggutor = 0-15
+
+-The Ability for any of the Pokémon can be either (1) or (2).
+-When altering any of the Pokémon's IVs, you MUST leave the 31 IVs for the specific stats of the following:
+
+Rattata = HP and Attack
+Geodude = HP and Attack
+Diglett = Attack and Speed
+Sandshrew = Attack and Defense
+Vulpix = Sp. Attack and Speed
+Raichu = Sp. Attack and Speed
+Marowak = Attack and Defense
+Grimer = HP and Attack
+Meowth = HP and Speed
+Exeggutor = Attack and Sp. Attack
+
+-Check/re-check the Auto box on the Main tab after making modifications to correct the CP, Height, and Weight values!
+
+Generation 8:
+
+Sword/Shield:
+
+-With the exception of Hatenna, Impidimp, Throh, and Sawk, you can change the Origin Game of the Sword/Shield trades to their counterpart.
+-The PIDs, Encryption Constants, Height, and Weight values are random.
+
+SWSH Expansion Pass #1 - The Isle of Armor:
+
+-These Pokémon are meant to be injected into a Sword or Shield save file that has last saved in-game on update 1.2.0 or higher.
+-With the exception of Farfetch'd and Corsola, you can change the Origin Game between Sword or Shield.
+-The PIDs, Encryption Constants, Gender, Natures, Height, and Weight values are random.
+-All trades have a Shiny possibility.
+-All trades have random IVs and must also have at least 3 flawless IVs.
+-Weezing can have any Ability. Alolan Exeggutor and Alolan Marowak initially have Ability (1) or (2).
+
+Brilliant Diamond/Shining Pearl:
+
+-You can change between Brilliant Diamond or Shining Pearl for the Origin Game.

@@ -1,23 +1,38 @@
 Hackrom
 
 Sites :
-https://www.dspoketuber.com/
-https://luckcloverhackrom.blogspot.com/
+https://www.dspoketuber.com/ = 20 Abril
+https://luckcloverhackrom.blogspot.com/ = 23 Março 
+https://pokebat.net/ = 21 Abril 
+https://www.pokeharbor.com/ = ???
+https://pokemonromhacks.com/ = ???
+https://pokesharing.blogspot.com/ = ???
+
+Outros :
 https://nesninja.com/search?page=2&q=pokemon
 https://www.pokecommunity.com/forumdisplay.php?fn=progressing-hacks
 https://www.pokecommunity.com/forumdisplay.php?fn=sideshow-showcase
-https://www.pokeharbor.com/category/roms/
-https://pokesharing.blogspot.com/
 https://projectpokemon.org/home/files/category/199-rom-hacks/?sortby=file_last_comment&sortdirection=desc
+
+Chinês :
+https://www.anfensi.com/down/348314.html = Jogos pra download android
+https://www.bilibili.com/video/BV1yA4y1D735/ = Youtuber Chinês
+https://www.clinicmed.net/game/11750.html = Jogos pra download android
+http://www.downcc.com/soft/94822.html = Jogos pra download
+https://game.pokefans.cn/ = Jogos pra download
+http://www.gbarom.cn/tag/kdyg = Vários pra download, mas precisa confirmar número 
+http://www.j9p.com/game/540158.html = Vários jogos pra download
+http://pc.kuai8.com/game/gbajlbkmhjwzb/ = Blog com download, precisa baixar programa 
+https://www.taobao.com/list/product/gba%E7%B2%BE%E7%81%B5.htm? = Site de vendas 
+https://tao.hooos.com/goods_563549807750.html = Site de vendas
+http://wpwapp.com/gba/ = Jogos pra download
 
 Ver 
 https://pokemonhackromclub.forumcommunity.net/?f=8882079&st=50
 https://ia801902.us.archive.org/view_archive.php?archive=/16/items/ultimate-pokemon/Ultimate%20Pokemon.zip
 https://nesninja.com/game/gbx/pokemon-red-version?rom=Pokemon%20Girl%20V1.0%20%28Red%20Hack%29%20%5BS%5D.gb
 
-https://pokemonromhacks.com/all/
 https://bboysonic2010.jimdofree.com/downloadz/h-a-c-k-z/pokemon-hackz/
-https://pokebat.net/category/gba-hacks/page/32
 https://chinesetranslationsandromhacks.blogspot.com/search/label/GB
 
 https://game.pokefans.cn/?page_id=7
@@ -230,6 +245,339 @@ Pokémon Prism: Winner of HotY 2007
 Pokémon Liquid Ocean: Winner of HotY 2006
 Pokémon Naranja: Winner of HotY 2005
 Pokémon Ice: Winner of HotY 2004
+
+[GBA]登峰造极beta3 
+[GBA]Sword/Shield Ultimate
+[GBA]R.O.W.E 1.8.3
+[GBA]韵文
+[GBA]神秘大宅 
+[GBA]牧场物语 
+[GBA]水银Azoth Project Demo 0.4 
+[GBA]永恒秩序beta0.0.1
+[GBA]枷锁beta0.3.1
+[GBA]不归之殇v1.3（试玩版）
+[GBA]宝可岛2-新领域
+[GBA]黑暗战舰
+[GBA]宝可岛1-黑暗崛起
+[GBA]青苔四周目
+[GBA]Crown
+[GBA]最后的火红4.0.3
+[GBA]盖亚3.2
+[GBA]命运红宝石1 统治传说
+[GBA]Radical Red v3.1
+[GBA]水银对战塔版v2.2
+[GBA]天空掌权者2.1.2
+[GBA]梦想
+[GBA]织女星EX 1.3
+[GBA]参宿六
+[GBA]蓝星2
+[GBA]皓日苍穹&皎月星河
+[GBA]Unbound2.1.0
+[GBA]Unbound Battle Frontier v2.0.1
+[GBA]生命1.9
+[GBA]火金1.3
+[GBA]口袋妖怪游戏王
+[GBA]解放2.0.3.2
+[GBA]究极绿宝石V.4
+[GBA]燃烧绿宝石
+[GBA]织女星妖精版1.3
+[GBA]龙珠V8-超激战
+[GBA]Voyager0.3.1
+[GBA]神奥编年史0.75
+[GBA]Sovereign of the Skies 2.1.2
+[GBA]特别篇绿
+[GBA]水银Demo0.5
+[GBA]小智丰缘篇
+[GBA]满充的逆袭
+[GBA]剑盾10.2
+[GBA]小智城都冒险
+[GBA]解放V1
+[GBA]Sors v1.3
+[GBA]幻之宝石beta0.131
+[GBA]Mega Power 5.62
+[GBA]Fused Dimensions 1.6
+[GBA]解放对战塔版1.4.5.1
+[GBA]战斗
+[GBA]激进红2.3a
+[GBA]邪神降临2.0
+[GBA]骑拉帝纳的传说 汉化尝鲜版
+[GBA]Resolute 2.83
+[GBA]夜冥泣啼：骑拉帝纳的传说2.67
+[GBA]仲夏夜之梦Beta0.1
+[GBA]Darkfire 2.0.5
+[GBA]Giratina’s Legend 1.0.2
+[GBA]The Last Fire Red V4.0.3
+ 2021年2月15日
+ 114
+[GBA]萌娘火红
+部分汉化
+[GBA]萌娘火红
+ 2021年1月9日
+ 601
+[GBA]赭色
+完全汉化
+[GBA]赭色
+ 2021年1月1日
+ 453
+[GBA]去吧皮卡丘/伊布6.0
+完全汉化
+[GBA]去吧皮卡丘/伊布6.0
+ 2020年11月30日
+ 406
+[GBA]嗨科盟
+国内游戏
+[GBA]嗨科盟
+ 2020年11月28日
+ 272
+[GBA]赤之篇章15.5扩展Fixc修复版
+完全汉化
+[GBA]赤之篇章15.5扩展Fixc修复版
+ 2020年11月15日
+ 1331
+[GBA]釉色数码2.3
+国内游戏
+[GBA]釉色数码2.3
+ 2020年10月17日
+ 292
+[GBA]去吧皮卡丘/伊布5.0.1
+完全汉化
+[GBA]去吧皮卡丘/伊布5.0.1
+ 2020年10月6日
+ 862
+[GBA]Let’s Go Pikachu/Eevee 5.0
+外文游戏
+[GBA]Let’s Go Pikachu/Eevee 5.0
+ 2020年10月2日
+ 78
+[GBA]火箭队
+部分汉化
+[GBA]火箭队
+ 2020年10月1日
+ 324
+[GBA]Adventure Red Chapter 15&EX
+外文游戏
+[GBA]Adventure Red Chapter 15&EX
+ 2020年9月29日
+ 33
+[GBA]金黄-体验版v2
+部分汉化
+[GBA]金黄-体验版v2
+ 2020年9月20日
+ 63
+[GBA]零世界beta0.3
+国内游戏
+[GBA]零世界beta0.3
+ 2020年8月1日
+ 274
+[GBA]去吧洛奇亚
+完全汉化
+[GBA]去吧洛奇亚
+ 2020年7月18日
+ 275
+[GBA]橘子群岛5.0
+完全汉化
+[GBA]橘子群岛5.0
+ 2020年6月12日
+ 104
+[GBA]无名3.43
+完全汉化
+[GBA]无名3.43
+ 2020年5月21日
+ 263
+[GBA]Light Platinum 2.0
+外文游戏
+[GBA]Light Platinum 2.0
+ 2020年4月26日
+ 122
+[GBA]鸭白抢先体验版v0.11
+国内游戏
+[GBA]鸭白抢先体验版v0.11
+ 2020年4月3日
+ 69
+[GBA]Glazed8.6.3
+外文游戏
+[GBA]Glazed8.6.3
+ 2019年11月1日
+ 31
+[GBA]究极绿宝石lV小智版
+国内游戏
+[GBA]究极绿宝石lV小智版
+ 2019年10月13日
+ 1009
+[GBA]究极绿宝石IV
+国内游戏
+[GBA]究极绿宝石IV
+ 2019年7月31日
+ 407
+[GBA]暗古神坛传说8.0
+国内游戏
+[GBA]暗古神坛传说8.0
+ 2019年1月26日
+ 103
+[GBA]闪耀金beta5
+完全汉化
+[GBA]闪耀金beta5
+ 2018年1月2日
+ 136
+[GBA]忆梦之巅创世章
+国内游戏
+[GBA]忆梦之巅创世章
+ 2017年8月12日
+ 450
+[GBA]空之花神标准版
+完全汉化
+[GBA]空之花神标准版
+ 2017年8月3日
+ 212
+[GBA]绿宝石721EX
+部分汉化
+[GBA]绿宝石721EX
+ 2017年3月15日
+ 175
+[GBA]特别篇黄
+完全汉化
+[GBA]特别篇黄
+ 2017年1月27日
+ 101
+[GBA]风渺的赋格曲1.61
+国内游戏
+[GBA]风渺的赋格曲1.61
+ 2017年1月16日
+ 154
+[GBA]口袋暴龙
+国内游戏
+[GBA]口袋暴龙
+ 2016年12月31日
+ 117
+[GBA]进击之旅1.22
+国内游戏
+[GBA]进击之旅1.22
+ 2016年12月27日
+ 70
+[GBA]漆黑的魅影5.0EX+
+国内游戏
+[GBA]漆黑的魅影5.0EX+
+ 2016年12月24日
+ 2452
+[GBA]苍穹之印痕0.111
+国内游戏
+[GBA]苍穹之印痕0.111
+ 2016年7月22日
+ 100
+[GBA]命运红宝石四部曲
+外文游戏
+[GBA]命运红宝石四部曲
+ 2016年5月19日
+ 185
+[GBA]织女星
+完全汉化
+[GBA]织女星
+ 2016年5月13日
+ 77
+[GBA]秩序的崩坏
+完全汉化
+[GBA]秩序的崩坏
+ 2016年5月7日
+ 125
+[GBA]蛇纹木
+完全汉化
+[GBA]蛇纹木
+ 2016年4月29日
+ 203
+[GBA]冠军的旅程
+国内游戏
+[GBA]冠军的旅程
+ 2016年4月14日
+ 86
+[GBA]四季之约2.1
+国内游戏
+[GBA]四季之约2.1
+ 2016年3月27日
+ 79
+[GBA]生-死
+国内游戏
+[GBA]生-死
+ 2016年2月5日
+ 48
+[GBA]最强进化3.0
+国内游戏
+[GBA]最强进化3.0
+ 2016年2月3日
+ 222
+[GBA]黑暗升起2
+完全汉化
+[GBA]黑暗升起2
+ 2016年1月22日
+ 95
+[GBA]永恒之沫v3.0.1.9.15
+国内游戏
+[GBA]永恒之沫v3.0.1.9.15
+ 2015年9月15日
+ 348
+[GBA]釉色
+完全汉化
+[GBA]釉色
+ 2015年8月26日
+ 589
+[GBA]空之花神补完版
+完全汉化
+[GBA]空之花神补完版
+ 2015年8月20日
+ 141
+[GBA]银色传说
+完全汉化
+[GBA]银色传说
+ 2015年5月16日
+ 71
+[GBA]特别篇蓝
+部分汉化
+[GBA]特别篇蓝
+ 2015年2月23日
+ 54
+[GBA]梦的光点
+国内游戏
+[GBA]梦的光点
+ 2014年12月7日
+ 171
+[GBA]黑暗升起1
+完全汉化
+[GBA]黑暗升起1
+[GBA]液体水晶
+ 2014年10月19日
+ 102
+[GBA]绿宝石改1.6.4
+国内游戏
+[GBA]绿宝石改1.6.4
+ 2014年4月27日
+ 468
+[GBA]极光石2.5A
+国内游戏
+[GBA]极光石2.5A
+ 2013年12月8日
+ 94
+[GBA]永恒之焱zero·mobius(含其他)
+国内游戏
+[GBA]永恒之焱zero·mobius(含其他)
+ 2013年10月19日
+ 1116
+[GBA]夜之祭灵歌beta1.2
+国内游戏
+[GBA]夜之祭灵歌beta1.2
+ 2013年2月27日
+ 48
+[GBA]漆黑的魅影4.5EX-1.9
+国内游戏
+[GBA]漆黑的魅影4.5EX-1.9
+ 2012年8月20日
+ 108
+[GBA]火红/叶绿
+原版汉化
+[GBA]火红/叶绿
+ 2012年3月25日
+ 1183
+[GBA]绿宝石2011
+原版汉化
+[GBA]绿宝石2011
 
 ---Números / Símbolos 
 -2Awesome Version 

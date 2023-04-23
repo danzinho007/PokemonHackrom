@@ -1,0 +1,80 @@
+[CloneCD] 
+Version=3
+
+[Disc] 
+TocEntries=4 
+Sessions=1 
+DataTracksScrambled=0 
+CDTextLength=0 
+
+[Session 1] 
+PreGapMode=0
+PreGapSubC=0 
+
+[Entry 0] 
+Session=1 
+Point=0xa0 
+ADR=0x01 
+Control=0x00
+TrackNo=0 
+AMin=9 
+ASec=3 
+AFrame=44 
+ALBA=40619 
+Zero=0 
+PMin=1 
+PSec=32 
+PFrame=0 
+PLBA=6750 
+
+[Entry 1] 
+Session=1 
+Point=0xa1 
+ADR=0x01 
+Control=0x00
+TrackNo=0 
+AMin=9 
+ASec=3 
+AFrame=47 
+ALBA=40622 
+Zero=0 
+PMin=1 
+PSec=0 
+PFrame=0 
+PLBA=4350 
+
+[Entry 2] 
+Session=1 
+Point=0xa2 
+ADR=0x01 
+Control=0x00
+TrackNo=0 
+AMin=9 
+ASec=3 
+AFrame=38 
+ALBA=40613 
+Zero=0 
+PMin=66 
+PSec=42 
+PFrame=6 
+PLBA=300006 
+
+[Entry 3] 
+Session=1 
+Point=0x01 
+ADR=0x01 
+Control=0x00
+TrackNo=0 
+AMin=9 
+ASec=0 
+AFrame=16 
+ALBA=40366 
+Zero=0 
+PMin=0 
+PSec=2 
+PFrame=0 
+PLBA=0
+
+[TRACK 1]
+MODE=2
+INDEX 1=0

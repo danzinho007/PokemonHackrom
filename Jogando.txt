@@ -83,8 +83,17 @@ Outras :
 -Shiny Gold Sigma = Lv 94
 -SW SH Ultimate = Lv 50
 -Theta Emerald = Lv 50
+-Unbound = Lv 87
+-Verde Musgo = Lv 60 
 -Victory Fire = Lv 75
 -Zeta = Lv 70
+
+---Mega Evolução---
+-Cloud White = 32
+-Delta Emerald = Mega evolui por level
+-Gaia = 17
+-Mega Power = 
+-Resolute = 
 
 Let's Go Lugia = TMs Infinitas, Exp All
 Naruto Advanced
@@ -110,20 +119,42 @@ Pokémon Rose Version [HACK]
 Pokémon Super Fire Red Traduzido PT-BR – Exclusivo
 Pokémon Thunder Emblem [HACK-ROM]
 
+
+---GB :
+-Brown 2014 Final = Daorinha, mapa enorme a toa. OK
+-Perfect Red = Versão melhorada da IA com Inicias em campo e Fósseis / TMs compráveis, movimentos da versão amarela presente ( - Ghost agora lida super eficazmente em pokémon psíquico (todos os tipos corrigidos) !!!
+-Purple = Parei no 1° ginásio
+-Rocket - Jessie Version V1.20 = Só sprites que muda
+-Yellow Kaizo Beta 0.4 = Mapa modificado e bem mais Difícil !!!
+
+---GBC :
+bw3genesis = !!!
+Crystal Clear Standard 2.5.6 = Travado. OK
+God of Arena v180715 = Focado em Batalha 3x3 Lv 50. !!! 
+
+---GBA :
+chinesa = daora !!!
+Accept Defeat V2 = Pesquisar !!!
+advanced-v2 = Lv começa 15 !!!
+Adventure - Red Chapter B15 = !!!
+Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
+Ash Quest = Pesquisar !!!
+
+
 Números
 2004 = Bugadaço
 A
-Adventure - Red Chapter B15 = !!!
+
 Attv12.18 = Flora Sky ( já joguei ) OK
 AzulRando = Blue randomizado por mim. OK
 B
 Blazing Emerald 1.6 = Amei jogar !!! OK
 Blue = Versão que editei com programas. OK
 Blue(patched) = Versão ??
-Brown 2014 Final = Daorinha, mapa enorme a toa. OK
+
 C
 Coral Version 2022 Demo v1.2 = bugou, pesquisei e nãoa chei solução 
-Crystal Clear Standard 2.5.6 = Travado. OK
+
 Dark Cry Fix Alpha 2.6.7 = Tela piscando a noite na batalha, mapa bonito, começou meio sem noção pois tem matinho e depois caverna, level alto no começo, gostei do sistema de dia e noite e o jogo começa rápido. !!! OK
 Dark Violet Final 2018 V1 = Selo !!!
 E 
@@ -132,7 +163,7 @@ Elite Black = To fazendo projeto pro futuro !!!
 Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
 G
 Gaia v2.5 = Daorinha, gostei !!!  
-God of Arena v180715 = Focado em Batalha 3x3 Lv 50. !!! OK
+
 Gold 97 Reforged 5.0 = Gostei !!!
 Hyper Emerald 807 = Gostei, mas precisa grindar !!! Pesquisar 
 Indigo Power Tournament vApril 25th 2021 = Bugado depois do torneio 
@@ -140,7 +171,7 @@ Modern Emerald = ??? OK
 Oak's Dream 2 V1.3 = Muda sprites. OK
 P
 PBattle = Torneio
-Perfect Red = Versão melhorada da IA com Inicias em campo e Fósseis / TMs compráveis, movimentos da versão amarela presente ( - Ghost agora lida super eficazmente em pokémon psíquico (todos os tipos corrigidos) !!!
+
 PK Plat Pro Full = Focado na Dificuldade, porém bufa vários pokémon, altera tipo/gênero de outros e a chance de vir shiny é 1/257 !!!
 PK SW.SH v9.1 = Travei. OK
 PKMN Reboot (by yogurcomics) = Legalzinho
@@ -149,7 +180,7 @@ Pokemon - Diabound = Daorinha
 Pokemon Indigo = Torneio
 Pokémon Sweet 2th = Legal porém modifica tudo !!! OK
 ProjectBugV1.0.3 = Daora
-Purple = Parei no 1° ginásio
+
 Q 
 Quartz = Jogo que não funciona pokebola ( verificar )
 RoWe  = Gostei !!!
