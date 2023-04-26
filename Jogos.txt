@@ -974,6 +974,7 @@ https://www.pokecommunity.com/showthread.php?t=244386
 
 --- L ---
 -Leaf Green Balanced = OK
+-Legacy Edition = PokHeartGold
 -Legend Version = sem imagem ( Postado )
 -Legends = 
 -Legends Arceus = sem imagem ( Postado )
@@ -1072,6 +1073,7 @@ https://www.pokecommunity.com/showthread.php?t=142585
 -Outlaw = OK ( Postado )
 -
 P
+-Peninsula Gladiator & Myth = PokPlatinum
 -Perfect Crystal = OK
 -Perfect Platinum = 
 -Phoenix Rising = OK ( Postado )
@@ -1085,6 +1087,7 @@ Precisa treinar EV
 -Platinum Redux = OK ( Postado )
 Shiny = 1/257
 -Plus Green = OK
+-
 -Polished Crystal = 
 Atualiazado até a Geração 6
 -Pokeverse = OK ( Postado )

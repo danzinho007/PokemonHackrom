@@ -40,12 +40,27 @@ História Própria com nova região  :
 12-Vega
 13-Verde Musgo
 
+Traduzidas :
+1-Blue Stars 2
+2-Dark Worship
+3-Flora Sky
+4-Light Platinum
+5-Verde Musgo
+
+Essa lista aqui ta boa ?
+
 Competitivo : 
 Battle
+Blue Kaizo 
+Crystal Kaizo 
+Enhanced Emerald 
 God of Arena
 Ice Blue = Não 
 Indigo Power Tournament
+Pit of 100 Trials 
+Quetzal 
 World Tournament
+Yellow Kaizo 
 
 Famosinhas :
 Blazing Emerald 
@@ -100,6 +115,28 @@ Outras :
 -Victory Fire = Lv 75
 -Zeta = Lv 70
 
+Diamond / Pearl / Platinum :
+Fusion = Platinum 
+
+Heart Gold / Soul Silver :
+Fusion = PokSoulSilver
+Golden Edition = PokHeartGold
+Legacy Edition = PokHeartGold
+Light Platinum = PokHeartGold
+Master Quest: Johto = PokSoulSilver
+Mind Crystal = PokSoulSilver
+Reeboted = PokHeartGold
+Shadow Legends = PokHeartGold
+Silver Blue = PokHeartGold
+Silver Yellow = PokHeartGold
+Soothing Silver NDS ROM = PokSoulSilver
+Touhoumon Heart Gold NDS ROM = PokHeartGold
+VX: Vanilla Expanded = PokHeartGold
+
+White / Black :
+Hoenn White Ex = White
+Omega Paradox = White
+
 ---De boa :
 -Ash Gray 
 -Cloud White 
@@ -113,17 +150,6 @@ Outras :
 -Gaia = 17
 -Mega Power = 
 -Resolute = 
-
-Rota :
-Caterpie
-Charmander
-Lillipup
-Pidgey
-Rattata
-Weedle
-Zigzagoon 
-Zigzagoon alola
-Zorua
 
 Let's Go Lugia = TMs Infinitas, Exp All
 Naruto Advanced
@@ -152,6 +178,7 @@ Pokémon Thunder Emblem [HACK-ROM]
 
 ---GB :
 -Brown 2014 Final = Daorinha, mapa enorme a toa. OK
+-MissingNo Challenge = Começa com o Mew !!!
 -Perfect Red = Versão melhorada da IA com Inicias em campo e Fósseis / TMs compráveis, movimentos da versão amarela presente ( - Ghost agora lida super eficazmente em pokémon psíquico (todos os tipos corrigidos) !!!
 -Purple = Parei no 1° ginásio
 -Rocket - Jessie Version V1.20 = Só sprites que muda
@@ -164,12 +191,19 @@ God of Arena v180715 = Focado em Batalha 3x3 Lv 50. !!!
 
 ---GBA :
 chinesa = daora !!!
-Accept Defeat V2 = Pesquisar !!!
+Accept Defeat V2 = Pesquisar !!! CRC32 324F3435
 advanced-v2 = Lv começa 15 !!!
-Adventure - Red Chapter B15 = !!!
+Adventure - Red Chapter B15 = Verificar as 2 versões !!! CRC32 50F13BB6
 Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
+Ash Gray Esp = Não entendi !!!
 Ash Quest = Pesquisar !!!
-
+Awesome Version = Não entendi !!!
+Azure Horizons = Verificar as 2 versões !!! CRC32 9A1055D1 e 8D8551ED
+Battle Ultimate = Verificar como não bugar !!!
+Black Dark Beta = 
+Blast Burn V2.1 = Verificar !!!
+Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
+Light Platinum = Futuramente !!!
 
 Números
 2004 = Bugadaço
@@ -190,7 +224,7 @@ Dark Violet Final 2018 V1 = Selo !!!
 E 
 Eclipse = Gostosinho várias missões ( verificar ) !!!. OK
 Elite Black = To fazendo projeto pro futuro !!! 
-Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
+
 G
 Gaia v2.5 = Daorinha, gostei !!!  
 

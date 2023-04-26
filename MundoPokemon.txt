@@ -1,0 +1,16 @@
+
+Todos EVs : 31
+Kanto(GRBY) / Johto (GSC)  / Hoenn(RSE)   / Sinnoh(DPP) / Unova(BW)    / Kalos(XY)   / Alola(SunMon)
+Brock :  05 / Falkner = 42 / Roxanne=  60 / Roark   =78 / CiChCr  = 96 / Viola  =107 / 
+Misty :  08 / Bugsy   = 44 / Brawly =  62 / Gardenia=80 / Lenora  = 98 / Grant  =108 /
+Surge :  10 / Whitney = 46 / Wattson=  64 / Maylene =82 / Burgh   =100 / Korrina=109 /
+Erika :  15 / Morty   = 48 / Flannery= 66 / Crasher =84 / Elesa   =101 / Ramos  =110 /
+Koga  :  20 / Chuck   = 50 / Norman =  68 / Fantina =86 / Clay    =102 / Clemont=111 /
+Sabrina: 25 / Jasmine = 52 / Winona =  70 / Byron   =88 / Skyla   =103 / Valerie=112 /
+Blaine : 30 / Pryce   = 54 / TateLiza =72 / Candice =90 / Brycen  =104 / Olympia=113 /
+Giovanni:35 / Clair   = 56 / Wallace = 74 / Volkner =92 / Drayden =105 / Wulfric=114 /
+Elite 4 :40 / Elite 4 = 58 / E4      = 76 / E4      =94 / E4      =106 / E4     =115 /
+Campeão :40 / Campeão = 58 / Campeão = 76 / Campeão =94 / Campeão =106 / Campeão=115 /
+Rematch = +5 leveis cada vez até 115
+Após 115 pokémon ganha IV competitivo
+
