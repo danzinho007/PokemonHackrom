@@ -1,0 +1,55 @@
+Itens >
+
+1 até 27 = Pokebola 
+28 até 32 = Poção 
+33 até 34 = Reviver 
+211 até 220 = Pedras Evolução
+292 até 338 = Mega Evolução
+514 até 581 = Berries
+582 até 631 = TM 
+682 até 689 = HM
+
+DragonFang = 439 ( ? )
+EscapeRope = 120
+HM         = 682 até 689
+IV Max     = 72
+Leftovers  = 472
+Life Orb   = 479 ( ? )
+Max Repel  = 116
+Pecha Berry= 516
+Rare Candy = 102
+TM = 582 até 631
+
+@nicolas eduardo pheormosa, Dusknoir
+
+Pheromosa 795
+
+Aegislash  = 1129
+Audino     = 0531 !!!
+Bulbasaur  = 0001 (OK)
+Charmander = 0004 (OK)
+Chespin    = 0650 Geração 6
+Chikorita  = 0152 Geração 2
+Dugtrio    = 0051
+Dusknoir   = 0477
+Eevee      = 0133 (OK)
+Falinks    = 0870 !!!
+Grookey    = 0810 !!!
+Honedge    = 0679 !!!
+Kyurem     = 646
+Mudbray    = 749
+Pikachu    = 0025 (OK)
+Rowlet     = 0722 Geração 7
+Sandygast  = 0769 !!!
+Squirtle   = 0007 (OK)
+Snivy      = 0495 Geração 5
+Snorlax    = 0143 (OK)
+Sprigatito = 1214 !!!
+Tapu Koko  = 0785
+Treecko    = 0252 Geração 3
+Turtwig    = 0387 Geração 4
+
+Alola :
+Dugtrio = 957
+Megas :
+Audino = 944
