@@ -1,0 +1,12 @@
+Changelog Dark Worshio 3.1
+
+*Agora é possivel obter Manaphy breedando o Phione
+*Sprititomb adicionado no Cemiterio
+*Meltan obtivel na Rota 20
+*Drudigon adicionado na Rota 18
+*Bugs do evento do Arceus corrigido
+*Bug da saída do Safari Zone corrigido
+*TM11 (Sunny Day) e TM14 (Blizzard) adicionados na Maquina de TM em Pompano City
+*Time do Lider Fighting modificado
+
+https://www.mediafire.com/file/0tl72hiuvmmkz83/Dark+Worship+Oficial+3.1+Final.zip/file

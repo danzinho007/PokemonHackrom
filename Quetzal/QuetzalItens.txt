@@ -1,0 +1,145 @@
+Pokémon 
+Quetzal Itens :
+
+1 até 27 = Pokebola 
+28 até 32 = Poção 
+33 até 34 = Reviver 
+43 até 47 = Cura Status
+65 até 70 = Aumenta EV 
+71 até 72 = Aumenta IV
+81 até 101 = Natureza
+102 até 107 = Experiência
+114 até 116 = Repelente
+211 até 220 = Pedras Evolução
+271 até 287 = Memórias
+292 até 338 = Mega Evolução
+339 até 356 = Gemas 
+357 até 391 = Z-Move
+461 = Exp Share
+466 = Amulet Coin 
+470 = Lucky Egg
+514 até 581 = Berries
+582 até 631 = TM 
+682 até 689 = HM
+706 até 708 = Bicicleta 
+715 = TM Case
+
+DragonFang = 439 ( ? )
+EscapeRope = 120
+HM         = 682 até 689
+IV Max     = 72
+Leftovers  = 472
+Life Orb   = 479 ( ? )
+Max Repel  = 116
+Pecha Berry= 516
+Rare Candy = 102
+TM = 582 até 631
+
+A
+Aegislash  = 1129
+-Aggron    = Preciso estar Lv 42
+Arbok      = Preciso estar Lv 22
+-Aron      = 0304
+Evolui pra Lairon Lv 32
+-Audino    = 0531 / MegaAudino 0944 ( Já usei 1 )
+Não tem evolução
+
+B
+-Beldum = 0374
+-Bulbasaur  = 0001 ( Já usei 2 )
+-Buneary = 0427
+
+C 
+Charmander = 0004 ( Já usei 3 )
+Chespin    = 0650 Geração 6
+Chikorita  = 0152 Geração 2
+-Cranidos  = 
+Evolui pra Rampardos Lv 30
+
+D
+-Diglett   = / A-Diglett = 0956 ( Já usei 4)
+Evolui pra Dugtrio Lv 26
+-Donphan = 0232
+-Dugtrio    = 0051 Preciso estar Lv 26
+-Dunsparce = 0206
+-Dusknoir   = 0477
+-Duskull = 0355 ( Já usei 5 )
+
+E
+Eevee      = 0133 ( Já usei 6)
+-Ekans      = 0023 ( Já usei 7 )
+Evolui pra Arbok Lv 22
+-Falinks    = 0870 !!!
+-Garchomp  = Preciso estar Lv 48
+-Gibble    = 0443
+Evoluir Lv 24 pra Gabite
+Grookey    = 0810 !!!
+
+H 
+-Hippopotas = 
+Honedge    = 0679 !!!
+Kyurem     = 646
+
+L 
+-Lucario   = 448
+Evolui por Amizade durante o Dia, então pode ser usado 
+-Lunatone = 0337
+
+M 
+-Marill    = 0183
+-Marshtomp =
+Preciso estar Lv 16
+Evolui pra Swampert Lv 36
+-Mudbray    = 749
+-Mudkip    = 
+Evolui pra Mashtomp Lv 16
+
+N
+-Nincada    = 0290
+Evolui pra Ninjas Lv 20
+-Ninjask    =
+Preciso estar Lv 20 com Nincada
+-Nosepass = 0299
+-Pheromosa  = ( Já usei 8 )
+Base 570
+-Pikachu    = 0025 ( Já usei 9 )
+
+-R 
+-Rockruff = 0744
+-Rowlet     = 0722 
+Geração 7
+
+S
+Sandygast  = 0769 !!!
+-Shieldon = 0410
+-Skiddo = 0672
+Squirtle   = 0007 ( Já usei 10 )
+-Snivy      = 0495 Geração 5 ( Já usei 11 )
+Evolui pra Servine Lv 17
+-Snorlax    = 0143 ( Já usei 12 )
+-Spiritomb = 0442
+Sprigatito = 1214 !!!
+-Swinub = 0220
+
+T
+Tapu Koko  = 0785
+-Togekiss  = 0468
+Evolui por alta amizade com Togepi depois se usa Shiny Stone 
+Pode ser usado
+-Treecko    = 0252 Geração 3
+Turtwig    = 0387 Geração 4
+
+Time 1 : Nicolas Eduardo Lv 14
+Pheromosa  ( OK )
+Alola Dugtrio > Alola Diglett ( OK )
+Mega Audino  ( OK )
+Dusknoir > Duskull  ( OK )
+Serperior > Sniy  ( OK )
+
+Time 2 : Lv 19
+Aggrom > Aron ( OK )
+Garchomp > Gibble ( OK )
+Lucario ( OK )
+Mudkip > Marshtomp ( OK )
+Ninjask > Nincada ( OK )
+Togekiss ( OK )

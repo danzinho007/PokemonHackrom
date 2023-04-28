@@ -1,0 +1,644 @@
+WUDA FOREST
+
+Lv 1-2 Weedle 20%
+Lv 1-2 Kunemon 20%
+Lv 1-2 Pidgey 15%
+Lv 1-2 Fletchling 15%
+Lv 2-3 Tentomon 10%
+Lv 2-3 Dedenne 10%
+Lv 2-3 Abra 8%
+Lv 5-5 Treecko 2%
+
+LAKE PLACID
+
+(Old Rod)
+Lv 3-5 Azurill 70%
+Lv 3-5 Gomamon 30%
+
+PHOS VOLCANO
+
+Lv 5-7 Candlemon 30%
+Lv 5-7 Houndour 30%
+Lv 5-7 Gotsumon 10%
+Lv 6-8 Numel 10%
+Lv 6-8 Onix 5%
+Lv 6-8 Agumon 9%
+Lv 12-12 Meramon 4%
+Lv 5-5 Charmander 2%
+
+PHOS ROUTE
+
+Lv 6-8 Pidgey 20%
+Lv 6-8 Fletchling 20%
+Lv 7-9 Ponyta 15%
+Lv 7-9 Dedenne 10%
+Lv 7-9 Biyomon 15%
+Lv 7-9 Buneary 14%
+Lv 10-10 Larvesta 6%
+(Old Rod)
+Lv 5-7 Binacle 100%
+
+NORMANDY ROUTE
+
+Lv 9-11 Palmon 20%
+Lv 9-11 Lalamon 20%
+Lv 8-10 Tentomon 10%
+Lv 8-10 Ponyta 10%
+Lv 9-11 Buneary 10%
+Lv 8-10 Dedenne 10%
+Lv 10-12 Terriermon 6%
+Lv 10-12 Lopmon 6%
+Lv 9-11 Meditite 8%
+
+VALKYRIE ROUTE
+
+Lv 5-5 Happiny 25%
+Lv 5-5 Togepi 25%
+Lv 5-5 Pichu 25%
+Lv 5-5 Smoochum 25%
+
+LAB GROUNDS
+
+Lv 13-15 Biyomon 25%
+Lv 13-15 Slowpoke 25%
+Lv 12-14 Mareep 20%
+Lv 12-14 Wormmon 20%
+Lv 13-15 Salamon 5%
+Lv 13-15 Patamon 5%
+
+S.T.A.R. LAB
+
+Lv 14-16 Hagurumon 20%
+Lv 12-14 Mareep 20%
+Lv 12-14 Electrike 20%
+Lv 12-14 Elecmon 20%
+Lv 16-16 Beldum 10%
+Lv 16-16 Klefki 8%
+Lv 18-18 Keramon 2%
+
+VALHALLA CAVE
+
+Lv 15-17 Slowpoke 20%
+Lv 15-17 Crabmon 20%
+Lv 15-17 Betamon 10%
+Lv 15-17 Binacle 10%
+Lv 16-18 Gotsumon 10%
+Lv 16-18 Aron 10%
+Lv 16-18 Gaomon 5%
+Lv 21-21 Drimogemon 5%
+Lv 16-18 Gabumon 8%
+Lv 5-5 Mudkip 2%
+(Old Rod)
+Lv 12-14 Feebas 100%
+
+PHOSPHORUS ROUTE
+
+Lv 16-18 Marill 20%
+Lv 16-18 Binacle 20%
+Lv 15-17 Ferroseed 10%
+Lv 15-17 Renamon 10%
+Lv 15-17 Betamon 20%
+Lv 15-17 Scyther 10%
+Lv 16-18 Mushroomon 4%
+Lv 16-18 Goomy 6%
+
+LORDRAN ROUTE
+
+Lv 16-18 Mushroomon 20%
+Lv 16-18 Binacle 20%
+Lv 16-18 Ferroseed 10%
+Lv 16-18 Scraggy 10%
+Lv 15-17 Betamon 20%
+Lv 17-19 Renamon 9%
+Lv 17-19 Scyther 9%
+Lv 20-20 Shedinja 2%
+(Old Rod)
+Lv 15-17 Otamamon 70%
+Lv 15-17 Carvanha 30%
+
+LORDRAN HILLS
+
+Lv 17-19 Vullaby 20%
+Lv 17-19 Tsukaimon 20%
+Lv 17-19 Gastly 10%
+Lv 17-19 Shuppet 10%
+Lv 17-19 Goblimon 20%
+Lv 17-19 Falcomon 5%
+Lv 20-20 Shedinja 5%
+Lv 21-21 Ninjamon 5%
+Lv 24-24 Kokatorimon 5%
+
+KOKIRI ROUTE
+
+Lv 20-22 Pidgeotto 20%
+Lv 20-22 Fletchinder 20%
+Lv 20-20 Riolu 12%
+Lv 16-18 Palmon 10%
+Lv 16-18 Lalamon 10%
+Lv 20-22 Spinda 10%
+Lv 20-22 Patamon 5%
+Lv 20-22 Salamon 5%
+Lv 20-22 Terriermon 4%
+Lv 20-22 Lopmon 4%
+
+KOKIRI FOREST
+
+Lv 21-23 DemiDevimon 20%
+Lv 21-23 Beedrill 20%
+Lv 20-22 Kangaskhan 10%
+Lv 20-22 Castform 10%
+Lv 21-23 Swablu 10%
+Lv 25-25 Vegiemon 10%
+Lv 18-18 Ralts 5%
+Lv 18-18 Kotemon 5%
+Lv 25-25 Pinsir 4%
+Lv 25-25 Heracross 4%
+Lv 5-5 Bulbasaur 2%
+
+DRAGONS NEST
+
+Lv 24-26 Tyrannomon 20%
+Lv 24-26 Drimogemon 20%
+Lv 20-22 Dratini 10%
+Lv 20-22 Larvitar 10%
+Lv 20-22 Bagon 10%
+Lv 20-22 Gible 10%
+Lv 20-22 Monodramon 10%
+Lv 24-26 Mawile 8%
+Lv 30-30 Aerodactyl 2%
+
+TELLUR ROUTE
+
+Lv 26-28 Shuppet 20%
+Lv 26-28 Vullaby 20%
+Lv 20-22 Gastly 10%
+Lv 20-22 Tsukaimon 10%
+Lv 26-28 Meditite 10%
+Lv 26-28 Scraggy 10%
+Lv 30-30 Absol 9%
+Lv 30-30 Nanimon 9%
+Lv 30-30 Sableye 2%
+
+SEWERS
+
+Lv 30-32 Numemon 45%
+Lv 30-32 Sukamon 45%
+Lv 31-33 Haunter 10%
+
+HAUNTED MANSION
+
+Lv 28-30 Haunter 20%
+Lv 28-30 Bakemon 20%
+Lv 26-28 Shuppet 10%
+Lv 26-28 Pawniward 10%
+Lv 26-28 Nanimon 10%
+Lv 26-28 Shedinja 10%
+Lv 30-30 Sableye 10%
+Lv 32-32 Devimon 8%
+Lv 35-35 Spiritomb 2%
+
+TELLUR PATH
+
+Lv 32-34 Togemon 20%
+Lv 32-34 Sunflomon 20%
+Lv 30-32 Togetic 10%
+Lv 30-32 Chansey 10%
+Lv 32-34 Kyubimon 10%
+Lv 32-34 Leomon 10%
+Lv 27-29 Kirlia 5%
+Lv 27-29 Audino 5%
+Lv 36-36 Ninjamon 8%
+Lv 42-42 Angemon 1%
+Lv 42-42 Gatomon 1%
+(Old Rod)
+Lv 33-35 Coelamon 70%
+Lv 33-35 Sharpedo 30%
+
+WINTERFELL PATH
+
+Lv 34-36 Kabuterimon 20%
+Lv 34-36 Kuwagamon 20%
+Lv 32-34 Manectric 10%
+Lv 32-34 Houndoom 10%
+Lv 34-36 Birdramon 10%
+Lv 34-36 Gaogamon 10%
+Lv 27-29 Kirlia 5%
+Lv 27-29 Audino 5%
+Lv 36-36 Ninjamon 8%
+Lv 42-42 Angemon 1%
+Lv 42-42 Gatomon 1%
+(Old Rod)
+Lv 34-36 Azumarill 70%
+Lv 34-36 Gekomon 30%
+
+WINTERFELL CAVE
+
+Lv 38-40 Frigimon 20%
+Lv 38-40 Jynx 20%
+Lv 38-40 Azumarill 10%
+Lv 38-40 Ikkakumon 10%
+Lv 37-39 Snover 10%
+Lv 37-39 Snorunt 10%
+Lv 37-39 Coelamon 5%
+Lv 37-39 Gekomon 4%
+Lv 40-40 Garurumon 9%
+Lv 5-5 Squirtle 2%
+(Old Rod)
+Lv 40-42 Seadramon 70%
+Lv 40-42 Gyarados 30%
+
+MYSTERIOUS CAVE
+
+Lv 5-5 Pichimon 100%
+
+TECHNE PATH
+
+Lv 38-40 Woodmon 20%
+Lv 38-40 Peckmon 20%
+Lv 38-40 Kangaskhan 20%
+Lv 38-40 Vegiemon 10%
+Lv 38-40 Manectric 10%
+Lv 43-43 Sliggoo 10%
+Lv 46-46 Aggron 4%
+Lv 46-46 Alakazam 4%
+Lv 45-45 Angemon 1%
+Lv 45-45 Gatomon 1%
+
+TECHNE ROUTE
+
+Lv 40-42 Peckmon 20%
+Lv 40-42 Woodmon 20%
+Lv 40-42 Kangaskhan 20%
+Lv 40-42 Vegiemon 10%
+Lv 40-42 Manectric 10%
+Lv 44-44 Ferrothorn 10%
+Lv 46-46 Aggron 4%
+Lv 46-46 Alakazam 4%
+Lv 45-45 Angemon 1%
+Lv 45-45 Gatomon 1%
+
+VALLEY PATH
+
+Lv 44-46 Pinsir 20%
+Lv 44-46 Heracross 20%
+Lv 44-46 Wizardmon 10%
+Lv 44-46 Mawile 10%
+Lv 44-46 Stingmon 10%
+Lv 44-46 Medicham 10%
+Lv 41-43 Gargomon 9%
+Lv 41-43 Wendigomon 9%
+Lv 50-50 Piximon 2%
+
+DRAGON VALLEY/DRAGONVALE GATE
+
+Lv 45-47 Shelgon 20%
+Lv 45-47 Gabite 20%
+Lv 45-47 Greymon 10%
+Lv 45-47 Monochromon 10%
+Lv 46-48 Strikdramon 10%
+Lv 46-48 Sliggoo 10%
+Lv 46-48 Altaria 5%
+Lv 46-48 Aerodactyl 5%
+Lv 50-50 MetalTyrannomon 4%
+Lv 50-50 SaberLeomon 4%
+Lv 52-52 Megadramon 1%
+Lv 52-52 Gigadramon 1%
+(Old Rod)
+Lv 50-52 Seadramon 70%
+Lv 50-52 Gyarados 30%
+(Good Rod)
+Lv 50-52 Dragonair 60%
+Lv 50-52 Milotic 40%
+
+DRAGONS DEN
+
+Lv 46-48 Meramon 20%
+Lv 46-48 Camerupt 20%
+Lv 46-48 Larvesta 10%
+Lv 46-48 Birdramon 10%
+Lv 46-48 Houndoom 10%
+Lv 46-48 Monochromon 10%
+Lv 46-48 Pupitar 10%
+Lv 48-48 Steelix 4%
+Lv 48-48 Aggron 4%
+Lv 5-5 Torchic 1%
+
+DRAGONVALE PARK
+
+Lv 52-54 Giromon 40%
+Lv 52-54 Vademon 40%
+Lv 55-55 Datamon 10%
+Lv 55-55 Monzaemon 8%
+Lv 60-60 Andromon 2%
+
+CABOT PATH/CABOT SEA
+
+(Surfing)
+Lv 53-55 Gyarados 60%
+Lv 53-55 MegaSeadramon 30%
+Lv 56-56 Milotic 5%
+Lv 56-56 ShogunGekomon 5%
+(Old Rod)
+Lv 50-50 Azumarill 70%
+Lv 50-50 Sharpedo 30%
+(Good Rod)
+Lv 53-55 Barbaracle 80%
+Lv 55-56 Whamon 20%
+
+BULLY CAMP
+
+Lv 56-58 Ogremon 20%
+Lv 56-58 Bisharp 20%
+Lv 56-58 Manectric 10%
+Lv 56-58 Scrafty 10%
+Lv 56-58 Phantomon 10%
+Lv 56-58 SkullMeramon 10%
+Lv 60-60 Digitamamon 9%
+Lv 60-60 LadyDevimon 9%
+Lv 65-65 Myotismon 2%
+(Surfing/Rods)
+Lv 60-60 Sharpedo 100%
+
+ALGONQUIN LAKE/ALGONQUIN PARK
+
+Lv 62-64 Pidgeot 20%
+Lv 62-64 Talonflame 20%
+Lv 62-64 Garudamon 10%
+Lv 62-64 Lopunny 10%
+Lv 62-64 Spinda 10%
+Lv 62-64 Raichu 10%
+Lv 65-65 Kangaskhan 5%
+Lv 65-65 Etemon 5%
+Lv 65-65 Goodra 8%
+Lv 68-68 Togekiss 2%
+(Surfing)
+60-62 Azumarill 60%
+Lv 60-62 Barbaracle 30%
+Lv 62-64 Whamon 5%
+Lv 62-64 Milotic 4%
+Lv 62-64 MegaSeadramon 1%
+(Old Rod)
+Lv 60-62 Azumarill 70%
+Lv 60-62 Barbaracle 30%
+(Good Rod)
+Lv 62-64 Whamon 60%
+Lv 62-64 Milotic 20%
+Lv 62-64 MegaSeadramon 20%
+
+TAIGA CITY GYM
+
+Lv 64-66 Heracross 20%
+Lv 64-66 Pinsir 20%
+Lv 64-66 Cherrymon 10%
+Lv 64-66 Ferrothorn 10%
+Lv 64-66 Scyther 10%
+Lv 64-66 Beedrill 10%
+Lv 69-69 MegaKabuterimon 5%
+Lv 69-69 Okuwamon 5%
+Lv 69-69 Jewelbeemon 4%
+Lv 69-69 Jewelbeemon 4%
+Lv 70-70 Scizor 2%
+
+TAIGA ROUTE
+
+Lv 65-67 Lillymon 20%
+Lv 65-67 Lilamon 20%
+Lv 65-67 Rapidash 10%
+Lv 65-67 Medicham 10%
+Lv 65-67 Rapidmon 10%
+Lv 65-67 Taomon 10%
+Lv 67-67 Piximon 8%
+Lv 67-67 Altaria 5%
+Lv 67-67 Absol 5%
+Lv 70-70 Asuramon 2%
+
+TANGENT PATH
+
+Lv 68-70 Slowbro 20%
+Lv 68-70 Slowking 20%
+Lv 68-70 Ampharos 10%
+Lv 68-70 Yatagaramon 10%
+Lv 68-70 Sableye 10%
+Lv 68-70 Alakazam 10%
+Lv 72-72 Wisemon 9%
+Lv 72-72 Lucario 9%
+Lv 74-74 Spiritomb 2%
+
+TANGENT CAVE
+
+Lv 70-72 Aggron 20%
+Lv 70-72 Triceramon 20%
+Lv 71-73 Mach Gaogamon 10%
+Lv 71-73 Bisharp 10%
+Lv 71-73 Klefki 10%
+Lv 71-73 Stunfisk 10%
+Lv 71-73 Cyberdramon 10%
+Lv 74-74 Tyranitar 4%
+Lv 74-74 Metagross 4%
+Lv 75-75 Aerodactyl 2%
+
+NEOS PATH
+
+(Surfing)
+Lv 80-82 Barbaracle 60%
+Lv 80-82 Sharpedo 30%
+Lv 80-82 Gyarados 5%
+Lv 80-82 Vikemon 4%
+Lv 80-82 Pukumon 1%
+(Old Rod)
+Lv 80-82 Barbaracle 100%
+(Good Rod)
+Lv 80-82 Sharpedo 60%
+Lv 80-82 Gyarados 40%
+(Super Rod)
+Lv 80-82 Vikemon 95%
+Lv 80-82 Pukumon 5%
+
+SELEN ROUTE
+
+Lv 80-82 Mamemon 20%
+Lv 80-82 Metal Mamemon 20%
+Lv 80-82 Mawile 10%
+Lv 80-82 Justimon 10%
+Lv 80-82 Lucario 10%
+Lv 80-82 Blissey 10%
+Lv 82-84 Lotusmon 5%
+Lv 82-84 Rosemon 5%
+Lv 82-84 Dragonite 4%
+Lv 82-84 Salamence 4%
+Lv 85-85 Phoenixmon 1%
+Lv 85-85 Valdurmon 1%
+
+SAHARA DESERT
+
+Lv 80-82 Triceramon 20%
+Lv 80-82 Metal Tyrannomon 20%
+Lv 82-84 Steelix 10%
+Lv 82-84 Giromon 10%
+Lv 82-84 Garchomp 10%
+Lv 82-84 Andromon 10%
+Lv 85-85 Metal Greymon 5%
+Lv 85-85 Stunfisk 5%
+Lv 90-90 Aerodactyl 4%
+Lv 90-90 Boltmon 4%
+Lv 90-90 Rust Tyrannomon 1%
+Lv 90-90 Spinomon 1%
+
+REGI RUINS
+
+Lv 99-99 Unknown 100%
+
+KARAKURA ROUTE
+
+Lv 86-88 Alakazam 20%
+Lv 86-88 Gengar 20%
+Lv 86-88 Absol 10%
+Lv 86-88 Banette 10%
+Lv 86-88 Sakuyamon 10%
+Lv 86-88 Ravmon 10%
+Lv 90-90 Spiritomb 10%
+Lv 90-90 Waru monzaemon 10%
+
+OGUDOMON'S TOWER
+
+Lv 96-98 Devitamon 20%
+Lv 96-98 Zanbamon 20%
+Lv 96-98 Titamon 10%
+Lv 96-98 Mervamon 10%
+Lv 96-98 Diaboromon 10%
+Lv 96-98 Ancient Wisemon 10%
+Lv 98-98 Metal Seadramon 5%
+Lv 98-98 Puppetmon 5%
+Lv 98-98 Machinedramon 4%
+Lv 98-98 Piedmon 4%
+Lv 99-99 Venom Myotismon 2%
+
+
+SIDE QUEST LOCATIONS:
+
+RIME CAVE
+
+Lv 56-58 Glalie 20%
+Lv 56-58 Froslass 20%
+Lv 56-58 Frigimon 10%
+Lv 56-58 Zudomon 10%
+Lv 56-58 Jynx 10%
+Lv 60-60 Abomasnow 12%
+Lv 60-60 Steelix 9%
+Lv 60-60 Aggron 9%
+
+LORDRAN CAVE
+
+Lv 62-64 Aggron 20%
+Lv 62-64 Steelix 20%
+Lv 60-62 Vegiemon 10%
+Lv 60-62 Sableye 10%
+Lv 60-62 Wergarurumon 10%
+Lv 60-62 Klefki 10%
+Lv 65-65 Mamemon 5%
+Lv 65-65 MetalMamemon 5%
+Lv 65-65 Tyranitar 4%
+Lv 65-65 Metagross 4%
+Lv 68-68 Sinduramon 2%
+(Surfing)
+Lv 62-64 Barbaracle 60%
+Lv 62-64 Whamon 30%
+Lv 62-64 Sharpedo 10%
+(Old Rod)
+Lv 62-64 Sharpedo 100%
+(Good Rod)
+Lv 62-64 Azumarill 60%
+Lv 65-65 Zudomon 20%
+Lv 65-65 MegaSeadramon 20%
+(Super Rod)
+Lv 65-65 Slowbro 40%
+LV 65-65 Slowking 40%
+Lv 65-65 Milotic 15%
+Lv 68-68 Gyarados 5%
+
+DRANGELIC ROUTE/HILLS
+
+Lv 60-62 Mandibuzz 20%
+Lv 60-62 Banette 20%
+Lv 60-62 Saberleomon 10%
+Lv 60-62 Manectric 10%
+Lv 60-62 Raichu 10%
+Lv 60-62 LadyDevimon 10%
+Lv 65-65 Wisemon 5%
+Lv 65-65 Cherrymon 5%
+Lv 65-65 Absol 4%
+Lv 65-65 Goodra 4%
+Lv 68-68 Gengar 2%
+
+DRANGELIC CAVE
+
+Lv 62-64 Gigadramon 20%
+Lv 62-64 Megadramon 20%
+Lv 60-62 Garudamon 10%
+Lv 60-62 Aerodactyl 10%
+Lv 60-62 MetalGreymon 10%
+Lv 60-62 Mawile 10%
+Lv 65-65 Togekiss 5%
+Lv 65-65 Audino 5%
+Lv 65-65 Salamence 4%
+Lv 65-65 Garchomp 4%
+Lv 68-68 Dragonite 2%
+
+LOTHRIC ROUTE
+
+Lv 92-94 Grand Kuwagamon 20%
+Lv 92-94 Hercules Kabuterimon 20%
+Lv 92-94 Mega Mawile 10%
+Lv 92-94 Metal Etemon 10%
+Lv 92-94 Mega Kangaskhan 10%
+Lv 92-94 Prince Mamemon 10%
+Lv 94-94 Mega Tyranitar 5%
+Lv 94-94 Mega Metagross 5%
+Lv 94-94 Mirage Gaogamon 4%
+Lv 94-94 Mega Salamence 4%
+Lv 95-95 Seraphimon 1%
+Lv 95-95 Ophanimon 1%
+
+LOTHRIC HILLS
+
+Lv 94-96 Mega Heracross 20%
+Lv 94-96 Mega Pinsir 20%
+Lv 94-96 Mega Ampharos 10%
+Lv 94-96 Bancho Leomon 10%
+Lv 94-96 Justimon 10%
+Lv 94-96 Mega Lucario 10%
+Lv 96-96 Mega Gallade 5%
+Lv 96-96 Mega Gardevoir 5%
+Lv 96-96 War Greymon 4%
+Lv 96-96 Metal Garurumon 4%
+Lv 97-97 Cherubimon 2%
+
+
+LEGENDARY & SPECIAL POKEMON/LEGENDARY & ROYAL KNIGHT DIGIMON (Pre Forms):
+
+Guilmon- Normandy Town
+Veemon #1- Valkyrie City
+Kudamon- Wuda Forest (Must obtain HM Cut from Murano & defeat Faye)
+Dorumon- Dragons Nest
+Veemon #2- Winterfell
+Centarumon- Cave between Techne City & Kokiri Forest
+Volcanion- Valley Path
+Primal Groudon- Phos Volcano (Must win the Dragon Tower tournament)
+Primal Kyogre- Valhalla Cave (Must win the Dragon Tower tournament & obtain HM Surf inside Melisandre's gym)
+Mistymon- Lordran Cave (Must win the Dragon Tower tournament & obtain HM Surf inside Melisandre's gym)
+Lugia- Lordran Cave (Must win the Dragon Tower tournament & obtain HM Surf inside Melisandre's gym)
+Shaujinmon- Winterfell Cave (Must obtain HM Surf inside Melisandre's gym)
+Dianamon- Rime Cave (Must obtain HM Surf inside Melisandre's gym)
+Grapleomon- Drangelic Cave (Must obtain HM Cut from Murano & talk to the Old Geezer in Tellur Town's Pokemon Center)
+Ho-Oh- Drangelic Cave (Must obtain HM Cut from Murano & talk to the Old Geezer in Tellur Town's Pokemon Center)
+Genesect- GIGO Corporation (Given to you by V)
+Mew- GIGO Corporation (Given to you by Jean Blake)
+Regigigas- Regi Ruins
+Giratina- Outcast Path
+Beelzemon- DRHQ (Given to you by X)
+AshGreninja- (Given to you by Old Geezer. Must complete his request in Tellur Town's Pokemon Center)
+Gankoomon- Dragons Den (Must defeat Jean Blake)
+Xerneas- Lothric Cave
+Yveltal- Lothric Cave
+Alphamon- Lothric Cave
+Omegamon- Lothric Cave

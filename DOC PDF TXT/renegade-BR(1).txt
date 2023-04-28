@@ -1,0 +1,32 @@
+Renegade Platinum BR
+
+. Foi adaptada a tradução da platinum original feita pelo Maldonny
+Está tudo traduzido para Portugues BR exceto:
+- moves
+- itens
+- natures
+- habilidades
+- dialogos exclusivos da renegade 
+
+.Lideres de ginasio e rivais tiveram alterações nas suas equipes com referencia aos times
+usados por eles nos remakes Brilliant Diamond e Shinyning Pearl. 
+
+. Foi atualizado alguns learnsets de acordo com a 8 geração.
+
+. Versão classica agora realmente só possui adições oficiais
+
+. Taxa de shiny aumentada para 1/4096 mesma dos jogos mais recentes
+
+. Ainda está em processo de adaptação o patch de speed nessa versão following
+
+. Versão following tem a mecanica do primeiro pokémon do time seguir o treinador
+igual é nos jogos heartgold/soulsilver 
+ 
+
+Creditos:
+
+- tradução usada como base: Maldonny
+- criação da renegade original: Drayano
+- adaptação da tradução: Luciano Fire e Albert Trioni 
+- mecanica dos pokemon seguirem: Adastra e Mikelan 
+- adaptação da mecanica dos pokemon seguirem na renegade Chensquared 

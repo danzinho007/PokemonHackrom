@@ -1,0 +1,15 @@
+June 3, 6:07 PM EST:
+
+Gliscor can now learn HM02, Fly
+Mamoswine, Goldeen, and Blaziken can now learn TM88, Pluck
+Encounter docs are updated to include the gift Smeargle in Dreamyard and Fake Pokeballs on Route 6 and Route 10
+Lileep replaces Omanyte and Kabuto in Wellspring Cave
+Fixed Cyclist Hector having 6 Pokemon instead of 4
+
+June 3, 9:02 PM EST:
+
+Milotic second ability changed to Filter
+Heracross and Ledian swapped encounter rates in Lostlorn Forest and Route 10 Badge Gates
+Fixed some trainers not having updated Pokemon
+Replaced Rapidash with Simisear in Abundant Shrine
+

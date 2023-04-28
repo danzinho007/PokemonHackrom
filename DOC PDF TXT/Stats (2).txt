@@ -1,0 +1,3108 @@
+Species: BULBASAUR
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: CHLOROPHYLL
+Rare Ability Chance: 5%
+
+
+Species: IVYSAUR
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: CHLOROPHYLL
+Rare Ability Chance: 5%
+
+
+Species: VENUSAUR
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: THICK_FAT
+Rare Ability Chance: 5%
+
+
+Species: CHARMANDER
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: SOLAR_POWER
+Rare Ability Chance: 3%
+
+
+Species: CHARMELEON
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: SOLAR_POWER
+Rare Ability Chance: 3%
+
+
+Species: CHARIZARD
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: DROUGHT
+Rare Ability Chance: 3%
+
+
+Species: SQUIRTLE
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: RAIN_DISH
+Rare Ability Chance: 7.5%
+
+
+Species: WARTORTLE
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: RAIN_DISH
+Rare Ability Chance: 7.5%
+
+
+Species: BLASTOISE
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: FILTER
+Rare Ability Chance: 7.5%
+
+
+Species: CATERPIE
+Catch Rate: 255
+Common Ability: SHIELD_DUST
+Rare Ability: RUN_AWAY
+Rare Ability Chance: 20%
+
+
+Species: METAPOD
+Catch Rate: 120
+Common Ability: SHED_SKIN
+Rare Ability: RUN_AWAY
+Rare Ability Chance: 20%
+
+
+Species: BUTTERFREE
+Catch Rate: 45
+Common Ability: COMPOUND_EYES
+Rare Ability: TINTED_LENS
+Rare Ability Chance: 20%
+
+
+Species: WEEDLE
+Catch Rate: 255
+Common Ability: SHIELD_DUST
+Rare Ability: RUN_AWAY
+Rare Ability Chance: 20%
+
+
+Species: KAKUNA
+Catch Rate: 120
+Common Ability: SHED_SKIN
+Rare Ability: RUN_AWAY
+Rare Ability Chance: 20%
+
+
+Species: BEEDRILL
+Catch Rate: 45
+Common Ability: SWARM
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 20%
+
+
+Species: PIDGEY
+Catch Rate: 255
+Common Ability: KEEN_EYE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 10%
+
+
+Species: PIDGEOTTO
+Catch Rate: 120
+Common Ability: KEEN_EYE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 10%
+
+
+Species: PIDGEOT
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 10%
+
+
+Species: RATTATA
+Catch Rate: 255
+Common Ability: RUN_AWAY
+Rare Ability: GUTS
+Rare Ability Chance: 40%
+
+
+Species: RATICATE
+Catch Rate: 127
+Common Ability: RUN_AWAY
+Rare Ability: GUTS
+Rare Ability Chance: 40%
+
+
+Species: SPEAROW
+Catch Rate: 255
+Common Ability: KEEN_EYE
+Rare Ability: INSOMNIA
+Rare Ability Chance: 15%
+
+
+Species: FEAROW
+Catch Rate: 90
+Common Ability: KEEN_EYE
+Rare Ability: LONG_REACH
+Rare Ability Chance: 15%
+
+
+Species: EKANS
+Catch Rate: 255
+Common Ability: INTIMIDATE
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 5%
+
+
+Species: ARBOK
+Catch Rate: 90
+Common Ability: INTIMIDATE
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 5%
+
+
+Species: PIKACHU
+Catch Rate: 190
+Common Ability: STATIC
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 10.5%
+
+
+Species: RAICHU
+Catch Rate: 75
+Common Ability: STATIC
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 10.5%
+
+
+Species: SANDSHREW
+Catch Rate: 255
+Common Ability: SAND_VEIL
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 9.5%
+
+
+Species: SANDSLASH
+Catch Rate: 90
+Common Ability: SAND_VEIL
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 9.5%
+
+
+Species: NIDORAN_F
+Catch Rate: 235
+Common Ability: POISON_POINT
+Rare Ability: ANTICIPATION
+Rare Ability Chance: 5.5%
+
+
+Species: NIDORINA
+Catch Rate: 120
+Common Ability: POISON_POINT
+Rare Ability: ANTICIPATION
+Rare Ability Chance: 5.5%
+
+
+Species: NIDOQUEEN
+Catch Rate: 45
+Common Ability: POISON_POINT
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 5.5%
+
+
+Species: NIDORAN_M
+Catch Rate: 235
+Common Ability: POISON_POINT
+Rare Ability: ANTICIPATION
+Rare Ability Chance: 5.5%
+
+
+Species: NIDORINO
+Catch Rate: 120
+Common Ability: POISON_POINT
+Rare Ability: ANTICIPATION
+Rare Ability Chance: 5.5%
+
+
+Species: NIDOKING
+Catch Rate: 45
+Common Ability: POISON_POINT
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 5.5%
+
+
+Species: CLEFAIRY
+Catch Rate: 150
+Common Ability: CUTE_CHARM
+Rare Ability: MAGIC_GUARD
+Rare Ability Chance: 8.5%
+
+
+Species: CLEFABLE
+Catch Rate: 25
+Common Ability: CUTE_CHARM
+Rare Ability: MAGIC_GUARD
+Rare Ability Chance: 8.5%
+
+
+Species: VULPIX
+Catch Rate: 190
+Common Ability: FLASH_FIRE
+Rare Ability: DROUGHT
+Rare Ability Chance: 3.4%
+
+
+Species: NINETALES
+Catch Rate: 75
+Common Ability: FLASH_FIRE
+Rare Ability: DROUGHT
+Rare Ability Chance: 3.2%
+
+
+Species: JIGGLYPUFF
+Catch Rate: 170
+Common Ability: CUTE_CHARM
+Rare Ability: NORMALIZE
+Rare Ability Chance: 12.5%
+
+
+Species: WIGGLYTUFF
+Catch Rate: 50
+Common Ability: CUTE_CHARM
+Rare Ability: NORMALIZE
+Rare Ability Chance: 12.5%
+
+
+Species: ZUBAT
+Catch Rate: 255
+Common Ability: INNER_FOCUS
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 15%
+
+
+Species: GOLBAT
+Catch Rate: 90
+Common Ability: INNER_FOCUS
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 15%
+
+
+Species: ODDISH
+Catch Rate: 255
+Common Ability: CHLOROPHYLL
+Rare Ability: SHIELD_DUST
+Rare Ability Chance: 1.5%
+
+
+Species: GLOOM
+Catch Rate: 120
+Common Ability: CHLOROPHYLL
+Rare Ability: SHIELD_DUST
+Rare Ability Chance: 1.5%
+
+
+Species: VILEPLUME
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: NATURAL_CURE
+Rare Ability Chance: 1.5%
+
+
+Species: PARAS
+Catch Rate: 190
+Common Ability: DRY_SKIN
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 10%
+
+
+Species: PARASECT
+Catch Rate: 75
+Common Ability: DRY_SKIN
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 10%
+
+
+Species: VENONAT
+Catch Rate: 190
+Common Ability: COMPOUND_EYES
+Rare Ability: TINTED_LENS
+Rare Ability Chance: 5%
+
+
+Species: VENOMOTH
+Catch Rate: 75
+Common Ability: SHIELD_DUST
+Rare Ability: TINTED_LENS
+Rare Ability Chance: 5%
+
+
+Species: DIGLETT
+Catch Rate: 255
+Common Ability: ARENA_TRAP
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 20%
+
+
+Species: DUGTRIO
+Catch Rate: 50
+Common Ability: ARENA_TRAP
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 20%
+
+
+Species: MEOWTH
+Catch Rate: 255
+Common Ability: PICKUP
+Rare Ability: SUPER_LUCK
+Rare Ability Chance: 13.37%
+
+
+Species: PERSIAN
+Catch Rate: 90
+Common Ability: LIMBER
+Rare Ability: SUPER_LUCK
+Rare Ability Chance: 13.37%
+
+
+Species: PSYDUCK
+Catch Rate: 190
+Common Ability: DAMP
+Rare Ability: CLOUD_NINE
+Rare Ability Chance: 30%
+
+
+Species: GOLDUCK
+Catch Rate: 75
+Common Ability: DAMP
+Rare Ability: CLOUD_NINE
+Rare Ability Chance: 30%
+
+
+Species: MANKEY
+Catch Rate: 190
+Common Ability: VITAL_SPIRIT
+Rare Ability: ANGER_POINT
+Rare Ability Chance: 21.5%
+
+
+Species: PRIMEAPE
+Catch Rate: 75
+Common Ability: VITAL_SPIRIT
+Rare Ability: ANGER_POINT
+Rare Ability Chance: 21.5%
+
+
+Species: GROWLITHE
+Catch Rate: 190
+Common Ability: INTIMIDATE
+Rare Ability: FLASH_FIRE
+Rare Ability Chance: 35%
+
+
+Species: ARCANINE
+Catch Rate: 75
+Common Ability: INTIMIDATE
+Rare Ability: FLASH_FIRE
+Rare Ability Chance: 35%
+
+
+Species: POLIWAG
+Catch Rate: 255
+Common Ability: WATER_ABSORB
+Rare Ability: DAMP
+Rare Ability Chance: 2.5%
+
+
+Species: POLIWHIRL
+Catch Rate: 120
+Common Ability: WATER_ABSORB
+Rare Ability: DAMP
+Rare Ability Chance: 2.5%
+
+
+Species: POLIWRATH
+Catch Rate: 45
+Common Ability: WATER_ABSORB
+Rare Ability: CONTRARY
+Rare Ability Chance: 2.5%
+
+
+Species: ABRA
+Catch Rate: 200
+Common Ability: SYNCHRONIZE
+Rare Ability: INNER_FOCUS
+Rare Ability Chance: 20%
+
+
+Species: KADABRA
+Catch Rate: 100
+Common Ability: SYNCHRONIZE
+Rare Ability: INNER_FOCUS
+Rare Ability Chance: 20%
+
+
+Species: ALAKAZAM
+Catch Rate: 50
+Common Ability: SYNCHRONIZE
+Rare Ability: INNER_FOCUS
+Rare Ability Chance: 20%
+
+
+Species: MACHOP
+Catch Rate: 180
+Common Ability: GUTS
+Rare Ability: NO_GUARD
+Rare Ability Chance: 6%
+
+
+Species: MACHOKE
+Catch Rate: 90
+Common Ability: GUTS
+Rare Ability: NO_GUARD
+Rare Ability Chance: 6%
+
+
+Species: MACHAMP
+Catch Rate: 45
+Common Ability: GUTS
+Rare Ability: NO_GUARD
+Rare Ability Chance: 6%
+
+
+Species: BELLSPROUT
+Catch Rate: 255
+Common Ability: CHLOROPHYLL
+Rare Ability: HARVEST
+Rare Ability Chance: 10%
+
+
+Species: WEEPINBELL
+Catch Rate: 120
+Common Ability: CHLOROPHYLL
+Rare Ability: HARVEST
+Rare Ability Chance: 10%
+
+
+Species: VICTREEBEL
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: HARVEST
+Rare Ability Chance: 10%
+
+
+Species: TENTACOOL
+Catch Rate: 190
+Common Ability: CLEAR_BODY
+Rare Ability: LIQUID_OOZE
+Rare Ability Chance: 14%
+
+
+Species: TENTACRUEL
+Catch Rate: 60
+Common Ability: CLEAR_BODY
+Rare Ability: REGENERATOR
+Rare Ability Chance: 14%
+
+
+Species: GEODUDE
+Catch Rate: 255
+Common Ability: ROCK_HEAD
+Rare Ability: STURDY
+Rare Ability Chance: 40%
+
+
+Species: GRAVELER
+Catch Rate: 120
+Common Ability: ROCK_HEAD
+Rare Ability: STURDY
+Rare Ability Chance: 40%
+
+
+Species: GOLEM
+Catch Rate: 45
+Common Ability: ROCK_HEAD
+Rare Ability: STURDY
+Rare Ability Chance: 40%
+
+
+Species: PONYTA
+Catch Rate: 190
+Common Ability: RUN_AWAY
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 5%
+
+
+Species: RAPIDASH
+Catch Rate: 60
+Common Ability: LIMBER
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 5%
+
+
+Species: SLOWPOKE
+Catch Rate: 190
+Common Ability: OBLIVIOUS
+Rare Ability: OWN_TEMPO
+Rare Ability Chance: 10%
+
+
+Species: SLOWBRO
+Catch Rate: 75
+Common Ability: OBLIVIOUS
+Rare Ability: REGENERATOR
+Rare Ability Chance: 10%
+
+
+Species: MAGNEMITE
+Catch Rate: 190
+Common Ability: STURDY
+Rare Ability: LEVITATE
+Rare Ability Chance: 1%
+
+
+Species: MAGNETON
+Catch Rate: 60
+Common Ability: STURDY
+Rare Ability: LEVITATE
+Rare Ability Chance: 1%
+
+
+Species: MAGNEZONE
+Catch Rate: 30
+Common Ability: STURDY
+Rare Ability: LEVITATE
+Rare Ability Chance: 1%
+
+
+Species: FARFETCHD
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: SNIPER
+Rare Ability Chance: 7.77%
+
+
+Species: DODUO
+Catch Rate: 190
+Common Ability: EARLY_BIRD
+Rare Ability: QUICK_FEET
+Rare Ability Chance: 15%
+
+
+Species: DODRIO
+Catch Rate: 45
+Common Ability: EARLY_BIRD
+Rare Ability: QUICK_FEET
+Rare Ability Chance: 15%
+
+
+Species: SEEL
+Catch Rate: 190
+Common Ability: THICK_FAT
+Rare Ability: SNOW_WARNING
+Rare Ability Chance: 6.5%
+
+
+Species: DEWGONG
+Catch Rate: 75
+Common Ability: THICK_FAT
+Rare Ability: SNOW_WARNING
+Rare Ability Chance: 6.5%
+
+
+Species: GRIMER
+Catch Rate: 190
+Common Ability: STENCH
+Rare Ability: STICKY_HOLD
+Rare Ability Chance: 20%
+
+
+Species: MUK
+Catch Rate: 75
+Common Ability: STENCH
+Rare Ability: GOOEY
+Rare Ability Chance: 20%
+
+
+Species: SHELLDER
+Catch Rate: 190
+Common Ability: SHELL_ARMOR
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 5%
+
+
+Species: CLOYSTER
+Catch Rate: 60
+Common Ability: SHELL_ARMOR
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 5%
+
+
+Species: GASTLY
+Catch Rate: 190
+Common Ability: LEVITATE
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: HAUNTER
+Catch Rate: 90
+Common Ability: LEVITATE
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: GENGAR
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: ONIX
+Catch Rate: 45
+Common Ability: STURDY
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 8.5%
+
+
+Species: DROWZEE
+Catch Rate: 190
+Common Ability: INSOMNIA
+Rare Ability: UNAWARE
+Rare Ability Chance: 10%
+
+
+Species: HYPNO
+Catch Rate: 75
+Common Ability: INSOMNIA
+Rare Ability: UNAWARE
+Rare Ability Chance: 10%
+
+
+Species: KRABBY
+Catch Rate: 225
+Common Ability: SHELL_ARMOR
+Rare Ability: HYPER_CUTTER
+Rare Ability Chance: 30%
+
+
+Species: KINGLER
+Catch Rate: 60
+Common Ability: SHELL_ARMOR
+Rare Ability: AFTERMATH
+Rare Ability Chance: 30%
+
+
+Species: VOLTORB
+Catch Rate: 190
+Common Ability: SOUNDPROOF
+Rare Ability: STATIC
+Rare Ability Chance: 50%
+
+
+Species: ELECTRODE
+Catch Rate: 60
+Common Ability: SOUNDPROOF
+Rare Ability: STATIC
+Rare Ability Chance: 50%
+
+
+Species: EXEGGCUTE
+Catch Rate: 90
+Common Ability: CHLOROPHYLL
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 8.3%
+
+
+Species: EXEGGUTOR
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 8.3%
+
+
+Species: CUBONE
+Catch Rate: 190
+Common Ability: ROCK_HEAD
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 20%
+
+
+Species: MAROWAK
+Catch Rate: 75
+Common Ability: ROCK_HEAD
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 20%
+
+
+Species: HITMONLEE
+Catch Rate: 45
+Common Ability: LIMBER
+Rare Ability: RECKLESS
+Rare Ability Chance: 7%
+
+
+Species: HITMONCHAN
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: IRON_FIST
+Rare Ability Chance: 7%
+
+
+Species: LICKITUNG
+Catch Rate: 45
+Common Ability: OWN_TEMPO
+Rare Ability: UNAWARE
+Rare Ability Chance: 20%
+
+
+Species: KOFFING
+Catch Rate: 190
+Common Ability: LEVITATE
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 20%
+
+
+Species: WEEZING
+Catch Rate: 60
+Common Ability: LEVITATE
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 20%
+
+
+Species: RHYHORN
+Catch Rate: 120
+Common Ability: ROCK_HEAD
+Rare Ability: FILTER
+Rare Ability Chance: 10%
+
+
+Species: RHYDON
+Catch Rate: 60
+Common Ability: ROCK_HEAD
+Rare Ability: FILTER
+Rare Ability Chance: 10%
+
+
+Species: CHANSEY
+Catch Rate: 30
+Common Ability: NATURAL_CURE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 10%
+
+
+Species: TANGELA
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: TRIAGE
+Rare Ability Chance: 4.5%
+
+
+Species: KANGASKHAN
+Catch Rate: 45
+Common Ability: EARLY_BIRD
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 1.5%
+
+
+Species: HORSEA
+Catch Rate: 225
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_VEIL
+Rare Ability Chance: 20%
+
+
+Species: SEADRA
+Catch Rate: 75
+Common Ability: POISON_POINT
+Rare Ability: WATER_VEIL
+Rare Ability Chance: 20%
+
+
+Species: GOLDEEN
+Catch Rate: 225
+Common Ability: SWIFT_SWIM
+Rare Ability: FRISK
+Rare Ability Chance: 30%
+
+
+Species: SEAKING
+Catch Rate: 60
+Common Ability: SWIFT_SWIM
+Rare Ability: FRISK
+Rare Ability Chance: 30%
+
+
+Species: STARYU
+Catch Rate: 225
+Common Ability: ILLUMINATE
+Rare Ability: NATURAL_CURE
+Rare Ability Chance: 10%
+
+
+Species: STARMIE
+Catch Rate: 60
+Common Ability: ILLUMINATE
+Rare Ability: NATURAL_CURE
+Rare Ability Chance: 10%
+
+
+Species: MR_MIME
+Catch Rate: 45
+Common Ability: FILTER
+Rare Ability: DAZZLING
+Rare Ability Chance: 10%
+
+
+Species: SCYTHER
+Catch Rate: 45
+Common Ability: SWARM
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 6.9%
+
+
+Species: JYNX
+Catch Rate: 45
+Common Ability: SLUSH_RUSH
+Rare Ability: NO_GUARD
+Rare Ability Chance: 2.5%
+
+
+Species: ELECTABUZZ
+Catch Rate: 45
+Common Ability: ANGER_POINT
+Rare Ability: GALVANIZE
+Rare Ability Chance: 3.11%
+
+
+Species: MAGMAR
+Catch Rate: 45
+Common Ability: FLAME_BODY
+Rare Ability: COMPETITIVE
+Rare Ability Chance: 8.88%
+
+
+Species: PINSIR
+Catch Rate: 45
+Common Ability: HYPER_CUTTER
+Rare Ability: MOXIE
+Rare Ability Chance: 4.5%
+
+
+Species: TAUROS
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: OWN_TEMPO
+Rare Ability Chance: 8%
+
+
+Species: MAGIKARP
+Catch Rate: 255
+Common Ability: SWIFT_SWIM
+Rare Ability: MOXIE
+Rare Ability Chance: 10.5%
+
+
+Species: GYARADOS
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: MOXIE
+Rare Ability Chance: 10.5%
+
+
+Species: LAPRAS
+Catch Rate: 45
+Common Ability: WATER_ABSORB
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 1.1%
+
+
+Species: DITTO
+Catch Rate: 35
+Common Ability: LIMBER
+Rare Ability: IMPOSTER
+Rare Ability Chance: 15%
+
+
+Species: EEVEE
+Catch Rate: 45
+Common Ability: RUN_AWAY
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 0.5%
+
+
+Species: VAPOREON
+Catch Rate: 45
+Common Ability: WATER_ABSORB
+Rare Ability: RAIN_DISH
+Rare Ability Chance: 0.5%
+
+
+Species: JOLTEON
+Catch Rate: 45
+Common Ability: VOLT_ABSORB
+Rare Ability: STATIC
+Rare Ability Chance: 0.5%
+
+
+Species: FLAREON
+Catch Rate: 45
+Common Ability: FLASH_FIRE
+Rare Ability: FLAME_BODY
+Rare Ability Chance: 0.5%
+
+
+Species: PORYGON
+Catch Rate: 45
+Common Ability: TRACE
+Rare Ability: DOWNLOAD
+Rare Ability Chance: 33.14159%
+
+
+Species: OMANYTE
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 5.5%
+
+
+Species: OMASTAR
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 5.5%
+
+
+Species: KABUTO
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: BATTLE_ARMOR
+Rare Ability Chance: 20.5%
+
+
+Species: KABUTOPS
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: BATTLE_ARMOR
+Rare Ability Chance: 20.5%
+
+
+Species: AERODACTYL
+Catch Rate: 45
+Common Ability: ROCK_HEAD
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 5%
+
+
+Species: SNORLAX
+Catch Rate: 25
+Common Ability: IMMUNITY
+Rare Ability: THICK_FAT
+Rare Ability Chance: 10.8%
+
+
+Species: ARTICUNO
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: GALE_WINGS
+Rare Ability Chance: 5%
+
+
+Species: ZAPDOS
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 5%
+
+
+Species: MOLTRES
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: AERILATE
+Rare Ability Chance: 5%
+
+
+Species: DRATINI
+Catch Rate: 45
+Common Ability: SHED_SKIN
+Rare Ability: MARVEL_SCALE
+Rare Ability Chance: 15%
+
+
+Species: DRAGONAIR
+Catch Rate: 45
+Common Ability: SHED_SKIN
+Rare Ability: MARVEL_SCALE
+Rare Ability Chance: 15%
+
+
+Species: DRAGONITE
+Catch Rate: 45
+Common Ability: INNER_FOCUS
+Rare Ability: MULTISCALE
+Rare Ability Chance: 15%
+
+
+Species: MEWTWO
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: ANTICIPATION
+Rare Ability Chance: 20%
+
+
+Species: MEW
+Catch Rate: 45
+Common Ability: SYNCHRONIZE
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 10%
+
+
+Species: CHIKORITA
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: AFTERMATH
+Rare Ability Chance: 7.5%
+
+
+Species: BAYLEEF
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: AFTERMATH
+Rare Ability Chance: 7.5%
+
+
+Species: MEGANIUM
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: REGENERATOR
+Rare Ability Chance: 7.5%
+
+
+Species: CYNDAQUIL
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: WHITE_SMOKE
+Rare Ability Chance: 10%
+
+
+Species: QUILAVA
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: WHITE_SMOKE
+Rare Ability Chance: 10%
+
+
+Species: TYPHLOSION
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: INTIMIDATE
+Rare Ability Chance: 10%
+
+
+Species: TOTODILE
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 4%
+
+
+Species: CROCONAW
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 4%
+
+
+Species: FERALIGATR
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 4%
+
+
+Species: SENTRET
+Catch Rate: 255
+Common Ability: RUN_AWAY
+Rare Ability: SIMPLE
+Rare Ability Chance: 9.5%
+
+
+Species: FURRET
+Catch Rate: 90
+Common Ability: RUN_AWAY
+Rare Ability: SIMPLE
+Rare Ability Chance: 9.5%
+
+
+Species: HOOTHOOT
+Catch Rate: 255
+Common Ability: INSOMNIA
+Rare Ability: COMPOUND_EYES
+Rare Ability Chance: 15%
+
+
+Species: NOCTOWL
+Catch Rate: 90
+Common Ability: INSOMNIA
+Rare Ability: COMPOUND_EYES
+Rare Ability Chance: 15%
+
+
+Species: LEDYBA
+Catch Rate: 255
+Common Ability: SWARM
+Rare Ability: IRON_FIST
+Rare Ability Chance: 20%
+
+
+Species: LEDIAN
+Catch Rate: 90
+Common Ability: SWARM
+Rare Ability: IRON_FIST
+Rare Ability Chance: 20%
+
+
+Species: SPINARAK
+Catch Rate: 255
+Common Ability: INSOMNIA
+Rare Ability: MERCILESS
+Rare Ability Chance: 25%
+
+
+Species: ARIADOS
+Catch Rate: 90
+Common Ability: INSOMNIA
+Rare Ability: MERCILESS
+Rare Ability Chance: 25%
+
+
+Species: CROBAT
+Catch Rate: 90
+Common Ability: INNER_FOCUS
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 15%
+
+
+Species: CHINCHOU
+Catch Rate: 190
+Common Ability: VOLT_ABSORB
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 2.5%
+
+
+Species: LANTURN
+Catch Rate: 75
+Common Ability: VOLT_ABSORB
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 2.5%
+
+
+Species: PICHU
+Catch Rate: 190
+Common Ability: STATIC
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 10.5%
+
+
+Species: CLEFFA
+Catch Rate: 150
+Common Ability: CUTE_CHARM
+Rare Ability: MAGIC_GUARD
+Rare Ability Chance: 8.5%
+
+
+Species: IGGLYBUFF
+Catch Rate: 170
+Common Ability: CUTE_CHARM
+Rare Ability: NORMALIZE
+Rare Ability Chance: 12.5%
+
+
+Species: TOGEPI
+Catch Rate: 190
+Common Ability: HUSTLE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 9.2%
+
+
+Species: TOGETIC
+Catch Rate: 75
+Common Ability: HUSTLE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 9.2%
+
+
+Species: NATU
+Catch Rate: 190
+Common Ability: SYNCHRONIZE
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 17.5%
+
+
+Species: XATU
+Catch Rate: 75
+Common Ability: SYNCHRONIZE
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 17.5%
+
+
+Species: MAREEP
+Catch Rate: 235
+Common Ability: STATIC
+Rare Ability: MOTOR_DRIVE
+Rare Ability Chance: 20%
+
+
+Species: FLAAFFY
+Catch Rate: 120
+Common Ability: STATIC
+Rare Ability: MOTOR_DRIVE
+Rare Ability Chance: 20%
+
+
+Species: AMPHAROS
+Catch Rate: 45
+Common Ability: STATIC
+Rare Ability: MOTOR_DRIVE
+Rare Ability Chance: 20%
+
+
+Species: BELLOSSOM
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: CONTRARY
+Rare Ability Chance: 1.5%
+
+
+Species: MARILL
+Catch Rate: 190
+Common Ability: THICK_FAT
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 10%
+
+
+Species: AZUMARILL
+Catch Rate: 75
+Common Ability: THICK_FAT
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 10%
+
+
+Species: SUDOWOODO
+Catch Rate: 65
+Common Ability: STURDY
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 8.5%
+
+
+Species: POLITOED
+Catch Rate: 45
+Common Ability: WATER_ABSORB
+Rare Ability: DRIZZLE
+Rare Ability Chance: 2.5%
+
+
+Species: HOPPIP
+Catch Rate: 255
+Common Ability: CHLOROPHYLL
+Rare Ability: TRIAGE
+Rare Ability Chance: 19%
+
+
+Species: SKIPLOOM
+Catch Rate: 120
+Common Ability: CHLOROPHYLL
+Rare Ability: TRIAGE
+Rare Ability Chance: 19%
+
+
+Species: JUMPLUFF
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: TRIAGE
+Rare Ability Chance: 19%
+
+
+Species: AIPOM
+Catch Rate: 45
+Common Ability: RUN_AWAY
+Rare Ability: SCRAPPY
+Rare Ability Chance: 10%
+
+
+Species: SUNKERN
+Catch Rate: 235
+Common Ability: CHLOROPHYLL
+Rare Ability: CONTRARY
+Rare Ability Chance: 5%
+
+
+Species: SUNFLORA
+Catch Rate: 120
+Common Ability: CHLOROPHYLL
+Rare Ability: CONTRARY
+Rare Ability Chance: 5%
+
+
+Species: YANMA
+Catch Rate: 75
+Common Ability: SPEED_BOOST
+Rare Ability: COMPOUND_EYES
+Rare Ability Chance: 5%
+
+
+Species: WOOPER
+Catch Rate: 255
+Common Ability: DAMP
+Rare Ability: WATER_COMPACTION
+Rare Ability Chance: 7.5%
+
+
+Species: QUAGSIRE
+Catch Rate: 90
+Common Ability: DAMP
+Rare Ability: WATER_COMPACTION
+Rare Ability Chance: 7.5%
+
+
+Species: ESPEON
+Catch Rate: 45
+Common Ability: SYNCHRONIZE
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 0.5%
+
+
+Species: UMBREON
+Catch Rate: 45
+Common Ability: SYNCHRONIZE
+Rare Ability: BATTLE_ARMOR
+Rare Ability Chance: 0.5%
+
+
+Species: MURKROW
+Catch Rate: 30
+Common Ability: INSOMNIA
+Rare Ability: PRANKSTER
+Rare Ability Chance: 15%
+
+
+Species: SLOWKING
+Catch Rate: 70
+Common Ability: OBLIVIOUS
+Rare Ability: REGENERATOR
+Rare Ability Chance: 10%
+
+
+Species: MISDREAVUS
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: SHADOW_TAG
+Rare Ability Chance: 10%
+
+
+Species: UNOWN
+Catch Rate: 225
+Common Ability: LEVITATE
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: WOBBUFFET
+Catch Rate: 45
+Common Ability: SHADOW_TAG
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: GIRAFARIG
+Catch Rate: 60
+Common Ability: INNER_FOCUS
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 13.5%
+
+
+Species: PINECO
+Catch Rate: 190
+Common Ability: STURDY
+Rare Ability: OVERCOAT
+Rare Ability Chance: 20%
+
+
+Species: FORRETRESS
+Catch Rate: 75
+Common Ability: STURDY
+Rare Ability: OVERCOAT
+Rare Ability Chance: 20%
+
+
+Species: DUNSPARCE
+Catch Rate: 190
+Common Ability: RUN_AWAY
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 40%
+
+
+Species: GLIGAR
+Catch Rate: 60
+Common Ability: SAND_VEIL
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 10%
+
+
+Species: STEELIX
+Catch Rate: 25
+Common Ability: STURDY
+Rare Ability: STEELWORKER
+Rare Ability Chance: 8.5%
+
+
+Species: SNUBBULL
+Catch Rate: 190
+Common Ability: INTIMIDATE
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 5%
+
+
+Species: GRANBULL
+Catch Rate: 75
+Common Ability: INTIMIDATE
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 5%
+
+
+Species: QWILFISH
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 10%
+
+
+Species: SCIZOR
+Catch Rate: 25
+Common Ability: SWARM
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 6.9%
+
+
+Species: SHUCKLE
+Catch Rate: 190
+Common Ability: STURDY
+Rare Ability: SHELL_ARMOR
+Rare Ability Chance: 10%
+
+
+Species: HERACROSS
+Catch Rate: 45
+Common Ability: GUTS
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 4.9%
+
+
+Species: SNEASEL
+Catch Rate: 60
+Common Ability: INNER_FOCUS
+Rare Ability: REFRIGERATE
+Rare Ability Chance: 5%
+
+
+Species: TEDDIURSA
+Catch Rate: 120
+Common Ability: PICKUP
+Rare Ability: FUR_COAT
+Rare Ability Chance: 8%
+
+
+Species: URSARING
+Catch Rate: 60
+Common Ability: GUTS
+Rare Ability: FUR_COAT
+Rare Ability Chance: 8%
+
+
+Species: SLUGMA
+Catch Rate: 190
+Common Ability: MAGMA_ARMOR
+Rare Ability: NO_GUARD
+Rare Ability Chance: 10%
+
+
+Species: MAGCARGO
+Catch Rate: 75
+Common Ability: MAGMA_ARMOR
+Rare Ability: NO_GUARD
+Rare Ability Chance: 10%
+
+
+Species: SWINUB
+Catch Rate: 225
+Common Ability: WATER_COMPACTION
+Rare Ability: THICK_FAT
+Rare Ability Chance: 7.5%
+
+
+Species: PILOSWINE
+Catch Rate: 75
+Common Ability: WATER_COMPACTION
+Rare Ability: THICK_FAT
+Rare Ability Chance: 7.5%
+
+
+Species: CORSOLA
+Catch Rate: 60
+Common Ability: HUSTLE
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 15%
+
+
+Species: REMORAID
+Catch Rate: 190
+Common Ability: HUSTLE
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 20%
+
+
+Species: OCTILLERY
+Catch Rate: 75
+Common Ability: SUCTION_CUPS
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 20%
+
+
+Species: DELIBIRD
+Catch Rate: 45
+Common Ability: VITAL_SPIRIT
+Rare Ability: SLUSH_RUSH
+Rare Ability Chance: 35%
+
+
+Species: MANTINE
+Catch Rate: 25
+Common Ability: SWIFT_SWIM
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 10%
+
+
+Species: SKARMORY
+Catch Rate: 25
+Common Ability: STURDY
+Rare Ability: STEELWORKER
+Rare Ability Chance: 11%
+
+
+Species: HOUNDOUR
+Catch Rate: 120
+Common Ability: EARLY_BIRD
+Rare Ability: FLASH_FIRE
+Rare Ability Chance: 20%
+
+
+Species: HOUNDOOM
+Catch Rate: 45
+Common Ability: EARLY_BIRD
+Rare Ability: FLASH_FIRE
+Rare Ability Chance: 20%
+
+
+Species: KINGDRA
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_VEIL
+Rare Ability Chance: 20%
+
+
+Species: PHANPY
+Catch Rate: 120
+Common Ability: PICKUP
+Rare Ability: STAMINA
+Rare Ability Chance: 9.5%
+
+
+Species: DONPHAN
+Catch Rate: 60
+Common Ability: STURDY
+Rare Ability: STAMINA
+Rare Ability Chance: 9.5%
+
+
+Species: PORYGON2
+Catch Rate: 45
+Common Ability: TRACE
+Rare Ability: DOWNLOAD
+Rare Ability Chance: 33.14159%
+
+
+Species: STANTLER
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: FLUFFY
+Rare Ability Chance: 12.5%
+
+
+Species: SMEARGLE
+Catch Rate: 45
+Common Ability: OWN_TEMPO
+Rare Ability: INSOMNIA
+Rare Ability Chance: 20%
+
+
+Species: TYROGUE
+Catch Rate: 75
+Common Ability: GUTS
+Rare Ability: IRON_FIST
+Rare Ability Chance: 7%
+
+
+Species: HITMONTOP
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 7%
+
+
+Species: SMOOCHUM
+Catch Rate: 45
+Common Ability: OBLIVIOUS
+Rare Ability: NO_GUARD
+Rare Ability Chance: 2.5%
+
+
+Species: ELEKID
+Catch Rate: 45
+Common Ability: ANGER_POINT
+Rare Ability: GALVANIZE
+Rare Ability Chance: 3.11%
+
+
+Species: MAGBY
+Catch Rate: 45
+Common Ability: FLAME_BODY
+Rare Ability: COMPETITIVE
+Rare Ability Chance: 8.88%
+
+
+Species: MILTANK
+Catch Rate: 45
+Common Ability: THICK_FAT
+Rare Ability: SCRAPPY
+Rare Ability Chance: 10%
+
+
+Species: BLISSEY
+Catch Rate: 30
+Common Ability: NATURAL_CURE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 10%
+
+
+Species: RAIKOU
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: FUR_COAT
+Rare Ability Chance: 1.5%
+
+
+Species: ENTEI
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: INTIMIDATE
+Rare Ability Chance: 5%
+
+
+Species: SUICUNE
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: DRIZZLE
+Rare Ability Chance: 0.5%
+
+
+Species: LARVITAR
+Catch Rate: 45
+Common Ability: GUTS
+Rare Ability: SAND_VEIL
+Rare Ability Chance: 5%
+
+
+Species: PUPITAR
+Catch Rate: 45
+Common Ability: SHED_SKIN
+Rare Ability: SAND_VEIL
+Rare Ability Chance: 5%
+
+
+Species: TYRANITAR
+Catch Rate: 45
+Common Ability: SAND_STREAM
+Rare Ability: SAND_RUSH
+Rare Ability Chance: 5%
+
+
+Species: LUGIA
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: MULTISCALE
+Rare Ability Chance: 5%
+
+
+Species: HO_OH
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: REGENERATOR
+Rare Ability Chance: 5%
+
+
+Species: CELEBI
+Catch Rate: 45
+Common Ability: NATURAL_CURE
+Rare Ability: OVERCOAT
+Rare Ability Chance: 20%
+
+
+Species: TREECKO
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 10%
+
+
+Species: GROVYLE
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 10%
+
+
+Species: SCEPTILE
+Catch Rate: 45
+Common Ability: OVERGROW
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 10%
+
+
+Species: TORCHIC
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 4%
+
+
+Species: COMBUSKEN
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 4%
+
+
+Species: BLAZIKEN
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 4%
+
+
+Species: MUDKIP
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: MOXIE
+Rare Ability Chance: 6.5%
+
+
+Species: MARSHTOMP
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: MOXIE
+Rare Ability Chance: 6.5%
+
+
+Species: SWAMPERT
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: MOXIE
+Rare Ability Chance: 6.5%
+
+
+Species: POOCHYENA
+Catch Rate: 255
+Common Ability: RUN_AWAY
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 5%
+
+
+Species: MIGHTYENA
+Catch Rate: 127
+Common Ability: INTIMIDATE
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 5%
+
+
+Species: ZIGZAGOON
+Catch Rate: 255
+Common Ability: PICKUP
+Rare Ability: GLUTTONY
+Rare Ability Chance: 7.98%
+
+
+Species: LINOONE
+Catch Rate: 90
+Common Ability: GLUTTONY
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 7.98%
+
+
+Species: WURMPLE
+Catch Rate: 255
+Common Ability: SHIELD_DUST
+Rare Ability: SWARM
+Rare Ability Chance: 15%
+
+
+Species: SILCOON
+Catch Rate: 120
+Common Ability: SHED_SKIN
+Rare Ability: SWARM
+Rare Ability Chance: 15%
+
+
+Species: BEAUTIFLY
+Catch Rate: 45
+Common Ability: SWARM
+Rare Ability: TINTED_LENS
+Rare Ability Chance: 15%
+
+
+Species: CASCOON
+Catch Rate: 120
+Common Ability: SHED_SKIN
+Rare Ability: SWARM
+Rare Ability Chance: 15%
+
+
+Species: DUSTOX
+Catch Rate: 45
+Common Ability: SHIELD_DUST
+Rare Ability: MERCILESS
+Rare Ability Chance: 15%
+
+
+Species: LOTAD
+Catch Rate: 255
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 3.5%
+
+
+Species: LOMBRE
+Catch Rate: 120
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 3.5%
+
+
+Species: LUDICOLO
+Catch Rate: 45
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 3.5%
+
+
+Species: SEEDOT
+Catch Rate: 255
+Common Ability: CHLOROPHYLL
+Rare Ability: LONG_REACH
+Rare Ability Chance: 10%
+
+
+Species: NUZLEAF
+Catch Rate: 120
+Common Ability: CHLOROPHYLL
+Rare Ability: LONG_REACH
+Rare Ability Chance: 10%
+
+
+Species: SHIFTRY
+Catch Rate: 45
+Common Ability: CHLOROPHYLL
+Rare Ability: LONG_REACH
+Rare Ability Chance: 10%
+
+
+Species: NINCADA
+Catch Rate: 255
+Common Ability: COMPOUND_EYES
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 5%
+
+
+Species: NINJASK
+Catch Rate: 120
+Common Ability: SPEED_BOOST
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 5%
+
+
+Species: SHEDINJA
+Catch Rate: 45
+Common Ability: WONDER_GUARD
+Rare Ability: WONDER_GUARD
+Rare Ability Chance: 0%
+
+
+Species: TAILLOW
+Catch Rate: 200
+Common Ability: GUTS
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 4.3%
+
+
+Species: SWELLOW
+Catch Rate: 45
+Common Ability: GUTS
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 4.3%
+
+
+Species: SHROOMISH
+Catch Rate: 255
+Common Ability: EFFECT_SPORE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 10%
+
+
+Species: BRELOOM
+Catch Rate: 90
+Common Ability: EFFECT_SPORE
+Rare Ability: TECHNICIAN
+Rare Ability Chance: 10%
+
+
+Species: SPINDA
+Catch Rate: 255
+Common Ability: OWN_TEMPO
+Rare Ability: CONTRARY
+Rare Ability Chance: 20%
+
+
+Species: WINGULL
+Catch Rate: 190
+Common Ability: KEEN_EYE
+Rare Ability: DRIZZLE
+Rare Ability Chance: 10%
+
+
+Species: PELIPPER
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: DRIZZLE
+Rare Ability Chance: 10%
+
+
+Species: SURSKIT
+Catch Rate: 200
+Common Ability: SWIFT_SWIM
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 7.55%
+
+
+Species: MASQUERAIN
+Catch Rate: 75
+Common Ability: INTIMIDATE
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 7.55%
+
+
+Species: WAILMER
+Catch Rate: 125
+Common Ability: OBLIVIOUS
+Rare Ability: MARVEL_SCALE
+Rare Ability Chance: 10%
+
+
+Species: WAILORD
+Catch Rate: 60
+Common Ability: OBLIVIOUS
+Rare Ability: MARVEL_SCALE
+Rare Ability Chance: 10%
+
+
+Species: SKITTY
+Catch Rate: 255
+Common Ability: CUTE_CHARM
+Rare Ability: NORMALIZE
+Rare Ability Chance: 20%
+
+
+Species: DELCATTY
+Catch Rate: 60
+Common Ability: CUTE_CHARM
+Rare Ability: NORMALIZE
+Rare Ability Chance: 20%
+
+
+Species: KECLEON
+Catch Rate: 200
+Common Ability: COLOR_CHANGE
+Rare Ability: PROTEAN
+Rare Ability Chance: 40%
+
+
+Species: BALTOY
+Catch Rate: 255
+Common Ability: LEVITATE
+Rare Ability: AFTERMATH
+Rare Ability Chance: 20%
+
+
+Species: CLAYDOL
+Catch Rate: 90
+Common Ability: LEVITATE
+Rare Ability: AFTERMATH
+Rare Ability Chance: 20%
+
+
+Species: NOSEPASS
+Catch Rate: 255
+Common Ability: STURDY
+Rare Ability: NO_GUARD
+Rare Ability Chance: 3.3%
+
+
+Species: TORKOAL
+Catch Rate: 90
+Common Ability: WHITE_SMOKE
+Rare Ability: DROUGHT
+Rare Ability Chance: 5%
+
+
+Species: SABLEYE
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: PRANKSTER
+Rare Ability Chance: 16%
+
+
+Species: BARBOACH
+Catch Rate: 190
+Common Ability: OBLIVIOUS
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 0.4%
+
+
+Species: WHISCASH
+Catch Rate: 75
+Common Ability: OBLIVIOUS
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 0.4%
+
+
+Species: LUVDISC
+Catch Rate: 225
+Common Ability: SWIFT_SWIM
+Rare Ability: WONDER_GUARD
+Rare Ability Chance: 1%
+
+
+Species: CORPHISH
+Catch Rate: 205
+Common Ability: SHELL_ARMOR
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 5%
+
+
+Species: CRAWDAUNT
+Catch Rate: 155
+Common Ability: HYPER_CUTTER
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 5%
+
+
+Species: FEEBAS
+Catch Rate: 255
+Common Ability: SWIFT_SWIM
+Rare Ability: MULTISCALE
+Rare Ability Chance: 40%
+
+
+Species: MILOTIC
+Catch Rate: 60
+Common Ability: MARVEL_SCALE
+Rare Ability: SOUL_HEART
+Rare Ability Chance: 40%
+
+
+Species: CARVANHA
+Catch Rate: 225
+Common Ability: ROUGH_SKIN
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 9.2%
+
+
+Species: SHARPEDO
+Catch Rate: 60
+Common Ability: ROUGH_SKIN
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 9.2%
+
+
+Species: TRAPINCH
+Catch Rate: 255
+Common Ability: HYPER_CUTTER
+Rare Ability: ARENA_TRAP
+Rare Ability Chance: 10%
+
+
+Species: VIBRAVA
+Catch Rate: 120
+Common Ability: LEVITATE
+Rare Ability: LEVITATE
+Rare Ability Chance: 10%
+
+
+Species: FLYGON
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 10%
+
+
+Species: MAKUHITA
+Catch Rate: 180
+Common Ability: THICK_FAT
+Rare Ability: GUTS
+Rare Ability Chance: 20%
+
+
+Species: HARIYAMA
+Catch Rate: 200
+Common Ability: THICK_FAT
+Rare Ability: GUTS
+Rare Ability Chance: 20%
+
+
+Species: ELECTRIKE
+Catch Rate: 120
+Common Ability: STATIC
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 20%
+
+
+Species: MANECTRIC
+Catch Rate: 45
+Common Ability: STATIC
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 20%
+
+
+Species: NUMEL
+Catch Rate: 255
+Common Ability: OBLIVIOUS
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 10%
+
+
+Species: CAMERUPT
+Catch Rate: 150
+Common Ability: MAGMA_ARMOR
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 10%
+
+
+Species: SPHEAL
+Catch Rate: 255
+Common Ability: THICK_FAT
+Rare Ability: VOLT_ABSORB
+Rare Ability Chance: 3%
+
+
+Species: SEALEO
+Catch Rate: 120
+Common Ability: THICK_FAT
+Rare Ability: VOLT_ABSORB
+Rare Ability Chance: 3%
+
+
+Species: WALREIN
+Catch Rate: 45
+Common Ability: THICK_FAT
+Rare Ability: VOLT_ABSORB
+Rare Ability Chance: 3%
+
+
+Species: CACNEA
+Catch Rate: 190
+Common Ability: SAND_VEIL
+Rare Ability: PRANKSTER
+Rare Ability Chance: 10%
+
+
+Species: CACTURNE
+Catch Rate: 60
+Common Ability: SAND_VEIL
+Rare Ability: IRON_BARBS
+Rare Ability Chance: 10%
+
+
+Species: SNORUNT
+Catch Rate: 190
+Common Ability: INNER_FOCUS
+Rare Ability: REFRIGERATE
+Rare Ability Chance: 3%
+
+
+Species: GLALIE
+Catch Rate: 75
+Common Ability: INNER_FOCUS
+Rare Ability: REFRIGERATE
+Rare Ability Chance: 3%
+
+
+Species: LUNATONE
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: COMPOUND_EYES
+Rare Ability Chance: 8.5%
+
+
+Species: SOLROCK
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: DEFIANT
+Rare Ability Chance: 15.8%
+
+
+Species: AZURILL
+Catch Rate: 150
+Common Ability: THICK_FAT
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 10%
+
+
+Species: SPOINK
+Catch Rate: 255
+Common Ability: OWN_TEMPO
+Rare Ability: MERCILESS
+Rare Ability Chance: 10%
+
+
+Species: GRUMPIG
+Catch Rate: 60
+Common Ability: OWN_TEMPO
+Rare Ability: STAMINA
+Rare Ability Chance: 10%
+
+
+Species: PLUSLE
+Catch Rate: 200
+Common Ability: PLUS
+Rare Ability: GALVANIZE
+Rare Ability Chance: 20%
+
+
+Species: MINUN
+Catch Rate: 200
+Common Ability: MINUS
+Rare Ability: VICTORY_STAR
+Rare Ability Chance: 20%
+
+
+Species: MAWILE
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: HUGE_POWER
+Rare Ability Chance: 7.5%
+
+
+Species: MEDITITE
+Catch Rate: 180
+Common Ability: PURE_POWER
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: MEDICHAM
+Catch Rate: 90
+Common Ability: PURE_POWER
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: SWABLU
+Catch Rate: 255
+Common Ability: NATURAL_CURE
+Rare Ability: AERILATE
+Rare Ability Chance: 5%
+
+
+Species: ALTARIA
+Catch Rate: 45
+Common Ability: NATURAL_CURE
+Rare Ability: AERILATE
+Rare Ability Chance: 5%
+
+
+Species: WYNAUT
+Catch Rate: 125
+Common Ability: SHADOW_TAG
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: DUSKULL
+Catch Rate: 190
+Common Ability: LEVITATE
+Rare Ability: FRISK
+Rare Ability Chance: 15%
+
+
+Species: DUSCLOPS
+Catch Rate: 90
+Common Ability: PRESSURE
+Rare Ability: FRISK
+Rare Ability Chance: 15%
+
+
+Species: ROSELIA
+Catch Rate: 150
+Common Ability: NATURAL_CURE
+Rare Ability: POISON_POINT
+Rare Ability Chance: 30%
+
+
+Species: SLAKOTH
+Catch Rate: 255
+Common Ability: TRUANT
+Rare Ability: STENCH
+Rare Ability Chance: 0.33%
+
+
+Species: VIGOROTH
+Catch Rate: 120
+Common Ability: VITAL_SPIRIT
+Rare Ability: STENCH
+Rare Ability Chance: 0.33%
+
+
+Species: SLAKING
+Catch Rate: 45
+Common Ability: TRUANT
+Rare Ability: STENCH
+Rare Ability Chance: 0.33%
+
+
+Species: GULPIN
+Catch Rate: 225
+Common Ability: LIQUID_OOZE
+Rare Ability: GOOEY
+Rare Ability Chance: 20%
+
+
+Species: SWALOT
+Catch Rate: 75
+Common Ability: LIQUID_OOZE
+Rare Ability: GOOEY
+Rare Ability Chance: 20%
+
+
+Species: TROPIUS
+Catch Rate: 200
+Common Ability: CHLOROPHYLL
+Rare Ability: AERILATE
+Rare Ability Chance: 10%
+
+
+Species: WHISMUR
+Catch Rate: 190
+Common Ability: SOUNDPROOF
+Rare Ability: NORMALIZE
+Rare Ability Chance: 10%
+
+
+Species: LOUDRED
+Catch Rate: 120
+Common Ability: SOUNDPROOF
+Rare Ability: NORMALIZE
+Rare Ability Chance: 10%
+
+
+Species: EXPLOUD
+Catch Rate: 45
+Common Ability: SOUNDPROOF
+Rare Ability: NORMALIZE
+Rare Ability Chance: 10%
+
+
+Species: CLAMPERL
+Catch Rate: 255
+Common Ability: SHELL_ARMOR
+Rare Ability: WATER_ABSORB
+Rare Ability Chance: 3%
+
+
+Species: HUNTAIL
+Catch Rate: 60
+Common Ability: SWIFT_SWIM
+Rare Ability: MOXIE
+Rare Ability Chance: 3%
+
+
+Species: GOREBYSS
+Catch Rate: 60
+Common Ability: SWIFT_SWIM
+Rare Ability: SPEED_BOOST
+Rare Ability Chance: 3%
+
+
+Species: ABSOL
+Catch Rate: 30
+Common Ability: PRESSURE
+Rare Ability: MAGIC_BOUNCE
+Rare Ability Chance: 5.6%
+
+
+Species: SHUPPET
+Catch Rate: 225
+Common Ability: INSOMNIA
+Rare Ability: LEVITATE
+Rare Ability Chance: 10%
+
+
+Species: BANETTE
+Catch Rate: 45
+Common Ability: INSOMNIA
+Rare Ability: LEVITATE
+Rare Ability Chance: 10%
+
+
+Species: SEVIPER
+Catch Rate: 90
+Common Ability: SHED_SKIN
+Rare Ability: STRONG_JAW
+Rare Ability Chance: 15%
+
+
+Species: ZANGOOSE
+Catch Rate: 90
+Common Ability: IMMUNITY
+Rare Ability: QUICK_FEET
+Rare Ability Chance: 15%
+
+
+Species: RELICANTH
+Catch Rate: 25
+Common Ability: SWIFT_SWIM
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 10%
+
+
+Species: ARON
+Catch Rate: 180
+Common Ability: STURDY
+Rare Ability: HEATPROOF
+Rare Ability Chance: 10%
+
+
+Species: LAIRON
+Catch Rate: 90
+Common Ability: STURDY
+Rare Ability: HEATPROOF
+Rare Ability Chance: 10%
+
+
+Species: AGGRON
+Catch Rate: 45
+Common Ability: STURDY
+Rare Ability: HEATPROOF
+Rare Ability Chance: 10%
+
+
+Species: CASTFORM
+Catch Rate: 45
+Common Ability: FORECAST
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: VOLBEAT
+Catch Rate: 150
+Common Ability: ILLUMINATE
+Rare Ability: SNIPER
+Rare Ability Chance: 30%
+
+
+Species: ILLUMISE
+Catch Rate: 150
+Common Ability: OBLIVIOUS
+Rare Ability: SNIPER
+Rare Ability Chance: 30%
+
+
+Species: LILEEP
+Catch Rate: 45
+Common Ability: SUCTION_CUPS
+Rare Ability: RAIN_DISH
+Rare Ability Chance: 10%
+
+
+Species: CRADILY
+Catch Rate: 45
+Common Ability: SUCTION_CUPS
+Rare Ability: SAND_STREAM
+Rare Ability Chance: 10%
+
+
+Species: ANORITH
+Catch Rate: 45
+Common Ability: BATTLE_ARMOR
+Rare Ability: IRON_BARBS
+Rare Ability Chance: 10%
+
+
+Species: ARMALDO
+Catch Rate: 45
+Common Ability: BATTLE_ARMOR
+Rare Ability: IRON_BARBS
+Rare Ability Chance: 10%
+
+
+Species: RALTS
+Catch Rate: 235
+Common Ability: SYNCHRONIZE
+Rare Ability: DAZZLING
+Rare Ability Chance: 6.67%
+
+
+Species: KIRLIA
+Catch Rate: 120
+Common Ability: SYNCHRONIZE
+Rare Ability: DAZZLING
+Rare Ability Chance: 6.67%
+
+
+Species: GARDEVOIR
+Catch Rate: 45
+Common Ability: SYNCHRONIZE
+Rare Ability: DAZZLING
+Rare Ability Chance: 6.67%
+
+
+Species: BAGON
+Catch Rate: 45
+Common Ability: ROCK_HEAD
+Rare Ability: LIMBER
+Rare Ability Chance: 15%
+
+
+Species: SHELGON
+Catch Rate: 45
+Common Ability: ROCK_HEAD
+Rare Ability: LIMBER
+Rare Ability Chance: 15%
+
+
+Species: SALAMENCE
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: MOXIE
+Rare Ability Chance: 15%
+
+
+Species: BELDUM
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 4.3%
+
+
+Species: METANG
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 4.3%
+
+
+Species: METAGROSS
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 4.3%
+
+
+Species: REGIROCK
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: STURDY
+Rare Ability Chance: 20%
+
+
+Species: REGICE
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: LIGHTNING_ROD
+Rare Ability Chance: 10%
+
+
+Species: REGISTEEL
+Catch Rate: 3
+Common Ability: CLEAR_BODY
+Rare Ability: HEATPROOF
+Rare Ability Chance: 8.5%
+
+
+Species: KYOGRE
+Catch Rate: 5
+Common Ability: DRIZZLE
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: GROUDON
+Catch Rate: 5
+Common Ability: DROUGHT
+Rare Ability: NONE
+Rare Ability Chance: 0%
+
+
+Species: RAYQUAZA
+Catch Rate: 3
+Common Ability: AIR_LOCK
+Rare Ability: AERILATE
+Rare Ability Chance: 1%
+
+
+Species: LATIAS
+Catch Rate: 3
+Common Ability: LEVITATE
+Rare Ability: REGENERATOR
+Rare Ability Chance: 15%
+
+
+Species: LATIOS
+Catch Rate: 3
+Common Ability: LEVITATE
+Rare Ability: SHEER_FORCE
+Rare Ability Chance: 15%
+
+
+Species: JIRACHI
+Catch Rate: 3
+Common Ability: SUPER_LUCK
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 17.77%
+
+
+Species: DEOXYS
+Catch Rate: 3
+Common Ability: PRESSURE
+Rare Ability: SOUL_HEART
+Rare Ability Chance: 4.5%
+
+
+Species: CHIMECHO
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: SIMPLE
+Rare Ability Chance: 10%
+
+
+Species: TURTWIG
+Catch Rate: 45
+Common Ability: SHELL_ARMOR
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 5%
+
+
+Species: GROTLE
+Catch Rate: 45
+Common Ability: SHELL_ARMOR
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 5%
+
+
+Species: TORTERRA
+Catch Rate: 45
+Common Ability: SHELL_ARMOR
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 5%
+
+
+Species: CHIMCHAR
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: IRON_FIST
+Rare Ability Chance: 7.5%
+
+
+Species: MONFERNO
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: IRON_FIST
+Rare Ability Chance: 7.5%
+
+
+Species: INFERNAPE
+Catch Rate: 45
+Common Ability: BLAZE
+Rare Ability: IRON_FIST
+Rare Ability Chance: 7.5%
+
+
+Species: PIPLUP
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 2.5%
+
+
+Species: PRINPLUP
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 2.5%
+
+
+Species: EMPOLEON
+Catch Rate: 45
+Common Ability: TORRENT
+Rare Ability: WATER_BUBBLE
+Rare Ability Chance: 2.5%
+
+
+Species: BUDEW
+Catch Rate: 255
+Common Ability: NATURAL_CURE
+Rare Ability: POISON_POINT
+Rare Ability Chance: 30%
+
+
+Species: ROSERADE
+Catch Rate: 75
+Common Ability: NATURAL_CURE
+Rare Ability: POISON_POINT
+Rare Ability Chance: 30%
+
+
+Species: SHINX
+Catch Rate: 235
+Common Ability: INTIMIDATE
+Rare Ability: DEFIANT
+Rare Ability Chance: 20%
+
+
+Species: LUXIO
+Catch Rate: 120
+Common Ability: INTIMIDATE
+Rare Ability: DEFIANT
+Rare Ability Chance: 20%
+
+
+Species: LUXRAY
+Catch Rate: 45
+Common Ability: INTIMIDATE
+Rare Ability: DEFIANT
+Rare Ability Chance: 20%
+
+
+Species: AMBIPOM
+Catch Rate: 45
+Common Ability: TECHNICIAN
+Rare Ability: SKILL_LINK
+Rare Ability Chance: 10%
+
+
+Species: MISMAGIUS
+Catch Rate: 45
+Common Ability: LEVITATE
+Rare Ability: SHADOW_TAG
+Rare Ability Chance: 10%
+
+
+Species: COMBEE
+Catch Rate: 120
+Common Ability: SHIELD_DUST
+Rare Ability: PRANKSTER
+Rare Ability Chance: 40%
+
+
+Species: VESPIQUEN
+Catch Rate: 45
+Common Ability: SHIELD_DUST
+Rare Ability: MERCILESS
+Rare Ability Chance: 40%
+
+
+Species: HONCHKROW
+Catch Rate: 30
+Common Ability: INSOMNIA
+Rare Ability: MOXIE
+Rare Ability Chance: 15%
+
+
+Species: PACHIRISU
+Catch Rate: 200
+Common Ability: FRISK
+Rare Ability: FLUFFY
+Rare Ability Chance: 10%
+
+
+Species: MUNCHLAX
+Catch Rate: 50
+Common Ability: IMMUNITY
+Rare Ability: THICK_FAT
+Rare Ability Chance: 10.8%
+
+
+Species: DRIFLOON
+Catch Rate: 125
+Common Ability: AFTERMATH
+Rare Ability: SAND_RUSH
+Rare Ability Chance: 10%
+
+
+Species: DRIFBLIM
+Catch Rate: 60
+Common Ability: AFTERMATH
+Rare Ability: SAND_RUSH
+Rare Ability Chance: 10%
+
+
+Species: WEAVILE
+Catch Rate: 45
+Common Ability: INNER_FOCUS
+Rare Ability: REFRIGERATE
+Rare Ability Chance: 5%
+
+
+Species: LICKILICKY
+Catch Rate: 30
+Common Ability: OWN_TEMPO
+Rare Ability: UNAWARE
+Rare Ability Chance: 20%
+
+
+Species: BUNEARY
+Catch Rate: 190
+Common Ability: LIMBER
+Rare Ability: RECKLESS
+Rare Ability Chance: 9.5%
+
+
+Species: LOPUNNY
+Catch Rate: 60
+Common Ability: LIMBER
+Rare Ability: RECKLESS
+Rare Ability Chance: 9.5%
+
+
+Species: RHYPERIOR
+Catch Rate: 30
+Common Ability: ROCK_HEAD
+Rare Ability: FILTER
+Rare Ability Chance: 10%
+
+
+Species: TANGROWTH
+Catch Rate: 30
+Common Ability: CHLOROPHYLL
+Rare Ability: TRIAGE
+Rare Ability Chance: 4.5%
+
+
+Species: ELECTIVIRE
+Catch Rate: 30
+Common Ability: ANGER_POINT
+Rare Ability: GALVANIZE
+Rare Ability Chance: 3.11%
+
+
+Species: MAGMORTAR
+Catch Rate: 30
+Common Ability: FLAME_BODY
+Rare Ability: COMPETITIVE
+Rare Ability Chance: 8.88%
+
+
+Species: BRONZOR
+Catch Rate: 255
+Common Ability: LEVITATE
+Rare Ability: HEATPROOF
+Rare Ability Chance: 40%
+
+
+Species: BRONZONG
+Catch Rate: 90
+Common Ability: LEVITATE
+Rare Ability: HEATPROOF
+Rare Ability Chance: 40%
+
+
+Species: TOGEKISS
+Catch Rate: 30
+Common Ability: HUSTLE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 9.2%
+
+
+Species: YANMEGA
+Catch Rate: 30
+Common Ability: SPEED_BOOST
+Rare Ability: COMPOUND_EYES
+Rare Ability Chance: 5%
+
+
+Species: BONSLY
+Catch Rate: 255
+Common Ability: STURDY
+Rare Ability: ROCK_HEAD
+Rare Ability Chance: 8.5%
+
+
+Species: MIME_JR
+Catch Rate: 145
+Common Ability: FILTER
+Rare Ability: DAZZLING
+Rare Ability Chance: 10%
+
+
+Species: HAPPINY
+Catch Rate: 130
+Common Ability: NATURAL_CURE
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 10%
+
+
+Species: SPIRITOMB
+Catch Rate: 100
+Common Ability: PRESSURE
+Rare Ability: INFILTRATOR
+Rare Ability Chance: 20%
+
+
+Species: GIBLE
+Catch Rate: 45
+Common Ability: ROUGH_SKIN
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 1.5%
+
+
+Species: GABITE
+Catch Rate: 45
+Common Ability: ROUGH_SKIN
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 1.5%
+
+
+Species: GARCHOMP
+Catch Rate: 45
+Common Ability: ROUGH_SKIN
+Rare Ability: TOUGH_CLAWS
+Rare Ability Chance: 1.5%
+
+
+Species: RIOLU
+Catch Rate: 75
+Common Ability: INNER_FOCUS
+Rare Ability: PRANKSTER
+Rare Ability Chance: 2.5%
+
+
+Species: LUCARIO
+Catch Rate: 45
+Common Ability: INNER_FOCUS
+Rare Ability: ADAPTABILITY
+Rare Ability Chance: 2.5%
+
+
+Species: SNOVER
+Catch Rate: 120
+Common Ability: SNOW_WARNING
+Rare Ability: RECKLESS
+Rare Ability Chance: 13%
+
+
+Species: ABOMASNOW
+Catch Rate: 60
+Common Ability: SNOW_WARNING
+Rare Ability: RECKLESS
+Rare Ability Chance: 13%
+
+
+Species: CHINGLING
+Catch Rate: 120
+Common Ability: LEVITATE
+Rare Ability: SIMPLE
+Rare Ability Chance: 10%
+
+
+Species: MANTYKE
+Catch Rate: 25
+Common Ability: SWIFT_SWIM
+Rare Ability: SAP_SIPPER
+Rare Ability Chance: 10%
+
+
+Species: LEAFEON
+Catch Rate: 45
+Common Ability: KEEN_EYE
+Rare Ability: CHLOROPHYLL
+Rare Ability Chance: 0.5%
+
+
+Species: GLACEON
+Catch Rate: 45
+Common Ability: SNOW_CLOAK
+Rare Ability: SLUSH_RUSH
+Rare Ability Chance: 0.5%
+
+
+Species: GLISCOR
+Catch Rate: 30
+Common Ability: SAND_VEIL
+Rare Ability: SAND_FORCE
+Rare Ability Chance: 10%
+
+
+Species: MAMOSWINE
+Catch Rate: 50
+Common Ability: WATER_COMPACTION
+Rare Ability: THICK_FAT
+Rare Ability Chance: 7.5%
+
+
+Species: PORYGON_Z
+Catch Rate: 30
+Common Ability: DOWNLOAD
+Rare Ability: NORMALIZE
+Rare Ability Chance: 33.14159%
+
+
+Species: GALLADE
+Catch Rate: 45
+Common Ability: SYNCHRONIZE
+Rare Ability: DEFIANT
+Rare Ability Chance: 6.67%
+
+
+Species: PROBOPASS
+Catch Rate: 60
+Common Ability: STURDY
+Rare Ability: NO_GUARD
+Rare Ability Chance: 3.33%
+
+
+Species: DUSKNOIR
+Catch Rate: 45
+Common Ability: PRESSURE
+Rare Ability: IRON_FIST
+Rare Ability Chance: 15%
+
+
+Species: FROSLASS
+Catch Rate: 75
+Common Ability: SNOW_CLOAK
+Rare Ability: SERENE_GRACE
+Rare Ability Chance: 3%
+
+

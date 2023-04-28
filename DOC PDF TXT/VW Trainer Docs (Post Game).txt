@@ -1,0 +1,854 @@
+Template
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 100 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+
+Nuvema Town
+=================================================================================================================================================
+PKMN Trainer Bianca	(Rotation Battle)
+
+If you chose Torchic:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Feraligatr lvl 100 @ Choice Band    Intimidate		Ice Fang/Aqua Tail/Superpower/Crunch
+
+Rampardos  lvl 100 @ Focus Sash     Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Tyranitar  lvl 100 @ Chople Berry   Battle Armor		Dragon Dance/Crunch/Rock Slide/Fire Punch
+
+Magcargo   lvl 100 @ Fire Gem	    Water Absorb	Blast Burn/Recover/Scald/Will-o-Wisp
+
+Serperior  lvl 100 @ Life Orb       Contrary		Thunderbolt/Leaf Storm/Synthesis/Knock Off
+
+
+If you chose Mudkip:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Meganium   lvl 100 @ Leftovers	    Filter		Synthesis/Giga Drain/Psychic/Ancientpower
+
+Rampardos  lvl 100 @ Focus Sash	    Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Salamence  lvl 100 @ Yache Berry    Intimidate		Fly/Dragon Claw/Hydro Pump/Fire Fang
+
+Magnezone  lvl 100 @ Grass Gem	    Levitate		Energy Ball/Zap Cannon/Flash Cannon/Protect
+
+Emboar     lvl 100 @ Life Orb       Rock Head		Flare Blitz/Head Smash/Wild Charge/Night Daze
+
+
+If you chose Treecko:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Typhlosion lvl 100 @ Choice Specs   Adaptability	Blast Burn/Extrasensory/Earth Power/Ancientpower
+
+Rampardos  lvl 100 @ Focus Sash	    Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Metagross  lvl 100 @ Shuca Berry    Iron Fist		Zen Headbutt/Meteor Mash/Earthquake/Ice Punch
+
+Froslass   lvl 100 @ Ice Gem	    Levitate		Ice Beam/Shadow Ball/Earth Power/Power Gem
+
+Samurott   lvl 100 @ Life Orb       Defiant		Aqua Tail/Megahorn/Sacred Sword/Stone Edge
+
+Chargestone Cave
+=================================================================================================================================================
+Team Plasma Grunt
+
+Watchog(100)		Crush Claw, Crunch, Psycho Cut
+
+Team Plasma Grunt
+
+Watchog(100)		Crush Claw, Crunch, Psycho Cut
+
+
+Victory Road
+=================================================================================================================================================
+PKMN Trainer Cheren	(Triple Battle)
+
+If you chose Torchic:
+
+Manectric lvl 100 @ Choice Specs    Intimidate		Thunderbolt/Flamethrower/Energy Ball/Volt Switch
+
+Vaporeon  lvl 100 @ Rindo Berry	    Drizzle		Scald/Acid Armor/Recover/Ice Beam
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Curse/Crunch/Body Slam/Slack Off
+
+Crobat    lvl 100 @ Scope Lens	    Sniper		Cross Poison/Aura Sphere/Giga Drain/Wing Attack
+
+Metagross lvl 100 @ Life Orb	    Iron Fist		Zen Headbutt/Meteor Mash/Hammer Arm/Ice Punch
+
+Samurott  lvl 100 @ Water Gem	    Defiant		Aqua Tail/Sacred Sword/Megahorn/Stone Edge
+
+
+If you chose Mudkip:
+
+Houndoom  lvl 100 @ Choice Specs    Intimidate		Dark Pulse/Shadow Ball/Flamethrower/Energy Ball
+
+Jolteon   lvl 100 @ Shuca Berry	    Speed Boost		Thunderbolt/Extrasensory/Energy Ball/Bug Buzz
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Body Slam/Superpower/Crunch/Slack Off
+
+Unfezant  lvl 100 @ Scope Lens	    Super Luck		Aura Sphere/Heat Wave/Air Slash/Dark Pulse
+
+Tyranitar lvl 100 @ Life Orb	    Battle Armor	Dragon Dance/Crunch/Stone Edge/Aqua Tail
+
+Serperior lvl 100 @ Grass Gem	    Contrary		Leaf Storm/Thunderbolt/Synthesis/Knock Off
+
+
+If you chose Treecko:
+
+Glalie    lvl 100 @ Choice Band	    Rock Head		Head Smash/Icicle Crash/Double-Edge/Explosion
+
+Flareon   lvl 100 @ Shuca Berry     Drought		Flare Blitz/Earthquake/Wild Charge/Gunk Shot
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Curse/Crunch/Body Slam/Slack Off
+
+Pidgeot   lvl 100 @ Choice Specs    No Guard		Thunder/Heat Wave/Hurricane/Focus Blast
+
+Salamence lvl 100 @ Life Orb	    Intimidate		Wing Attack/Dragon Rush/Dragon Dance/Iron Head
+
+Emboar    lvl 100 @ Fire Gem	    Rock Head		Flare Blitz/Head Smash/Night Daze/Wild Charge
+
+Challenger's Cave
+=================================================================================================================================================
+Backpacker Toru
+
+Torterra(100)		Wood Hammer, Earthquake, Synthesis, Stone Edge		(Yache Berry)
+Bibarel(100)		Curse, Crush Claw, Aqua Tail, Yawn			(Leftovers)
+Drapion(100)		Night Slash, Cross Poison, Storm Throw, X-Scissor	(Scope Lens)
+Rotom-Heat(100)		Discharge, Shadow Ball, Will-o-Wisp, Overheat		(Fire Gem)
+Bronzong(100)		Gyro Ball, Trick Room, Zen Headbutt, Hypnosis		(Leftovers)
+Mismagius(100)		Shadow Ball, Energy Ball, Dark Pulse, Power Gem		(Life Orb)
+
+Ace Trainer Terry	(Triple Battle)
+
+Glaceon(100)		Blizzard, Earth Power, Shadow Ball, Ice Shard		(Ice Gem)
+Mamoswine(100)		Blizzard, Superpower, Earth Power, Hail			(Life Orb)
+Vanilluxe(100)		Flash Cannon, Blizzard, Weather Ball, Ice Beam		(Focus Sash)
+Cryogonal(100)		Ice Beam, Flash Cannon, Recover, Ice Shard		(Chople Berry)
+Lapras(100)		Ice Beam, Sing, Recover, Hydro Pump			(Leftovers)
+Walrein(100)		Scald, Signal Beam, Slack Off, Ice Beam			(Leftovers)
+
+Ace Trainer Beverly	(Triple Battle)
+
+Gastrodon(100)		Ice Beam, Counter, Scald, Earth Power			(Rindo Berry)
+Hippowdon(100)		Yawn, Slack Off, Drill Run, Strength			(Leftovers)
+Maractus(100)		Leaf Storm, Sucker Punch, Scald, Sludge Bomb		(Water Gem)
+Camerupt(100)		Iron Head, Earth Power, Rock Slide, Flamethrower	(Passho Berry)
+Excadrill(100)		Iron Head, Drill Run, Rock Slide, Swords Dance		(Life Orb)
+Krookodile(100)		Drill Run, Crunch, Rock Slide, Foul Play		(Focus Sash)
+
+Veteran Shaun		(Triple Battle)
+
+Ferrothorn(100)		Leech Seed, Power Whip, Iron Head, Curse		(Occa Berry)
+Huntail(100)		Crunch, Aqua Tail, Bulk Up, Ice Fang			(Leftovers)
+Lumineon(100)		Hydro Pump, Hurricane, Air Slash, Bug Buzz		(Life Orb)
+Swanna(100)		Hurricane, Scald, Roost, Tailwind			(Wacan Berry)
+Carracosta(100)		Curse, Aqua Tail, Rock Wrecker, Drill Run		(Lum Berry)
+Politoed(100)		Ice Beam, Hyper Voice, Scald, Hypnosis			(Sitrus Berry)
+
+Veteran Julia		(Triple Battle)
+
+Darmanitan(100)		Flare Blitz, Superpower, Dig, Rock Slide		(Life Orb)
+Flareon(100)		Fire Fang, Wild Charge, Gunk Shot, Protect		(Shuca Berry)
+Simisear(100)		Blast Burn						(Choice Specs)
+Emboar(100)		Flare Blitz, Drill Run, Hammer Arm, Sucker Punch	(Passho Berry)
+Sunflora(100)		Blast Burn, Leaf Storm, Earth Power, GrassWhistle	(Wide Lens)
+Magcargo(100)		Scald, Flamethrower, Earth Power, Recover		(Leftovers)
+
+
+Route 11
+=================================================================================================================================================
+Backpacker Talon
+
+Toxicroak(100)		Drain Punch, Poison Jab, Ice Punch, Fake Out		
+Lilligant(100)		Quiver Dance, Energy Ball, Bug Buzz, Sleep Powder	
+Conkeldurr(100)		Drain Punch, Stone Edge, Mach Punch, Protect		
+Carnivine(100)		Power Whip, Gunk Shot, Crunch, Leech Seed		
+Drifblim(100)		Shadow Ball, Air Slash, Thunderbolt, Calm Mind		(Sitrus Berry)
+Gigalith(100)		Stone Edge, Earthquake, Iron Head, Explosion		
+
+PKMN Ranger Thalia
+
+Mantine(100)		Roost, Scald, Air Slash, Toxic			
+Skuntank(100)		Poison Jab, Flamethrower, Night Slash, Explosion
+Lopunny(100)		Crush Claw, Superpower, Quick Attack, Bounce
+Rampardos(100)		Head Smash, Dragon Rush, Earthquake, Crunch
+Musharna(100)		Energy Ball, Yawn, Mist Ball, Shadow Ball
+Eelektross(100)		Aqua Tail, Wild Charge, Coil, Crush Claw
+
+Backpacker Corin
+
+Abomasnow(100)		Blizzard, Wood Hammer, Earth Power, Ice Shard
+Altaria(100)		Dragon Dance, Dragon Claw, Earthquake, Brave Bird
+Luxray(100)		Crunch, Wild Charge, Fire Fang, Volt Switch
+Vespiquen(100)		Attack Order, Heal Order, Defend Order, Toxic
+Heatmor(100)		Draco Meteor, Flamethrower, Focus Blast, Will-o-Wisp
+Excadrill(100)		Earthquake, Iron Head, Stone Edge, Swords Dance
+
+PKMN Ranger Crofton
+
+Pinsir(100)		Earthquake, Superpower, Megahorn, Stone Edge
+Durant(100)		X-Scissor, Superpower, Iron Head, Dig
+Garbodor(100)		Gunk Shot, Toxic Spikes, Amnesia, Toxic
+Bastiodon(100)		Heavy Slam, Protect, Iron Head, Stone Edge
+Wailord(100)		Hydro Cannon, Hyper Voice, Bounce, Rest
+Zebstrika(100)		Horn Leech, Wild Charge, Flame Charge, Quick Attack
+
+
+Village Bridge
+=================================================================================================================================================
+School Kid Serena
+
+Crobat(100)		Sludge Bomb, Air Slash, Aura Sphere, Heat Wave
+Lanturn(100)		Thunderbolt, Volt Switch, Ice Beam, Hydro Pump
+Leavanny(100)		Leaf Blade, X-Scissor, Swords Dance, Protect
+Throh(100)		Superpower, Body Slam, Earthquake, Reversal
+Swoobat(100)		Calm Mind, Psycho Boost, Air Slash, Shadow Ball
+Alomomola(100)		Waterfall, Wish, Toxic, Protect
+
+Scientist Shannon
+
+Amoonguss(100)		Spore, Giga Drain, Clear Smog, Protect
+Beheeyem(100)		Psychic, Recover, Flash Cannon, Signal Beam
+Mienshao(100)		Drain Punch, Bounce, Meditate, Fake Out
+Octillery(100)		Octazooka, Signal Beam, Ice Beam, Gunk Shot
+Seismitoad(100)		Waterfall, Earthquake, Ice Punch, Poison Jab
+Cinccino(100)		Tail Slap, Rock Blast, Bullet Seed, Arm Thrust
+
+Baker Chris
+
+Vespiquen(100)		Power Gem, Acrobatics, Bug Buzz, Heal Order
+Chatot(100)		Air Slash, Hyper Voice, Mist Ball, Roost
+Cherrim(100)		Morning Sun, Leech Seed, Energy Ball, Sunny Day
+Serperior(100)		Thunderbolt, Leaf Storm, Leech Seed, Coil
+Snorlax(100)		Zen Headbutt, Ice Punch, Crush Claw, Superpower
+Whimsicott(100)		Sleep Powder, Encore, Energy Ball, Tailwind
+
+Route 12
+=================================================================================================================================================
+Backers Fey & Sue	(Double Battle)
+
+Infernape(100)		Fake Out, Drain Punch, Fire Punch, Acrobatics
+Tangrowth(100)		Sleep Powder, AncientPower, Giga Drain, Knock Off
+Emolga(100)		Volt Switch, Thunderbolt, Air Slash, Encore
+Accelgor(100)		Dark Pulse, Bug Buzz, Giga Drain, Acid Spray
+Darmanitan(100)		Fire Punch, Superpower, Dig, Rock Slide
+Scrafty(100)		Head Smash, Drain Punch, Ice Punch, Fake Out
+
+PKMN Breeder Ethel
+
+Electivire(100)		Zap Cannon, Hyper Voice, Flamethrower, Focus Blast
+Magmortar(100)		Blast Burn, Thunderbolt, Sludge Bomb, Energy Ball
+Jynx(100)		Psycho Boost, Ice Beam, Shadow Ball, Hyper Voice
+Togekiss(100)		Air Slash, AncientPower, Softboiled, Heat Wave
+Blissey(100)		Toxic, Softboiled, Seismic Toss, Rock Tomb
+Chimecho(100)		Mist Ball, Flash Cannon, Recover, Flash
+
+School Kid Ann
+
+Wormadam-Sandy(100)	Earth Power, Bug Buzz, Psychic, Protect
+Watchog(100)		Psycho Cut, Detect, Body Slam, Crunch
+Archeops(100)		Rock Wrecker, U-Turn, Dragon Rush, Wing Attack
+Sawsbuck(100)		Close Combat, Horn Leech, Double-Edge, Megahorn
+Chandelure(100)		Flamethrower, Energy Ball, Shadow Ball, Psychic
+Drifblim(100)		Shadow Ball, Air Slash, Psychic, Thunderbolt
+
+School Kid Jem
+
+Beedrill(100)		Megahorn, Drill Run, Cross Poison, Assurance
+Mandibuzz(100)		Roost, Foul Play, Toxic, Air Slash
+Golurk(100)		DynamicPunch, Earthquake, Shadow Punch, Ice Punch
+Druddigon(100)		Rock Climb, Dragon Claw, Superpower, Crunch
+Accelgor(100)		Bug Buzz, Dark Pulse, Double Team, Recover
+Klinklang(100)		Wild Charge, Iron Head, Zen Headbutt, Autotomize
+
+PKMN Breeder Eustace
+
+Hariyama(100)		Fake Out, Superpower, Knock Off, ThunderPunch
+Pachirisu(100)		Super Fang, Thunder Wave, Charm, Thunderbolt
+Forretress(100)		Metal Burst, Bug Bite, Iron Defense, Heavy Slam
+Whiscash(100)		Aqua Tail, Dragon Dance, Earthquake, Zen Headbutt
+Liepard(100)		Sucker Punch, Night Slash, Thunder Wave, Fake Out
+Unfezant(100)		Aura Sphere, Air Slash, Roost, Detect
+
+Lacunosa Town
+=================================================================================================================================================
+Ace Trainer Wolfey	(Double Battle)
+
+Cofagrigus lvl 100 @ Mental Herb    Magic Guard		Trick Room/Will-o-Wisp/Shadow Ball/Flash Cannon
+
+Scrafty    lvl 100 @ Leftovers	    Intimidate		Fake Out/Crunch/Drain Punch/Ice Punch
+
+Reuniclus  lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Thunderbolt/Energy Ball/Focus Blast
+
+Conkeldurr lvl 100 @ Flame Orb	    Guts		Mach Punch/Detect/Drain Punch/Rock Slide
+
+Thundurus  lvl 100 @ Sitrus Berry   Prankster		Swagger/Thunder Wave/Thunderbolt/Taunt
+
+Emboar     lvl 100 @ Lum Berry	    Rock Head		Flare Blitz/Head Smash/Superpower/Night Daze
+
+
+Route 13
+=================================================================================================================================================
+Lass Fey
+
+Granbull(100)		Superpower, Thunder Fang, Crush Claw, Zen Headbutt
+Breloom(100)		Substitute, Force Palm, Spore, Leech Seed
+Lopunny(100)		Close Combat, Bounce, Dizzy Punch, Quick Attack
+Staraptor(100)		Brave Bird, Close Combat, U-Turn, Double-Edge
+Mismagius(100)		Dark Pulse, Power Gem, Energy Ball, Shadow Ball
+Purugly(100)		Fake Out, Body Slam, Hypnosis, Hone Claws
+
+Youngster Astor
+
+Mothim(100)		Quiver Dance, Bug Buzz, Air Slash, Psychic
+Bouffalant(100)		Head Charge, Head Smash, Earthquake, Megahorn
+Durant(100)		X-Scissor, Iron Head, Superpower, Entrainment
+Gothitelle(100)		Psycho Boost, Dark Pulse, Fake Tears, Psyshock
+Ambipom(100)		Fake Out, Tail Slap, Bullet Seed, Rock Blast
+Rotom-Fan(100)		Discharge, Air Slash, Shadow Ball, Substitute
+
+Artist Zach
+
+Skuntank(100)		Sludge Bomb, Dark Pulse, Night Slash, Flamethrower
+Mr. Mime(100)		Psychic, Reflect, Light Screen, Magical Leaf
+Torkoal(100)		Blast Burn, Flamethrower, SolarBeam, Earth Power
+Kecleon(100)		Shadow Force, Crush Claw, Sucker Punch, Screech
+Meganium(100)		Leaf Storm, Psychic, Synthesis, AncientPower
+Stoutland(100)		Crush Claw, Ice Fang, Fire Fang, Thunder Fang
+
+Fisherman Jones
+
+Tentacruel(100)		Sludge Bomb, Ice Beam, Scald, Shadow Ball
+Wailord(100)		Hyper Voice, Hydro Pump, Bounce, Heavy Slam
+Jellicent(100)		Hydro Cannon, Giga Drain, Shadow Ball, Scald
+Simipour(100)		Scald, Acrobatics, Ice Beam, Dig
+Samurott(100)		Sacred Sword, Aqua Tail, Megahorn, Aqua Jet
+Alomomola(100)		Toxic, Protect, Wish, Water Pulse
+
+Fisherman Mick
+
+Magikarp(100)		Bounce
+Magikarp(100)		Bounce
+Magikarp(100)		Bounce
+Magikarp(100)		Bounce
+Magikarp(100)		Bounce
+Magikarp(100)		Bounce
+
+Parasol Lady Laura
+
+Gardevoir(100)		Psychic, Hypnosis, Shadow Ball, Thunderbolt
+Haxorus(100)		Iron Tail, Dragon Rush, Dragon Dance, Earthquake
+Spinda(100)		Fake Out, Hyper Voice, Crush Claw, Superpower
+Mandibuzz(100)		Tailwind, Roost, Nasty Plot, Dark Pulse
+Accelgor(100)		Bug Buzz, Giga Drain, U-Turn, Dark Pulse
+Stunfisk(100)		Earth Power, Muddy Water, Thunderbolt, Revenge
+
+Fisherman Pete
+
+Sharpedo(100)		Dark Pulse, Scald, Ice Beam, Aqua Jet
+Eelektross(100)		Dive, Crunch, Wild Charge, Coil
+Quagsire(100)		Aqua Tail, Earthquake, Recover, Yawn
+Milotic(100)		Dragon Pulse, Scald, Recover, Ice Beam
+Gastrodon(100)		Recover, Earth Power, Scald, Ice Beam
+Feraligatr(100)		Crunch, Superpower, Aqua Tail, Ice Fang
+
+Fisherman Vince
+
+Swampert(100)		Ice Punch, Aqua Tail, Hammer Arm, Waterfall
+Rotom-Wash(100)		Hydro Pump, Discharge, Shadow Ball, Will-o-Wisp
+Kingdra(100)		Flash Cannon, Yawn, Scald, Dragon Pulse
+Dewgong(100)		Ice Beam, Hydro Pump, Fake Out, Signal Beam
+Mantine(100)		Air Slash, Scald, Psybeam, Roost
+Gyarados(100)		Dragon Dance, Ice Fang, Fly, Waterfall
+
+Twins Emy & Lin		(Double Battle)
+
+Plusle(100)		Helping Hand, Thunder Wave, Thunderbolt, Fake Tears
+Minun(100)		Thunderbolt, Grass Knot, Scald, Nasty Plot
+Volbeat(100)		Zap Cannon, Helping Hand, Struggle Bug, Moonlight
+Illumise(100)		Quiver Dance, Psychic, Bug Buzz, Shadow Ball
+Mawile(100)		Sucker Punch, Iron Head, Ice Punch, Fire Punch
+Sableye(100)		Recover, Will-o-Wisp, Fake Out, Knock Off
+
+Ace Trainer Jan		(Replaces Gentleman Yan)
+
+Crobat(100)		Heat Wave, Cross Poison, Giga Drain, Wing Attack	(Scope Lens)
+Flygon(100)		Dragon Dance, Dragon Rush, Earthquake, Rock Slide	(Life Orb)
+Medicham(100)		Psycho Cut, Superpower, Ice Punch, Fire Punch		(Choice Band)
+Zangoose(100)		Close Combat, X-Scissor, Crush Claw, Swords Dance	(Toxic Orb)
+Drifblim(100)		Shadow Ball, Thunderbolt, Air Slash, Will-o-Wisp	(Flame Orb)
+Smeargle(1)		Endeavor, Ice Shard					(Focus Sash)
+
+Ace Trainer Rhy		(Replaces Socialite Marian)
+
+Scizor(100)		Metal Burst, X-Scissor, Swords Dance, Bullet Punch	(Focus Sash)
+Torterra(100)		Wood Hammer, Earthquake, Crunch, Curse			(Leftovers)
+Weavile(100)		Faint Attack, Ice Punch, Low Sweep, Ice Shard		(Life Orb)
+Magnezone(100)		Energy Ball, Bug Buzz, Zap Cannon, Flash Cannon		(Chople Berry)
+Rhyperior(100)		Rock Wrecker, Superpower, Megahorn, Earthquake		(Passho Berry)
+Skarmory(100)		Nasty Plot, Air Slash, Flash Cannon, Amnesia		(Leftovers)
+
+Black Belt Benjamin
+
+Hitmonlee(100)		Superpower, Mach Punch, Blaze Kick, Head Smash
+Metagross(100)		Bullet Punch, Meteor Mash, Zen Headbutt, Ice Punch
+Toxicroak(100)		Sucker Punch, Poison Jab, Drain Punch, Strength
+Weavile(100)		Nasty Plot, Dark Pulse, Ice Shard, Icy Wind
+Samurott(100)		Aqua Tail, Megahorn, Stone Edge, Sacred Sword
+Beartic(100)		Superpower, Icicle Crash, Waterfall, Earthquake
+
+Undella Town
+=================================================================================================================================================
+!!!!WARNING!!!!
+
+These trainers replaces the trainers known as The Riches in the base game.
+The whole idea behind The Riches is that you fight the first one and then every day afterwards,
+you add another Trainer to the gauntlet. If you would like to fight only the final gauntlet, I will
+include an action replay code at the end of this warning that will make your mons invincble and make
+them OHKO the opposing Pokemon. You can use this to beat the gauntlet up until you have beaten Vaugsy
+for the first time. 
+
+(Press R at the beginning of the battle to activate)
+62000E00 1C224C06
+E2000E00 00000020
+1C224C06 CC013230
+D0024286 D1FA4294
+2400E000 47004800
+021B913D 022699C0
+D0000000 00000000
+521C6070 1C0E6868
+94000130 FDFF0000
+021C6078 F860F7F3
+D0000000 00000000
+94000130 FEFF0000
+021C6078 FEC2F63A
+D2000000 00000000
+
+!!!END OF WARNING!!!
+
+Benefactor Buhrito
+
+Illumise   lvl 100 @ Focus Sash	    Tinted Lens		Psycho Boost/Bug Buzz/Shadow Ball/Quiver Dance
+
+Steelix    lvl 100 @ Quick Claw	    Sand Stream		Stone Edge/Earthquake/Thunder Fang/Explosion
+
+Cacturne   lvl 100 @ BrightPowder   Sand Veil		Gunk Shot/Dark Pulse/Leaf Blade/Superpower
+
+Glalie     lvl 100 @ Focus Band	    Moody		Protect/Icicle Crash/Stone Edge/Zen Headbutt
+
+Flygon     lvl 100 @ Yache Berry    Levitate		Earth Power/Draco Meteor/Giga Drain/Flamethrower
+
+Aerodactyl lvl 100 @ Life Orb	    Rock Head		Head Smash/Brave Bird/Earthquake/Iron Head
+
+
+Benefactor Safetyman
+
+Durant     lvl 100 @ Wide Lens	    Hustle		Superpower/X-Scissor/Iron Head/Stone Edge
+
+Sceptile   lvl 100 @ Yache Berry    Technician		Fake Out/Draco Meteor/Leaf Storm/Nasty Plot
+
+Medicham   lvl 100 @ Life Orb	    Pure Power		Superpower/Ice Punch/Zen Headbutt/Meditate
+
+Staraptor  lvl 100 @ Choice Band    Intimidate		Close Combat/Brave Bird/Crush Claw/U-Turn
+
+Darmanitan lvl 100 @ Life Orb	    Sheer Force		Flare Blitz/Superpower/Earthquake/Rock Slide
+
+Aggron     lvl 100 @ Focus Sash	    Rock Head		Superpower/Head Smash/Double-Edge/Iron Head
+
+
+Benefactor Drxx
+
+Skarmory   lvl 100 @ Lum Berry	    Clear Body		Toxic/Cosmic Power/Flash Cannon/Roost
+
+Sableye    lvl 100 @ Lum Berry	    Prankster		Will-o-Wisp/Recover/Knock Off/Fake Out
+
+Ferrothorn lvl 100 @ Leftovers	    Shell Armor		Curse/Power Whip/Iron Head/Leech Seed
+
+Raticate   lvl 100 @ Flame Orb	    Guts		Crush Claw/Swords Dance/Crunch/Super Fang
+
+Spoink     lvl 100 @ Focus Sash	    Magic Guard		Counter/Mirror Coat
+
+Sawk       lvl 100 @ Salac Berry    Sturdy		Close Combat/Ice Punch/Fire Punch/Reversal
+
+
+Benefactor Joferr
+
+Sceptile   lvl 100 @ Life Orb	    Technician		Fake Out/Dual Chop/Cut/Low Sweep
+
+Metagross  lvl 100 @ Shuca Berry    Iron Fist		Meteor Mash/Bullet Punch/Zen Headbutt/Earthquake
+
+Salamence  lvl 100 @ Yache Berry    Intimidate		Dragon Rush/Wing Attack/Earthquake/Dragon Dance
+
+Scizor     lvl 100 @ Choice Band    Technician		Superpower/Bug Bite/Bullet Punch/Iron Head
+
+Swampert   lvl 100 @ Rindo Berry    Swift Swim		Earthquake/Ice Punch/Aqua Tail/Hammer Arm
+
+Breloom    lvl 100 @ Toxic Orb	    Poison Heal		Spore/Substitute/Drain Punch/Seed Bomb
+
+
+Benefactor Vaugsy
+
+Krookodile lvl 100 @ White Herb	    Moxie		Earthquake/Crunch/Rock Slide/Dragon Claw
+
+Jolteon    lvl 100 @ Life Orb	    Speed Boost		Zap Cannon/Energy Ball/Bug Buzz/Earth Power
+
+Kingdra    lvl 100 @ Scope Lens	    Sniper		Yawn/Octazooka/Draco Meteor/Flash Cannon
+
+Weavile    lvl 100 @ Techician	    Focus Sash		Faint Attack/Ice Punch/Low Sweep/Ice Shard
+
+Jellicent  lvl 100 @ Leftovers	    Cursed Body		Hydro Cannon/Shadow Ball/Giga Drain/Recover
+
+Garchomp   lvl 100 @ Yache Berry    Sand Veil		Swords Dance/Dragon Rush/Earthquake/Extremespeed
+
+
+Creator Suicuu
+
+Walrein   lvl 100 @ Leftovers	    Thick Fat		Ice Beam/Scald/Slack Off/Yawn
+
+Jumpluff  lvl 100 @ Leftovers	    Prankster		Substitute/Leech Seed/Air Slash/Synthesis
+
+Venusaur  lvl 100 @ Black Sludge    Thick Fat		Synthesis/Leaf Storm/Earth Power/Sleep Powder
+
+Reuniclus lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Tirck Room/Recover/Thunderbolt
+
+Dusclops  lvl 100 @ Eviolite	    Pressure		Recover/Will-o-Wisp/Night Daze/Brick Break
+
+Emboar    lvl 100 @ Life Orb	    Rock Head		Superpower/Flare Blitz/Head Smash/Sucker Punch
+
+
+PKMN Trainer Cynthia
+
+Spritomb  lvl 100 @ Power Herb	    Pressure		Shadow Force/Will-o-Wisp/Dark Pulse/Recover
+
+Venusaur  lvl 100 @ Black Sludge    Thick Fat		Earth Power/Weather Ball/Sleep Powder/Leaf Storm
+
+Regigigas lvl 100 @ Chople Berry    No Guard		Crush Claw/DynamicPunch/Earthquake/Knock Off
+
+Milotic   lvl 100 @ Leftovers	    Multiscale		Recover/Coil/Ice Beam/Scald
+
+Infernape lvl 100 @ Focus Sash	    Iron Fist		Close Combat/Fire Punch/Stone Edge/Mach Punch
+
+Garchomp  lvl 100 @ Life Orb	    Sand Veil		Earthquake/Dragon Rush/Dragon Dance/Extremespeed
+
+
+Undella Bay
+=================================================================================================================================================
+Swimmer Bart
+
+Eelektross(100)		Dive, Wild Charge, Coil, Crush Claw
+Sigilyph(100)		Psycho Boost, Air Slash, Energy Ball, Calm Mind
+Poliwrath(100)		Bulk Up, Waterfall, Ice Punch, Mach Punch
+Armaldo(100)		Stone Edge, Superpower, X-Scissor, Aqua Tail
+Tangrowth(100)		Sleep Powder, Block, Leech Seed, Knock Off
+Mantine(100)		Hydro Pump, Air Slash, Aqua Ring, Confuse Ray
+
+Swimmer Tim
+
+Quagsire(100)		Aqua Tail, Earthquake, Recover, Yawn
+Dragonite(100)		Fire Punch, Dragon Rush, Wing Attack, Dragon Dance
+Jellicent(100)		Scald, Hex, Will-o-Wisp, Recover
+Ferrothorn(100)		Explosion
+Feraligatr(100)		Night Slash, Ice Fang, Superpower, Aqua Tail
+Beartic(100)		Superpower, Waterfall, Icicle Crash, Rock Slide
+
+Swimmer Rebecca
+
+Walrein(100)		Signal Beam, Yawn, Surf, Ice Beam
+Pelipper(100)		Weather Ball, Hurricane, Surf, Roost
+Seismitoad(100)		Sludge Wave, Muddy Water, Earth Power, Hyper Voice
+Cryogonal(100)		Ice Beam, Flash Cannon, Energy Ball, Acid Armor
+Accelgor(100)		Recover, Bug Buzz, Dark Pulse, Double Team
+Cradily(100)		Recover, Toxic, Energy Ball, AncientPower
+
+Swimmer Larissa
+
+Alomomola(100)		Brine, Wish, Toxic, Aqua Jet
+Azumarill(100)		Superpower, Double-Edge, Aqua Tail, Ice Punch
+Braviary(100)		Crush Claw, Wing Attack, Superpower, Rock Slide
+Zoroark(100)		Dark Pulse, Sludge Bomb, Flamethrower, Focus Blast
+Ludicolo(100)		Fake Out, Energy Ball, Ice Beam, Surf
+Empoleon(100)		Flash Cannon, Nasty Plot, Aqua Jet, Hydro Pump
+
+Swimmer Matt
+
+Masquerain(100)		Hurricane, Quiver Dance, Scald, Bug Buzz
+Floatzel(100)		Water Pulse, Shock Wave, Aqua Jet, Icy Wind
+Starmie(100)		Ice Beam, Power Gem, Psychic, Surf
+Basculin(100)		Head Smash, Aqua Tail, Crunch, Aqua Jet
+Reuniclus(100)		Psychic, Energy Ball, Thunderbolt, Focus Blast
+Maractus(100)		Scald, Sludge Bomb, Giga Drain, Sucker Punch
+
+Swimmer Tyra
+
+Bibarel(100)		Curse, Waterfall, Superpower, Crush Claw
+Chandelure(100)		Energy Ball, Shadow Ball, Flamethrower, Psychic
+Jellicent(100)		Brine, Scald, Shadow Ball, Trick Room
+Gastrodon(100)		Earth Power, Mirror Coat, Scald, Recover
+Porygon-Z(100)		Tri Attack, Zap Cannon, Nasty Plot, Psychic
+Rotom-Cut(100)		Leaf Storm, Thunderbolt, Shadow Ball, Will-o-Wisp
+
+
+Route 14
+=================================================================================================================================================
+Fisherman Sid
+
+Crawdaunt(100)		Crabhammer, Night Slash, Superpower, Aqua Jet
+Whiscash(100)		Earthquake, Aqua Tail, Zen Headbutt, Spark
+Politoed(100)		Hyper Voice, Bounce, Surf, Hypnosis
+Blastoise(100)		Draco Meteor, Hydro Cannon, Flash Cannon, Dark Pulse
+Gyarados(100)		Dragon Dance, Earthquake, Aqua Tail, Fly
+Lumineon(100)		Bug Buzz, Air Slash, Surf, Quiver Dance
+
+Black Belt Jay
+
+Lopunny(100)		Superpower, Crush Claw, Bounce, Quick Attack
+Conkeldurr(100)		Close Combat, Stone Edge, Ice Punch, Mach Punch
+Gallade(100)		Psycho Cut, Close Combat, Swords Dance, Leaf Blade
+Sawsbuck(100)		Megahorn, Horn Leech, Superpower, Wild Charge
+Mienshao(100)		Fake Out, Aura Sphere, Calm Mind, Grass Knot
+Blaziken(100)		Blaze Kick, Sky Uppercut, Brave Bird, Swords Dance
+
+Backpacker Vicki
+
+Camerupt(100)		Flamethrower, Earth Power, Iron Head, Amnesia
+Gigalith(100)		Stone Edge, Earthquake, Explosion, Iron Defense
+Forretress(100)		Iron Head, Bug Buzz, Iron Defense, Metal Burst
+Bisharp(100)		Sucker Punch, Knock Off, Iron Head, Swords Dance
+Torterra(100)		Seed Bomb, Crunch, Earthquake, Rock Slide
+Rampardos(100)		Dragon Rush, Head Smash, Crunch, Zen Headbutt
+
+Ace Trainer Junko	(Triple Battle)
+
+Purugly(100)		Fake Out, Body Slam, Hypnosis, Dig
+Scrafty(100)		Rock Climb, Brick Break, Ice Punch, Crunch
+Espeon(100)		Energy Ball, Shadow Ball, Aura Sphere, Psychic
+Simisage(100)		Acrobatics, Seed Bomb, Dig, Brick Break
+Cofagrigus(100)		Flash Cannon, Will-o-Wisp, Shadow Ball, Haze
+Galvantula(100)		Thunder, Bug Buzz, Sucker Punch, Thunder Wave
+
+Hiker Jebediah
+
+Hippowdon(100)		Earthquake, Yawn, Slack Off, Strength
+Probopass(100)		Zap Cannon, Earth Power, Power Gem, Flash Cannon
+Mamoswine(100)		Superpower, Earthquake, Icicle Crash, AncientPower
+Torterra(100)		Earthquake, Seed Bomb, Crunch, Stone Edge
+Steelix(100)		Stone Edge, Outrage, Iron Tail, Earthquake
+Gigalith(100)		Earthquake, Iron Head, Stone Edge, Iron Defense
+
+Ace Trainer Kipp	(Triple Battle)
+
+Banette(100)		Shadow Punch, Knock Off, Sucker Punch, Brick Break
+Dodrio(100)		Brave Bird, Drill Run, Iron Tail, Crush Claw
+Ninjask(100)		Swords Dance, Superpower, X-Scissor, Substitute
+Carnivine(100)		Gunk Shot, Power Whip, Crunch, Growth
+Drapion(100)		Storm Throw, Night Slash, Cross Poison, Ice Fang
+Charizard(100)		Heat Wave, Air Slash, Dragon Pulse, SolarBeam
+
+
+Abundant Shrine
+=================================================================================================================================================
+Youngster Wes
+
+Scolipede(100)		Megahorn, Rock Slide, Gunk Shot, Swords Dance
+Flygon(100)		Dragon Pulse, Flamethrower, Earth Power, Bug Buzz
+Kricketune(100)		Night Slash, Sing, X-Scissor, Perish Song
+Swalot(100)		Sludge Bomb, Seed Bomb, Recover, Earthquake
+Aggron(100)		Earthquake, Stone Edge, Iron Head, Dragon Claw
+Delcatty(100)		Fake Out, Zen Headbutt, Hyper Voice, Fire Fang
+
+Lass Lurleen
+
+Rapidash(100)		Flare Blitz, Wild Charge, Drill Run, Bounce
+Whismicott(100)		Synthesis, Stun Spore, Hurricane, Leaf Storm
+Chatot(100)		Hyper Voice, Mist Ball, Roost, Air Slash
+Musharna(100)		Yawn, Mist Ball, Energy Ball, Shadow Ball
+Unfezant(100)		Aura Sphere, Roost, Air Slash, Heat Wave
+Slaking(100)		Crush Claw, Protect, Yawn, Slack Off
+
+Lass Maki
+
+Tangrowth(100)		Power Whip, Knock Off, Sleep Powder, AncientPower
+Pachirisu(100)		Super Fang, Thunderbolt, Charm, Sweet Kiss
+Infernape(100)		Close Combat, Acrobatics, Fire Punch, Mach Punch
+Leafeon(100)		Earthquake, Swords Dance, Leaf Blade, GrassWhistle
+Swoobat(100)		Calm Mind, Air Slash, Psychic, Energy Ball
+Heatmor(100)		Draco Meteor, Flamethrower, Focus Blast, Sludge Bomb
+
+Youngster Lester
+
+Yanmega(100)		AncientPower, Bug Buzz, Air Slash, U-Turn
+Garbodor(100)		Focus Blast, Poison Jab, Toxic Spikes, Drain Punch
+Claydol(100)		Power Gem, Earth Power, Psychic, Recover
+Cacturne(100)		Sludge Bomb, Leaf Blade, Sucker Punch, Dark Pulse
+Medicham(100)		Psycho Cut, Close Combat, Ice Punch, Fire Punch
+Weavile(100)		Dark Pulse, Icy Wind, Ice Shard, Low Sweep
+
+
+White Forest
+=================================================================================================================================================
+School Kid Shaye
+
+Cofagrigus(100)		Flash Cannon, Shadow Ball, Will-o-Wisp, Pain Split
+Scrafty(100)		Rock Climb, Brick Break, Crunch, Ice Punch
+Reuniclus(100)		Recover, Psychic, Thunderbolt, Energy Ball
+Escavalier(100)		Megahorn, Iron Head, Swords Dance, Superpower
+Jellicent(100)		Trick Room, Recover, Scald, Shadow Ball
+Musharna(100)		Yawn, Shadow Ball, Psychic, Energy Ball
+
+Nursery Aide Briana
+
+Chandelure(100)		Flamethrower, Night Daze, Energy Ball, Psychic
+Ciccino(100)		Tail Slap, Bullet Seed, Rock Blast, Arm Thrust
+Vanilluxe(100)		Flash Cannon, Blizzard, Earth Power, Ice Shard
+Zoroark(100)		Dark Pulse, Flamethrower, Sludge Bomb, Focus Blast
+Haxorus(100)		Iron Head, Dragon Rush, Earthquake, Dragon Dance
+Galvantula(100)		Sucker Punch, Bug Buzz, Discharge, Energy Ball
+
+
+Route 15
+=================================================================================================================================================
+Pokefan Elliot
+
+Drifblim(100)		Shadow Ball, Air Slash, Thunderbolt, Psychic
+Swalot(100)		Recover, Yawn, Seed Bomb, Gunk Shot
+Scizor(100)		Iron Head, Superpower, Metal Burst, X-Scissor
+Audino(100)		Secret Power, Psychic, Thunderbolt, Recover
+Crustle(100)		Rock Wrecker, X-Scissor, Shell Smash, Earthquake
+Conkeldurr(100)		Drain Punch, Mach Punch, ThunderPunch, Stone Edge
+
+PKMN Ranger Shelly
+
+Altaria(100)		Draco Meteor, Air Slash, Sing, Earthquake
+Abomasnow(100)		Ice Beam, Wood Hammer, Ice Shard, Earth Power
+Banette(100)		Brick Break, Shadow Punch, Shadow Sneak, Knock Off
+Chandelure(100)		Night Daze, Overheat, Energy Ball, Psychic
+Bronzong(100)		Gyro Ball, Trick Room, Explosion, Zen Headbutt
+Lickilicky(100)		Body Slam, Power Whip, Psychic, Knock Off
+
+Battle Girl Susie
+
+Heracross(100)		Pin Missile, Arm Thrust, Rock Blast, Bullet Seed
+Scrafty(100)		Crunch, Ice Punch, Rock Climb, Drain Punch
+Conkeldurr(100)		Close Combat, Rock Slide, Fire Punch, Ice Punch
+Gallade(100)		Superpower, Swords Dance, Leaf Blade, Night Slash
+Lucario(100)		Flash Cannon, Aura Sphere, Dragon Pulse, ExtremeSpeed
+Mienshao(100)		Fake Out, Superpower, U-Turn, Meditate
+
+PKMN Ranger Keith
+
+Exeggutor(100)		Egg Bomb, Psychic, Sleep Powder, AncientPower
+Snorlax(100)		Body Slam, Fire Punch, Curse, Slack Off
+Vespiquen(100)		Power Gem, Destiny Bond, Acrobatics, Bug Buzz
+Wormadam-Trash(100)	Flash Cannon, Bug Buzz, Psychic, Protect
+Swellow(100)		Brave Bird, Facade, ExtremeSpeed, U-Turn
+Sawsbuck(100)		Close Combat, Horn Leech, Wild Charge, Swords Dance
+
+Hiker Kit
+
+Steelix(100)		Curse, Earthquake, Iron Tail, Stone Edge
+Gliscor(100)		Earthquake, Protect, X-Scissor, Swords Dance
+Krookodile(100)		Earthquake, Foul Play, Crunch, Outrage
+Excadrill(100)		Iron Head, Earthquake, Superpower, Swords Dance
+Hippowdon(100)		Slack Off, Earthquake, Ice Fang, Stone Edge
+Rhyperior(100)		Poison Jab, Megahorn, Earthquake, Stone Edge
+
+
+Marvelous Bridge
+=================================================================================================================================================
+Ace Trainer Glinda	(Triple Battle)
+
+Terrakion(100)		Swords Dance, Stone Edge, Close Combat, Protect
+Cobalion(100)		Iron Head, Rock Slide, Sacred Sword, Swords Dance
+Virizion(100)		Leaf Blade, Sacred Sword, Swords Dance, Protect
+Tornadus(100)		Hurricane, Rain Dance, Dark Pulse, Extrasensory
+Thundurus(100)		Nasty Plot, Thunder, Air Slash, Grass Knot
+Landorus(100)		Earthquake, Rock Slide, Superpower, U-Turn
+
+Pokemon League
+=================================================================================================================================================
+Elite Four Shauntal	(Double Battle)
+
+Sableye    lvl 100 @ Toxic Orb	    Magic Guard		Toxic/Recover/Protect/Knock Off
+
+Kecleon    lvl 100 @ Lum Berry	    Adaptability	Crush Claw/Shadow Force/Brick Break/Shadow Sneak
+
+Dusclops   lvl 100 @ Eviolite	    Pressure		Will-o-Wisp/Night Shade/Pain Split/Brick Break
+
+Jellicent  lvl 100 @ Water Gem	    Cursed Body		Hydro Cannon/Shadow Ball/Energy Ball/Trick Room
+
+Giratina   lvl 100 @ Leftovers	    Pressure		Draco Meteor/Pain Split/Will-o-Wisp/Calm Mind
+
+Chandelure lvl 100 @ Life Orb	    Levitate		Flamethrower/Shadow Ball/Energy Ball/Psychic
+
+
+Elite Four Grimsley	(Double Battle)
+
+Houndoom   lvl 100 @ Choice Specs   Intimidate		Flamethrower/Dark Pulse/Energy Ball/Sludge Bomb
+
+Crobat     lvl 100 @ Scope Lens	    Sniper		Brave Bird/Cross Poison/Aura Sphere/Heat Wave
+
+Honchkrow  lvl 100 @ Choice Band    Super Luck		Drill Peck/Sucker Punch/Night Slash/Superpower
+
+Darkrai    lvl 100 @ Wide Lens	    Bad Dreams		Dark Void/Nasty Plot/Dark Pulse/Double Team
+
+Krookodile lvl 100 @ Expert Belt    Intimidate		Drill Run/Night Slash/Dragon Dance/Rock Slide
+
+Hydreigon  lvl 100 @ Life Orb	    Levitate		Draco Meteor/Dark Pulse/Focus Blast/Muddy Water
+
+
+Elite Four Caitlin	(Double Battle)
+
+Alakazam   lvl 100 @ Focus Sash	    Magic Guard		Psychic/Aura Sphere/Energy Ball/Thunderbolt
+
+Gallade    lvl 100 @ Scope Lens	    Justified		Superpower/Psycho Cut/Leaf Blade/Night Slash
+
+Sigilyph   lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Air Slash/Energy Ball/Heat Wave
+
+Reuniclus  lvl 100 @ Expert Belt    Overcoat		Psychic/Focus Blast/Calm Mind/Thunderbolt
+
+Cresselia  lvl 100 @ Mental Herb    Levitate		Helping Hand/Thunder Wave/Mist Ball/Trick Room
+
+Gothitelle lvl 100 @ Tanga Berry    Shadow Tag		Trick Room/Psychic/Dark Pulse/Thunderbolt
+
+
+Elite Four Marshal	(Double Battle)
+
+Medicham   lvl 100 @ Choice Scarf   Pure Power		Superpower/Psycho Cut/ThunderPunch/Fire Punch
+
+Conkeldurr lvl 100 @ Flame Orb	    Guts		Drain Punch/Mach Punch/Protect/Stone Edge
+
+Ninjask    lvl 100 @ Cobat Berry    Speed Boost		Superpower/Leech Life/Substitute/Swords Dance
+
+Cobalion   lvl 100 @ Life Orb	    Justified		Sacred Sword/Iron Head/Swords Dance/Rock Slide
+
+Samurott   lvl 100 @ Wacan Berry    Defiant		Aqua Tail/Sacred Sword/Stone Edge/Megahorn
+
+Sawk       lvl 100 @ Expert Belt    Sturdy		Close Combat/ThunderPunch/Ice Punch/Reversal
+
+
+Champion Alder
+
+Volcarona  lvl 100 @ Focus Sash	    Drought		Fiery Dance/Giga Drain/Bug Buzz/Quiver Dance
+
+Unfezant   lvl 100 @ Scope Lens	    Super Luck		Air Slash/Heat Wave/Aura Sphere/Dark Pulse
+
+Zoroark    lvl 100 @ Dark Gem	    Illusion		Flamethrower/Dark Pulse/Sludge Bomb/Aura Sphere
+
+Archeops   lvl 100 @ Life Orb	    Intimidate		Stone Edge/Wing Attack/Earthquake/Knock Off
+
+Cofagrigus lvl 100 @ Leftovers	    Magic Guard		Will-o-Wisp/Flash Cannon/Shadow Ball/Protect
+
+Zekrom     lvl 100 @ Shuca Berry    Teravolt		Bolt Strike/Dragon Rush/Dragon Dance/Earthquake

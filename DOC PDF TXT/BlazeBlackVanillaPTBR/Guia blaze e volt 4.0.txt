@@ -1,0 +1,140 @@
+Eae pessoal blz? Aqui é o Fire apresento para voces um pequeno update que fiz da hack blaze black e volt white 1 do Drayano!
+Pra quem não sabe ele juntamente com o apex fizeram um grande update da blaze black e volt white 2 a versão redux. Lá tem varias 
+mudanças eventos novos,tipo fada, novos moves, eventos vale a pena conferir. Baseado nisso quiz fazer um pequeno update nessa primeira
+versão que é esquecida, segue as mudanças: 
+
+- Foi ajustado o level dos lideres de ginasio alguns estavam bem desregulados com um mesmo time tendo pokemon lv 59 e 64 por exemplo
+segue o lv cap: 
+
+Chilli/Cress/Cilan: lv 14 (mais forte 16) 
+Lenora: 22 ( mais forte 23) 
+Burgh 30 ( mais forte 31) 
+Elesa: 36 ( mais forte 39) 
+Clay 43 ( mais forte 44) 
+Skyla 56 ( mais forte 57)
+Brycen 62 ( mais forte 63) 
+Drayden/Iris 65 ( mais forte 66)
+Elite four:  72 ( mais forte 73) 
+
+- Outra mudança é que originalmente as batalhas contra os lideres e liga nessa versão são em dupla, tripla ou rotação
+muita gente não gosta muito desse tipo de batalha então deixei os ginasios e a liga em mode single.
+
+
+Moves:
+
+Assim como na versão redux do Drayano e do Apex alguns moves antigos Foram substituidos por alguns das gerações futuras
+Consultar todos os detalhes no arquivo move changes. Na versão vanila os pps, dano e tipo dos moves foi mantido
+como nos jogos originais. Já na versão complete todas as mudanças estão mantidas (Consultar arquivo move changes) 
+
+Evoluções por troca:
+
+Foram mantidas como na versão original:
+
+Poliwhirl: Evolui subindo um lv a noite com a kings rock equipada para Politoed 
+Kadabra   Evolui no lv 36 para Alakazam 
+Machoke:  Evolui no lv 39 para Machamp
+Graveler: Evolui no lv 36 para Golem 
+Slowpoke: Evolui para (Slowbro) no Level 37 ou subindo de lv com um Shellder na party 
+Slowpoke  Evolui para Slowking com a kings rock equipada e subindo um lv durante o dia
+Haunter:  Evolui no lv 36 para Gengar
+Onix:     Evolui para steelix subindo um lv a noite com o metal coat equipado
+Rhydon: Use o protector para evoluir para Rhypherior 
+Seadra: Use a Dragon Scale Para evoluir para Kingdra 
+Scyther: Suba um lv durante o dia com o metal coat equipado para evoluir para Scizor
+Electabuzz: use o electirizer para evoluir para electivire 
+Magmar: Use o magmarizer para evoluir para Magmortar 
+Porygon: Use o upgrade para evoluir para porygon2
+Porygon 2: use o dubious disc para evoluir para Porygon Z
+Feebas: Use a prism scale para evoluir para Milotic 
+Dusclops: Use o Reaper Cloth para evoluir para Dusknoir
+Clamperl: Evolui para Huntail subindo de lv a noite com a DeepSeaTooth equipada
+Clamperl: Evolui para Gorebyss subindo de lv a noite com a DeepSeaScale equipada
+Happiny: Use a oval stone para evoluir para Chansey 
+Boldore: Evolui no lv 36 para Gigalith 
+Gurdurr: Evolui no lv 36 para Conkeldurr
+Karrablast: Suba de lv com um Shelmet na party
+Shelmet: Suba de lv com um Karrablast na party
+
+Evoluções ajustadas: 
+Scraggy: lv 35 para Scrafty
+Elgyem: lv 35 para Beheeyem
+Litwick: lv 34 pra Lampent
+Mienfoo: lv 39 para Mienshao
+Golett: lv 36 para Golurk 
+Pawniard: lv 37 para Bisharp
+Rufflet:lv 39 para Braviary 
+Vullaby: Lv 39 Manddibuzz 
+Deino: lv 30 para Zweilous
+Larvesta: Lv 45 para Volcarona
+
+
+Localização dos pokemon: 
+Sem mudanças (consultar wild data) 
+
+Mudanças nos pokemon: 
+
+ Como de prache as hack do Drayno possuem duas versões 
+classic: Onde status,tipos,habilidades e moves permanecem como nos jogos oficiais 
+Complete: Possui mudanças em status,tipo,habilidades e moves buscando deixar alguns pokemon mais uteis
+(consultar pokemon changes)infelizmente não foi possivel puxar as edições da redux devido ao bug da tela preta portanto permanece
+como na versão original 
+
+Tipo fada:
+
+Apesar de na versão Blaze e volt 2 redux ter o tipo fada inserido infelizmente o metodo é incompativel com o black e white 1
+por essa razão não foi possivel inserir o tipo fada nessas versões.
+
+Tradução:
+
+Esse ano (2023) foi lançado uma tradução de black e white feita pelo Shokai diferente de uma antiga que existia em portugues de Portugal
+muito mal feita que os pokemon tinham o nome em japones. Essa é realmente em pt br e está completa decidi adaptar a tradução para quem quizer jogar
+a hack em pt-br. porem também está disponivel uma versão em ingles. 
+
+
+Mudanças de tipo (versão complete apenas)
+
+Pokémon:            Tipo Original:       Tipo alterado:
+
+Charizard          Fire / Flying       Fire / Dragon 
+Golduck            Water               Water / Psychic
+Farfetch'd         Normal / Flying     Fighting / Flying
+Noctowl            Normal / Flying     Psychic / Flying        
+Ampharos           Electric            Electric / Dragon
+Ursaring           Normal              Normal / Ground         
+Sceptile           Grass               Grass / Dragon          
+Masquerain         Bug / Flying        Bug / Water             
+Volbeat            Bug                 Bug / Electric          
+Illumise           Bug                 Bug / Fairy            
+Trapinch           Ground              Bug / Ground            
+Vibrava            Ground / Dragon     Bug / Dragon            
+Flygon             Ground / Dragon     Bug / Dragon
+Luxray             Electric            Electric / Dark        
+Lopunny            Normal              Normal / Fighting
+Electivire         Electric            Electric / Fighting 
+Probopass          Rock / Steel        Rock / Electric 
+Servine            Grass               Grass / Dragon          
+Serperior          Grass               Grass / Dragon          
+Dewott             Water               Water / Dark         
+Samurott           Water               Water / Dark     
+Gothita            Psychic             Psychic / Dark          
+Gothorita          Psychic             Psychic / Dark          
+Gothitelle         Psychic             Psychic / Dark
+Beartic            Ice                 Ice / Fighting 
+ 
+E isso bom jogo a todos e até a proxima rom! 
+
+Fire   
+  
+
+ 
+
+
+
+
+ 
+
+  
+ 
+
+
+ 

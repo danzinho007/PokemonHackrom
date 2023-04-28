@@ -1,0 +1,6117 @@
+			===========================================================
+
+			    " Pokemon_Fr_ReImagined : Pokemon Documentation "
+
+			===========================================================
+
+
+Note : This document contains information about Pokemon.
+       Do not read, if you would like to play the hack unspoiled. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#1 Treecko
+
+Ability	  : Overgrow
+
+Type	  : Grass
+
+Held Item : N/A
+
+Evolution : Level 16 => Grovyle
+
+Location  : Starter/Rocket Corner
+
+Base Stats :
+
+HP 		40 	
+Attack 		45 	
+Defense 	35 	
+Sp. Atk 	65 	
+Sp. Def 	55 	
+Speed 		70
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Pound		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Quick Attack	Normal		Physical 	40 	100
+13	Mega Drain	Grass		Special 	40 	100
+17	Pursuit		Dark		Physical 	40 	100
+
+___________________________________________________________
+
+#2 Grovyle
+
+Ability	  : Overgrow
+
+Type	  : Grass
+
+Held Item : N/A
+
+Evolution : Level 36 => Sceptile
+
+Location  : Evolve
+
+Base Stats :
+
+HP 		50 	
+Attack 		65 	
+Defense 	45 	
+Sp. Atk 	85 	
+Sp. Def 	65 	
+Speed 		95
+
+Moveset	:
+
+1	Leer		Normal		Status 		— 	100
+1	Pound		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Quick Attack	Normal		Physical 	40 	100
+13	Mega Drain	Grass		Special 	40 	100
+17	Pursuit		Dark		Physical 	40 	100
+20	Giga Drain	Grass		Special		75	100
+23	Leaf Blade	Grass		Physical 	90 	100
+28	Agility		Psychic		Status 		— 	—
+
+___________________________________________________________
+
+#3 Sceptile
+
+Ability	  : Overgrow
+
+Type	  : Grass
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		70 	
+Attack 		85 	
+Defense 	65 	
+Sp. Atk 	105 	
+Sp. Def 	85 	
+Speed 		120
+
+Moveset	:
+
+1	Leer		Normal		Status 		— 	100
+1	Pound		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Quick Attack	Normal		Physical 	40 	100
+13	Mega Drain	Grass		Special 	40 	100
+17	Pursuit		Dark		Physical 	40 	100
+20	Giga Drain	Grass		Special		75	100
+23	Leaf Blade	Grass		Physical 	90 	100
+28	Agility		Psychic		Status 		— 	—
+38	Dragon Breath	Dragon		Special 	60 	100
+42	Magical Leaf	Grass		Special 	60 	_
+48	Leaf Storm	Grass		Special 	130 	90
+
+___________________________________________________________	
+
+#4 Charmander
+
+Ability	  : Blaze	
+
+Type	  : Fire
+
+Held Item : N/A
+
+Evolution : Level 16 => Charmeleon
+
+Location  : Starter / Rocket Corner
+
+Base Stats:
+
+HP 		39 	
+Attack 		52 	
+Defense 	43 	
+Sp. Atk 	60 	
+Sp. Def 	50 	
+Speed 		65
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+7	Ember		Fire		Special 	40 	100
+10	Smokescreen	Normal		Status 		— 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+
+___________________________________________________________
+
+#5 Charmeleon
+
+Ability	  : Blaze	
+
+Type	  : Fire
+
+Held Item : N/A
+
+Evolution : Level 36 => Charizard
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		58 	
+Attack 		64 	
+Defense 	58 	
+Sp. Atk 	80 	
+Sp. Def 	65 	
+Speed 		80
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+7	Ember		Fire		Special 	40 	100
+10	Smokescreen	Normal		Status 		— 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+21	Scary Face	Normal		Status 		— 	100
+28	Fire Fang	Fire		Physical 	65 	95
+32	Flame Burst	Fire		Special 	70 	100
+35	Slash		Normal		Physical 	70 	100
+
+___________________________________________________________
+
+#6 Charizard
+
+Ability	  : Blaze	
+
+Type	  : Fire / Flying
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		78 	
+Attack 		84 	
+Defense 	78 	
+Sp. Atk 	109 	
+Sp. Def 	85 	
+Speed 		100
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+7	Ember		Fire		Special 	40 	100
+10	Smokescreen	Normal		Status 		— 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+21	Scary Face	Normal		Status 		— 	100
+28	Fire Fang	Fire		Physical 	65 	95
+32	Flame Burst	Fire		Special 	70 	100
+35	Slash		Normal		Physical 	70 	100
+37	Wing Attack	Flying		Physical 	60 	100
+47	Flamethrower	Fire		Special 	90 	100
+55	Ancient Power	Rock		Special 	60 	100
+58	Dragon Pulse	Dragon		Special 	85 	100
+
+___________________________________________________________
+
+#7 Totodile
+
+Ability	  : Torrent	
+
+Type	  : Water
+
+Held Item : N/A
+
+Evolution : Level 16 => Croconaw
+
+Location  : Starter / Rocket Corner
+
+Base Stats:
+
+HP 		50 	
+Attack 		65 	
+Defense 	64 	
+Sp. Atk 	44 	
+Sp. Def 	48 	
+Speed 		43
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+6	Water Gun	Water		Special 	40 	100
+8	Rage		Normal		Physical 	20 	100
+13	Bite		Dark		Physical 	60 	100
+15	Scary Face	Normal		Status 		— 	100
+
+___________________________________________________________
+
+#8 Croconaw
+
+Ability	  : Torrent	
+
+Type	  : Water
+
+Held Item : N/A
+
+Evolution : Level 36 => Feraligatr
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		80 	
+Defense 	80 	
+Sp. Atk 	59 	
+Sp. Def 	63 	
+Speed 		58
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+6	Water Gun	Water		Special 	40 	100
+8	Rage		Normal		Physical 	20 	100
+13	Bite		Dark		Physical 	60 	100
+15	Scary Face	Normal		Status 		— 	100
+21	Ice Fang	Ice		Physical 	65 	95
+24	Flail		Normal		Physical 	— 	100
+30	Crunch		Dark		Physical 	80 	100
+35	Slash		Normal		Physical 	70 	100
+
+___________________________________________________________
+
+#9 Feraligatr
+
+Ability	  : Torrent	
+
+Type	  : Water
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		85 	
+Attack 		105 	
+Defense 	100 	
+Sp. Atk 	79 	
+Sp. Def 	83 	
+Speed 		78
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+6	Water Gun	Water		Special 	40 	100
+8	Rage		Normal		Physical 	20 	100
+13	Bite		Dark		Physical 	60 	100
+15	Scary Face	Normal		Status 		— 	100
+21	Ice Fang	Ice		Physical 	65 	95
+24	Flail		Normal		Physical 	— 	100
+30	Crunch		Dark		Physical 	80 	100
+35	Slash		Normal		Physical 	70 	100
+37	Aqua Tail	Water		Physical 	90 	90
+38	Dragon Claw	Dragon		Physical 	80 	100
+43	Shadow Claw	Ghost		Physical 	70 	100
+52	Hydro Pump	Water		Special 	110 	80
+55	Ice Punch	Ice		Physical 	75 	100
+
+___________________________________________________________
+
+#10 Caterpie
+
+Ability	  : Shield Dust	
+
+Type	  : Bug
+
+Held Item : N/A
+
+Evolution : Level 7 => Metapod
+
+Location  : Viridian Forest
+
+Base Stats:
+
+HP 		45 	
+Attack 		30 	
+Defense 	35 	
+Sp. Atk 	20 	
+Sp. Def 	20 	
+Speed 		45
+
+Moveset :
+
+1	String Shot	Bug		Status 		— 	95
+1	Tackle		Normal		Physical 	50 	100
+6	Bug Bite	Bug		Physical 	60 	100
+
+___________________________________________________________
+
+#11 Metapod
+
+Ability	  : Shed Skin
+
+Type	  : Bug
+
+Held Item : N/A
+
+Evolution : Level 10 => Butterfree
+
+Location  : Viridian Forest
+
+Base Stats:
+
+HP 		50 	
+Attack 		20 	
+Defense 	55 	
+Sp. Atk 	25 	
+Sp. Def 	25 	
+Speed 		30
+
+Moveset :
+
+1	String Shot	Bug		Status 		— 	95
+1	Tackle		Normal		Physical 	50	100
+6	Bug Bite	Bug		Physical 	60 	100
+8	Harden		Normal		Status 		— 	—
+
+___________________________________________________________
+
+#12 Butterfree
+
+Ability	  : Compound Eyes
+
+Type	  : Bug
+
+Held Item : Silver Powder (5%)
+
+Location  : Route 4 , 12 , 13 , 14 , 15 , 16 , 24 , 25
+
+Base Stats:
+
+HP 		60 	
+Attack 		45 	
+Defense 	50 	
+Sp. Atk 	90 	
+Sp. Def 	80 	
+Speed 		70
+
+Moveset :
+
+1	String Shot	Bug		Status 		— 	95
+1	Tackle		Normal		Physical 	50 	100
+6	Bug Bite	Bug		Physical 	60 	100
+8	Harden		Normal		Status 		— 	—
+11	Gust		Flying		Special 	40 	100
+11	Confusion	Psychic		Special 	50 	100
+13	Poison Powder	Poison		Status 		— 	75
+13	Sleep Powder	Grass		Status 		— 	75
+13	Stun Spore	Grass		Status 		— 	75
+17	Psybeam		Psychic		Special 	65 	100
+19	Silver Wind	Bug		Special 	60 	100
+23	Supersonic	Normal		Status 		— 	55
+25	Safeguard	Normal		Status 		— 	—
+29	Whirlwind	Normal		Status 		— 	—
+31	Bug Buzz	Bug		Special 	90 	100
+35	Rage Powder	Bug		Status 		— 	—
+41	Tailwind	Flying		Status 		— 	—
+43	Air Slash	Flying		Special 	75 	95
+47	Quiver Dance	Bug		Status 		— 	—
+
+___________________________________________________________
+
+#13 Nincada
+
+Ability	  : Compound Eyes
+
+Type	  : Bug / Ground
+
+Held Item : N/A
+
+Evolution : Level 20 => Ninjask
+	    Level 20, empty spot in party,Pokéball in bag => Shedinja
+
+Location  : Viridian Forest
+
+Base Stats:
+
+HP 		31 	
+Attack 		45 	
+Defense 	90 	
+Sp. Atk 	30 	
+Sp. Def 	30 	
+Speed 		40
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Scratch		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Sand Attack	Ground		Status 		— 	100
+13	Fury Swipes	Normal		Physical 	18 	80
+17	Mud-Slap	Ground		Special 	20 	100
+19	Metal Claw	Steel		Physical 	50 	95
+
+___________________________________________________________
+
+#14 Ninjask
+
+Ability	  : Speed Boost
+
+Type	  : Bug / Flying
+
+Held Item : N/A
+
+Location  : Route 12 , 13 , 14 , 15 , 16 , 24 , 25
+
+Base Stats:
+
+HP 		61 	
+Attack 		90 	
+Defense 	45 	
+Sp. Atk 	50 	
+Sp. Def 	50 	
+Speed 		160
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Scratch		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Sand Attack	Ground		Status 		— 	100
+13	Fury Swipes	Normal		Physical 	18 	80
+17	Mud-Slap	Ground		Special 	20 	100
+19	Metal Claw	Steel		Physical 	50 	95
+21	Agility		Psychic		Status 		— 	—
+23	Slash		Normal		Physical 	70 	100
+29	Mind Reader	Normal		Status 		— 	—
+35	Baton Pass	Normal		Status 		— 	—
+41	Swords Dance	Normal		Status 		— 	—
+47	X-Scissor	Bug		Physical 	80 	100
+
+___________________________________________________________
+
+#15 Shedinja
+
+Ability	  : Wonder Guard
+
+Type	  : Bug / Ghost
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		1 	
+Attack 		90 	
+Defense 	45 	
+Sp. Atk 	30 	
+Sp. Def 	30 	
+Speed 		40
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Scratch		Normal		Physical 	40 	100
+5	Absorb		Grass		Special 	20 	100
+9	Sand Attack	Ground		Status 		— 	100
+13	Fury Swipes	Normal		Physical 	18 	80
+17	Mud-Slap	Ground		Special 	20 	100
+19	Metal Claw	Steel		Physical 	50 	95
+21	Spite		Ghost		Status 		— 	100
+22	Shadow Sneak	Ghost		Physical 	40 	100
+25	Mind Reader	Normal		Status 		— 	—
+29	Confuse Ray	Ghost		Status 		— 	100
+33	Shadow Ball	Ghost		Special 	80 	100
+37	Grudge		Ghost		Status 		— 	—
+
+___________________________________________________________
+
+#16 Starly
+
+Ability	  : Keen Eyes
+
+Type	  : Normal / Flying
+
+Held Item : Sharp Beak (5%)
+
+Evolution : Level 14 => Staravia
+
+Location  : Route 1 , 2 , 3 , 22
+
+Base Stats:
+
+HP 		40 	
+Attack 		55 	
+Defense 	30 	
+Sp. Atk 	30 	
+Sp. Def 	30 	
+Speed 		60
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Quick Attack	Normal		Physical 	40 	100
+9	Wing Attack	Flying		Physical 	60 	100
+13	Double Team	Normal		Status 		— 	—
+13	Endeavor	Normal		Physical 	— 	100
+
+___________________________________________________________
+
+#17 Staravia
+
+Ability	  : Intimidate
+
+Type	  : Normal / Flying
+
+Held Item : Sharp Beak (5%)
+
+Evolution : Level 34 => Staraptor
+
+Location  : Route 3 , 4 , 6 , 7 , 9 , 10 , 11 , 16 , 24 , 25
+
+Base Stats:
+
+HP 		55 	
+Attack 		75 	
+Defense 	50 	
+Sp. Atk 	40 	
+Sp. Def 	40 	
+Speed 		80
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Quick Attack	Normal		Physical 	40 	100
+9	Wing Attack	Flying		Physical 	60 	100
+13	Double Team	Normal		Status 		— 	—
+13	Endeavor	Normal		Physical 	— 	100
+23	Whirlwind	Normal		Status 		— 	—
+28	Aerial Ace	Flying		Physical 	60 	_
+32	Take Down	Normal		Physical 	90 	85
+33	Agility		Psychic		Status 		— 	—
+
+___________________________________________________________
+
+#18 Staraptor
+
+Ability	  : Intimidate
+
+Type	  : Normal / Flying
+
+Held Item : Sharp Beak (5%)
+
+Location  : Route 12 , 13 , 14 , 15 , 23
+
+Base Stats:
+
+HP 		85 	
+Attack 		120 	
+Defense 	70 	
+Sp. Atk 	50 	
+Sp. Def 	60 	
+Speed 		100
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Quick Attack	Normal		Physical 	40 	100
+9	Wing Attack	Flying		Physical 	60 	100
+13	Double Team	Normal		Status 		— 	—
+13	Endeavor	Normal		Physical 	— 	100
+23	Whirlwind	Normal		Status 		— 	—
+28	Aerial Ace	Flying		Physical 	60 	_
+32	Take Down	Normal		Physical 	90 	85
+33	Agility		Psychic		Status 		— 	—
+49	Brave Bird	Flying		Physical 	120 	100
+51	Close Combat	Fight		Physical 	120 	100
+
+___________________________________________________________
+
+#19 Zigzagoon
+
+Ability	  : Pickup
+
+Type	  : Normal
+
+Held Item : N/A
+
+Evolution : Level 20 => Linoone
+
+Location  : Route 1 , 2 , 3 , 22
+
+Base Stats:
+
+HP 		38 	
+Attack 		30 	
+Defense 	41 	
+Sp. Atk 	30 	
+Sp. Def 	41 	
+Speed 		60
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Tail Whip	Normal		Status 		— 	100
+7	Sand Attack	Ground		Status 		— 	100
+11	Headbutt	Normal		Physical 	70 	100
+13	Odor Sleuth	Normal		Status 		— 	—
+17	Mud Sport	Ground		Status 		— 	—
+19	Pin Missile	Bug		Physical 	25 	95
+
+___________________________________________________________
+
+#20 Linoone
+
+Ability	  : Pickup
+
+Type	  : Normal
+
+Held Item : Silk Scarf (5%)
+
+Location  : Route 6 , 8 , 11 , 16 , 17 , 24 , 25
+
+Base Stats:
+
+HP 		78 	
+Attack 		70 	
+Defense 	61 	
+Sp. Atk 	50 	
+Sp. Def 	61 	
+Speed 		100
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Tail Whip	Normal		Status 		— 	100
+7	Sand Attack	Ground		Status 		— 	100
+11	Headbutt	Normal		Physical 	70 	100
+13	Odor Sleuth	Normal		Status 		— 	—
+17	Mud Sport	Ground		Status 		— 	—
+19	Pin Missile	Bug		Physical 	25 	95
+24	Covet		Normal		Physical 	60 	100
+27	Slash		Normal		Physical 	70 	100
+32	Double-Edge	Normal		Physical 	120 	100
+40	Rest		Psychic		Status 		— 	—
+43	Belly Drum	Normal		Status 		— 	—
+
+___________________________________________________________
+
+
+#21 Growlithe
+
+Ability	  : Intimidate
+
+Type	  : Fire
+
+Held Item : N/A
+
+Evolution : Fire Stone => Arcanine
+
+Location  : Route 5 , 8 , 11 , 17
+
+Base Stats:
+
+HP 		55 	
+Attack 		70 	
+Defense 	45 	
+Sp. Atk 	70 	
+Sp. Def 	50 	
+Speed 		60
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Roar		Normal		Status 		— 	—
+6	Ember		Fire		Special 	40 	100
+8	Leer		Normal		Status 		— 	100
+10	Odor Sleuth	Normal		Status 		— 	—
+12	Helping Hand	Normal		Status 		— 	—
+17	Flame Wheel	Fire		Physical 	60 	100
+19	Reversal	Fight		Physical 	— 	100
+21	Fire Fang	Fire		Physical 	65 	95
+
+___________________________________________________________
+
+#22 Arcanine
+
+Ability	  : Intimidate
+
+Type	  : Fire
+
+Held Item : Charcoal (5%)
+
+Location  : Pokémon Mansion
+
+Base Stats:
+
+HP 		90 	
+Attack 		110 	
+Defense 	80 	
+Sp. Atk 	100 	
+Sp. Def 	80 	
+Speed 		95
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Roar		Normal		Status 		— 	—
+6	Ember		Fire		Special 	40 	100
+8	Leer		Normal		Status 		— 	100
+10	Odor Sleuth	Normal		Status 		— 	—
+12	Helping Hand	Normal		Status 		— 	—
+17	Flame Wheel	Fire		Physical 	60 	100
+19	Reversal	Fight		Physical 	— 	100
+21	Fire Fang	Fire		Physical 	65 	95
+23	Take Down	Normal		Physical 	90 	85
+28	Flame Burst	Fire		Special 	70 	100
+30	Agility		Psychic		Status 		— 	—
+33	Extreme Speed	Normal		Physical 	80 	100
+34	Flamethrower	Fire		Special 	90 	100
+39	Crunch		Dark		Physical 	80 	100
+41	Heat Wave	Fire		Special 	95 	90
+43	Outrage		Dragon		Physical 	120 	100
+45	Flare Blitz	Fire		Physical 	120 	100
+60	Wild Charge	Elect		Physical 	90 	100
+
+___________________________________________________________
+
+#23 Electrike
+
+Ability	  : Static
+
+Type	  : Electric
+
+Held Item : N/A
+
+Evolution : Level 26 => Manectric
+
+Location  : Route 10
+
+Base Stats:
+
+HP 		40 	
+Attack 		45 	
+Defense 	40 	
+Sp. Atk 	65 	
+Sp. Def 	40 	
+Speed 		65
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+1	Thunder Wave	Elect		Status 		— 	90
+4	Leer		Normal		Status 		— 	100
+7	Howl		Normal		Status 		— 	—
+10	Quick Attack	Normal		Physical 	40 	100
+13	Spark		Elect		Physical 	65 	100
+16	Odor Sleuth	Normal		Status 		— 	—
+19	Thunder Fang	Elect		Physical 	65 	95
+24	Bite		Dark		Physical 	60 	100
+25	Discharge	Elect		Special 	80 	100
+
+___________________________________________________________
+
+#24 Manectric
+
+Ability	  : Static
+
+Type	  : Electric
+
+Held Item : Magnet (100%)
+
+Location  : Power Plant
+
+Base Stats:
+
+HP 		70 	
+Attack 		75 	
+Defense 	60 	
+Sp. Atk 	105 	
+Sp. Def 	60 	
+Speed 		105
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50	100
+1	Thunder Wave	Elect		Status 		— 	90
+4	Leer		Normal		Status 		— 	100
+7	Howl		Normal		Status 		— 	—
+10	Quick Attack	Normal		Physical 	40 	100
+13	Spark		Elect		Physical 	65 	100
+16	Odor Sleuth	Normal		Status 		— 	—
+19	Thunder Fang	Elect		Physical 	65 	95
+24	Bite		Dark		Physical 	60 	100
+25	Discharge	Elect		Special 	80 	100
+36	Roar		Normal		Status 		— 	—
+42	Wild Charge	Elect		Physical 	90 	100
+48	Charge		Elect		Status 		— 	—
+54	Thunder		Elect		Special 	110 	70
+
+___________________________________________________________
+
+#25 Phanpy
+
+Ability	  : Pick Up
+
+Type	  : Ground
+
+Held Item : N/A
+
+Evolution : Level 25 => Donphan
+
+Location  : Route 10 , 12 , 13
+
+Base Stats:
+
+HP 		90 	
+Attack 		60 	
+Defense 	60 	
+Sp. Atk 	40 	
+Sp. Def 	40 	
+Speed 		40
+
+Moveset :
+
+1	Defense Curl	Normal		Status 		— 	—
+1	Growl		Normal		Status 		— 	100
+1	Odor Sleuth	Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+6	Flail		Normal		Physical 	— 	100
+10	Rollout		Rock		Physical 	30 	90
+19	Endure		Normal		Status 		— 	—
+24	Slam		Normal		Physical 	80 	75
+25	Take Down	Normal		Physical 	90 	85
+
+___________________________________________________________
+
+#26 Donphan
+
+Ability	  : Sturdy
+
+Type	  : Ground
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		90 	
+Attack 		120 	
+Defense 	120 	
+Sp. Atk 	60 	
+Sp. Def 	60 	
+Speed 		50
+
+Moveset :
+
+1	Defense Curl	Normal		Status 		— 	—
+1	Growl		Normal		Status 		— 	100
+1	Odor Sleuth	Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+6	Flail		Normal		Physical 	— 	100
+10	Rollout		Rock		Physical 	30 	90
+19	Endure		Normal		Status 		— 	—
+24	Slam		Normal		Physical 	80 	75
+25	Take Down	Normal		Physical 	90 	85
+26	Assurance	Dark		Physical 	60 	100
+26	Knock Off	Dark		Physical 	65 	100
+28	Horn Attack	Normal		Physical 	65 	100
+28	Fire Fang	Fire		Physical 	65 	95
+28	Thunder Fang	Elect		Physical 	65 	95
+43	Earthquake	Ground		Physical 	100 	100
+50	Giga Impact	Normal		Physical 	150 	90
+
+___________________________________________________________
+
+#27 Eevee
+
+Ability	  : Adaptability / Run Away
+
+Type	  : Normal
+
+Held Item : Silk Scarf (5%)
+
+Evolution : Water Stone   => Vapreon 
+	    Thunder Stone => Jolteon
+	    Fire Stone    => Flareon
+	    Sun Stone	  => Espeon
+	    Moon Stone 	  => Umbreon
+	    
+
+Location  : Route 5 , 17 , Viridian Forest
+
+Base Stats:
+
+HP 		55 	
+Attack 		55 	
+Defense 	50 	
+Sp. Atk 	45 	
+Sp. Def 	65 	
+Speed 		55
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+26	Baton Pass	Normal		Status 		— 	—
+
+___________________________________________________________
+
+#28 Vaporeon
+
+Ability	  : Water Absorb
+
+Type	  : Water
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		130 	
+Attack 		65 	
+Defense 	60 	
+Sp. Atk 	110 	
+Sp. Def 	95 	
+Speed 		65
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+20	Water Pulse	Water		Special 	60 	100
+26	Aurora Beam	Ice		Special 	65 	100
+29	Baton Pass	Normal		Status 		— 	—
+35	Rain Dance	Water		Status 		— 	—
+42	Scald		Water		Special 	80 	100
+45	Hydro Pump	Water		Special 	110 	80
+
+___________________________________________________________
+
+#29 Jolteon
+
+Ability	  : Volt Absorb
+
+Type	  : Electric
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		65 	
+Defense 	60 	
+Sp. Atk 	110 	
+Sp. Def 	95 	
+Speed 		130
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+20	Thunder Shock	Elect		Special 	40 	100
+26	Agility		Psychic		Status 		— 	—
+29	Baton Pass	Normal		Status 		— 	—
+33	Thunder Wave	Elect		Status 		— 	90
+37	Discharge	Elect		Special 	80 	100
+45	Thunder		Elect		Special 	110 	70
+51	Shadow Ball	Ghost		Special 	80 	100
+51	Signal Beam	Bug		Special 	75 	100
+
+___________________________________________________________
+
+#30 Flareon
+
+Ability	  : Flash Fire
+
+Type	  : Fire
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		130 	
+Defense 	60 	
+Sp. Atk 	95 	
+Sp. Def 	110 	
+Speed 		65
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+20	Fire Fang	Fire		Physical 	65 	95
+25	Fire Spin	Fire		Special 	35 	85
+26	Scary Face	Normal		Status	 	— 	100
+29	Baton Pass	Normal		Status 		— 	—
+33	Smog		Poison		Special 	30 	70
+37	Lava Plume	Fire		Special 	80 	100
+45	Flare Blitz	Fire		Physical 	120 	100
+
+___________________________________________________________
+
+#31 Espeon
+
+Ability	  : Synchronize
+
+Type	  : Psychic
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		65 	
+Defense 	60 	
+Sp. Atk 	130 	
+Sp. Def 	95 	
+Speed 		110
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+20	Psybeam		Psychic		Special 	65 	100
+25	Future Sight	Psychic		Special 	120 	100
+29	Baton Pass	Normal		Status 		— 	—
+29	Psych Up	Normal		Status 		— 	—
+33	Morning Sun	Normal		Status 		— 	—
+37	Psychic		Psychic		Special 	90 	100
+45	Shadow Ball	Ghost		Special 	80 	100
+
+___________________________________________________________
+
+#32 Umbreon
+
+Ability	  : Synchronize
+
+Type	  : Dark
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		95 	
+Attack 		65 	
+Defense 	110 	
+Sp. Atk 	60 	
+Sp. Def 	130 	
+Speed 		65
+
+Moveset :
+
+1	Covet		Normal		Physical 	60 	100
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+13	Quick Attack	Normal		Physical 	40 	100
+17	Bite		Dark		Physical 	60 	100
+17	Swift		Normal		Special 	60 	_
+20	Feint Attack	Dark		Physical 	60 	— 
+21	Confuse Ray	Ghost		Status 		— 	100
+25	Assurance	Dark		Physical 	60 	100
+29	Baton Pass	Normal		Status 		— 	—
+29	Screech		Normal		Status 		— 	85
+33	Moonlight	Normal		Status 		— 	—
+35	Rest		Psychic		Status 		— 	—
+35	Snore		Normal		Special 	50 	100
+37	Mean Look	Normal		Status 		— 	—
+45	Toxic		Poison		Status 		— 	90
+
+___________________________________________________________
+
+#33 Helioptile
+
+Ability	  : Dry Skin / Sand Veil
+
+Type	  : Electric / Normal
+
+Held Item : N/A
+
+Evolution : Sun Stone => Heliolisk
+
+Location  : Power Plant
+
+Base Stats:
+
+HP 		44 	
+Attack 		38 	
+Defense 	33 	
+Sp. Atk 	61 	
+Sp. Def 	43 	
+Speed 		70
+
+Moveset :
+
+1	Pound		Normal		Physical 	40 	100
+1	Tail Whip	Normal		Status 		— 	100
+6	Thunder Shock	Electric	Special 	40 	100
+11	Charge		Electric	Status 		— 	—
+13	Mud-Slap	Ground		Special 	20 	100
+17	Quick Attack	Normal		Physical 	40 	100
+
+___________________________________________________________
+
+#34 Heliolisk
+
+Ability	  : Dry Skin / Sand Veil
+
+Type	  : Electric / Normal
+
+Held Item : N/A
+
+Location  : Power Plant
+
+Base Stats:
+
+HP 		62 	
+Attack 		55 	
+Defense 	52 	
+Sp. Atk 	109 	
+Sp. Def 	94 	
+Speed 		109
+
+Moveset :
+
+1	Pound		Normal		Physical 	40 	100
+1	Tail Whip	Normal		Status 		— 	100
+6	Thunder Shock	Electric	Special 	40 	100
+11	Charge		Electric	Status 		— 	—
+13	Mud-Slap	Ground		Special 	20 	100
+17	Quick Attack	Normal		Physical 	40 	100
+22	Razor Wind	Normal		Special 	80 	100
+26	Shock Wave	Electric	Special 	60 	_
+28	Sandstorm	Rock		Status 		— 	—
+33	Thunderbolt	Electric	Special 	90 	100
+38	Thunder		Electric	Special 	110 	70
+45	Volt Switch	Electric	Special 	70 	100
+48	Hyper Beam	Normal		Special 	150 	90
+
+___________________________________________________________
+
+#35 Vulpix
+
+Ability	  : Flash Fire
+
+Type	  : Fire
+
+Held Item : N/A
+
+Evolution : Fire Stone => Ninetales
+
+Location  : Route 5 , 8 , 11 , 17
+
+Base Stats:
+
+HP 		38 	
+Attack 		41 	
+Defense 	40 	
+Sp. Atk 	50 	
+Sp. Def 	65 	
+Speed 		65
+
+Moveset :
+
+1	Ember		Fire		Special 	40 	100
+4	Tail Whip	Normal		Status 		— 	100
+7	Roar		Normal		Status 		— 	—
+10	Quick Attack	Normal		Physical 	40 	100
+12	Confuse Ray	Ghost		Status 		— 	100
+15	Fire Spin	Fire		Special 	35 	85
+18	Payback		Dark		Physical 	50 	100
+20	Will-O-Wisp	Fire		Status 		— 	85
+
+___________________________________________________________
+
+#36 Ninetales
+
+Ability	  : Flash Fire
+
+Type	  : Fire
+
+Held Item : Charcoal (100%)
+
+Location  : Pokémon Mansion
+
+Base Stats:
+
+HP 		73 	
+Attack 		76 	
+Defense 	75 	
+Sp. Atk 	81 	
+Sp. Def 	100 	
+Speed 		100
+
+Moveset :
+
+1	Ember		Fire		Special 	40 	100
+4	Tail Whip	Normal		Status 		— 	100
+7	Roar		Normal		Status 		— 	—
+10	Quick Attack	Normal		Physical 	40 	100
+12	Confuse Ray	Ghost		Status 		— 	100
+15	Fire Spin	Fire		Special 	35 	85
+18	Payback		Dark		Physical 	50 	100
+20	Will-O-Wisp	Fire		Status 		— 	85
+28	Flamethrower	Fire		Special 	90 	100
+33	Rest		Psychic		Status 		— 	—
+38	Extrasensory	Psychic		Special 	80 	100
+43	Energy Ball	Grass		Special 	90 	100
+45	Dark Pulse	Dark		Special 	80 	100
+
+___________________________________________________________
+
+#37 Zubat
+
+Ability	  : Inner Focus
+
+Type	  : Poison / Flying
+
+Held Item : N/A
+
+Evolution : Level 22 => Golbat
+
+Location  : Mt.Moon
+
+Base Stats:
+
+HP 		40 	
+Attack 		45 	
+Defense 	35 	
+Sp. Atk 	30 	
+Sp. Def 	40 	
+Speed 		55
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+5	Supersonic	Normal		Status 		— 	55
+7	Astonish	Ghost		Physical 	30 	100
+11	Bite		Dark		Physical 	60 	100
+13	Wing Attack	Flying		Physical 	60 	100
+17	Confuse Ray	Ghost		Status 		— 	100
+19	Air Cutter	Flying		Special 	60 	95
+
+___________________________________________________________
+
+#38 Golbat
+
+Ability	  : Inner Focus
+
+Type	  : Poison / Flying
+
+Held Item : N/A
+
+Evolution : Level 36 => Crobat
+
+Location  : Rock Tunnel , Seafoam Islands
+
+Base Stats:
+
+HP 		75 	
+Attack 		80 	
+Defense 	70 	
+Sp. Atk 	65 	
+Sp. Def 	75 	
+Speed 		90
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+5	Supersonic	Normal		Status 		— 	55
+7	Astonish	Ghost		Physical 	30 	100
+11	Bite		Dark		Physical 	60 	100
+13	Wing Attack	Flying		Physical 	60 	100
+17	Confuse Ray	Ghost		Status 		— 	100
+19	Air Cutter	Flying		Special 	60 	95
+23	Aerial Ace	Flying		Physical 	60 	— 
+27	Poison Fang	Poison		Physical 	50 	100
+32	Mean Look	Normal		Status 		— 	—
+35	X-Scissor	Bug		Physical 	80 	100
+
+___________________________________________________________
+
+#39 Crobat
+
+Ability	  : Inner Focus
+
+Type	  : Poison / Flying
+
+Held Item : N/A
+
+Location  : Victory Road , Cerulean Cave , Seafoam Islands
+
+Base Stats:
+
+HP 		85 	
+Attack 		90 	
+Defense 	80 	
+Sp. Atk 	70 	
+Sp. Def 	80 	
+Speed 		130
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+5	Supersonic	Normal		Status 		— 	55
+7	Astonish	Ghost		Physical 	30 	100
+11	Bite		Dark		Physical 	60 	100
+13	Wing Attack	Flying		Physical 	60 	100
+17	Confuse Ray	Ghost		Status 		— 	100
+19	Air Cutter	Flying		Special 	60 	95
+23	Aerial Ace	Flying		Physical 	60 	— 
+27	Poison Fang	Poison		Physical 	50 	100
+32	Mean Look	Normal		Status 		— 	—
+35	X-Scissor	Bug		Physical 	80 	100
+38	Toxic		Poison		Status 		— 	90
+40	Steel Wing	Steel		Physical 	70 	90
+42	U-turn		Bug		Physical 	70 	100
+45	Leech Life	Bug		Physical 	80 	100
+46	Brave Bird	Flying		Physical 	120 	100
+
+___________________________________________________________
+
+#40 Mienfoo
+
+Ability	  : Inner Focus / Regenerator
+
+Type	  : Fighting
+
+Held Item : N/A
+
+Evolution : Level 40 => Mienshao
+
+Location  : Route 3 , 9 , 22
+
+Base Stats:
+
+HP 		45 	
+Attack 		85 	
+Defense 	50 	
+Sp. Atk 	55 	
+Sp. Def 	50 	
+Speed 		65
+
+Moveset :
+
+1	Pound		Normal		Physical 	40 	100
+5	Meditate	Psychic		Status 		— 	—
+9	Detect		Fighting	Status 		— 	—
+13	Fake Out	Normal		Physical 	40 	100
+17	Double Slap	Normal		Physical 	15 	85
+21	Swift		Normal		Special 	60 	— 
+25	Calm Mind	Psychic		Status 		— 	—
+29	Force Palm	Fighting	Physical 	60 	100
+33	Drain Punch	Fighting	Physical 	75 	100
+35	Vital Throw	Fighting	Physical 	70 	— 
+37	Jump Kick	Fighting	Physical 	100 	95
+
+___________________________________________________________
+
+#41 Mienshao
+
+Ability	  : Inner Focus / Regenerator
+
+Type	  : Fighting
+
+Held Item : Black Belt (100%)
+
+Location  : Route 23
+
+Base Stats:
+
+HP 		65 	
+Attack 		125 	
+Defense 	60 	
+Sp. Atk 	95 	
+Sp. Def 	60 	
+Speed 		105
+
+Moveset :
+
+1	Pound		Normal		Physical 	40 	100
+5	Meditate	Psychic		Status 		— 	—
+9	Detect		Fighting	Status 		— 	—
+13	Fake Out	Normal		Physical 	40 	100
+17	Double Slap	Normal		Physical 	15 	85
+21	Swift		Normal		Special 	60 	— 
+25	Calm Mind	Psychic		Status 		— 	—
+29	Force Palm	Fighting	Physical 	60 	100
+33	Drain Punch	Fighting	Physical 	75 	100
+35	Vital Throw	Fighting	Physical 	70 	— 
+37	Jump Kick	Fighting	Physical 	100 	95
+41	U-turn		Bug		Physical 	70 	100
+48	Bounce		Flying		Physical 	85 	85
+49	High Jump Kick	Fighting	Physical 	130 	90
+52	Reversal	Fighting	Physical 	— 	100
+54	Aerial Ace	Flying		Physical 	60 	— 
+55	Stone Edge	Rock		Physical 	100 	80
+59	Focus Punch	Fighting	Physical 	150 	100
+
+___________________________________________________________
+
+#42 Scraggy
+
+Ability	  : Moxie / Shed Skin
+
+Type	  : Dark / Fighting
+
+Evolution : Level 39 => Scrafty
+
+Held Item : N/A
+
+Location  : Route 3 , 9 , 22
+
+Base Stats:
+
+HP 		50 	
+Attack 		75 	
+Defense 	70 	
+Sp. Atk 	35 	
+Sp. Def 	70 	
+Speed 		48
+
+Moveset :
+
+1	Headbutt	Normal		Physical 	70 	100
+1	Leer		Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+9	Feint Attack	Dark		Physical 	60 	— 
+12	Swagger		Normal		Status 		— 	85
+16	Low Kick	Fighting	Physical 	— 	100
+20	Payback		Dark		Physical 	50 	100
+23	Brick Break	Fighting	Physical 	75 	100
+27	High Jump Kick	Fighting	Physical 	130 	90
+31	Scary Face	Normal		Status 		— 	100
+35	Crunch		Dark		Physical 	80 	100
+
+___________________________________________________________
+
+#43 Scrafty
+
+Ability	  : Moxie / Shed Skin
+
+Type	  : Dark / Fighting
+
+Held Item : Black Glasses (100%)
+
+Location  : Route 23
+
+Base Stats:
+
+HP 		65 	
+Attack 		90 	
+Defense 	115 	
+Sp. Atk 	45 	
+Sp. Def 	115 	
+Speed 		58 	
+
+
+Moveset :
+
+1	Headbutt	Normal		Physical 	70 	100
+1	Leer		Normal		Status 		— 	100
+5	Sand Attack	Ground		Status 		— 	100
+9	Feint Attack	Dark		Physical 	60 	— 
+12	Swagger		Normal		Status 		— 	85
+16	Low Kick	Fighting	Physical 	— 	100
+20	Payback		Dark		Physical 	50 	100
+23	Brick Break	Fighting	Physical 	75 	100
+27	High Jump Kick	Fighting	Physical 	130 	90
+31	Scary Face	Normal		Status 		— 	100
+35	Crunch		Dark		Physical 	80 	100
+48	Fire Punch	Fire		Physical 	75 	100
+48	Ice Punch	Ice		Physical 	75 	100
+48	Thunder Punch	Electric	Physical 	75 	100
+48	Drain Punch	Fighting	Physical 	75 	100
+52	Zen Headbutt	Psychic		Physical 	80 	90
+
+___________________________________________________________
+
+#44 Diglett
+
+Ability	  : Arena Trap / Sand veil
+
+Type	  : Ground
+
+Evolution : Level 26 => Dugtrio
+
+Held Item : N/A
+
+Location  : Diglett's Cave
+
+Base Stats:
+
+HP 		10 	
+Attack 		55 	
+Defense 	25 	
+Sp. Atk 	35 	
+Sp. Def 	45 	
+Speed 		95	
+
+
+Moveset :
+
+1	Sand Attack	Ground		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+4	Growl		Normal		Status 		— 	100
+7	Astonish	Ghost		Physical 	30 	100
+10	Mud-Slap	Ground		Special 	20 	100
+14	Magnitude	Ground		Physical 	— 	100
+18	Bulldoze	Ground		Physical 	60 	100
+22	Sucker Punch	Dark		Physical 	70 	100
+25	Mud Bomb	Ground		Special 	65 	85
+
+___________________________________________________________
+
+#45 Dugtrio
+
+Ability	  : Arena Trap / Sand Veil
+
+Type	  : Ground
+
+Held Item : Soft Sand (100%)
+
+Location  : Diglett's Cave
+
+Base Stats:
+
+HP 		35 	
+Attack 		100 	
+Defense 	50 	
+Sp. Atk 	50 	
+Sp. Def 	70 	
+Speed 		120	
+
+
+Moveset :
+
+1	Sand Attack	Ground		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+4	Growl		Normal		Status 		— 	100
+7	Astonish	Ghost		Physical 	30 	100
+10	Mud-Slap	Ground		Special 	20 	100
+14	Magnitude	Ground		Physical 	— 	100
+18	Bulldoze	Ground		Physical 	60 	100
+22	Sucker Punch	Dark		Physical 	70 	100
+25	Mud Bomb	Ground		Special 	65 	85
+30	Earth Power	Ground		Special 	90 	100
+35	Dig		Ground		Physical 	80 	100
+41	Slash		Normal		Physical 	70 	100
+47	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#46 Pancham
+
+Ability	  : Iron Fist
+
+Type	  : Fighting
+
+Evolution : Level 32 => Pangoro
+
+Held Item : Quick Claw (5%)
+
+Location  : Route 3 , 9 , 22
+
+Base Stats:
+
+HP 		67 	
+Attack 		82 	
+Defense 	62 	
+Sp. Atk 	46 	
+Sp. Def 	48 	
+Speed 		43	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+7	Arm Thrust	Fighting	Physical 	15 	100
+10	Work Up		Normal		Status 		— 	—
+12	Karate Chop	Fighting	Physical 	50 	100
+15	Comet Punch	Normal		Physical 	18 	85
+20	Slash		Normal		Physical 	70 	100
+25	Circle Throw	Fighting	Physical 	60 	90
+27	Vital Throw	Fighting	Physical 	70 	— 
+
+___________________________________________________________
+
+#47 Pangoro
+
+Ability	  : Iron Fist
+
+Type	  : Fighting / Dark
+
+Held Item : Quick Claw (5%)
+
+Location  : Route 23
+
+Base Stats:
+
+HP 		95 	
+Attack 		124 	
+Defense 	78 	
+Sp. Atk 	69 	
+Sp. Def 	71 	
+Speed 		58	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+7	Arm Thrust	Fighting	Physical 	15 	100
+10	Work Up		Normal		Status 		— 	—
+12	Karate Chop	Fighting	Physical 	50 	100
+15	Comet Punch	Normal		Physical 	18 	85
+20	Slash		Normal		Physical 	70 	100
+25	Circle Throw	Fighting	Physical 	60 	90
+27	Vital Throw	Fighting	Physical 	70 	— 
+35	Body Slam	Normal		Physical 	85 	100
+39	Crunch		Dark		Physical 	80 	100
+41	Sky Uppercut	Fighting	Physical 	85 	90
+45	Low Sweep	Fighting	Physical 	65 	100
+48	Taunt		Dark		Status 		— 	100
+55	Hammer Arm	Fighting	Physical 	100 	90
+
+___________________________________________________________
+
+#48 Dwebble
+
+Ability	  : Shell Armor / Sturdy
+
+Type	  : Bug / Rock
+
+Evolution : Level 34 => Crustle
+
+Held Item : Hard Stone (50%) / Nugget (5%)
+
+Location  : Mt.Moon , Rock Tunnel
+
+Base Stats:
+
+HP 		50 	
+Attack 		65 	
+Defense 	85 	
+Sp. Atk 	35 	
+Sp. Def 	35 	
+Speed 		55 	
+	
+
+
+Moveset :
+
+1	Fury Cutter	Bug		Physical 	40 	95
+5	Rock Blast	Rock		Physical 	25 	90
+7	Withdraw	Water		Status 		— 	—
+11	Sand Attack	Ground		Status 		— 	100
+13	Feint Attack	Dark		Physical 	60 	— 
+19	Rock Polish	Rock		Status 		— 	—
+23	Bug Bite	Bug		Physical 	60 	100
+29	Rock Slide	Rock		Physical 	75 	90
+31	Slash		Normal		Physical 	70 	100
+
+___________________________________________________________
+
+#49 Crustle
+
+Ability	  : Shell Armor / Sturdy
+
+Type	  : Bug / Rock
+
+Held Item : Hard Stone (50%) / Nugget (5%)
+
+Location  : Victory Road , Cerulean Cave
+
+Base Stats:
+
+HP 		70 	
+Attack 		105 	
+Defense 	125 	
+Sp. Atk 	65 	
+Sp. Def 	75 	
+Speed 		45	
+	
+
+
+Moveset :
+
+1	Fury Cutter	Bug		Physical 	40 	95
+5	Rock Blast	Rock		Physical 	25 	90
+7	Withdraw	Water		Status 		— 	—
+11	Sand Attack	Ground		Status 		— 	100
+13	Feint Attack	Dark		Physical 	60 	_
+19	Rock Polish	Rock		Status 		— 	—
+23	Bug Bite	Bug		Physical 	60 	100
+29	Rock Slide	Rock		Physical 	75 	90
+31	Slash		Normal		Physical 	70 	100
+38	X-Scissor	Bug		Physical 	80 	100
+43	Shell Smash	Normal		Status 		— 	—
+50	Flail		Normal		Physical 	— 	100
+55	Rock Wrecker	Rock		Physical 	150 	90
+
+___________________________________________________________
+
+#50 Venonat
+
+Ability	  : Compund Eyes
+
+Type	  : Bug / Poison
+
+Evolution : Level 31 => Venomoth
+
+Held Item : Silver Powder (5%)
+
+Location  : Route 4 , 24 , 25
+
+Base Stats:
+
+HP 		60 	
+Attack 		55 	
+Defense 	50 	
+Sp. Atk 	40 	
+Sp. Def 	55 	
+Speed 		45	
+	
+
+
+Moveset :
+
+1	Disable		Normal		Status 		— 	100
+1	Foresight	Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+5	Supersonic	Normal		Status 		— 	55
+11	Confusion	Psychic		Special 	50 	100
+13	Poison Powder	Poison		Status 		— 	75
+17	Psybeam		Psychic		Special 	65 	100
+23	Stun Spore	Grass		Status 		— 	75
+25	Signal Beam	Bug		Special 	75 	100
+29	Sleep Powder	Grass		Status 		— 	75
+
+___________________________________________________________
+
+#51 Venomoth
+
+Ability	  : Shield Dust
+
+Type	  : Bug / Poison
+
+Held Item : Silver Powder (5%)
+
+Location  : Route 7 , 12 , 13 , 14 , 15 , 16
+
+Base Stats:
+
+HP 		70 	
+Attack 		65 	
+Defense 	60 	
+Sp. Atk 	90 	
+Sp. Def 	75 	
+Speed 		90	
+	
+
+
+Moveset :
+
+1	Disable		Normal		Status 		— 	100
+1	Foresight	Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+5	Supersonic	Normal		Status 		— 	55
+11	Confusion	Psychic		Special 	50 	100
+13	Poison Powder	Poison		Status 		— 	75
+17	Psybeam		Psychic		Special 	65 	100
+23	Stun Spore	Grass		Status 		— 	75
+25	Signal Beam	Bug		Special 	75 	100
+29	Sleep Powder	Grass		Status 		— 	75
+37	Leech Life	Bug		Physical 	80 	100
+41	Zen Headbutt	Psychic		Physical 	80 	90
+47	Poison Fang	Poison		Physical 	50 	100
+55	Psychic		Psychic		Special 	90 	100
+59	Bug Buzz	Bug		Special 	90 	100
+60	Quiver Dance	Bug		Status 		— 	—
+
+___________________________________________________________
+
+#52 Staryu
+
+Ability	  : Illuminate / Natural Cure
+
+Type	  : Water
+
+Evolution : Water Stone => Starmie
+
+Held Item : Star Piece (5%) / Star Dust (50%)
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		30 	
+Attack 		45 	
+Defense 	55 	
+Sp. Atk 	70 	
+Sp. Def 	55 	
+Speed 		85 	
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Water Gun	Water		Special 	40 	100
+7	Rapid Spin	Normal		Physical 	20 	100
+10	Recover		Normal		Status 		— 	—
+13	Psywave		Psychic		Special 	— 	80
+16	Swift		Normal		Special 	60 	— 
+18	Bubble Beam	Water		Special 	65 	100
+28	Brine		Water		Special 	65 	100
+
+___________________________________________________________
+
+#53 Starmie
+
+Ability	  : Illuminate / Natural Cure
+
+Type	  : Water / Psychic
+
+Held Item : Star Piece (5%) / Star Dust (50%)
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		75 	
+Defense 	85 	
+Sp. Atk 	100 	
+Sp. Def 	85 	
+Speed 		115	
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Water Gun	Water		Special 	40 	100
+7	Rapid Spin	Normal		Physical 	20 	100
+10	Recover		Normal		Status 		— 	—
+13	Psywave		Psychic		Special 	— 	80
+16	Swift		Normal		Special 	60 	— 
+18	Bubble Beam	Water		Special 	65 	100
+25	Water Pulse	Water		Special 	60 	100
+28	Brine		Water		Special 	65 	100
+33	Power Gem	Rock		Special 	80 	100
+35	Psychic		Psychic		Special 	90 	100 
+40	Scald		Water		Special 	80 	100
+
+___________________________________________________________
+
+#54 Roggenrola
+
+Ability	  : Sturdy
+
+Type	  : Rock
+
+Evolution : Level 25 => Boldore
+
+Held Item : Hard Stone (50%)
+
+Location  : Mt.Moon , Rock Tunnel
+
+Base Stats:
+
+HP 		55 	
+Attack 		75 	
+Defense 	85 	
+Sp. Atk 	25 	
+Sp. Def 	25 	
+Speed 		15	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+4	Harden		Normal		Status 		— 	—
+7	Sand Attack	Ground		Status 		— 	100
+10	Headbutt	Normal		Physical 	70 	100
+14	Rock Blast	Rock		Physical 	25 	90
+17	Mud-Slap	Ground		Special 	20 	100
+20	Iron Defense	Steel		Status 		— 	—
+
+___________________________________________________________
+
+#55 Boldore
+
+Ability	  : Sturdy
+
+Type	  : Rock
+
+Evolution : Level 41 => Gigalith
+
+Held Item : Hard Stone (50%)
+
+Location  : Rock Tunnel
+
+Base Stats:
+
+HP 		70 	
+Attack 		105 	
+Defense 	105 	
+Sp. Atk 	50 	
+Sp. Def 	40 	
+Speed 		20	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+4	Harden		Normal		Status 		— 	—
+7	Sand Attack	Ground		Status 		— 	100
+10	Headbutt	Normal		Physical 	70 	100
+14	Rock Blast	Rock		Physical 	25 	90
+17	Mud-Slap	Ground		Special 	20 	100
+20	Iron Defense	Steel		Status 		— 	—
+26	Power Gem	Rock		Special 	80 	100
+28	Iron Head	Steel		Physical 	80 	100
+30	Rock Slide	Rock		Physical 	75 	90
+36	Sandstorm	Rock		Status 		— 	—
+40	Stone Edge	Rock		Physical 	100 	80
+
+___________________________________________________________
+
+#56 Gigalith
+
+Ability	  : Sand Stream / Sturdy
+
+Type	  : Rock
+
+Held Item : Hard Stone (100%)
+
+Location  : Victory Road
+
+Base Stats:
+
+HP 		85 	
+Attack 		135 	
+Defense 	130 	
+Sp. Atk 	60 	
+Sp. Def 	80 	
+Speed 		25	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+4	Harden		Normal		Status 		— 	—
+7	Sand Attack	Ground		Status 		— 	100
+10	Headbutt	Normal		Physical 	70 	100
+14	Rock Blast	Rock		Physical 	25 	90
+17	Mud-Slap	Ground		Special 	20 	100
+20	Iron Defense	Steel		Status 		— 	—
+26	Power Gem	Rock		Special 	80 	100
+28	Iron Head	Steel		Physical 	80 	100
+30	Rock Slide	Rock		Physical 	75 	90
+36	Sandstorm	Rock		Status 		— 	—
+40	Stone Edge	Rock		Physical 	100 	80
+44	Rest		Psychic		Status 		— 	—
+45	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#57 Onix
+
+Ability	  : Rock Head / Sturdy
+
+Type	  : Rock
+
+Evolution : Level 36 => Steelix
+
+Held Item : Hard Stone (5%)
+
+Location  : Rock Tunnel
+
+Base Stats:
+
+HP 		35 	
+Attack 		45 	
+Defense 	160 	
+Sp. Atk 	30 	
+Sp. Def 	45 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Bind		Normal		Physical 	15 	85
+1	Harden		Normal		Status 		— 	—
+1	Mud Sport	Ground		Status 		— 	—
+1	Tackle		Normal		Physical 	50	100
+4	Curse		Ghost		Status 		— 	—
+7	Rock Throw	Rock		Physical 	50 	90
+10	Rock Tomb	Rock		Physical 	60 	95
+13	Rage		Normal		Physical 	20 	100
+19	Rock Polish	Rock		Status 		— 	—
+22	Dragon Breath	Dragon		Special 	60 	100
+28	Slam		Normal		Physical 	80 	75
+31	Screech		Normal		Status 		— 	85
+34	Rock Slide	Rock		Physical 	75 	90
+
+___________________________________________________________
+
+#58 Steelix
+
+Ability	  : Rock Head / Sturdy
+
+Type	  : Steel / Ground
+
+Held Item : Metal Coat (100%)
+
+Location  : Victory Road , Cerulean Cave
+
+Base Stats:
+
+HP 		75 	
+Attack 		85 	
+Defense 	200 	
+Sp. Atk 	55 	
+Sp. Def 	65 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Bind		Normal		Physical 	15 	85
+1	Harden		Normal		Status 		— 	—
+1	Mud Sport	Ground		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Curse		Ghost		Status 		— 	—
+7	Rock Throw	Rock		Physical 	50 	90
+10	Rock Tomb	Rock		Physical 	60 	95
+13	Rage		Normal		Physical 	20 	100
+19	Rock Polish	Rock		Status 		— 	—
+22	Dragon Breath	Dragon		Special 	60 	100
+28	Slam		Normal		Physical 	80 	75
+31	Screech		Normal		Status 		— 	85
+34	Rock Slide	Rock		Physical 	75 	90
+37	Crunch		Dark		Physical 	80 	100
+43	Dig		Ground		Physical 	80 	100
+52	Sandstorm	Rock		Status 		— 	—
+56	Fire Fang	Fire		Physical 	65 	95
+56	Ice Fang	Ice		Physical 	65 	95	
+56	Thunder Fang	Electric	Physical 	65 	95
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#59 Stunfisk
+
+Ability	  : Limber / Static
+
+Type	  : Ground / Electric
+
+Held Item : N/A
+
+Location  : Safari Zone ( Good Rod )
+
+Base Stats:
+
+HP 		109 	
+Attack 		66 	
+Defense 	84 	
+Sp. Atk 	81 	
+Sp. Def 	99 	
+Speed 		32	
+	
+	
+
+
+Moveset :
+
+1	Flail		Normal		Physical 	— 	100
+1	Mud-Slap	Ground		Special 	20 	100
+1	Mud Sport	Ground		Status 		— 	—
+1	Tackle		Normal		Physical 	50	100
+1	Water Gun	Water		Special 	40 	100
+5	Bide		Normal		Physical 	— 	—
+9	Thunder Shock	Electric	Special 	40 	100
+13	Mud Shot	Ground		Special 	55 	95
+17	Camouflage	Normal		Status 		— 	—
+21	Mud Bomb	Ground		Special 	65 	85
+25	Discharge	Electric	Special 	80 	100
+30	Endure		Normal		Status 		— 	—
+35	Bounce		Flying		Physical 	85 	85
+40	Muddy Water	Water		Special 	90 	85
+45	Thunderbolt	Electric	Special 	90 	100
+50	Revenge		Fighting	Physical 	60 	100
+55	Flail		Normal		Physical 	— 	100
+
+___________________________________________________________
+
+#60 Poliwag
+
+Ability	  : Damp / Water Absorb
+
+Type	  : Water
+
+Evolution : Level 25 => Poliwhirl
+
+Held Item : Mystic Water (5%)
+
+Location  : Use Good Rod in Pond Water
+
+Base Stats:
+
+HP 		40 	
+Attack 		50 	
+Defense 	40 	
+Sp. Atk 	40 	
+Sp. Def 	40 	
+Speed 		90	
+	
+	
+
+
+Moveset :
+
+1	Water Sport	Water		Status 		— 	—
+5	Water Gun	Water		Special 	40 	100
+8	Hypnosis	Psychic		Status 		— 	60
+11	Bubble		Water		Special 	40 	100
+15	Double Slap	Normal		Physical 	15 	85
+18	Rain Dance	Water		Status 		— 	—
+21	Body Slam	Normal		Physical 	85 	100
+25	Bubble Beam	Water		Special 	65 	100
+
+___________________________________________________________
+
+#61 Poliwhirl
+
+Ability	  : Damp / Water Absorb
+
+Type	  : Water
+
+Evolution : Water Stone => Poliwrath
+
+Held Item : Mystic Water (5%)
+
+Location  : Use Super Rod in Pond Water
+
+Base Stats:
+
+HP 		65 	
+Attack 		65 	
+Defense 	65 	
+Sp. Atk 	50 	
+Sp. Def 	50 	
+Speed 		90	
+	
+	
+
+
+Moveset :
+
+1	Water Sport	Water		Status 		— 	—
+5	Water Gun	Water		Special 	40 	100
+8	Hypnosis	Psychic		Status 		— 	60
+11	Bubble		Water		Special 	40 	100
+15	Double Slap	Normal		Physical 	15 	85
+18	Rain Dance	Water		Status 		— 	—
+21	Body Slam	Normal		Physical 	85 	100
+25	Bubble Beam	Water		Special 	65 	100
+26	Mud Shot	Ground		Special 	55 	95
+
+___________________________________________________________
+
+#62 Poliwrath
+
+Ability	  : Damp / Water Absorb
+
+Type	  : Water / Fighting
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		90 	
+Attack 		95 	
+Defense 	95 	
+Sp. Atk 	70 	
+Sp. Def 	90 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Water Sport	Water		Status 		— 	—
+5	Water Gun	Water		Special 	40 	100
+8	Hypnosis	Psychic		Status 		— 	60
+11	Bubble		Water		Special 	40 	100
+15	Double Slap	Normal		Physical 	15 	85
+18	Rain Dance	Water		Status 		— 	—
+21	Body Slam	Normal		Physical 	85 	100
+25	Bubble Beam	Water		Special 	65 	100
+26	Mud Shot	Ground		Special 	55 	95
+30	Submission	Fighting	Physical 	80 	80
+32	Refresh		Normal		Status 		— 	—
+35	Circle Throw	Fighting	Physical 	60 	90
+40	Wake-Up Slap	Fighting	Physical 	70 	100
+46	Poison Jab	Poison		Physical 	80 	100
+48	Brick Break	Fighting	Physical 	75 	100
+53	Dual Chop	Dragon		Physical 	40 	90
+53	Ice Punch	Ice		Physical 	75 	100
+58	Waterfall	Water		Physical 	80 	100
+
+___________________________________________________________
+
+#63 Seedot
+
+Ability	  : Chlorophyll / Early Bird
+
+Type	  : Grass
+
+Evolution : Level 14 => Nuzleaf
+
+Held Item : Miracle Seed (5%)
+
+Location  : Viridian Forest
+
+Base Stats:
+
+HP 		40 	
+Attack 		40 	
+Defense 	50 	
+Sp. Atk 	30 	
+Sp. Def 	30 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Bide		Normal		Physical 	— 	—
+3	Harden		Normal		Status 		— 	—
+9	Growth		Normal		Status 		— 	—
+13	Nature Power	Normal		Status 		— 	—
+
+___________________________________________________________
+
+#64 Nuzleaf
+
+Ability	  : Chlorophyll / Early Bird
+
+Type	  : Grass / Dark
+
+Evolution : Leaf Stone => Shiftry
+
+Held Item : Miracle Seed (5%)
+
+Location  : Route 6 , 7
+
+Base Stats:
+
+HP 		70 	
+Attack 		70 	
+Defense 	40 	
+Sp. Atk 	60 	
+Sp. Def 	40 	
+Speed 		60	
+	
+	
+
+
+Moveset :
+
+1	Bide		Normal		Physical 	— 	—
+3	Harden		Normal		Status 		— 	—
+9	Growth		Normal		Status 		— 	—
+13	Nature Power	Normal		Status 		— 	—
+15	Razor Leaf	Grass		Physical 	55 	95
+20	Razor Wind	Normal		Special 	80 	100
+24	Feint Attack	Dark		Physical 	60 	_
+26	Leaf Blade	Grass		Physical 	90 	100
+
+___________________________________________________________
+
+#65 Shiftry
+
+Ability	  : Chlorophyll / Early Bird
+
+Type	  : Grass / Dark
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		90 	
+Attack 		100 	
+Defense 	60 	
+Sp. Atk 	90 	
+Sp. Def 	60 	
+Speed 		80
+	
+	
+
+
+Moveset :
+
+1	Mean Look	Normal		Status 		— 	—
+1	Spore		Grass		Status 		— 	100 
+1	False Swipe	Normal		Physical 	40 	100
+1	Acupressure	Normal		Status 		— 	—
+1	Bide		Normal		Physical 	— 	—
+3	Harden		Normal		Status 		— 	—
+9	Growth		Normal		Status 		— 	—
+13	Nature Power	Normal		Status 		— 	—
+15	Razor Leaf	Grass		Physical 	55 	95
+20	Razor Wind	Normal		Special 	80 	100
+24	Feint Attack	Dark		Physical 	60 	_
+26	Leaf Blade	Grass		Physical 	90 	100
+26	Synthesis	Grass		Status 		— 	— 
+30	Leaf Tornado	Grass		Special 	65 	90
+32	Hurricane	Flying		Special 	110 	70
+38	Leaf Storm	Grass		Special 	130 	90
+48	Seed Bomb	Grass		Physical 	80 	100
+55	X-Scissor	Bug		Physical 	80 	100
+
+___________________________________________________________
+
+#66 Tentacool
+
+Ability	  : Clear Body / Liquid Ooze
+
+Type	  : Water / Poison
+
+Evolution : Level 30 => Tentacruel
+
+Held Item : Poison Barb (5%)
+
+Location  : Surf Sea Water
+
+Base Stats:
+
+HP 		40 	
+Attack 		40 	
+Defense 	35 	
+Sp. Atk 	50 	
+Sp. Def 	100 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Poison Sting	Poison		Physical 	15 	100
+4	Supersonic	Normal		Status 		— 	55
+7	Constrict	Normal		Physical 	10 	100
+10	Acid		Poison		Special 	40 	100
+16	Water Pulse	Water		Special 	60 	100
+19	Wrap		Normal		Physical 	15 	90
+22	Acid Spray	Poison		Special 	40 	100
+25	Bubble Beam	Water		Special 	65 	100
+28	Barrier		Psychic		Status 		— 	—
+29	Poison Jab	Poison		Physical 	80 	100
+
+___________________________________________________________
+
+#67 Tentacruel
+
+Ability	  : Clear Body / Liquid Ooze
+
+Type	  : Water / Poison
+
+Held Item : Poison Barb (5%)
+
+Location  : Surf Route 19 , 20 , 21 , Seafoam Islands ( Surf )
+
+Base Stats:
+
+HP 		80 	
+Attack 		70 	
+Defense 	65 	
+Sp. Atk 	80 	
+Sp. Def 	120 	
+Speed 		100	
+	
+	
+
+
+Moveset :
+
+1	Poison Sting	Poison		Physical 	15 	100
+4	Supersonic	Normal		Status 		— 	55
+7	Constrict	Normal		Physical 	10 	100
+10	Acid		Poison		Special 	40 	100
+16	Water Pulse	Water		Special 	60 	100
+19	Wrap		Normal		Physical 	15 	90
+22	Acid Spray	Poison		Special 	40 	100
+25	Bubble Beam	Water		Special 	65 	100
+28	Barrier		Psychic		Status 		— 	—
+29	Poison Jab	Poison		Physical 	80 	100
+36	Brine		Water		Special 	65 	100
+38	Toxic		Poison		Status 		— 	90
+40	Screech		Normal		Status 		— 	85
+44	Hex		Ghost		Special 	65 	100
+48	Sludge Bomb	Poison		Special 	90 	100
+52	Hydro Pump	Water		Special 	110 	80
+
+___________________________________________________________
+
+#68 Scyther
+
+Ability	  : Technician / Swarm 
+
+Type	  : Bug / Flying
+
+Evolution : Level 40 => Scizor
+
+Held Item : N/A
+
+Location  : Safari Zone ( Central Area )
+
+Base Stats:
+
+HP 		70 	
+Attack 		110 	
+Defense 	80 	
+Sp. Atk 	55 	
+Sp. Def 	80 	
+Speed 		105	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Quick Attack	Normal		Physical 	40 	100
+1	Vacuum Wave	Fighting	Special 	40 	100
+5	Focus Energy	Normal		Status 		— 	—
+9	Pursuit		Dark		Physical 	40 	100
+13	False Swipe	Normal		Physical 	40 	100
+17	Agility		Psychic		Status 		— 	—
+21	Wing Attack	Flying		Physical 	60 	100
+25	Fury Cutter	Bug		Physical 	40 	95
+27	Aerial Ace	Flying		Physical 	60 	_
+29	Slash		Normal		Physical 	70 	100
+33	Razor Wind	Normal		Special 	80 	100
+37	Double Team	Normal		Status 		— 	—
+38	X-Scissor	Bug		Physical 	80 	100
+39	Night Slash	Dark		Physical 	70 	100
+
+___________________________________________________________
+
+#69 Scizor
+
+Ability	  : Technician / Swarm 
+
+Type	  : Bug / Steel
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		70 	
+Attack 		130 	
+Defense 	100 	
+Sp. Atk 	55 	
+Sp. Def 	80 	
+Speed 		65	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Quick Attack	Normal		Physical 	40 	100
+1	Vacuum Wave	Fighting	Special 	40 	100
+5	Focus Energy	Normal		Status 		— 	—
+9	Pursuit		Dark		Physical 	40 	100
+13	False Swipe	Normal		Physical 	40 	100
+17	Agility		Psychic		Status 		— 	—
+21	Wing Attack	Flying		Physical 	60 	100
+25	Fury Cutter	Bug		Physical 	40 	95
+27	Aerial Ace	Flying		Physical 	60 	_
+29	Slash		Normal		Physical 	70 	100
+33	Razor Wind	Normal		Special 	80 	100
+37	Double Team	Normal		Status 		— 	—
+38	X-Scissor	Bug		Physical 	80 	100
+39	Night Slash	Dark		Physical 	70 	100
+41	Iron Head	Steel		Physical 	80 	100
+43	Thief		Dark		Physical 	60 	100
+45	Swords Dance	Normal		Status 		— 	—
+51	Superpower	Fighting	Physical 	120 	100
+55	U-turn		Bug		Physical 	70 	100
+
+___________________________________________________________
+
+#70 Pinsir
+
+Ability	  : Hyper Cutter
+
+Type	  : Bug
+
+Held Item : Focus Band (5%)
+
+Location  : Safari Zone ( All Areas )
+
+Base Stats:
+
+HP 		65 	
+Attack 		125 	
+Defense 	100 	
+Sp. Atk 	55 	
+Sp. Def 	70 	
+Speed 		85	
+	
+	
+
+
+Moveset :
+
+1	Focus Energy	Normal		Status 		— 	—
+1	Vice Grip	Normal		Physical 	55 	100
+4	Bind		Normal		Physical 	15 	85
+8	Seismic Toss	Fighting	Physical 	— 	100
+11	Harden		Normal		Status 		— 	—
+15	Revenge		Fighting	Physical 	60 	100
+18	Vital Throw	Fighting	Physical 	70 	_
+22	Double Hit	Normal		Physical 	35 	90
+26	Brick Break	Fighting	Physical 	75 	100
+29	X-Scissor	Bug		Physical 	80 	100
+33	Submission	Fighting	Physical 	80 	80
+33	Bulldoze	Ground		Physical 	60 	100
+36	Storm Throw	Fighting	Physical 	60 	100
+40	Swords Dance	Normal		Status 		— 	—
+43	Thrash		Normal		Physical 	120 	100
+47	Superpower	Fighting	Physical 	120 	100
+50	Guillotine	Normal		Physical 	— 	—
+
+___________________________________________________________
+
+#71 Heracross
+
+Ability	  : Guts / Swarm
+
+Type	  : Bug / Fighting
+
+Held Item : Focus Band (5%)
+
+Location  : Safari Zone ( Area One )
+
+Base Stats:
+
+HP 		80 	
+Attack 		125 	
+Defense 	75 	
+Sp. Atk 	40 	
+Sp. Def 	95 	
+Speed 		85	
+	
+	
+
+
+Moveset :
+
+1	Arm Thrust	Fighting	Physical 	15 	100
+1	Bullet Seed	Grass		Physical 	25 	100
+1	Endure		Normal		Status 		— 	—
+1	Horn Attack	Normal		Physical 	65 	100
+1	Leer		Normal		Status 		— 	100
+1	Night Slash	Dark		Physical 	70 	100
+1	Tackle		Normal		Physical 	50 	100
+7	Feint Attack	Dark		Physical 	60 	— 
+10	Aerial Ace	Flying		Physical 	60 	_
+19	Counter		Fighting	Physical 	— 	100
+25	Fury Attack	Normal		Physical 	15 	85
+28	Brick Break	Fighting	Physical 	75 	100
+31	Pin Missile	Bug		Physical 	25 	95
+33	Bulldoze	Ground		Physical 	60 	100
+34	Take Down	Normal		Physical 	90 	85
+37	Megahorn	Bug		Physical 	120 	85
+43	Close Combat	Fighting	Physical 	120 	100
+46	Reversal	Fighting	Physical 	— 	100
+
+___________________________________________________________
+
+#72 Tauros
+
+Ability	  : Intimidate
+
+Type	  : Normal
+
+Held Item : N/A
+
+Location  : Route 18
+
+Base Stats:
+
+HP 		75 	
+Attack 		100 	
+Defense 	95 	
+Sp. Atk 	40 	
+Sp. Def 	70 	
+Speed 		110	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+3	Tail Whip	Normal		Status 		— 	100
+5	Rage		Normal		Physical 	20 	100
+8	Horn Attack	Normal		Physical 	65 	100
+11	Scary Face	Normal		Status 		— 	100
+15	Pursuit		Dark		Physical 	40 	100
+19	Rest		Psychic		Status 		— 	—
+24	Payback		Dark		Physical 	50 	100
+29	Work Up		Normal		Status 		— 	—
+35	Take Down	Normal		Physical 	90 	85
+41	Zen Headbutt	Psychic		Physical 	80 	90
+48	Swagger		Normal		Status 		— 	85
+50	Iron Head	Steel		Physical 	80 	100
+53	Outrage		Dragon		Physical 	120 	100
+53	Thrash		Normal		Physical 	120 	100
+55	Double-Edge	Normal		Physical 	120 	100
+58	Wild Charge	Electric	Physical 	90 	100
+60	Giga Impact	Normal		Physical 	150 	90
+
+___________________________________________________________
+
+#73 Ponyta
+
+Ability	  : Flash Fire / Run Away
+
+Type	  : Fire
+
+Evolution : Level 40 => Rapidash
+
+Held Item : N/A
+
+Location  : Safari Zone ( All Areas )
+
+Base Stats:
+
+HP 		50 	
+Attack 		85 	
+Defense 	55 	
+Sp. Atk 	65 	
+Sp. Def 	65 	
+Speed 		90	
+	
+	
+
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50	100
+4	Tail Whip	Normal		Status 		— 	100
+9	Ember		Fire		Special 	40 	100
+13	Flame Wheel	Fire		Physical 	60 	100
+17	Stomp		Normal		Physical 	65 	100
+21	Flame Charge	Fire		Physical 	50 	100
+25	Fire Spin	Fire		Special 	35 	85
+29	Take Down	Normal		Physical 	90 	85
+33	Inferno		Fire		Special 	100 	50
+37	Agility		Psychic		Status 		— 	—
+39	Fire Blast	Fire		Special 	110 	85
+
+___________________________________________________________
+
+#74 Rapidash
+
+Ability	  : Flash Fire / Run Away
+
+Type	  : Fire
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		100 	
+Defense 	70 	
+Sp. Atk 	80 	
+Sp. Def 	80 	
+Speed 		105
+	
+	
+
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+4	Tail Whip	Normal		Status 		— 	100
+9	Ember		Fire		Special 	40 	100
+13	Flame Wheel	Fire		Physical 	60 	100
+17	Stomp		Normal		Physical 	65 	100
+21	Flame Charge	Fire		Physical 	50 	100
+25	Fire Spin	Fire		Special 	35 	85
+29	Take Down	Normal		Physical 	90 	85
+33	Inferno		Fire		Special 	100 	50
+37	Agility		Psychic		Status 		— 	—
+39	Fire Blast	Fire		Special 	110 	85
+44	HiHorsepower	Ground		Physical 	95 	95
+49	Flare Blitz	Fire		Physical 	120 	100
+51	Poison Jab	Poison		Physical 	80 	100
+52	Wild Charge	Electric	Physical 	90 	100
+55	Drill Run	Ground		Physical 	80 	95
+58	Megahorn	Bug		Physical 	120 	85
+
+___________________________________________________________
+
+#75 Blitzle
+
+Ability	  : Lightning Rod / Motor Drive
+
+Type	  : Electric
+
+Evolution : Level 27 => Zebstrika
+
+Held Item : N/A
+
+Location  : Safari Zone ( All Areas )
+
+Base Stats:
+
+HP 		45 	
+Attack 		60 	
+Defense 	32 	
+Sp. Atk 	50 	
+Sp. Def 	32 	
+Speed 		76	
+	
+	
+
+
+Moveset :
+
+1	Quick Attack	Normal		Physical 	40 	100
+4	Tail Whip	Normal		Status 		— 	100
+8	Charge		Electric	Status 		— 	—
+11	Shock Wave	Electric	Special 	60 	_
+15	Thunder Wave	Electric	Status 		— 	90
+18	Flame Charge	Fire		Physical 	50 	100
+22	Pursuit		Dark		Physical 	40 	100
+25	Spark		Electric	Physical 	65 	100
+26	Stomp		Normal		Physical 	65 	100
+26	Discharge	Electric	Special 	80 	100
+
+___________________________________________________________
+
+#76 Zebstrika
+
+Ability	  : Lightning Rod / Motor Drive
+
+Type	  : Electric
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		75 	
+Attack 		100 	
+Defense 	63 	
+Sp. Atk 	80 	
+Sp. Def 	63 	
+Speed 		116	
+	
+	
+
+
+Moveset :
+
+1	Quick Attack	Normal		Physical 	40 	100
+4	Tail Whip	Normal		Status 		— 	100
+8	Charge		Electric	Status 		— 	—
+11	Shock Wave	Electric	Special 	60 	_
+15	Thunder Wave	Electric	Status 		— 	90
+18	Flame Charge	Fire		Physical 	50 	100
+22	Pursuit		Dark		Physical 	40 	100
+25	Spark		Electric	Physical 	65 	100
+26	Stomp		Normal		Physical 	65 	100
+26	Discharge	Electric	Special 	80 	100
+33	Agility		Psychic		Status 		— 	—
+39	Wild Charge	Electric	Physical 	90 	100
+44	HiHorsepower	Ground		Physical 	95 	95
+50	Thrash		Normal		Physical 	120 	100
+
+___________________________________________________________
+
+#77 Magikarp
+
+Ability	  : Swift Swim
+
+Type	  : Water
+
+Evolution : Level 20 => Gyarados
+
+Held Item : N/A
+
+Location  : Use Old Rod
+
+Base Stats:
+
+HP 		20 	
+Attack 		10 	
+Defense 	55 	
+Sp. Atk 	15 	
+Sp. Def 	20 	
+Speed 		80	
+	
+	
+
+
+Moveset :
+
+1	Splash		Normal		Status 		— 	—
+15	Tackle		Normal		Physical 	50	100
+
+___________________________________________________________
+
+#78 Gyarados
+
+Ability	  : Intimidate
+
+Type	  : Water / Dragon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		95 	
+Attack 		125 	
+Defense 	79 	
+Sp. Atk 	60 	
+Sp. Def 	100 	
+Speed 		81	
+	
+	
+
+
+Moveset :
+
+1	Splash		Normal		Status 		— 	—
+15	Tackle		Normal		Physical 	50 	100
+30	Flail		Normal		Physical 	— 	100
+21	Leer		Normal		Status 		— 	100
+24	Twister		Dragon		Special 	40 	100
+27	Ice Fang	Ice		Physical 	65 	95
+30	Aqua Tail	Water		Physical 	90 	90
+33	Scary Face	Normal		Status 		— 	100
+36	Dragon Rage	Dragon		Special 	— 	100
+39	Crunch		Dark		Physical 	80 	100
+40	Iron Head	Steel		Physical 	80 	100
+43	Waterfall	Water		Physical 	80 	100
+45	Dragon Dance	Dragon		Status 		— 	—
+48	Double-Edge	Normal		Physical 	120 	100
+51	Rain Dance	Water		Status 		— 	—
+55	Outrage		Dragon		Physical	120	100
+54	Skull Bash	Normal		Physical 	130 	100
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#79 Carvanha
+
+Ability	  : Rough Skin
+
+Type	  : Water / Dark
+
+Evolution : Level 30 => Sharpedo
+
+Held Item : Mystic Water (5%)
+
+Location  : Surf Sea Water , Safari Zone ( Surf , Good Rod , Super Rod )
+
+Base Stats:
+
+HP 		45 	
+Attack 		90 	
+Defense 	20 	
+Sp. Atk 	65 	
+Sp. Def 	20 	
+Speed 		65	
+	
+	
+
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+4	Rage		Normal		Physical 	20 	100
+8	Focus Energy	Normal		Status 		— 	—
+11	Aqua Jet	Water		Physical 	40 	100
+15	Assurance	Dark		Physical 	60 	100
+18	Screech		Normal		Status 		— 	85
+22	Swagger		Normal		Status 		— 	85
+25	Ice Fang	Ice		Physical 	65 	95
+28	Scary Face	Normal		Status 		— 	100
+29	Poison Fang	Poison		Physical 	50 	100
+
+___________________________________________________________
+
+#80 Sharpedo
+
+Ability	  : Speed Boost / Rough Skin
+
+Type	  : Water / Dark
+
+Held Item : Mystic Water (5%)
+
+Location  : Surf Route 19 , 20 , 21 , Seafoam Islands ( Surf )
+
+Base Stats:
+
+HP 		70 	
+Attack 		120 	
+Defense 	40 	
+Sp. Atk 	95 	
+Sp. Def 	40 	
+Speed 		95	
+	
+	
+
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+4	Rage		Normal		Physical 	20 	100
+8	Focus Energy	Normal		Status 		— 	—
+11	Aqua Jet	Water		Physical 	40 	100
+15	Assurance	Dark		Physical 	60 	100
+18	Screech		Normal		Status 		— 	85
+22	Swagger		Normal		Status 		— 	85
+25	Ice Fang	Ice		Physical 	65 	95
+28	Scary Face	Normal		Status 		— 	100
+29	Poison Fang	Poison		Physical 	50 	100
+31	Crunch		Dark		Physical 	80 	100
+31	Slash		Normal		Physical 	70 	100
+43	Agility		Psychic		Status 		— 	—
+44	Bulldoze	Ground		Physical 	60 	100
+45	Skull Bash	Normal		Physical 	130 	100
+50	Taunt		Dark		Status 		— 	100
+55	Night Slash	Dark		Physical 	70 	100
+56	Poison Jab	Poison		Physical 	80 	100
+58	Zen Headbutt	Psychic		Physical 	80 	90
+60	Super Fang	Normal		Physical 	— 	90
+
+___________________________________________________________
+
+#81 Skarmory
+
+Ability	  : Keen Eye / Sturdy
+
+Type	  : Steel / Flying
+
+Held Item : Metal Coat (5%)
+
+Location  : Route 14 , 15 , Safari Zone ( All Areas )
+
+Base Stats:
+
+HP 		65 	
+Attack 		80 	
+Defense 	140 	
+Sp. Atk 	40 	
+Sp. Def 	70 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Peck		Flying		Physical 	35 	100
+6	Sand Attack	Ground		Status 		— 	100
+9	Metal Claw	Steel		Physical 	50 	95
+12	Air Cutter	Flying		Special 	60 	95
+17	Fury Attack	Normal		Physical 	15 	85
+20	Feint Attack	Dark		Physical 	60 	— 
+23	Swift		Normal		Special 	60 	_
+31	Agility		Psychic		Status 		— 	—
+33	Protect		Normal		Status 		— 	—
+34	Steel Wing	Steel		Physical 	70 	90
+39	Slash		Normal		Physical 	70 	100
+42	Metal Sound	Steel		Status 		— 	85
+44	Toxic		Poison		Status 		— 	90
+44	Sandstorm	Rock		Status 		— 	—
+45	Air Slash	Flying		Special 	75 	95
+53	Night Slash	Dark		Physical 	70 	100
+55	Brave Bird	Flying		Physical 	120 	100
+56	X-Scissor	Bug		Physical 	80 	100
+58	Roost		Flying		Status 		— 	—
+60	Cosmic Power	Psychic		Status 		— 	—
+
+___________________________________________________________
+
+#82 Abra
+
+Ability	  : Inner Focus / Synchronize
+
+Type	  : Psychic
+
+Evolution : Level 16 => Kadabra
+
+Held Item : Twisted Spoon (50%)
+
+Location  : Route 10 , 24 , 25
+
+Base Stats:
+
+HP 		25 	
+Attack 		20 	
+Defense 	15 	
+Sp. Atk 	105 	
+Sp. Def 	55 	
+Speed 		90	
+	
+	
+
+
+Moveset :
+
+1	Teleport	Psychic		Status 		— 	—
+9	Confusion	Psychic		Special 	50 	100	
+
+___________________________________________________________
+
+#83 Kadabra
+
+Ability	  : Inner Focus / Synchronize
+
+Type	  : Psychic
+
+Evolution : Level 40 => Alakazam
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		40 	
+Attack 		35 	
+Defense 	30 	
+Sp. Atk 	120 	
+Sp. Def 	70 	
+Speed 		105	
+	
+	
+
+
+Moveset :
+
+1	Teleport	Psychic		Status 		— 	—
+1	Confusion	Psychic		Special 	50 	100
+1	Kinesis		Psychic		Status 		— 	80
+16	Confusion	Psychic		Special 	50 	100
+18	Disable		Normal		Status 		— 	100
+21	Psybeam		Psychic		Special 	65 	100
+23	Miracle Eye	Psychic		Status 		— 	—
+26	Reflect		Psychic		Status 		— 	—
+28	Psycho Cut	Psychic		Physical 	70 	100
+31	Recover		Normal		Status 		— 	—
+36	Psychic		Psychic		Special 	90 	100
+
+___________________________________________________________
+
+#84 Alakazam
+
+Ability	  : Inner Focus / Synchronize
+
+Type	  : Psychic
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		55 	
+Attack 		50 	
+Defense 	45 	
+Sp. Atk 	135 	
+Sp. Def 	95 	
+Speed 		120	
+	
+	
+
+
+Moveset :
+
+1	Teleport	Psychic		Status 		— 	—
+1	Confusion	Psychic		Special 	50 	100
+1	Kinesis		Psychic		Status 		— 	80
+16	Confusion	Psychic		Special 	50 	100
+18	Disable		Normal		Status 		— 	100
+21	Psybeam		Psychic		Special 	65 	100
+23	Miracle Eye	Psychic		Status 		— 	—
+26	Reflect		Psychic		Status 		— 	—
+28	Psycho Cut	Psychic		Physical 	70 	100
+31	Recover		Normal		Status 		— 	—
+33	Telekinesis	Psychic		Status 		— 	—
+36	Psychic		Psychic		Special 	90 	100
+44	Shock Wave	Electric	Special 	60 	_
+45	Signal Beam	Bug		Special 	75 	100
+55	Energy Ball	Grass		Special 	90 	100
+60	Shadow Ball	Ghost		Special 	80 	100
+
+___________________________________________________________
+
+#85 Gligar
+
+Ability	  : Hyper Cutter / Sand Veil
+
+Type	  : Ground / Flying
+
+Evolution : Level 36 => Gliscor
+
+Held Item : Quick Claw (5%)
+
+Location  : Safari Zone ( Area Two )
+
+Base Stats:
+
+HP 		65 	
+Attack 		75 	
+Defense 	105 	
+Sp. Atk 	35 	
+Sp. Def 	65 	
+Speed 		85	
+	
+	
+
+
+Moveset :
+
+1	Poison Sting	Poison		Physical 	15 	100
+4	Sand Attack	Ground		Status 		— 	100
+7	Harden		Normal		Status 		— 	—
+10	Knock Off	Dark		Physical 	65 	100
+13	Quick Attack	Normal		Physical 	40 	100
+16	Fury Cutter	Bug		Physical 	40 	95
+19	Feint Attack	Dark		Physical 	60 	_
+22	Acrobatics	Flying		Physical 	55 	100
+27	Slash		Normal		Physical 	70 	100
+30	U-turn		Bug		Physical 	70 	100
+35	Screech		Normal		Status 		— 	85
+
+___________________________________________________________
+
+#86 Gliscor
+
+Ability	  : Hyper Cutter / Sand Veil
+
+Type	  : Ground / Flying
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		75 	
+Attack 		95 	
+Defense 	125 	
+Sp. Atk 	45 	
+Sp. Def 	75 	
+Speed 		95	
+	
+	
+
+
+Moveset :
+
+1	Poison Sting	Poison		Physical 	15 	100
+4	Sand Attack	Ground		Status 		— 	100
+7	Harden		Normal		Status 		— 	—
+10	Knock Off	Dark		Physical 	65 	100
+13	Quick Attack	Normal		Physical 	40 	100
+16	Fury Cutter	Bug		Physical 	40 	95
+19	Feint Attack	Dark		Physical 	60 	_
+22	Acrobatics	Flying		Physical 	55 	100
+27	Slash		Normal		Physical 	70 	100
+30	U-turn		Bug		Physical 	70 	100
+35	Screech		Normal		Status 		— 	85
+37	Night Slash	Dark		Physical 	70 	100
+40	X-Scissor	Bug		Physical 	80 	100
+45	Sky Uppercut	Fighting	Physical 	85 	90
+53	Fire Fang	Fire		Physical 	65 	95
+53	Ice Fang	Ice		Physical 	65 	95
+53	Thunder Fang	Electric	Physical 	65 	95
+55	Poison Jab	Poison		Physical 	80 	100
+
+___________________________________________________________
+
+#87 Gastly
+
+Ability	  : Levitate
+
+Type	  : Ghost / Poison
+
+Evolution : Level 25 => Haunter
+
+Held Item : Spell Tag (5%)
+
+Location  : Pokémon Tower
+
+Base Stats:
+
+HP 		30 	
+Attack 		35 	
+Defense 	30 	
+Sp. Atk 	100 	
+Sp. Def 	35 	
+Speed 		80	
+	
+	
+
+
+Moveset :
+
+1	Hypnosis	Psychic		Status 		— 	60
+1	Lick		Ghost		Physical 	30 	100
+5	Spite		Ghost		Status 		— 	100
+8	Mean Look	Normal		Status 		— 	—
+12	Curse		Ghost		Status 		— 	—
+15	Night Shade	Ghost		Special 	— 	100
+19	Confuse Ray	Ghost		Status 		— 	100
+22	Sucker Punch	Dark		Physical 	70 	100
+24	Payback		Dark		Physical 	50 	100
+
+___________________________________________________________
+
+#88 Haunter
+
+Ability	  : Levitate
+
+Type	  : Ghost / Poison
+
+Evolution : Level 40 => Gengar
+
+Held Item : Spell Tag (50%)
+
+Location  : Pokémon Tower , Pokémon Mansion
+
+Base Stats:
+
+HP 		45 	
+Attack 		50 	
+Defense 	45 	
+Sp. Atk 	115 	
+Sp. Def 	55 	
+Speed 		95	
+	
+	
+
+
+Moveset :
+
+1	Hypnosis	Psychic		Status 		— 	60
+1	Lick		Ghost		Physical 	30 	100
+5	Spite		Ghost		Status 		— 	100
+8	Mean Look	Normal		Status 		— 	—
+12	Curse		Ghost		Status 		— 	—
+15	Night Shade	Ghost		Special 	— 	100
+19	Confuse Ray	Ghost		Status 		— 	100
+22	Sucker Punch	Dark		Physical 	70 	100
+24	Payback		Dark		Physical 	50 	100
+26	Shadow Punch	Ghost		Physical 	60 	_
+33	Shadow Ball	Ghost		Special 	80 	100
+35	Dream Eater	Psychic		Special 	100 	100
+39	Dark Pulse	Dark		Special 	80 	100
+
+___________________________________________________________
+
+#89 Gengar
+
+Ability	  : Levitate
+
+Type	  : Ghost / Poison
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		65 	
+Defense 	60 	
+Sp. Atk 	130 	
+Sp. Def 	75 	
+Speed 		110	
+	
+	
+
+
+Moveset :
+
+1	Hypnosis	Psychic		Status 		— 	60
+1	Lick		Ghost		Physical 	30 	100
+5	Spite		Ghost		Status 		— 	100
+8	Mean Look	Normal		Status 		— 	—
+12	Curse		Ghost		Status 		— 	—
+15	Night Shade	Ghost		Special 	— 	100
+19	Confuse Ray	Ghost		Status 		— 	100
+22	Sucker Punch	Dark		Physical 	70 	100
+24	Payback		Dark		Physical 	50 	100
+26	Shadow Punch	Ghost		Physical 	60 	_
+33	Shadow Ball	Ghost		Special 	80 	100
+35	Dream Eater	Psychic		Special 	100 	100
+39	Dark Pulse	Dark		Special 	80 	100
+44	Hex		Ghost		Special 	65 	100
+53	Sludge Bomb	Poison		Special 	90 	100
+60	Energy Ball	Grass		Special 	90 	100
+60	Thunderbolt	Electric	Special 	90 	100
+60	Psychic		Psychic		Special 	90 	100
+
+___________________________________________________________
+
+#90 Beldum
+
+Ability	  : Clear Body
+
+Type	  : Steel / Psychic
+
+Evolution : Level 20 => Metang
+
+Held Item : N/A
+
+Location  : Obtained from NPC in Silph CO.
+
+Base Stats:
+
+HP 		40 	
+Attack 		55 	
+Defense 	80 	
+Sp. Atk 	35 	
+Sp. Def 	60 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Take Down	Normal		Physical 	90 	85
+
+___________________________________________________________
+
+#91 Metang
+
+Ability	  : Clear Body
+
+Type	  : Steel / Psychic
+
+Evolution : Level 45 => Metagross
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		75 	
+Defense 	100 	
+Sp. Atk 	55 	
+Sp. Def 	80 	
+Speed 		50	
+	
+	
+
+
+Moveset :
+
+1	Take Down	Normal		Physical 	90 	85
+21	Confusion	Psychic		Special 	50 	100
+21	Metal Claw	Steel		Physical 	50 	95
+23	Pursuit		Dark		Physical 	40 	100
+26	Bullet Punch	Steel		Physical 	40 	100
+29	Miracle Eye	Psychic		Status 		— 	—
+32	Zen Headbutt	Psychic		Physical 	80 	90
+35	Scary Face	Normal		Status 		— 	100
+38	Psychic		Psychic		Special 	90 	100
+41	Agility		Psychic		Status 		— 	—
+44	Meteor Mash	Steel		Physical 	90 	90
+
+___________________________________________________________
+
+#92 Metagross
+
+Ability	  : Clear Body
+
+Type	  : Steel / Psychic
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		80 	
+Attack 		135 	
+Defense 	130 	
+Sp. Atk 	95 	
+Sp. Def 	90 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Take Down	Normal		Physical 	90 	85
+21	Confusion	Psychic		Special 	50 	100
+21	Metal Claw	Steel		Physical 	50 	95
+23	Pursuit		Dark		Physical 	40 	100
+26	Bullet Punch	Steel		Physical 	40 	100
+29	Miracle Eye	Psychic		Status 		— 	—
+32	Zen Headbutt	Psychic		Physical 	80 	90
+35	Scary Face	Normal		Status 		— 	100
+38	Psychic		Psychic		Special 	90 	100
+41	Agility		Psychic		Status 		— 	—
+44	Meteor Mash	Steel		Physical 	90 	90
+46	Hammer Arm	Fighting	Physical 	100 	90
+51	Iron Head	Steel		Physical 	80 	100
+55	Thunder Punch	Electric	Physical 	75 	100
+55	Ice Punch	Ice		Physical 	75 	100
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#93 Chinchou
+
+Ability	  : Illuminate / Volt Absorb
+
+Type	  : Water / Electric
+
+Evolution : Level 27 => Lanturn
+
+Held Item : N/A
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		75 	
+Attack 		38 	
+Defense 	38 	
+Sp. Atk 	56 	
+Sp. Def 	56 	
+Speed 		67	
+	
+	
+
+
+Moveset :
+
+1	Bubble		Water		Special 	40 	100
+1	Supersonic	Normal		Status 		— 	55
+6	Thunder Wave	Electric	Status 		— 	90
+12	Water Gun	Water		Special 	40 	100
+17	Confuse Ray	Ghost		Status 		— 	100
+20	Bubble Beam	Water		Special 	65 	100
+23	Spark		Electric	Physical 	65 	100
+26	Signal Beam	Bug		Special 	75 	100
+
+___________________________________________________________
+
+#94 Lanturn
+
+Ability	  : Illuminate / Volt Absorb
+
+Type	  : Water / Electric
+
+Held Item : N/A
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		125 	
+Attack 		58 	
+Defense 	58 	
+Sp. Atk 	76 	
+Sp. Def 	76 	
+Speed 		67	
+	
+	
+
+
+Moveset :
+
+1	Bubble		Water		Special 	40 	100
+1	Supersonic	Normal		Status 		— 	55
+6	Thunder Wave	Electric	Status 		— 	90
+12	Water Gun	Water		Special 	40 	100
+17	Confuse Ray	Ghost		Status 		— 	100
+20	Bubble Beam	Water		Special 	65 	100
+23	Spark		Electric	Physical 	65 	100
+26	Signal Beam	Bug		Special 	75 	100
+28	Spit Up		Normal		Special 	— 	100
+28	Stockpile	Normal		Status 		— 	—
+28	Swallow		Normal		Status 		— 	—
+36	Charge		Electric	Status 		— 	—
+36	Shock Wave	Electric	Special 	60 	_
+38	Water Pulse	Water		Special 	60 	100
+44	Thunderbolt	Electric	Special 	90 	100
+49	Scald		Water		Special 	80 	100
+50	Psybeam		Psychic		Special 	65 	100
+52	Rest		Psychic		Status 		— 	—
+55	Rain Dance	Water		Status 		— 	—
+60	Thunder		Electric	Special 	110 	85
+
+___________________________________________________________
+
+#95 Sneasel
+
+Ability	  : Inner Focus / Keen Eye
+
+Type	  : Dark / Ice
+
+Evolution : Moon Stone => Weavile
+
+Held Item : Nevermelt Ice (5%)
+
+Location  : Seafoam Islands
+
+Base Stats:
+
+HP 		55 	
+Attack 		95 	
+Defense 	55 	
+Sp. Atk 	35 	
+Sp. Def 	75 	
+Speed 		115	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+1	Taunt		Dark		Status 		— 	100
+8	Quick Attack	Normal		Physical 	40 	100
+10	Feint Attack	Dark		Physical 	60 	_
+14	Icy Wind	Ice		Special 	55 	95
+16	Fury Swipes	Normal		Physical 	18 	80
+20	Agility		Psychic		Status 		— 	—
+22	Metal Claw	Steel		Physical 	50 	95
+24	Hone Claws	Dark		Status 		— 	—
+25	Beat Up		Dark		Physical 	— 	100
+
+___________________________________________________________
+
+#96 Weavile
+
+Ability	  : Pressure
+
+Type	  : Dark / Ice
+
+Held Item : Nevermelt Ice (100%)
+
+Location  : Seafoam Islands
+
+Base Stats:
+
+HP 		70 	
+Attack 		120 	
+Defense 	65 	
+Sp. Atk 	45 	
+Sp. Def 	85 	
+Speed 		125	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+1	Taunt		Dark		Status 		— 	100
+8	Quick Attack	Normal		Physical 	40 	100
+10	Feint Attack	Dark		Physical 	60 	_
+14	Icy Wind	Ice		Special 	55 	95
+16	Fury Swipes	Normal		Physical 	18 	80
+20	Agility		Psychic		Status 		— 	—
+22	Metal Claw	Steel		Physical 	50 	95
+24	Hone Claws	Dark		Status 		— 	—
+25	Beat Up		Dark		Physical 	— 	100
+27	Ice Shard	Ice		Physical 	40 	100
+32	Night Slash	Dark		Physical 	70 	100
+35	Ice Punch	Ice		Physical 	75 	100
+44	Brick Break	Fighting	Physical 	75 	100
+48	Shadow Claw	Ghost		Physical 	70 	100
+51	Poison Jab	Poison		Physical 	80 	100
+55	X-Scissor	Bug		Physical 	80 	100
+
+___________________________________________________________
+
+#97 Shellder
+
+Ability	  : Skill Link / Shell Armor
+
+Type	  : Water
+
+Evolution : Water Stone => Cloyster
+
+Held Item : Pearl (50%) / Big Pearl (5%)
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		30 	
+Attack 		65 	
+Defense 	100 	
+Sp. Atk 	45 	
+Sp. Def 	25 	
+Speed 		40	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+1	Water Gun	Water		Special 	40 	100
+4	Withdraw	Water		Status 		— 	—
+8	Supersonic	Normal		Status 		— 	55
+13	Protect		Normal		Status 		— 	—
+20	Clamp		Water		Physical 	35 	85
+22	Ice Shard	Ice		Physical 	40 	100
+
+___________________________________________________________
+
+#98 Cloyster
+
+Ability	  : Skill Link / Shell Armor
+
+Type	  : Water
+
+Held Item : Pearl (50%) / Big Pearl (5%)
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		50 	
+Attack 		95 	
+Defense 	180 	
+Sp. Atk 	85 	
+Sp. Def 	45 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+1	Water Gun	Water		Special 	40 	100
+4	Withdraw	Water		Status 		— 	—
+8	Supersonic	Normal		Status 		— 	55
+13	Protect		Normal		Status 		— 	—
+20	Clamp		Water		Physical 	35 	85
+22	Ice Shard	Ice		Physical 	40 	100
+28	Rock Blast	Rock		Physical 	25 	90
+33	Twineedle	Bug		Physical 	25 	100
+38	Rest		Psychic		Status 		— 	—
+42	Sleep Talk	Normal		Status 		— 	—
+
+___________________________________________________________
+
+#99 Smeargle
+
+Ability	  : Technician
+
+Type	  : Normal
+
+Held Item : N/A
+
+Location  : Enter the Celadon Mansion from the back, On the top there is a room with a Pokéball, take it.
+
+Base Stats:
+
+HP 		55 	
+Attack 		20 	
+Defense 	35 	
+Sp. Atk 	20 	
+Sp. Def 	45 	
+Speed 		75	
+	
+	
+
+
+Moveset :
+
+1	Sketch		Normal		Status 		— 	—
+___________________________________________________________
+
+#100 Ditto
+
+Ability	  : Limber
+
+Type	  : Normal
+
+Held Item : N/A
+
+Location  : Pokémon Mansion , Cerulean Cave
+
+Base Stats:
+
+HP 		96	
+Attack 		48 	
+Defense 	48 	
+Sp. Atk 	48 	
+Sp. Def 	48 	
+Speed 		48	
+	
+	
+
+
+Moveset :
+
+1	Transform	Normal		Status 		— 	—
+
+___________________________________________________________
+
+#101 Budew
+
+Ability	  : Natural Cure / Poison Point
+
+Type	  : Grass / Poison
+
+Evolution : level 16 => Roselia
+
+Held Item : Miracle Seed (5%)
+
+Location  : Route 2
+
+Base Stats:
+
+HP 		40 	
+Attack 		30 	
+Defense 	35 	
+Sp. Atk 	50 	
+Sp. Def 	70 	
+Speed 		55	
+	
+	
+
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+4	Growth		Normal		Status 		— 	—
+7	Water Sport	Water		Status 		— 	—
+10	Stun Spore	Grass		Status 		— 	75
+13	Mega Drain	Grass		Special 	40 	100
+16	Worry Seed	Grass		Status 		— 	100
+
+___________________________________________________________
+
+#102 Roselia
+
+Ability	  : Natural Cure / Poison Point
+
+Type	  : Grass / Poison
+
+Evolution : Sun Stone => Roserade
+
+Held Item : Miracle Seed (5%)
+
+Location  : Route 4 , 6 , 7 , 24 , 25
+
+Base Stats:
+
+HP 		50 	
+Attack 		60 	
+Defense 	45 	
+Sp. Atk 	100 	
+Sp. Def 	80 	
+Speed 		65	
+	
+	
+
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+4	Growth		Normal		Status 		— 	—
+7	Water Sport	Water		Status 		— 	—
+10	Stun Spore	Grass		Status 		— 	75
+13	Mega Drain	Grass		Special 	40 	100
+16	Worry Seed	Grass		Status 		— 	100
+16	Leech Seed	Grass		Status 		— 	90
+19	Magical Leaf	Grass		Special 	60 	_
+22	Grass Whistle	Grass		Status 		— 	55
+25	Giga Drain	Grass		Special 	75 	100
+
+___________________________________________________________
+
+#103 Roserade
+
+Ability	  : Natural Cure / Poison Point
+
+Type	  : Grass / Poison
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		70 	
+Defense 	65 	
+Sp. Atk 	125 	
+Sp. Def 	105 	
+Speed 		90	
+	
+	
+
+
+Moveset :
+
+1	Absorb		Grass		Special 	20 	100
+4	Growth		Normal		Status 		— 	—
+7	Water Sport	Water		Status 		— 	—
+10	Stun Spore	Grass		Status 		— 	75
+13	Mega Drain	Grass		Special 	40 	100
+16	Worry Seed	Grass		Status 		— 	100
+16	Leech Seed	Grass		Status 		— 	90
+19	Magical Leaf	Grass		Special 	60 	_
+22	Grass Whistle	Grass		Status 		— 	55
+25	Giga Drain	Grass		Special 	75 	100
+27	Venoshock	Poison		Special 	65 	100
+31	Toxic		Poison		Status 		— 	90 
+38	Energy Ball	Grass		Special 	90 	100	
+45	Petal Dance	Grass		Special 	120 	100 
+51	Shadow Ball	Ghost		Special 	80 	100
+55	Sludge Bomb	Poison		Special 	90 	100
+
+___________________________________________________________
+
+#104 Cubone
+
+Ability	  : Lightning Rod / Rock Head
+
+Type	  : Ground
+
+Evolution : Level 28 => Marowak
+
+Held Item : Thick Club (5%)
+
+Location  : Pokémon Tower
+
+Base Stats:
+
+HP 		50 	
+Attack 		50 	
+Defense 	95 	
+Sp. Atk 	40 	
+Sp. Def 	50 	
+Speed 		35	
+	
+	
+
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+3	Tail Whip	Normal		Status 		— 	100
+7	Bone Club	Ground		Physical 	65 	85
+11	Headbutt	Normal		Physical 	70 	100
+13	Leer		Normal		Status 		— 	100
+17	Focus Energy	Normal		Status 		— 	—
+21	Bonemerang	Ground		Physical 	50 	90
+23	Rage		Normal		Physical 	20 	100
+25	False Swipe	Normal		Physical 	40 	100
+27	Thrash		Normal		Physical 	120 	100
+
+___________________________________________________________
+
+#105 Marowak
+
+Ability	  : Cursed Body / Lightning Rod
+
+Type	  : Fire / Ghost
+
+Held Item : Thick Club (100%)
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		80 	
+Defense 	110 	
+Sp. Atk 	50 	
+Sp. Def 	80 	
+Speed 		45	
+	
+	
+
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+3	Tail Whip	Normal		Status 		— 	100
+7	Bone Club	Ground		Physical 	65 	85
+11	Headbutt	Normal		Physical 	70 	100
+13	Leer		Normal		Status 		— 	100
+17	Focus Energy	Normal		Status 		— 	—
+21	Bonemerang	Ground		Physical 	50 	90
+23	Rage		Normal		Physical 	20 	100
+25	False Swipe	Normal		Physical 	40 	100
+27	Thrash		Normal		Physical 	120 	100
+29	Flame Wheel	Fire		Physical 	60 	100
+35	Bone Rush	Ground		Physical 	25 	90
+41	Fire Punch	Fire		Physical 	75 	100
+45	Iron Head	Steel		Physical 	80 	100
+50	Thunder Punch	Electric	Physical 	75 	100
+52	Brick Break	Fighting	Physical 	75 	100
+55	Outrage		Dragon		Physical 	120 	100
+58	Shadow Claw	Ghost		Physical 	70 	100
+60	Flare Blitz	Fire		Physical 	120 	100
+
+___________________________________________________________
+
+#106 Spiritomb
+
+Ability	  : Pressure
+
+Type	  : Ghost / Dark
+
+Held Item : N/A
+
+Location  : Pokémon Tower top floor after obtaining Pokéflute from Mr.Fuji
+
+Base Stats:
+
+HP 		50 	
+Attack 		92 	
+Defense 	108 	
+Sp. Atk 	92 	
+Sp. Def 	108 	
+Speed 		35	
+	
+	
+
+
+Moveset :
+
+1	Confuse Ray	Ghost		Status 		— 	100
+1	Curse		Ghost		Status 		— 	—
+1	Pursuit		Dark		Physical 	40 	100
+1	Shadow Sneak	Ghost		Physical 	40 	100
+1	Spite		Ghost		Status 		— 	100
+7	Feint Attack	Dark		Physical 	60 	_
+13	Hypnosis	Psychic		Status 		— 	60
+19	Dream Eater	Psychic		Special 	100 	100
+25	Ominous Wind	Ghost		Special 	60 	100
+27	Will-O-Wisp	Fire		Status 		— 	85
+31	Sucker Punch	Dark		Physical 	70 	100
+37	Nasty Plot	Dark		Status 		— 	—
+43	Memento		Dark		Status 		— 	100
+49	Dark Pulse	Dark		Special 	80 	100
+51	Shadow Ball	Ghost		Special 	80 	100
+55	Psychic		Psychic		Special 	90 	100
+58	Dark Pulse	Dark		Special 	80 	100
+
+___________________________________________________________
+
+#107 Litwick
+
+Ability	  : Flame Body / Flash Fire
+
+Type	  : Ghost / Fire
+
+Evolution : Level 41 => Lampent
+
+Held Item : N/A
+
+Location  : Pokémon Tower
+
+Base Stats:
+
+HP 		50 	
+Attack 		30 	
+Defense 	55 	
+Sp. Atk 	65 	
+Sp. Def 	55 	
+Speed 		20	
+	
+	
+
+
+Moveset :
+
+1	Astonish	Ghost		Physical 	30 	100
+1	Ember		Fire		Special 	40 	100
+3	Minimize	Normal		Status 		— 	—
+5	Smog		Poison		Special 	30 	70
+7	Fire Spin	Fire		Special 	35 	85
+10	Confuse Ray	Ghost		Status 		— 	100
+13	Night Shade	Ghost		Special 	— 	100
+16	Will-O-Wisp	Fire		Status 		— 	85
+20	Flame Burst	Fire		Special 	70 	100
+24	Imprison	Psychic		Status 		— 	—
+28	Hex		Ghost		Special 	65 	100
+33	Memento		Dark		Status 		— 	100
+38	Inferno		Fire		Special 	100 	50
+40	Curse		Ghost		Status 		— 	—
+
+___________________________________________________________
+
+#108 Lampent
+
+Ability	  : Flame Body / Flash Fire
+
+Type	  : Ghost / Fire
+
+Evolution : Moon Stone => Chandelure
+
+Held Item : N/A
+
+Location  : Pokémon Mansion
+
+Base Stats:
+
+HP 		60 	
+Attack 		40 	
+Defense 	60 	
+Sp. Atk 	95 	
+Sp. Def 	60 	
+Speed 		55	
+	
+	
+
+
+Moveset :
+
+1	Astonish	Ghost		Physical 	30 	100
+1	Ember		Fire		Special 	40 	100
+3	Minimize	Normal		Status 		— 	—
+5	Smog		Poison		Special 	30 	70
+7	Fire Spin	Fire		Special 	35 	85
+10	Confuse Ray	Ghost		Status 		— 	100
+13	Night Shade	Ghost		Special 	— 	100
+16	Will-O-Wisp	Fire		Status 		— 	85
+20	Flame Burst	Fire		Special 	70 	100
+24	Imprison	Psychic		Status 		— 	—
+28	Hex		Ghost		Special 	65 	100
+33	Memento		Dark		Status 		— 	100
+38	Inferno		Fire		Special 	100 	50
+40	Curse		Ghost		Status 		— 	—
+43	Shadow Ball	Ghost		Special 	80 	100
+50	Pain Split	Normal		Status 		— 	—
+52	Overheat	Fire		Special 	130 	90
+
+___________________________________________________________
+
+#109 Chandelure
+
+Ability	  : Flame Body / Flash Fire
+
+Type	  : Ghost / Fire
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		55 	
+Defense 	90 	
+Sp. Atk 	145 	
+Sp. Def 	90 	
+Speed 		80	
+	
+	
+
+
+Moveset :
+
+1	Astonish	Ghost		Physical 	30 	100
+1	Ember		Fire		Special 	40 	100
+3	Minimize	Normal		Status 		— 	—
+5	Smog		Poison		Special 	30 	70
+7	Fire Spin	Fire		Special 	35 	85
+10	Confuse Ray	Ghost		Status 		— 	100
+13	Night Shade	Ghost		Special 	— 	100
+16	Will-O-Wisp	Fire		Status 		— 	85
+20	Flame Burst	Fire		Special 	70 	100
+24	Imprison	Psychic		Status 		— 	—
+28	Hex		Ghost		Special 	65 	100
+33	Memento		Dark		Status 		— 	100
+38	Inferno		Fire		Special 	100 	50
+40	Curse		Ghost		Status 		— 	—
+43	Shadow Ball	Ghost		Special 	80 	100
+50	Pain Split	Normal		Status 		— 	—
+52	Overheat	Fire		Special 	130 	90
+55	Flame Burst	Fire		Special 	70 	100
+58	Psychic		Psychic		Special 	90 	100
+58	Dark Pulse	Dark		Special 	80 	100
+60	Energy Ball	Grass		Special 	90 	100
+
+___________________________________________________________
+
+#110 Phantump
+
+Ability	  : Natural Cure
+
+Type	  : Ghost / Grass
+
+Evolution : Level 26 => Trevenant
+
+Held Item : N/A
+
+Location  : Viridian Forest
+
+Base Stats:
+
+HP 		43 	
+Attack 		70 	
+Defense 	48 	
+Sp. Atk 	50 	
+Sp. Def 	60 	
+Speed 		38	
+	
+	
+
+
+Moveset :
+
+1	Confuse Ray	Ghost		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+5	Astonish	Ghost		Physical 	30 	100
+8	Growth		Normal		Status 		— 	—
+13	Ingrain		Grass		Status 		— 	—
+19	Feint Attack	Dark		Physical 	60 	_
+23	Leech Seed	Grass		Status 		— 	90
+24	Curse		Ghost		Status 		— 	—
+26	Will-O-Wisp	Fire		Status 		— 	85
+
+___________________________________________________________
+
+#111 Trevenant
+
+Ability	  : Natural Cure
+
+Type	  : Ghost / Grass
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		85 	
+Attack 		110 	
+Defense 	76 	
+Sp. Atk 	65 	
+Sp. Def 	82 	
+Speed 		56	
+	
+	
+
+
+Moveset :
+
+1	Confuse Ray	Ghost		Status 		— 	100
+1	Tackle		Normal		Physical 	50	100
+5	Astonish	Ghost		Physical 	30 	100
+8	Growth		Normal		Status 		— 	—
+13	Ingrain		Grass		Status 		— 	—
+19	Feint Attack	Dark		Physical 	60 	_
+23	Leech Seed	Grass		Status 		— 	90
+24	Curse		Ghost		Status 		— 	—
+26	Will-O-Wisp	Fire		Status 		— 	85
+27	Thief		Dark		Physical 	60 	100
+28	Shadow Claw	Ghost		Physical 	70 	100
+36	Wood Hammer	Grass		Physical 	120 	100
+43	Horn Leech	Grass		Physical 	75 	100
+45	Drain Punch	Fighting	Physical 	75 	100
+52	Bulldoze	Ground		Physical 	60 	100
+55	X-Scissor	Bug		Physical 	80 	100
+60	Poison Jab	Poison		Physical 	80 	100
+
+___________________________________________________________
+
+#112 Horsea
+
+Ability	  : Sniper / Swift Swim
+
+Type	  : Water
+
+Evolution : Level 32 => Seadra
+
+Held Item : N/A
+
+Location  : Use Good Rod in Sea Water
+
+Base Stats:
+
+HP 		30 	
+Attack 		40 	
+Defense 	70 	
+Sp. Atk 	70 	
+Sp. Def 	25 	
+Speed 		60	
+	
+	
+
+
+Moveset :
+
+1	Bubble		Water		Special 	40 	100
+5	Smokescreen	Normal		Status 		— 	100
+9	Leer		Normal		Status 		— 	100
+13	Water Gun	Water		Special 	40 	100
+17	Twister		Dragon		Special 	40 	100
+21	Bubble Beam	Water		Special 	65 	100
+26	Focus Energy	Normal		Status 		— 	—
+31	Brine		Water		Special 	65 	100
+
+___________________________________________________________
+
+#113 Seadra
+
+Ability	  : Poison Point / Sniper
+
+Type	  : Water
+
+Evolution : Water Stone => Kingdra
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		55 	
+Attack 		65 	
+Defense 	95 	
+Sp. Atk 	95 	
+Sp. Def 	45 	
+Speed 		85	
+	
+	
+
+
+Moveset :
+
+1	Bubble		Water		Special 	40 	100
+5	Smokescreen	Normal		Status 		— 	100
+9	Leer		Normal		Status 		— 	100
+13	Water Gun	Water		Special 	40 	100
+17	Twister		Dragon		Special 	40 	100
+21	Bubble Beam	Water		Special 	65 	100
+26	Focus Energy	Normal		Status 		— 	—
+31	Brine		Water		Special 	65 	100
+34	Agility		Psychic		Status 		— 	—
+36	Rain Dance	Water		Status 		— 	—
+38	Dragon Pulse	Dragon		Special 	85 	100
+41	Dragon Dance	Dragon		Status 		— 	—
+42	Water Pulse	Water		Special 	60 	100
+
+___________________________________________________________
+
+#114 Kingdra
+
+Ability	  : Sniper / Swift Swim
+
+Type	  : Water / Dragon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		75 	
+Attack 		95 	
+Defense 	95 	
+Sp. Atk 	95 	
+Sp. Def 	95 	
+Speed 		85	
+	
+	
+
+
+Moveset :
+
+1	Bubble		Water		Special 	40 	100
+5	Smokescreen	Normal		Status 		— 	100
+9	Leer		Normal		Status 		— 	100
+13	Water Gun	Water		Special 	40 	100
+17	Twister		Dragon		Special 	40 	100
+21	Bubble Beam	Water		Special 	65 	100
+26	Focus Energy	Normal		Status 		— 	—
+31	Brine		Water		Special 	65 	100
+34	Agility		Psychic		Status 		— 	—
+36	Rain Dance	Water		Status 		— 	—
+38	Dragon Pulse	Dragon		Special 	85 	100
+41	Dragon Dance	Dragon		Status 		— 	—
+42	Water Pulse	Water		Special 	60 	100
+45	Ice Beam	Ice		Special 	90 	100
+48	Clear Smog	Poison		Special 	50 	—
+51	Signal Beam	Bug		Special 	75 	100
+55	Hydro Pump	Water		Special 	110 	80
+
+___________________________________________________________
+
+#115 Clauncher
+
+Ability	  : Mega Launcher
+
+Type	  : Water
+
+Evolution : Level 37 => Clawitzer
+
+Held Item : King's Rock (5%)
+
+Location  : Use Good Rod in Sea Water
+
+Base Stats:
+
+HP 		50 	
+Attack 		53 	
+Defense 	62 	
+Sp. Atk 	58 	
+Sp. Def 	63 	
+Speed 		44	
+	
+	
+
+
+Moveset :
+
+1	Splash		Normal		Status 		— 	—
+1	Water Gun	Water		Special 	40 	100
+7	Water Sport	Water		Status 		— 	—
+9	Vice Grip	Normal		Physical 	55 	100
+12	Bubble		Water		Special 	40 	100
+16	Flail		Normal		Physical 	— 	100
+20	Bubble Beam	Water		Special 	65 	100
+25	Swords Dance	Normal		Status 		— 	—
+30	Crabhammer	Water		Physical 	100 	90
+34	Water Pulse	Water		Special 	60 	100
+
+___________________________________________________________
+
+#116 Clawitzer
+
+Ability	  : Mega Launcher
+
+Type	  : Water
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		71 	
+Attack 		73 	
+Defense 	88 	
+Sp. Atk 	120 	
+Sp. Def 	89 	
+Speed 		59	
+	
+	
+
+
+Moveset :
+
+1	Splash		Normal		Status 		— 	—
+1	Water Gun	Water		Special 	40 	100
+7	Water Sport	Water		Status 		— 	—
+9	Vice Grip	Normal		Physical 	55 	100
+12	Bubble		Water		Special 	40 	100
+16	Flail		Normal		Physical 	— 	100
+20	Bubble Beam	Water		Special 	65 	100
+25	Swords Dance	Normal		Status 		— 	—
+30	Crabhammer	Water		Physical 	100 	90
+34	Water Pulse	Water		Special 	60 	100
+38	Aqua Jet	Water		Physical 	40 	100
+39	Aura Sphere	Fighting	Special 	80 	_
+40	Muddy Water	Water		Special 	90 	85
+48	Dark Pulse	Dark		Special 	80 	100
+51	Dragon Pulse	Dragon		Special 	85 	100
+53	Sludge Bomb	Poison		Special 	90 	100
+55	Flash Cannon	Steel		Special 	80 	100
+58	Shadow Ball	Ghost		Special 	80 	100
+60	Ice Beam	Ice		Special 	90 	100
+
+___________________________________________________________
+
+#117 Tynamo
+
+Ability	  : Levitate
+
+Type	  : Electric
+
+Evolution : Level 39 => Eelektrik
+
+Held Item : N/A
+
+Location  : Use Super Rod in Sea Water
+
+Base Stats:
+
+HP 		35 	
+Attack 		55 	
+Defense 	40 	
+Sp. Atk 	45 	
+Sp. Def 	40 	
+Speed 		60	
+	
+	
+
+
+Moveset :
+
+1	Charge Beam	Electric	Special 	50 	90
+1	Spark		Electric	Physical 	65 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Thunder Wave	Electric	Status 		— 	90
+
+___________________________________________________________
+
+#118 Eelektrik
+
+Ability	  : Levitate
+
+Type	  : Electric
+
+Evolution : Thunder Stone => Eelektross
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+HP 		65 	
+Attack 		85 	
+Defense 	70 	
+Sp. Atk 	75 	
+Sp. Def 	70 	
+Speed 		40	
+	
+	
+
+
+Moveset :
+
+1	Charge Beam	Electric	Special 	50 	90
+1	Spark		Electric	Physical 	65 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Thunder Wave	Electric	Status 		— 	90
+1	Charge Beam	Electric	Special 	50 	90
+40	Coil		Poison		Status 		— 	—
+40	Discharge	Electric	Special 	80 	100
+44	Thunderbolt	Electric	Special 	90 	100
+49	Acid Spray	Poison		Special 	40 	100
+51	Gastro Acid	Poison		Status 		— 	100	
+52	Wild Charge	Electric	Physical 	90 	100
+
+___________________________________________________________
+
+#119 Eelektross
+
+Ability	  : Levitate
+
+Type	  : Electric
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+HP 		85 	
+Attack 		115 	
+Defense 	80 	
+Sp. Atk 	105 	
+Sp. Def 	80 	
+Speed 		50	
+	
+	
+
+
+Moveset :
+
+1	Charge Beam	Electric	Special 	50 	90
+1	Spark		Electric	Physical 	65 	100
+1	Tackle		Normal		Physical 	50	100
+1	Thunder Wave	Electric	Status 		— 	90
+1	Charge Beam	Electric	Special 	50 	90
+40	Coil		Poison		Status 		— 	—
+40	Discharge	Electric	Special 	80 	100
+44	Thunderbolt	Electric	Special 	90 	100
+49	Acid Spray	Poison		Special 	40 	100
+51	Gastro Acid	Poison		Status 		— 	100	
+52	Wild Charge	Electric	Physical 	90 	100
+54	Signal Beam	Bug		Special 	75 	100
+56	Dragon Pulse	Dragon		Special 	85 	100
+57	Flamethrower	Fire		Special 	90 	100
+58	Flash Cannon	Steel		Special 	80 	100
+59	Thunder Punch	Electric	Physical 	75 	100
+59	Fire Punch	Fire		Physical 	75 	100
+59	Drain Punch	Fighting	Physical 	75 	100
+60	Outrage		Dragon		Physical 	120 	100
+60	Rock Slide	Rock		Physical 	75 	90
+
+___________________________________________________________
+
+#120 Skrelp
+
+Ability	  : Poison Point
+
+Type	  : Poison / Water
+
+Evolution : Level 36 => Dragalge
+
+Held Item : Poison Barb (5%)
+
+Location  : Use Good Rod in Sea Water
+
+Base Stats:
+
+HP 		50 	
+Attack 		60 	
+Defense 	60 	
+Sp. Atk 	60 	
+Sp. Def 	60 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Smokescreen	Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Water Gun	Water		Special 	40 	100
+5	Feint Attack	Dark		Physical 	60 	_
+9	Tail Whip	Normal		Status 		— 	100
+12	Bubble		Water		Special 	40 	100
+15	Acid		Poison		Special 	40 	100
+19	Camouflage	Normal		Status 		— 	—
+23	Poison Tail	Poison		Physical 	50 	100
+25	Water Pulse	Water		Special 	60 	100
+28	Double Team	Normal		Status 		— 	—
+32	Toxic		Poison		Status 		— 	90
+35	Aqua Tail	Water		Physical 	90 	90
+
+___________________________________________________________
+
+#121 Dragalge
+
+Ability	  : Poison Point
+
+Type	  : Poison / Dragon
+
+Held Item : Poison Barb (5%)
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		65 	
+Attack 		75 	
+Defense 	90 	
+Sp. Atk 	97 	
+Sp. Def 	123 	
+Speed 		44	
+	
+	
+
+
+Moveset :
+
+1	Smokescreen	Normal		Status 		— 	100
+1	Tackle		Normal		Physical 	50 	100
+1	Water Gun	Water		Special 	40 	100
+5	Feint Attack	Dark		Physical 	60 	_
+9	Tail Whip	Normal		Status 		— 	100
+12	Bubble		Water		Special 	40 	100
+15	Acid		Poison		Special 	40 	100
+19	Camouflage	Normal		Status 		— 	—
+23	Poison Tail	Poison		Physical 	50 	100
+25	Water Pulse	Water		Special 	60 	100
+28	Double Team	Normal		Status 		— 	—
+32	Toxic		Poison		Status 		— 	90
+35	Aqua Tail	Water		Physical 	90 	90
+38	Sludge Bomb	Poison		Special 	90 	100
+42	Hydro Pump	Water		Special 	110 	80
+45	Dragon Pulse	Dragon		Special 	85 	100
+52	Shadow Ball	Ghost		Special 	80 	100
+55	Scald		Water		Special 	80 	100
+58	Thunderbolt	Electric	Special 	90 	100
+
+___________________________________________________________
+
+#122 Yamask
+
+Ability	  : Mummy
+
+Type	  : Ghost
+
+Evolution : Level 34 => Cofagrigus
+
+Held Item :  N/A
+
+Location  : Pokémon Tower
+
+Base Stats:
+
+HP 		38 	
+Attack 		30 	
+Defense 	85 	
+Sp. Atk 	55 	
+Sp. Def 	65 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Astonish	Ghost		Physical 	30 	100
+1	Protect		Normal		Status 		— 	—
+5	Disable		Normal		Status 		— 	100
+9	Haze		Ice		Status 		— 	—
+13	Night Shade	Ghost		Special 	— 	100
+17	Hex		Ghost		Special 	65 	100
+21	Will-O-Wisp	Fire		Status 		— 	85
+25	Ominous Wind	Ghost		Special 	60 	100
+29	Curse		Ghost		Status 		— 	—
+
+___________________________________________________________
+
+#123 Cofagrigus
+
+Ability	  : Mummy
+
+Type	  : Ghost
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		58 	
+Attack 		50 	
+Defense 	145 	
+Sp. Atk 	95 	
+Sp. Def 	105 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Astonish	Ghost		Physical 	30 	100
+1	Protect		Normal		Status 		— 	—
+5	Disable		Normal		Status 		— 	100
+9	Haze		Ice		Status 		— 	—
+13	Night Shade	Ghost		Special 	— 	100
+17	Hex		Ghost		Special 	65 	100
+21	Will-O-Wisp	Fire		Status 		— 	85
+25	Ominous Wind	Ghost		Special 	60 	100
+29	Curse		Ghost		Status 		— 	—
+39	Shadow Ball	Ghost		Special 	80 	100
+45	Grudge		Ghost		Status 		— 	—
+48	Dark Pulse	Dark		Special 	80 	100
+50	Energy Ball	Grass		Special 	90 	100
+51	Mean Look	Normal		Status 		— 	—
+55	Psychic		Psychic		Special 	90 	100
+57	Toxic		Poison		Status 		— 	90
+58	Destiny Bond	Ghost		Status 		— 	—
+60	Rest		Psychic		Status 		— 	—
+
+___________________________________________________________
+
+#124 Aron
+
+Ability	  : Rock Head / Sturdy
+
+Type	  : Steel / Rock
+
+Evolution : Level 32 => Lairon
+
+Held Item : Metal Coat (5%)
+
+Location  : Mt.Moon
+
+Base Stats:
+
+HP 		50 	
+Attack 		70 	
+Defense 	100 	
+Sp. Atk 	40 	
+Sp. Def 	40 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Mud-Slap	Ground		Special 	20 	100
+7	Headbutt	Normal		Physical 	70 	100
+10	Metal Claw	Steel		Physical 	50 	95
+13	Rock Tomb	Rock		Physical 	60 	95
+16	Protect		Normal		Status 		— 	—
+19	Roar		Normal		Status 		— 	—
+22	Iron Head	Steel		Physical 	80 	100
+25	Rock Slide	Rock		Physical 	75 	90
+28	Take Down	Normal		Physical 	90 	85
+
+___________________________________________________________
+
+#125 Lairon
+
+Ability	  : Rock Head / Sturdy
+
+Type	  : Steel / Rock
+
+Evolution : Level 42 => Aggron
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		90 	
+Defense 	140 	
+Sp. Atk 	50 	
+Sp. Def 	50 	
+Speed 		40	
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Mud-Slap	Ground		Special 	20 	100
+7	Headbutt	Normal		Physical 	70 	100
+10	Metal Claw	Steel		Physical 	50 	95
+13	Rock Tomb	Rock		Physical 	60 	95
+16	Protect		Normal		Status 		— 	—
+19	Roar		Normal		Status 		— 	—
+22	Iron Head	Steel		Physical 	80 	100
+25	Rock Slide	Rock		Physical 	75 	90
+28	Take Down	Normal		Physical 	90 	85
+31	Metal Sound	Steel		Status 		— 	85
+35	Iron Tail	Steel		Physical 	100 	75
+39	Iron Defense	Steel		Status 		— 	—
+41	Double-Edge	Normal		Physical 	120 	100
+
+___________________________________________________________
+
+#126 Aggron
+
+Ability	  : Rock Head / Sturdy
+
+Type	  : Steel / Rock
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		70 	
+Attack 		110 	
+Defense 	180 	
+Sp. Atk 	60 	
+Sp. Def 	60 	
+Speed 		50	
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Tackle		Normal		Physical 	50 	100
+4	Mud-Slap	Ground		Special 	20 	100
+7	Headbutt	Normal		Physical 	70 	100
+10	Metal Claw	Steel		Physical 	50 	95
+13	Rock Tomb	Rock		Physical 	60 	95
+16	Protect		Normal		Status 		— 	—
+19	Roar		Normal		Status 		— 	—
+22	Iron Head	Steel		Physical 	80 	100
+25	Rock Slide	Rock		Physical 	75 	90
+28	Take Down	Normal		Physical 	90 	85
+31	Metal Sound	Steel		Status 		— 	85
+35	Iron Tail	Steel		Physical 	100 	75
+39	Iron Defense	Steel		Status 		— 	—
+41	Double-Edge	Normal		Physical 	120 	100
+44	Endeavor	Normal		Physical 	— 	100
+45	Brick Break	Fighting	Physical 	75 	100
+48	Fire Punch	Fire		Physical 	75 	100
+48	Ice Punch	Ice		Physical 	75 	100
+48	Thunder Punch	Electric	Physical 	75 	100
+54	Shadow Claw	Ghost		Physical 	70 	100
+56	Dragon Claw	Dragon		Physical 	80 	100
+59	Aqua Tail	Water		Physical 	90 	90
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#127 Larvesta
+
+Ability	  : Flame Body
+
+Type	  : Bug / Fire
+
+Evolution : Level 50 => Volcarona
+
+Held Item : N/A
+
+Location  : Safari Zone ( Area Three )
+
+Base Stats:
+
+HP 		55 	
+Attack 		85 	
+Defense 	55 	
+Sp. Atk 	50 	
+Sp. Def 	55 	
+Speed 		60	
+	
+	
+
+
+Moveset :
+
+1	Roost		Flying		Status 		— 	—
+1	Sunny Day	Fire		Status 		— 	—
+1	Quiver Dance	Bug		Status 		— 	—
+1	Ember		Fire		Special 	40 	100
+1	String Shot	Bug		Status 		— 	95
+11	Absorb		Grass		Special 	20 	100
+19	Take Down	Normal		Physical 	90 	85
+29	Flame Charge	Fire		Physical 	50 	100
+39	Bug Bite	Bug		Physical 	60 	100
+49	Double-Edge	Normal		Physical 	120 	100
+50	Flame Wheel	Fire		Physical 	60 	100
+50	Bug Buzz	Bug		Special 	90 	100
+50	Giga Drain	Grass		Special 	75 	100
+
+___________________________________________________________
+
+#128 Volcarona
+
+Ability	  : Flame Body
+
+Type	  : Bug / Fire
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		85 	
+Attack 		60 	
+Defense 	65 	
+Sp. Atk 	135 	
+Sp. Def 	105 	
+Speed 		100	
+	
+	
+
+
+Moveset :
+
+1	Roost		Flying		Status 		— 	—
+1	Sunny Day	Fire		Status 		— 	—
+1	Quiver Dance	Bug		Status 		— 	—
+1	Ember		Fire		Special 	40 	100
+1	String Shot	Bug		Status 		— 	95
+11	Absorb		Grass		Special 	20 	100
+19	Take Down	Normal		Physical 	90 	85
+29	Flame Charge	Fire		Physical 	50 	100
+39	Bug Bite	Bug		Physical 	60 	100
+49	Double-Edge	Normal		Physical 	120 	100
+50	Flame Wheel	Fire		Physical 	60 	100
+50	Bug Buzz	Bug		Special 	90 	100
+50	Giga Drain	Grass		Special 	75 	100
+60	Fiery Dance	Fire		Special 	80 	100
+60	Psychic		Psychic		Special 	90 	100
+60	Solar Beam	Grass		Special 	120 	100
+
+___________________________________________________________
+
+#129 Lapras
+
+Ability	  : Shell Armor / Water Absorb
+
+Type	  : Water / Ice
+
+Held Item : Nevermeltice (5%)
+
+Location  : Surf Route 19 , 20 , 21 , Seafoam Islands ( Surf )
+
+Base Stats:
+
+HP 		130 	
+Attack 		85 	
+Defense 	80 	
+Sp. Atk 	85 	
+Sp. Def 	95 	
+Speed 		60	
+	
+	
+
+
+Moveset :
+
+1	Growl		Normal		Status 		— 	100
+1	Sing		Normal		Status 		— 	55
+1	Water Gun	Water		Special 	40 	100
+4	Mist		Ice		Status 		— 	—
+7	Confuse Ray	Ghost		Status 		— 	100
+10	Ice Shard	Ice		Physical 	40 	100
+14	Water Pulse	Water		Special 	60 	100
+18	Body Slam	Normal		Physical 	85 	100
+22	Rain Dance	Water		Status 		— 	—
+27	Perish Song	Normal		Status 		— 	—
+32	Ice Beam	Ice		Special 	90 	100
+37	Brine		Water		Special 	65 	100
+43	Safeguard	Normal		Status 		— 	—
+45	Dragon Breath	Dragon		Special 	60 	100
+47	Hydro Pump	Water		Special 	110 	80
+50	Signal Beam	Bug		Special 	75 	100
+52	Ancient Power	Rock		Special 	60 	100
+52	Avalanche	Ice		Physical 	60 	100
+53	Rest		Psychic		Status 		— 	—
+53	Sleep Talk	Normal		Status 		— 	—
+56	Thunderbolt	Electric	Special 	90 	100
+59	Thunder		Electric	Special 	110 	85
+60	Psychic		Psychic		Special 	90 	100
+
+___________________________________________________________
+
+#130 Larvitar
+
+Ability	  : Guts
+
+Type	  : Rock / Ground
+
+Evolution : Level 30 => Pupitar
+
+Held Item : N/A
+
+Location  : Rock Tunnel
+
+Base Stats:
+
+HP 		50 	
+Attack 		64 	
+Defense 	50 	
+Sp. Atk 	45 	
+Sp. Def 	50 	
+Speed 		41	
+	
+	
+
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+5	Sandstorm	Rock		Status 		— 	—
+10	Screech		Normal		Status 		— 	85
+19	Rock Slide	Rock		Physical 	75 	90
+23	Scary Face	Normal		Status 		— 	100
+28	Thrash		Normal		Physical 	120 	100
+
+___________________________________________________________
+
+#131 Pupitar
+
+Ability	  : Shed Skin
+
+Type	  : Rock / Ground
+
+Evolution : Level 55 => Tyranitar
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		70 	
+Attack 		84 	
+Defense 	70 	
+Sp. Atk 	65 	
+Sp. Def 	70 	
+Speed 		51	
+	
+	
+
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+5	Sandstorm	Rock		Status 		— 	—
+10	Screech		Normal		Status 		— 	85
+19	Rock Slide	Rock		Physical 	75 	90
+23	Scary Face	Normal		Status 		— 	100
+28	Thrash		Normal		Physical 	120 	100
+34	Dark Pulse	Dark		Special 	80 	100
+41	Payback		Dark		Physical 	50 	100
+47	Crunch		Dark		Physical 	80 	100
+54	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#132 Tyranitar
+
+Ability	  : Sand Stream
+
+Type	  : Rock / Dark
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		100 	
+Attack 		134 	
+Defense 	110 	
+Sp. Atk 	95 	
+Sp. Def 	100 	
+Speed 		61	
+	
+	
+
+
+Moveset :
+
+1	Bite		Dark		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+5	Sandstorm	Rock		Status 		— 	—
+10	Screech		Normal		Status 		— 	85
+19	Rock Slide	Rock		Physical 	75 	90
+23	Scary Face	Normal		Status 		— 	100
+28	Thrash		Normal		Physical 	120 	100
+34	Dark Pulse	Dark		Special 	80 	100
+41	Payback		Dark		Physical 	50 	100
+47	Crunch		Dark		Physical 	80 	100
+54	Earthquake	Ground		Physical 	100 	100
+56	Iron Head	Steel		Physical 	80 	100
+57	Fire Punch	Fire		Physical 	75 	100
+57	Thunder Punch	Electric	Physical 	75 	100
+58	Shadow Claw	Ghost		Physical 	70 	100
+59	Brick Break	Fighting	Physical 	75 	100
+60	Outrage		Dragon		Physical 	120 	100
+
+___________________________________________________________
+
+#133 Deino
+
+Ability	  : Hustle
+
+Type	  : Dark / Dragon
+
+Evolution : Level 36 => Zweilous
+
+Held Item : Dragon Fang (5%)
+
+Location  : Pokémon Mansion
+
+Base Stats:
+
+HP 		52 	
+Attack 		65 	
+Defense 	50 	
+Sp. Atk 	45 	
+Sp. Def 	50 	
+Speed 		38	
+	
+	
+
+
+Moveset :
+
+1	Dragon Rage	Dragon		Special 	— 	100
+1	Tackle		Normal		Physical 	50 	100
+4	Focus Energy	Normal		Status 		— 	—
+9	Bite		Dark		Physical 	60 	100
+12	Headbutt	Normal		Physical 	70 	100
+17	Dragon Breath	Dragon		Special 	60 	100
+20	Roar		Normal		Status 		— 	—
+25	Crunch		Dark		Physical 	80 	100
+28	Slam		Normal		Physical 	80 	75
+32	Dragon Pulse	Dragon		Special 	85 	100
+
+___________________________________________________________
+
+#134 Zweilous
+
+Ability	  : Hustle
+
+Type	  : Dark / Dragon
+
+Evolution : Level 50 => Hydreigon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		72 	
+Attack 		85 	
+Defense 	70 	
+Sp. Atk 	65 	
+Sp. Def 	70 	
+Speed 		58	
+	
+	
+
+
+Moveset :
+
+1	Dragon Rage	Dragon		Special 	— 	100
+1	Tackle		Normal		Physical 	50 	100
+4	Focus Energy	Normal		Status 		— 	—
+9	Bite		Dark		Physical 	60 	100
+12	Headbutt	Normal		Physical 	70 	100
+17	Dragon Breath	Dragon		Special 	60 	100
+20	Roar		Normal		Status 		— 	—
+25	Crunch		Dark		Physical 	80 	100
+28	Slam		Normal		Physical 	80 	75
+32	Dragon Pulse	Dragon		Special 	85 	100
+38	Work Up		Normal		Status 		— 	—
+42	Body Slam	Normal		Physical 	85 	100
+46	Outrage		Dragon		Physical 	120 	100
+
+___________________________________________________________
+
+#135 Hydreigon
+
+Ability	  : Levitate
+
+Type	  : Dark / Dragon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		92 	
+Attack 		105 	
+Defense 	90 	
+Sp. Atk 	125 	
+Sp. Def 	90 	
+Speed 		98	
+	
+	
+
+
+Moveset :
+
+1	Dragon Rage	Dragon		Special 	— 	100
+1	Tackle		Normal		Physical 	50 	100
+4	Focus Energy	Normal		Status 		— 	—
+9	Bite		Dark		Physical 	60 	100
+12	Headbutt	Normal		Physical 	70 	100
+17	Dragon Breath	Dragon		Special 	60 	100
+20	Roar		Normal		Status 		— 	—
+25	Crunch		Dark		Physical 	80 	100
+28	Slam		Normal		Physical 	80 	75
+32	Dragon Pulse	Dragon		Special 	85 	100
+38	Work Up		Normal		Status 		— 	—
+42	Body Slam	Normal		Physical 	85 	100
+46	Outrage		Dragon		Physical 	120 	100
+53	Ice Fang	Ice		Physical 	65 	95
+53	Thunder Fang	Electric	Physical 	65 	95
+53	Fire Fang	Fire		Physical 	65 	95
+55	Earth Power	Ground		Special 	90 	100
+56	Signal Beam	Bug		Special 	75 	100
+57	Flash Cannon	Steel		Special 	80 	100
+60	Flamethrower	Fire		Special 	90 	100
+
+___________________________________________________________
+
+#136 Gible
+
+Ability	  : Sand Veil
+
+Type	  : Dragon / Ground
+
+Evolution : Level 24 => Gabite
+
+Held Item : Dragon Fang (5%)
+
+Location  : Diglett's Cave
+
+Base Stats:
+
+HP 		58 	
+Attack 		70 	
+Defense 	45 	
+Sp. Atk 	40 	
+Sp. Def 	45 	
+Speed 		42	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+3	Sand Attack	Ground		Status 		— 	100
+7	Dragon Rage	Dragon		Special 	— 	100
+13	Sandstorm	Rock		Status 		— 	—
+15	Take Down	Normal		Physical 	90 	85
+19	Sand Tomb	Ground		Physical 	35 	85
+23	Slash		Normal		Physical 	70 	100
+
+___________________________________________________________
+
+#137 Gabite
+
+Ability	  : Sand Veil
+
+Type	  : Dragon / Ground
+
+Evolution : Level 48 => Garchomp
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		68 	
+Attack 		90 	
+Defense 	65 	
+Sp. Atk 	50 	
+Sp. Def 	55 	
+Speed 		82	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+3	Sand Attack	Ground		Status 		— 	100
+7	Dragon Rage	Dragon		Special 	— 	100
+13	Sandstorm	Rock		Status 		— 	—
+15	Take Down	Normal		Physical 	90 	85
+19	Sand Tomb	Ground		Physical 	35 	85
+23	Slash		Normal		Physical 	70 	100
+25	Dual Chop	Dragon		Physical 	40 	90
+33	Dragon Claw	Dragon		Physical 	80 	100
+40	Dig		Ground		Physical 	80 	100
+
+___________________________________________________________
+
+#138 Garchomp
+
+Ability	  : Sand Veil
+
+Type	  : Dragon / Ground
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		108 	
+Attack 		130 	
+Defense 	95 	
+Sp. Atk 	80 	
+Sp. Def 	85 	
+Speed 		102	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+3	Sand Attack	Ground		Status 		— 	100
+7	Dragon Rage	Dragon		Special 	— 	100
+13	Sandstorm	Rock		Status 		— 	—
+15	Take Down	Normal		Physical 	90 	85
+19	Sand Tomb	Ground		Physical 	35 	85
+23	Slash		Normal		Physical 	70 	100
+25	Dual Chop	Dragon		Physical 	40 	90
+33	Dragon Claw	Dragon		Physical 	80 	100
+40	Dig		Ground		Physical 	80 	100
+49	Crunch		Dark		Physical 	80 	100
+53	Iron Head	Steel		Physical 	80 	100
+53	Stone Edge	Rock		Physical 	100 	80
+54	Brick Break	Fighting	Physical 	75 	100
+56	Aqua Tail	Water		Physical 	90 	90
+57	Poison Jab	Poison		Physical 	80 	100
+58	Shadow Claw	Ghost		Physical 	70 	100
+59	Outrage		Dragon		Physical 	120 	100
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#139 Druddigon
+
+Ability	  : Rough Skin / Sheer Force
+
+Type	  : Dragon
+
+Held Item : Dragon Fang (5%)
+
+Location  : Victory Road , Cerulean Cave , Rocket Corner
+
+Base Stats:
+
+HP 		77 	
+Attack 		120 	
+Defense 	90 	
+Sp. Atk 	60 	
+Sp. Def 	90 	
+Speed 		48	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Scratch		Normal		Physical 	40 	100
+5	Hone Claws	Dark		Status 		— 	—
+9	Bite		Dark		Physical 	60 	100
+13	Scary Face	Normal		Status 		— 	100
+18	Dragon Rage	Dragon		Special 	— 	100
+21	Slash		Normal		Physical 	70 	100
+25	Crunch		Dark		Physical 	80 	100
+27	Dragon Claw	Dragon		Physical 	80 	100
+35	Revenge		Fighting	Physical 	60 	100
+40	Night Slash	Dark		Physical 	70 	100
+43	Iron Head	Steel		Physical 	80 	100
+45	Dragon Tail	Dragon		Physical 	60 	90
+49	Rock Climb	Normal		Physical 	90 	85
+52	Rock Slide	Rock		Physical 	75 	90
+55	Superpower	Fighting	Physical 	120 	100
+57	Thunder Punch	Electric	Physical 	75 	100
+57	Fire Punch	Fire		Physical 	75 	100
+59	Aqua Tail	Water		Physical 	90 	90
+60	Earthquake	Ground		Physical 	100 	100
+60	Outrage		Dragon		Physical 	120 	100
+
+___________________________________________________________
+
+#140 Dratini
+
+Ability	  : Shed Skin
+
+Type	  : Dragon
+
+Evolution : Level 30 => Dragonair
+
+Held Item : N/A
+
+Location  : Safari Zone ( Super Rod )
+
+Base Stats:
+
+HP 		41 	
+Attack 		64 	
+Defense 	45 	
+Sp. Atk 	50 	
+Sp. Def 	50 	
+Speed 		50	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Wrap		Normal		Physical 	15 	90
+5	Thunder Wave	Electric	Status 		— 	90
+11	Twister		Dragon		Special 	40 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+21	Slam		Normal		Physical 	80 	75
+25	Agility		Psychic		Status 		— 	—
+29	Dragon Tail	Dragon		Physical 	60 	90
+
+___________________________________________________________
+
+#141 Dragonair
+
+Ability	  : Shed Skin
+
+Type	  : Dragon
+
+Evolution : Level 55 => Dragonair
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		61 	
+Attack 		84 	
+Defense 	65 	
+Sp. Atk 	70 	
+Sp. Def 	70 	
+Speed 		70	
+	
+	
+
+
+Moveset :
+
+1	Leer		Normal		Status 		— 	100
+1	Wrap		Normal		Physical 	15 	90
+5	Thunder Wave	Electric	Status 		— 	90
+11	Twister		Dragon		Special 	40 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+21	Slam		Normal		Physical 	80 	75
+25	Agility		Psychic		Status 		— 	—
+29	Dragon Tail	Dragon		Physical 	60 	90
+39	Aqua Tail	Water		Physical 	90 	90
+45	Safeguard	Normal		Status 		— 	—
+
+___________________________________________________________
+
+#142 Dragonite
+
+Ability	  : Inner Focus
+
+Type	  : Dragon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		91 	
+Attack 		134 	
+Defense 	95 	
+Sp. Atk 	100 	
+Sp. Def 	100 	
+Speed 		80	
+	
+	
+
+
+Moveset :
+
+1	Bulldoze	Ground		Physical 	60 	100
+1	Leer		Normal		Status 		— 	100
+1	Wrap		Normal		Physical 	15 	90
+5	Thunder Wave	Electric	Status 		— 	90
+11	Twister		Dragon		Special 	40 	100
+15	Dragon Rage	Dragon		Special 	— 	100
+21	Slam		Normal		Physical 	80 	75
+25	Agility		Psychic		Status 		— 	—
+29	Dragon Tail	Dragon		Physical 	60 	90
+39	Aqua Tail	Water		Physical 	90 	90
+45	Safeguard	Normal		Status 		— 	—
+55	Brick Break	Fighting	Physical 	75 	100
+57	Dragon Dance	Dragon		Status 		— 	—
+58	Outrage		Dragon		Physical 	120 	100
+59	Dragon Claw	Dragon		Physical 	80 	100
+60	Fire Punch	Fire		Physical 	75 	100
+60	Ice Punch	Ice		Physical 	75 	100
+60	Thunder Punch	Electric	Physical 	75 	100
+
+___________________________________________________________
+
+#143 Snorlax
+
+Ability	  : Immunity / Thick Fat
+
+Type	  : Normal
+
+Held Item : Leftovers (100%)
+
+Location  : Catch one of the two sleeping at Route 12 , 16.
+
+Base Stats:
+
+HP 		160 	
+Attack 		110 	
+Defense 	65 	
+Sp. Atk 	65 	
+Sp. Def 	110 	
+Speed 		30	
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+4	Defense Curl	Normal		Status 		— 	—
+9	Amnesia		Psychic		Status 		— 	—
+12	Lick		Ghost		Physical 	30 	100
+20	Yawn		Normal		Status 		— 	—
+25	Body Slam	Normal		Physical 	85 	100
+28	Rest		Psychic		Status 		— 	—
+28	Snore		Normal		Special 	50 	100
+29	Bulldoze	Ground		Physical 	60 	100
+33	Sleep Talk	Normal		Status 		— 	—
+35	Giga Impact	Normal		Physical 	150 	90
+36	Rollout		Rock		Physical 	30 	90
+41	Block		Normal		Status 		— 	—
+42	Rock Tomb	Rock		Physical 	60 	95
+44	Belly Drum	Normal		Status 		— 	—
+47	Iron Head	Steel		Physical 	80 	100
+49	Crunch		Dark		Physical 	80 	100
+51	Superpower	Fighting	Physical 	120 	100
+53	Zen Headbutt	Psychic		Physical 	80 	90
+55	Double-Edge	Normal		Physical 	120 	100
+58	Fire Punch	Fire		Physical 	75 	100
+58	Thunder Punch	Electric	Physical 	75 	100
+58	Ice Punch	Ice		Physical 	75 	100
+59	Seed Bomb	Grass		Physical 	80 	100
+60	Earthquake	Ground		Physical 	100 	100
+
+___________________________________________________________
+
+#144 Riolu
+
+Ability	  : Inner Focus
+
+Type	  : Fighting
+
+Evolution : Level 36 => Lucario
+
+Held Item : N/A
+
+Location  : Rocket Corner
+
+Base Stats:
+
+HP 		40 	
+Attack 		70 	
+Defense 	40 	
+Sp. Atk 	35 	
+Sp. Def 	40 	
+Speed 		60
+	
+	
+
+
+Moveset :
+
+1	Endure		Normal		Status 		— 	—
+1	Foresight	Normal		Status 		— 	—
+1	Quick Attack	Normal		Physical 	40 	100
+6	Counter		Fighting	Physical 	— 	100
+11	Feint Attack	Dark		Physical 	60 	— 
+15	Force Palm	Fighting	Physical 	60 	100
+19	Copycat		Normal		Status 		— 	—
+24	Screech		Normal		Status 		— 	85
+29	Reversal	Fighting	Physical 	— 	100
+
+___________________________________________________________
+
+#145 Lucario
+
+Ability	  : Inner Focus
+
+Type	  : Fighting / Steel
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		70 	
+Attack 		110 	
+Defense 	70 	
+Sp. Atk 	115 	
+Sp. Def 	70 	
+Speed 		90
+	
+	
+
+
+Moveset :
+
+1	Shadow Claw	Ghost		Physical 	70 	100
+1	Ice Punch	Ice		Physical 	75 	100
+1	Thunder Punch	Electric	Physical 	75 	100
+1	Dual Chop	Dragon		Physical 	40 	90
+1	Endure		Normal		Status 		— 	—
+1	Foresight	Normal		Status 		— 	—
+1	Quick Attack	Normal		Physical 	40 	100
+6	Counter		Fighting	Physical 	— 	100
+11	Feint Attack	Dark		Physical 	60 	— 
+15	Force Palm	Fighting	Physical 	60 	100
+19	Copycat		Normal		Status 		— 	—
+24	Screech		Normal		Status 		— 	85
+29	Reversal	Fighting	Physical 	— 	100
+36	Aura Sphere	Fighting	Special 	80 	_
+37	Close Combat	Fighting	Physical 	120 	100
+39	Blaze Kick	Fire		Physical 	85 	90
+40	Work Up		Normal		Status 		— 	—
+40	Calm Mind	Psychic		Status 		— 	—	
+43	Bulldoze	Ground		Physical 	60 	100
+45	Dragon Pulse	Dragon		Special 	85 	100
+48	Water Pulse	Water		Special 	60 	100
+53	Psychic		Psychic		Special 	90 	100
+55	Poison Jab	Poison		Physical 	80 	100
+56	Shadow Ball	Ghost		Special 	80 	100
+60	Flash Cannon	Steel		Special 	80 	100
+
+___________________________________________________________
+
+#146 Kabuto
+
+Ability	  : Battle Armor / Swift Swim
+
+Type	  : Rock / Water
+
+Evolution : Level 40 => Kabutops
+
+Held Item : N/A
+
+Location  : Revived from Old Amber ( Obtained from Scientist in Pewter City )
+
+Base Stats:
+
+HP 		30 	
+Attack 		80 	
+Defense 	90 	
+Sp. Atk 	55 	
+Sp. Def 	45 	
+Speed 		55
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Scratch		Normal		Physical 	40 	100
+6	Absorb		Grass		Special 	20 	100
+11	Leer		Normal		Status 		— 	100
+16	Mud Shot	Ground		Special 	55 	95
+21	Sand Attack	Ground		Status 		— 	100
+26	Endure		Normal		Status 		— 	—
+31	Aqua Jet	Water		Physical 	40 	100
+34	Mega Drain	Grass		Special 	40 	100
+37	Metal Sound	Steel		Status 		— 	85
+39	Ancient Power	Rock		Special 	60 	100
+
+___________________________________________________________
+
+#147 Kabutops
+
+Ability	  : Battle Armor / Swift Swim
+
+Type	  : Rock / Water
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		60 	
+Attack 		115 	
+Defense 	105 	
+Sp. Atk 	65 	
+Sp. Def 	70 	
+Speed 		80
+	
+	
+
+
+Moveset :
+
+1	Harden		Normal		Status 		— 	—
+1	Scratch		Normal		Physical 	40 	100
+6	Absorb		Grass		Special 	20 	100
+11	Leer		Normal		Status 		— 	100
+16	Mud Shot	Ground		Special 	55 	95
+21	Sand Attack	Ground		Status 		— 	100
+26	Endure		Normal		Status 		— 	—
+31	Aqua Jet	Water		Physical 	40 	100
+34	Mega Drain	Grass		Special 	40 	100
+37	Metal Sound	Steel		Status 		— 	85
+39	Ancient Power	Rock		Special 	60 	100
+42	Night Slash	Dark		Physical 	70 	100
+45	Stone Edge	Rock		Physical 	100 	80
+48	Rock Slide	Rock		Physical 	75 	90
+53	X-Scissor	Bug		Physical 	80 	100
+54	Superpower	Fighting	Physical 	120 	100	
+55	Brick Break	Fighting	Physical 	75 	100
+56	Dig		Ground		Physical 	80 	100
+
+___________________________________________________________
+
+#148 Tyrunt
+
+Ability	  : Strong Jaw
+
+Type	  : Rock / Dragon
+
+Evolution : Level 39 => Tyrantrum
+
+Held Item : N/A
+
+Location  : Revived from Jaw Fossil ( Obtained from Aide in Mt.Moon )
+
+Base Stats:
+
+HP 		58 	
+Attack 		89 	
+Defense 	77 	
+Sp. Atk 	45 	
+Sp. Def 	45 	
+Speed 		48
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+6	Roar		Normal		Status 		— 	—
+10	Stomp		Normal		Physical 	65 	100
+12	Bide		Normal		Physical 	— 	—
+17	Bite		Dark		Physical 	60 	100
+26	Ancient Power	Rock		Special 	60 	100
+30	Dragon Tail	Dragon		Physical 	60 	90
+34	Crunch		Dark		Physical 	80 	100
+37	Dragon Claw	Dragon		Physical 	80 	100
+
+___________________________________________________________
+
+#149 Tyrantrum
+
+Ability	  : Strong Jaw
+
+Type	  : Rock / Dragon
+
+Held Item : N/A
+
+Location  : Evolve
+
+Base Stats:
+
+HP 		82 	
+Attack 		121 	
+Defense 	119 	
+Sp. Atk 	69 	
+Sp. Def 	59 	
+Speed 		71
+	
+	
+
+
+Moveset :
+
+1	Tackle		Normal		Physical 	50 	100
+1	Tail Whip	Normal		Status 		— 	100
+6	Roar		Normal		Status 		— 	—
+10	Stomp		Normal		Physical 	65 	100
+12	Bide		Normal		Physical 	— 	—
+17	Bite		Dark		Physical 	60 	100
+26	Ancient Power	Rock		Special 	60 	100
+30	Dragon Tail	Dragon		Physical 	60 	90
+34	Crunch		Dark		Physical 	80 	100
+37	Dragon Claw	Dragon		Physical 	80 	100
+42	Thrash		Normal		Physical 	120 	100
+45	Brick Break	Fighting	Physical 	75 	100
+47	Earthquake	Ground		Physical 	100 	100
+50	Iron Head	Steel		Physical 	80 	100
+52	Head Smash	Rock		Physical 	150 	80
+54	Giga Impact	Normal		Physical 	150 	90
+56	Fire Fang	Fire		Physical 	65 	95
+56	Ice Fang	Ice		Physical 	65 	95
+56	Thunder Fang	Electric	Physical 	65 	95
+57	Poison Fang	Poison		Physical 	50 	100
+59	Zen Headbutt	Psychic		Physical 	80 	90
+60	Outrage		Dragon		Physical 	120 	100
+
+___________________________________________________________
+
+#150 Aerodactyl
+
+Ability	  : Pressure / Rock Head
+
+Type	  : Rock / Flying
+
+Held Item : N/A
+
+Location  : Seafoam Islands
+
+Base Stats:
+
+HP 		80 	
+Attack 		105 	
+Defense 	65 	
+Sp. Atk 	60 	
+Sp. Def 	75 	
+Speed 		130
+	
+	
+
+
+Moveset :
+
+1	Earthquake	Ground		Physical 	100 	100
+1	Bite		Dark		Physical 	60 	100
+1	Scary Face	Normal		Status 		— 	100
+1	Supersonic	Normal		Status 		— 	55
+1	Aerial Ace	Flying		Physical 	60 	_
+9	Roar		Normal		Status 		— 	—
+17	Agility		Psychic		Status 		— 	—
+25	Ancient Power	Rock		Special 	60 	100
+28	Roost		Flying		Status 		— 	—
+33	Crunch		Dark		Physical 	80 	100
+41	Take Down	Normal		Physical 	90 	85
+45	Bulldoze	Ground		Physical 	60 	100
+48	Dragon Claw	Dragon		Physical 	80 	100
+52	Rock Slide	Rock		Physical 	75 	90
+53	Giga Impact	Normal		Physical 	150 	90
+57	Iron Head	Steel		Physical 	80 	100
+60	Fire Fang	Fire		Physical 	65 	95
+60	Ice Fang	Ice		Physical 	65 	95
+60	Thunder Fang	Electric	Physical 	65 	95
+
+___________________________________________________________
+
+
+#151 Mew
+
+Ability	  : Synchronize
+
+Type	  : Psychic
+
+Held Item : N/A
+
+Location  : Cerulean Cave
+
+Base Stats:
+
+HP 		100 	
+Attack 		70 	
+Defense 	100 	
+Sp. Atk 	120 	
+Sp. Def 	100 	
+Speed 		110
+	
+	
+
+
+Moveset :
+
+1	Transform	Normal		Status 		— 	—
+1	Ancient Power	Rock		Special 	60 	100
+1	Signal Beam	Bug		Special 	75 	100
+1	Aura Sphere	Fighting	Special 	80 	_
+1	Flash Cannon	Steel		Special 	80 	100
+1	Scald		Water		Special 	80 	100
+1	Shadow Ball	Ghost		Special 	80 	100
+1	Dark Pulse	Dark		Special 	80 	100
+1	Dragon Pulse	Dragon		Special 	85 	100
+1	Ice Beam	Ice		Special 	90 	100
+1	Psychic		Psychic		Special 	90 	100
+1	Energy Ball	Grass		Special 	90 	100
+1	Thunderbolt	Electric	Special 	90 	100
+1	Flamethrower	Fire		Special 	90 	100
+1	Earth Power	Ground		Special 	90 	100
+1	Sludge Bomb	Poison		Special 	90 	100
+1	Aeroblast	Flying		Special 	100 	95 
+1	Hyper Beam	Normal		Special 	150 	90
+
+
+___________________________________________________________
+
+#??? Hollownite
+
+Ability	  : Dark Aura
+
+Type	  : Dark / Ghost
+
+Held Item : N/A
+
+Location  : Inside Truck Near SS.Anne Area
+
+Base Stats:
+
+HP 		100 	
+Attack 		60 	
+Defense 	100 	
+Sp. Atk 	130 	
+Sp. Def 	100 	
+Speed 		110
+	
+	
+
+
+Moveset :
+
+1	Dark Pulse	Dark		Special 	80 	100
+1	Psychic		Psychic		Special 	90 	100
+1	Signal Beam	Bug		Special 	75 	100
+1	Energy Ball	Grass		Special 	90 	100
+1	Flash Cannon	Steel		Special 	80 	100
+1	Shadow Ball	Ghost		Special 	80 	100
+
+* Does not learn any moves through Tm / Hm , Move tutors.
+
+__________________________________________________________
+
+
+Shiny Pokémon :
+
+Beldum : Obtained from NPC in Silph CO. (Must have seen mail on Diasy's table before)
+
+Mew : Obtain Relic Crown from Aide in Cerulean Cave, before battling Mew.
+
+Magikarp : Obtained from NPC that sells Magikarp for $500 in Pokemon Centre just before Mt.Moon.
+	   
+	   (Must have seen mail on Diasy's table before)
+
+Mienfoo / Scraggy : One of them can be obtained after defeating Karate Master in Saffron City Dojo.
+
+
+

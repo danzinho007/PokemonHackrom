@@ -1,0 +1,22 @@
+Correção na Evolução da Eevee para Tracieon. Estava evoluindo no nível errado.
+Agora que foi corrigido, a sua eevee ira evoluir para Tracieon no nível 30, e
+não no nível 5 como estava ocorrendo antes.
+
+Correção ao aprender moves ao evoluir do Incineroar, Primarina e Decidueye.
+Incineroar agora irá aprender Dark Lariat após evoluir.
+Primarina irá aprender Sparkle Aria após evoluir.
+Decidueye irá aprendrer Spirit Chain após evoluir.
+
+Caso tenha mais algum pokémon que não esteja aprendendo o move que deveria
+após evoluir, reportem na área de bugs que tem aqui no blog.
+
+Correção de alguns treinadores ao redor do mapa que estavam bugando durante a batalha.
+
+Correção na aba de TM's. Em alguns casos, o game crashava ao navegar pela aba das TM's.
+
+Placas informativas dentro dentro dos Unions Gate.
+
+Tradução feita na Entrada da floresta, Rota B e algumas falas de Puel City.
+
+Pouca coisa foi feita nessa att, mas, tive que postar ela por conta na correção
+de alguns bugs que precisavm ser corrigidos o quanto antes.

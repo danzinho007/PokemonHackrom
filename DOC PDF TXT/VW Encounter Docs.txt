@@ -1,0 +1,1543 @@
+Route 1
+=================================================================================================================================================
+Regular Grass
+
+Zigzagoon	20%
+Wurmple		20%
+Weedle		10%
+Caterpie	10%
+Pidgey		10%
+Hoothoot	10%
+Rattata		10%
+Sentret		8%
+Ledyba		1%
+Ralts		1%
+
+Doubles Grass
+
+Linoone		20%
+Dustox		20%
+Beautifly	20%
+Beedrill	10%
+Buterfree	10%
+Pidgeotto	5%
+Noctowl		5%
+Raticate	4%
+Furret		4%
+Ledian		1%
+Kirlia		1%
+
+Shaking Grass
+
+Ralts		100%
+
+Surf
+
+Tentacool	60%
+Psyduck		30%
+Pelipper	5%
+Golduck		4%
+Tentacruel	1%
+
+Super Rod
+
+Carvanha	60%
+Clamperl	30%
+Tentacool	9%
+Wailmer		1%
+
+Surf Dark Spot
+
+Sharpedo	60%
+Wingull		30%
+Pelipper	5%
+Tentacruel	4%
+Carvanha	1%
+
+Super Rod Dark Spot
+
+Mantyke		60%
+Wailmer		30%
+Wailord		5%
+Mantine		5%
+
+Route 2
+=================================================================================================================================================
+Regular Grass
+
+Taillow		20%
+Wingull		20%
+Oddish		20%
+Spearow		10%
+Bellsprout	10%
+Poochyena	10%
+Slakoth		4%
+Venonat		4%
+Ekans		2%
+
+Shaking Grass
+
+Treecko		34%
+Mudkip		34%
+Torchic		32%
+
+Striaton City
+=================================================================================================================================================
+Surf
+
+Feebas		100%
+
+Super Rod
+
+Goldeen		60%
+Squirtle	30%
+Lotad		5%
+Poliwag		5%
+
+Surf Dark Spot
+
+Horsea		60%
+Feebas		35%
+Surskit		4%
+Qwilfish	1%
+
+Super Rod Dark Spot
+
+Chinchou	90%
+Goldeen		9%
+Corsola		1%
+
+Dreamyard
+=================================================================================================================================================
+Gift Pokemon
+
+Smeargle	All Starters
+
+Regular Grass
+
+Natu		20%
+Spoink		20%
+Whismur		10%
+Ralts		10%
+Chingling	10%
+Chikorita	10%
+Abra		8%
+Exeggcute	5%
+Drowzee		5%
+Kecleon		1%
+Porygon		1%
+
+Doubles Grass
+
+Xatu		20%
+Grumpig		20%
+Kadabra		20%
+Gardevoir	10%
+Gallade		10%
+Exeggutor	8%
+Bayleef		6%
+Meganium	6%
+
+
+Shaking Grass
+
+Cyndaquil	34%
+Totodile	34%
+Chikorita	31%
+Wynaut		1%
+
+Route 3
+=================================================================================================================================================
+Regular Grass
+
+Hoppip		20%
+Azurill		20%
+Seedot		20%
+Sunkern		10%
+Slakoth		10%
+Nidoran-M	5%
+Nidoran-F	5%
+Magby		5%
+Elekid		5%
+
+Doubles Grass
+
+Growlithe	20%
+Poochyena	20%
+Electrike	14%
+Tyrogue		10%
+Marill		10%
+Skitty		10%
+Wingull		5%
+Smoochum	5%
+Taillow		4%
+Nincada		2%
+
+Shaking Grass
+
+Bulbasaur	34%
+Charmander	34%
+Squirtle	32%
+
+Surf
+
+Corphish	60%	
+Chinchou	30%
+Shellder	10%
+
+Super Rod
+
+Krabby 		60%
+Marill 		30%
+Staryu		10%
+
+Surf Dark Spot
+
+Marill		60%
+Gyarados	30%
+Whiscash	9%
+Feebas		1%
+
+Super Rod Dark Spot
+
+Spheal		60%
+Feebas		35%
+Relicanth	5%
+
+Wellspring Cave
+=================================================================================================================================================
+Walking
+
+Geodude		20%
+Zubat		20%
+Makuhita	10%
+Meditite	10%
+Diglett		10%
+Machop		10%
+Tyrogue		9%
+Cubone		5%
+Paras		4%
+Solrock		1%
+Lunatone	1%
+
+Dust Cloud
+
+Sandshrew	40%
+Wooper		20%
+Onix		10%
+Rhyhorn		10%
+Phanpy		10%
+Dunsparce	4%
+Larvitar	4%
+Voltorb		2%
+
+Surf
+
+Goldeen		66%
+Psyduck		34%
+
+Super Rod
+
+Slowpoke	60%
+Poliwag		34%
+Shellder	5%
+Lileep		1%
+
+Surf Dark Spot
+
+Poliwag		60%
+Poliwhirl	30%
+Staryu		10%
+
+Super Rod Dark Spot
+
+Squirtle	60%
+Staryu		30%
+Lapras		5%
+Totodile	4%
+Lileep		1%
+
+Pinwheel Forest (Outside)
+=================================================================================================================================================
+Regular Grass
+
+Snubbull	20%
+Tyrogue		20%
+Eevee		15%
+Swablu		10%
+Grimer		10%
+Koffing		10%
+Makuhita	8%
+Growlithe	5%
+Vulpix		2%
+
+Doubles Grass
+
+Tyrogue		40%
+Shuppet		10%
+Lotad		10%
+Seedot		10%
+Hoppip		10%
+Shroomish	10%
+Munchlax	4%
+Kecleon		4%
+Stantler	2%
+
+Shaking Grass
+
+Pichu		20%
+Cleffa		20%
+Igglybuff	10%
+Togepi		10%
+Magby		10%
+Elekid		10%
+Smoochum	10%
+Girafarig	8%
+Scyther		2%
+
+Pinwheel Forest (Inside)
+=================================================================================================================================================
+Regular Grass
+
+Oddish		20%
+Nuzleaf		20%
+Lombre		20%
+Bellsprout	10%
+Exeggcute	10%
+Stantler	6%
+Girafarig	5%
+Plusle		4%
+Minun		4%
+Tangela		1%
+
+Doubles Grass
+
+Kakuna		20%
+Metapod		20%
+Tangela		20%
+Paras		10%
+Venonat		10%
+Shuckle		8%
+Beautifly	5%
+Dustox		5%
+Volbeat		1%
+Illumise	1%
+
+Shaking Grass
+
+Volbeat		20%
+Illumise	20%
+Pineco		20%
+Stantler	10%
+Girafarig	10%
+Scyther		10%
+Yanma		8%
+Nincada		2%
+
+Surf
+
+Tentacool	60%
+Psyduck		30%
+Barboach	10%
+
+Super Rod
+
+Remoraid	60%
+Krabby		30%
+Mudkip		5%
+Totodile	5%
+
+Surf Dark Spot
+
+Horsea		60%
+Slowpoke	30%
+Psyduck		10%
+
+Super Rod Dark Spot
+
+Goldeen		60%
+Clamperl	35%
+Luvdisc		4%
+Lapras		1%
+
+Route 4
+=================================================================================================================================================
+Sand
+
+Trapinch	20%
+Baltoy		20%
+Numel		20%
+Cubone		10%
+Sandshrew	10%
+Gligar		9%
+Cacnea		5%
+Voltorb		5%
+Shedinja	1%
+
+Surf
+
+Tentacool	60%
+Magikarp	35%
+Carvanha	5%
+
+Super Rod
+
+Krabby		60%
+Corphish	30%
+Clamperl	10%
+
+Surf Dark Spot
+
+Carvanha	60%
+Chinchou	30%
+Wailmer		10%
+
+Super Rod Dark Spot
+
+Luvdisc		90%
+Relicanth	10%
+
+Desert Resort
+=================================================================================================================================================
+Outside
+
+Trapinch	20%
+Nosepass	20%
+Cacnea		10%
+Aron		10%
+Mawile		10%
+Baltoy		10%
+Ekans		10%
+Larvitar	4%
+Skarmory	6%
+
+Inside
+
+Rhyhorn		20%
+Baltoy		20%
+Cacnea		10%
+Trapinch	10%
+Larvitar	10%
+Skarmory	10%
+Beldum		6%
+Mawile		5%
+Phanpy		5%
+Scizor		4%
+
+Relic Castle
+=================================================================================================================================================
+First Floor (Both Entrances)
+
+Lileep		25%
+Anorith		25%
+Omanyte		25%
+Kabuto		25%
+
+BF1
+
+Lunatone	25%
+Solrock		25%
+Beldum		20%
+Lileep		15%
+Anorith		15%
+
+BF2 - BF7
+
+Lunatone	25%
+Solrock		25%
+Beldum		20%
+Lileep		15%
+Anorith		15%
+
+Volcarona's Room
+
+Claydol		100%
+
+Route 5
+=================================================================================================================================================
+Regular Grass
+
+Swablu		20%
+Pikachu		20%
+Nidorina	10%
+Nidorino	10%
+Chimecho	10%
+Vigoroth	10%
+Tropius		10%
+Kecleon		8%
+Munchlax	2%
+
+Doubles Grass
+
+Seviper		20%
+Zangoose	20%
+Swablu		14%
+Skarmory	10%
+Koffing		10%
+Grimer		10%
+Sunkern		10%
+Shroomish	4%
+Eevee		2%
+
+Shaking Grass
+
+Roselia		20%
+Tropius		20%
+Exeggcute	10%
+Zangoose	10%
+Voltorb		10%
+Farfetch'd	10%
+Munchlax	10%
+Seviper		5%
+Roserade	5%
+
+Route 16
+=================================================================================================================================================
+Regular Grass
+
+Grimer		20%
+Koffing		20%
+Kirlia		10%
+Plusle		10%
+Minun		10%
+Mightyena	10%
+Jigglypuff	10%
+Linoone		5%
+Beldum		4%
+Voltorb		1%
+
+Doubles Grass
+
+Jigglypuff	20%
+Clefairy	20%
+Grimer		10%
+Koffing		10%
+Ninjask		10%
+Mightyena	10%
+Meowth		8%
+Linoone		5%
+Kirlia		5%
+Beldum		2%
+
+Shaking Grass
+
+Chikorita	20%
+Cyndaquil	20%
+Torchic		10%
+Totodile	10%
+Mudkip		10%
+Charmander	10%
+Squirtle	10%
+Bulbasaur	5%
+Treecko		5%
+
+Lostlorn Forest
+=================================================================================================================================================
+Regular Grass
+
+Misdreavus	20%
+Scyther		20%
+Paras		10%
+Surskit		10%
+Pinsir		10%
+Ledian		10%
+Volbeat		9%
+Illumise	9%
+Heracross	2%
+
+Doubles Grass
+
+Absol		20%
+Ponyta		20%
+Primeape	10%
+Eevee		10%
+Tauros		10%
+Misdreavus	10%
+Miltank		10%
+Gligar		8%
+Chansey		2%
+
+Shaking Grass
+
+Skitty		40%
+Smoochum	20%
+Magby		20%
+Elekid		20%
+
+Surf
+
+Carvanha	60%
+Azurill		30%
+Lotad		10%
+
+Super Rod
+
+Magikarp	60%
+Goldeen		40%
+
+Surf Dark Spot
+
+Marill		60%
+Lombre		30%
+Magikarp	5%
+Carvanha	5%
+
+Super Rod Dark Spot
+
+Seel		60%
+Feebas		30%
+Magikarp	9%
+Gyarados	1%
+
+Driftveil Drawbridge
+=================================================================================================================================================
+Shadow
+
+Wingull		20%
+Swablu		20%
+Doduo		10%
+Pidgeotto	10%
+Spearow		10%
+Skiploom	10%
+Hoothoot	5%
+Gligar		5%
+Swellow		4%
+Jumpluff	4%
+Aerodactyl	2%
+
+Driftveil City
+=================================================================================================================================================
+Surf
+
+Tentacool	60%
+Poliwhirl	30%
+Tentacruel	5%
+Carvanha	5%
+
+Super Rod
+
+Wailmer		60%
+Horsea		40%
+
+Surf Dark Spot
+
+Pelipper	60%
+Lapras		30%
+Seaking		5%
+Staryu		5%
+
+Super Rod Dark Spot
+
+Luvdisc		60%
+Mantyke		35%
+Clamperl	5%
+
+Cold Storage
+=================================================================================================================================================
+Regular Grass
+
+Swinub		20%
+Seel		20%
+Spheal		20%
+Sneasel		10%
+Smoochum	10%
+Snorunt		8%
+Gastly		5%
+Delibird	5%
+Castform	2%
+
+Doubles Grass
+
+Piloswine	20%
+Dewgong		20%
+Spheal		10%
+Sealeo		10%
+Sneasel		10%
+Smoochum	10%
+Snorunt		8%
+Haunter		5%
+Delibird	5%
+Munchlax	2%
+
+Shaking Grass
+
+Haunter		20%
+Spoink		20%
+Shuppet		10%
+Duskull		10%
+Snorlax		10%
+Kirlia		10%
+Marill		8%
+Seviper		5%
+Zangoose	5%
+Absol		2%
+
+Route 6
+=================================================================================================================================================
+Fake Pokeballs
+
+Pineco		100%
+
+Regular Grass
+
+Tropius		20%
+Phanpy		20%
+Taillow		10%
+Pikachu		10%
+Shroomish	10%
+Roselia		10%
+Drowzee		8%
+Doduo		5%
+Ponyta		5%
+Voltorb		2%
+
+Doubles Grass
+
+Lickitung	20%
+Koffing		20%
+Grimer		20%
+Eevee		20%
+Sentret		10%
+Swablu		5%
+Ursaring	4%
+Yanmega		1%
+
+Shaking Grass
+
+Growlithe	20%
+Vulpix		20%
+Skitty		10%
+Tauros		10%
+Girafarig	10%
+Stantler	10%
+Eevee		10%
+Porygon		8%
+Chansey		2%
+
+Surf
+
+Krabby		60%
+Seel		40%
+
+Super Rod
+
+Chinchou	60%
+Krabby		30%
+Magikarp	10%
+
+Surf Dark Spot
+
+Carvanha	60%
+Barboach	39%
+Sharpedo	1%
+
+Super Rod Dark Spot
+
+Seel		60%
+Spheal		39%
+Marshtomp	1%
+
+
+Chargestone Cave
+=================================================================================================================================================
+First Floor
+
+Walking
+
+Magnemite	20%
+Electrike	20%
+Pidgeotto	20%
+Geodude		10%
+Chimecho	10%
+Mawile		5%
+Sableye		5%
+Minun		4%
+Plusle		4%
+Nosepass	2%
+
+Dust Cloud
+
+Aron		34%
+Beldum		34%
+Krabby		16%
+Onix		16%
+
+BF1
+
+Walking
+
+Electrike	20%
+Voltorb		20%
+Plusle		10%
+Minun		10%
+Zubat		10%
+Geodude		10%
+Magnemite	10%
+Nosepass	8%
+Beldum		2%
+
+Dust Cloud
+
+Aron		34%
+Beldum		34%
+Krabby		16%
+Onix		16%
+
+BF2
+
+Walking
+
+Voltorb		20%
+Nosepass	20%
+Porygon		20%
+Chimecho	10%
+Beldum		10%
+Geodude		10%
+Zubat		4%
+Mawile		4%
+Sableye		2%
+
+Dust Cloud
+
+Aron		34%
+Beldum		34%
+Krabby		16%
+Onix		16%
+
+Route 7
+=================================================================================================================================================
+Regular Grass
+
+Persian		20%
+Clefairy	20%
+Gloom		10%
+Exeggcute	10%
+Dodrio		10%
+Scyther		10%
+Pinsir		5%
+Heracross	5%
+Swalot		5%
+Xatu		5%
+
+Doubles Grass
+
+Altaria		20%
+Lickitung	20%
+Swellow		20%
+Haunter		10%
+Pikachu		10%
+Skiploom	10%
+Pelipper	5%
+Wynaut		5%
+
+Shaking Grass
+
+Magmar		34%
+Electabuzz	34%
+Jynx		32%
+
+Celestial Tower
+=================================================================================================================================================
+2F
+
+Duskull		50%
+Shuppet		50%
+
+3F
+
+Duskull		50%
+Shuppet		50%
+
+4F
+
+Duskull		34%
+Shuppet		25%
+Natu		16%
+Wynaut		15%
+Mr. Mime	10%
+
+Roof
+
+Chingling	60%
+Chimecho	40%
+
+***Surf becomes available after this point***
+
+Route 17
+=================================================================================================================================================
+Surf
+
+Tentacool	60%
+Wingull		30%
+Tentacruel	5%
+Wailmer		4%
+Wailord		1%
+
+Super Rod
+
+Luvdisc		100%
+
+Surf Dark Spot
+
+Totodile	60%
+Squirtle	30%
+Mudkip		5%
+Lapras		5%
+
+Super Rod Dark Spot
+
+Relicanth	60%
+Krabby		30%
+Starmie		10%
+
+Route 18
+=================================================================================================================================================
+Regular Grass
+
+Slugma		40%
+Houndour	20%
+Ponyta		10%
+Pineco		10%
+Torkoal		10%
+Numel		10%
+
+Doubles Grass
+
+Hariyama	20%
+Primeape	20%
+Gligar		20%
+Medicham	20%
+Granbull	10%
+Machoke		10%
+
+Shaking Grass
+
+Granbull	40%
+Ursaring	20%
+Chansey		10%
+Noctowl		10%
+Arbok		10%
+Raticate	10%
+
+Surf
+
+Tentacool	60%
+Wingull		30%
+Tentacruel	5%
+Wailmer		4%
+Wailord		1%
+
+Super Rod
+
+Corphish	60%
+Relicanth	35%
+Crawdaunt	5%
+
+Surf Dark Spot
+
+Pelipper	60%
+Seaking		30%
+Golduck		5%
+Staryu		5%
+
+Super Rod Dark Spot
+
+Corsola		60%
+Clamperl	35%
+Starmie		4%
+Kingdra		1%
+
+P2 Laboratory
+=================================================================================================================================================
+Regular Grass
+
+Koffing		30%
+Grimer		30%
+Gulpin		20%
+Magnemite	10%
+Porygon		10%
+
+Shaking Grass
+
+Kangaskhan	20%
+Chansey		20%
+Miltank		10%
+Tauros		10%
+Noctowl		10%
+Furret		10%
+Raticate	10%
+Loudred		10%
+
+Surf
+
+Tentacool	90%
+Seaking		10%
+
+Super Rod
+
+Gorebyss	60%
+Horsea		35%
+Seadra		4%
+Starmie		1%
+
+Surf Dark Spot
+
+Starmie		60%
+Staryu		30%
+Sharpedo	5%
+Wailord		5%
+
+Super Rod Dark Spot
+
+Seadra		60%
+Kingdra		35%
+Clamperl	5%
+
+Mistralton Cave
+=================================================================================================================================================
+First Floor
+
+Walking
+
+Sudowoodo	20%
+Rhydon		20%
+Tyrogue		10%
+Onix		10%
+Meditite	10%
+Makuhita	10%
+Bagon		9%
+Graveler	5%	
+Golbat		5%
+Crobat		1%
+
+Dust Cloud
+
+Sandshrew	40%
+Ekans		20%
+Haunter		20%
+Sableye		10%
+Mawile		10%
+
+Second Floor
+
+Walking
+
+Tyrogue		20%
+Onix		20%
+Sudowoodo	10%
+Rhydon		10%
+Meditite	10%
+Makuhita	10%
+Bagon		9%
+Graveler	5%
+Golbat		5%
+Crobat		1%
+
+Dust Cloud
+
+Ekans		40%
+Sandshrew	20%
+Haunter		20%
+Sableye		10%
+Mawile		10%
+
+Guidance Chamber
+=================================================================================================================================================
+Walking
+
+Graveler	24%
+Golbat		20%
+Bagon		14%
+Makuhita	10%
+Machop		10%
+Meditite	10%
+Nosepass	10%
+Shelgon		2%
+
+Dust Cloud
+
+Bagon		34%
+Larvitar	34%
+Beldum		32%
+
+Twist Mountain
+=================================================================================================================================================
+Walking
+
+Dugtrio		20%
+Magneton	20%
+Geodude		10%
+Golbat		10%
+Medicham	10%
+Makuhita	10%
+Lairon		10%
+Rhyhorn		4%
+Vigoroth	4%
+Sableye		1%
+Mawile		1%
+
+Dust Cloud
+
+Slugma		40%
+Spinarak	10%
+Larvitar	10%
+Onix		10%
+Haunter		10%
+Sandshrew	10%
+Vulpix		10%
+
+Icirrus City
+=================================================================================================================================================
+Shallow Water
+
+Lotad		30%
+Psyduck		20%
+Marill		10%
+Azurill		10%
+Surskit		10%
+Mudkip		10%
+Anorith		5%
+Lileep		5%
+
+Surf
+
+Slowpoke	60%
+Shellder	30%
+Krabby		10%
+
+Super Rod
+
+Magikarp	60%
+Barboach	30%
+Whiscash	10%
+
+Surf Dark Spot
+
+Seel		60%
+Sealeo		30%
+Lapras		10%
+
+Super Rod Dark Spot
+
+Wailmer		60%
+Poliwhirl	40%
+
+Dragonspiral Tower (Icirrus City Side)
+=================================================================================================================================================
+Regular Grass
+
+Noctowl		20%
+Granbull	20%
+Mightyena	10%
+Linoone		10%
+Jigglypuff	10%
+Clefairy	10%
+Phanpy		8%
+Heracross	5%
+Pinsir		5%
+Aipom		2%
+
+Shaking Grass
+
+Aipom		20%
+Absol		20%
+Vulpix		10%
+Smoochum	10%
+Magby		10%
+Elekid		10%
+Vigoroth	10%
+Abra		8%
+Swellow		2%
+
+Doubles Grass (Winter Only)
+
+Castform	40%
+Aipom		30%
+Phanpy		10%
+Snorunt		10%
+Jigglypuff	8%
+Heracross	1%
+Pinsir		1%
+
+Dragonspiral Tower (Outside)
+=================================================================================================================================================
+Regular Grass
+
+Swellow		20%
+Altaria		20%
+Chimecho	10%
+Donphan		10%
+Heracross	10%
+Skarmory	10%
+Bellossom	8%
+Solrock		5%
+Lunatone	5%
+Vileplume	2%
+
+Doubles Grass
+
+Kecleon		40%
+Girafarig	10%
+Stantler	10%
+Mr. Mime	10%
+Electrode	10%
+Lunatone	9%
+Solrock		9%
+Miltank		2%
+
+Shaking Grass
+
+Lunatone	20%
+Solrock		20%
+Doduo		20%
+Azumarill	20%
+Dusclops	10%
+Swellow		8%
+Altaria		2%
+
+Surf
+
+Horsea		60%
+Slowpoke	30%
+Omanyte		5%
+Kabuto		5%
+
+Super Rod
+
+Remoraid	60%
+Corsola		30%
+Luvdisc		10%
+
+Surf Dark Spot
+
+Wailmer		60%
+Carvanha	35%
+Sharpedo	5%
+
+Super Rod Dark Spot
+
+Feebas		60%
+Clamperl	30%
+Staryu		9%
+Milotic		1%
+
+Dragonspiral Tower (Inside)
+=================================================================================================================================================
+1F
+
+Bagon		20%
+Dratini		20%
+Larvitar	20%
+Arbok		20%
+Tropius		10%
+Squirtle	5%
+Sableye		5%
+
+2F
+
+Bagon		100%
+
+Route 8
+=================================================================================================================================================
+Shallow Water
+
+Lotad		30%
+Psyduck		20%
+Marill		10%
+Azurill		10%
+Surskit		10%
+Mudkip		10%
+Anorith		5%
+Lileep		5%
+
+Surf
+
+Slowpoke	60%
+Shellder	30%
+Krabby		10%
+
+Super Rod
+
+Magikarp	60%
+Barboach	30%
+Whiscash	10%
+
+Surf Dark Spot
+
+Seel		60%
+Sealeo		30%
+Lapras		10%
+
+Super Rod Dark Spot
+
+Wailmer		60%
+Poliwhirl	40%
+
+Moor of Icirrus
+=================================================================================================================================================
+Shallow Water
+
+Lotad		30%
+Psyduck		20%
+Marill		10%
+Azurill		10%
+Surskit		10%
+Mudkip		10%
+Omanyte		5%
+Kabuto		5%
+
+Surf
+
+Slowpoke	60%
+Shellder	30%
+Krabby		10%
+
+Super Rod
+
+Magikarp	60%
+Barboach	30%
+Whiscash	10%
+
+Surf Dark Spot
+
+Seel		60%
+Sealeo		30%
+Lapras		10%
+
+Super Rod Dark Spot
+
+Wailmer		60%
+Poliwhirl	40%
+
+Route 9
+=================================================================================================================================================
+Regular Grass
+
+Girafarig	20%
+Breloom		20%
+Arbok		10%
+Swalot		10%
+Muk		10%
+Zangoose	10%
+Seviper		10%
+Corphish	8%
+Wynaut		2%
+
+Doubles Grass
+
+Ninetales	20%
+Arcanine	20%
+Spoink		20%
+Shuppet		10%
+Seviper		10%
+Zangoose	10%
+Solrock		4%
+Lunatone	4%
+Linoone		2%
+
+Shaking Grass
+
+Sudowoodo	20%
+Tangela		20%
+Sunkern		10%
+Oddish		10%
+Stantler	10%
+Kecleon		10%
+Girafarig	10%
+Pikachu		8%
+Smeargle	1%
+Spinda		1%
+
+Route 10 (Outside Badge Gates)
+=================================================================================================================================================
+Fake Pokeball
+
+Forretress	100%
+
+Regular Grass
+
+Numel		20%
+Cacnea		20%
+Wynaut		10%
+Absol		10%
+Spoink		10%
+Magneton	10%
+Skarmory	8%
+Chimecho	5%
+Raichu		5%
+Delibird	2%
+
+Doubles Grass
+
+Kadabra		20%
+Delcatty	20%
+Gloom		20%
+Electrode	10%
+Linoone		10%
+Vibrava		10%
+Seviper		5%
+Zangoose	5%
+
+Shaking Grass
+
+Pinsir		20%
+Ledian		20%
+Xatu		20%
+Wobbuffet	10%
+Ninetales	10%
+Dusclops	10%
+Heracross	5%
+Ariados		5%
+
+Route 10 (Inside Badge Gates)
+=================================================================================================================================================
+Regular Grass
+
+Rhydon		20%
+Onix		20%
+Pineco		20%
+Dusclops	10%
+Banette		10%
+Aerodactyl	10%
+Lairon		10%
+
+Doubles Grass
+
+Medicham	20%
+Cacturne	20%
+Donphan		20%
+Skarmory	12%
+Girafarig	10%
+Ninetales	10%
+Solrock		4%
+Lunatone	4%
+
+Shaking Grass
+
+Flygon		20%
+Gligar		20%
+Eevee		10%
+Tauros		10%
+Cubone		10%
+Weezing		10%
+Muk		10%
+Unonwn		10%
+
+Victory Road
+=================================================================================================================================================
+Outside
+
+Walking
+
+Numel		20%
+Solrock		20%
+Arbok		10%
+Magcargo	10%
+Claydol		10%
+Flygon		10%
+Nosepass	10%
+Anorith		5%
+Lileep		5%
+
+1F Center & Right
+
+Walking
+
+Loudred		22%
+Graveler	20%
+Medicham	10%
+Golbat		10%
+Hariyama	10%
+Lairon		10%
+Claydol		10%
+Steelix		4%
+Kangaskhan	4%
+
+Dust Cloud
+
+Sableye		28%
+Mawile		22%
+Electrode	10%
+Sandslash	10%
+Gligar		10%
+Magneton	10%
+Swinub		10%
+
+Surf
+
+Relicanth	60%
+Krabby		30%
+Corphish	9%
+Slakoth		1%
+
+Super Rod
+
+Tentacruel	60%
+Gyarados	30%
+Azumarill	5%
+Kabutops	4%
+Marshtomp	1%
+
+Surf Dark Spot
+
+Sharpedo	60%
+Starmie		30%
+Gyarados	5%
+Tentacruel	5%
+
+Super Rod Dark Spot
+
+Seadra		60%
+Magcargo	30%
+Milotic		5%
+Omastar		4%
+Marshtomp	1%
+
+1F Left, 2F, 3F, 4F, 5F, 6F, Top
+
+Walking
+
+Loudred		22%
+Graveler	20%
+Medicham	10%
+Golbat		10%
+Hariyama	10%
+Lairon		10%
+Claydol		10%
+Steelix		4%
+Kangaskhan	4%
+
+Dust Cloud
+
+Sableye		28%
+Mawile		22%
+Electrode	10%
+Sandslash	10%
+Gligar		10%
+Magneton	10%
+Swinub		10%
+
+Trial Chamber
+=================================================================================================================================================
+Walking
+
+Sunflora	20%
+Torkoal		20%
+Numel		10%
+Magmar		10%
+Magcargo	10%
+Solrock		10%
+Tauros		10%
+Quilava		4%
+Charmeleon	4%
+Combusken	2%
+
+Dust Cloud
+
+Parasect	20%
+Beedrill	20%
+Butterfree	20%
+Ledian		10%
+Nincada		10%
+Scyther		10%
+Pineco		10%

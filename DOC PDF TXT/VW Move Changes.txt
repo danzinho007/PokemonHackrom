@@ -1,0 +1,137 @@
+Air Cutter - 95% > 100% accuracy
+Air Slash - 95% > 100% accuracy
+Ancientpower - 5PP > 10PP
+Aqua Tail - 90% > 100% accuracy
+Arm Thrust - 15BP > 25BP
+Astonish - 30BP > 60BP
+Blast Burn - 90% > 100% accuracy, Recharge > Recoil, Single Target > Adjacent Foes, 5PP > 10PP
+Blaze Kick - 90% > 100% accuracy
+Bone Club - 85% > 100% accuracy
+Bone Rush - 90% > 100% accuracy
+Bonemerang - 90% > 100% accuracy
+Bounce - 85% > 95% accuracy
+Brick Break - 75BP > 80BP
+Bulldoze - 60BP > 70BP
+Charge Beam - 90% > 100% accuracy
+Clamp - 85% > 100% accuracy, Trapping Move > 2-5 hit move, 35BP > 25BP
+Comet Punch - 18BP > 25BP, 85% > 100% accuracy
+Crabhammer - 90% > 100% accuracy, 90BP > 100BP
+Crush Claw - 95% > 100% accuracy, 75BP > 100BP
+Cut - 95% > 100% accuracy, 50BP > 60BP, Normal > Grass
+Dig - 80BP > 90BP
+Dive - 80BP > 100BP
+Double Hit - 90% > 100% accuracy
+DoubleSlap - 15BP > 25BP, 85% > 100% accuracy
+Draco Meteor - 90% > 100% accuracy, -2 Special Attack > Recoil
+Dragon Rush - 75% > 90% accuracy
+Dragon Tail - 90% > 95% accuracy
+Drill Run - 95% > 100% accuracy
+Dual Chop - 90% > 100% accuracy
+Egg Bomb - 75% > 100% accuracy, Phsyical > Special, Normal > Grass
+Electroweb - 95% > 100% accuracy
+Endeavor - Normal- > Dark-type
+Fire Fang - 95% > 100% accuracy, 65BP > 75BP
+Fire Pledge - 50BP > 100BP
+Fire Punch - 75BP > 80BP
+Fire Spin - 85% > 100% accuracy
+Fly - 95% > 100% accuracy, 90BP > 100BP
+Frenzy Plant - 90% > 100% accuracy, Recharge > Recoil, Single Target > Adjacent Foes, 5PP > 10PP
+Frost Breath - 90% > 95% accuracy
+Fury Attack - 85% > 100% accuracy
+Fury Cutter - 95% > 100% accuracy
+Fury Swipes - 80% > 100% accuracy
+Gear Grind - 85% > 100% accuracy
+Glare - 90% > 100% accuracy
+Grass Pledge - 50BP > 100BP
+Grasswhistle - 55% > 70% accuracy
+Gunk Shot - 70% > 100% accuracy
+Head Smash - 85% > 100% accuracy
+Heat Wave - 90% > 95% accuracy
+Hydro Cannon - 90% > 100% accuracy, Recharge > Recoil, Single Target > Adjacent Foes, 5PP > 10PP
+Hyper Fang - 90% > 100% accuracy
+Hyper Voice - 90BP > 100BP, No Effect > 10% SpDef Drop
+Hypnosis - 60% > 70% accuracy
+Ice Ball - 90% > 95% accuracy
+Ice Fang - 95% > 100% accuracy, 65BP > 75BP
+Ice Punch - 75BP > 80BP
+Icicle Crash - 90% > 100% accuracy
+Icy Wind - 95% > 100% accuracy
+Incinerate - 30BP > 60BP
+Iron Tail - 75% > 90% accuracy
+Knock Off - 20BP > 90BP
+Leaf Storm - 90% > 100% accuracy, -2 Special Attack > Recoil, 5PP > 10PP
+Leaf Tornado - 90% > 100% accuracy, 50% Drop Chance > 30% Drop Chance
+Leech Life - 20BP > 80BP
+Lick - 20BP > 50BP
+Luster Purge - 0BP > 100BP, 5PP > 10PP, Single Target > Adjacent Foes, 50% Drop Chance > No Secondary Effect
+Magnet Bomb - 60BP > 80BP, Physical > Special
+Mega Kick - 75% > 90% accuracy
+Mega Punch - 85% > 100% accuracy
+Megahorn - 85% > 90% accuracy
+Metal Burst - 0 > -5 Priority
+Metal Sound - 85% > 100% accuracy
+Meteor Mash - 85% > 95% accuracy
+Mirror Shot - 85% > 100% accuracy
+Mist Ball - 70BP > 100BP, 5PP > 10PP, Single Target > Adjacent Foes, 50% Drop Chance > No Secondary Effect
+Mud Bomb - 85% > 100% accuracy, 65BP > 85BP
+Mud Shot - 95% > 100% accuracy
+Muddy Water - 85% > 100% accuracy
+Needle Arm - 60BP > 80BP
+Night Daze - 95% > 100% accuracy, 85BP > 140BP, 40% Drop Chance > Recoil, Special > Physical
+Octazooka - 85% > 100% accuracy, 65BP > 85BP, 50% Drop Chance > High Crit Rate
+Ominous Wind - 60BP > 140BP, Boost Change > Recoil, 5PP > 10PP
+Overheat - 90% > 100% accuracy, -2 Special Attack > Recoil, 5PP > 10PP
+Pin Missile - 85% > 100% accuracy, 14BP > 25BP
+Poison Fang - 50BP > 70BP
+Poison Gas - 80% > 100% accuracy
+Poisonpowder - 75% > 100% accuracy
+Power Whip - 85% > 90% accuracy
+Psycho Boost - 90% > 100% accuracy, -2 Special Attack > Recoil, 5PP > 10PP
+Psywave - 80% > 100% accuracy
+Razor Leaf - 95% > 100% accuracy
+Razor Shell - 95% > 100% accuracy
+Rock Blast - 90% > 100% accuracy
+Rock Climb - 85% > 100% accuracy, Normal > Rock
+Rock Slide - 90% > 95% accuracy, 75BP > 80BP
+Rock Smash - 40BP > 70BP, 50% Drop Chance > 30% Drop Chance
+Rock Throw - 90% > 100% accuracy
+Rock Tomb - 80% > 100% accuracy
+Rock Wrecker - 90% > 100% accuracy, Recharge > Recoil, 5PP > 10PP
+Rolling Kick - 85% > 100% accuracy
+Rollout - 90% > 95% accuracy
+Sand Tomb - 85% > 100% accuracy
+Screech - 85% > 100% accuracy
+Shadow Punch - 60BP > 80BP
+Signal Beam - 75BP > 85BP
+Sing - 55% > 70% accuracy
+Sky Uppercut - 90% > 100% accuracy
+Slam - 75% > 100% accuracy
+Smog - 70% > 100% accuracy
+Snarl - 55BP > 65BP, 95% > 100% accuracy
+Spark - 65BP > 85BP
+Steel Wing - 90% > 100% accuracy
+Stone Edge - 80% > 90% accuracy
+Strength - 80BP > 90BP, Normal > Rock
+String Shot - 95% > 100% accuracy
+Struggle Bug - it's now just bug buzz
+Stun Spore - 75% > 90% accuracy
+Submission - 80% > 100% accuracy
+Super Fang - 90% > 100% accuracy, Normal > Dark
+Superpower - -1 Atk/Def > Recoil, 5PP > 10PP
+Supersonic - 55% > 100% accuracy
+Swagger - 90% > 95% accuracy
+Tail Slap - 85% > 100%
+Take Down - 85% > 100%, Recoil > No Effect
+Thunder Fang - 95% > 100% accuracy, 65BP > 75BP
+ThunderPunch - 75BP > 80BP
+Toxic - 90% > 100% accuracy
+Triple Kick - 90% > 100% accuracy
+Twineedle - 25BP > 45BP
+Water Pledge - 50BP > 100BP
+Wild Charge - 90BP > 100BP
+Whirlpool - 85% > 100% accuracy
+Will-o-Wisp - 75% > 90% accuracy
+Wing Attack - 60BP > 80BP
+Wrap - 90% > 100% accuracy
+Zap Cannon - 120BP > 140BP, 50% > 100% accuracy, Paralysis > Recoil, 5PP > 10PP
+Zen Headbutt - 80BP > 90BP, 90% > 100% accuracy
