@@ -190,19 +190,43 @@ Crystal Clear Standard 2.5.6 = Travado. OK
 God of Arena v180715 = Focado em Batalha 3x3 Lv 50. !!! 
 
 ---GBA :
-chinesa = daora !!!
 Accept Defeat V2 = Pesquisar !!! CRC32 324F3435
+Advanced Adventure 2013 = 
 advanced-v2 = Lv começa 15 !!!
 Adventure - Red Chapter B15 = Verificar as 2 versões !!! CRC32 50F13BB6
 Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
-Ash Gray Esp = Não entendi !!!
+Ash Gray Esp = Não entendi !!! 
 Ash Quest = Pesquisar !!!
 Awesome Version = Não entendi !!!
 Azure Horizons = Verificar as 2 versões !!! CRC32 9A1055D1 e 8D8551ED
 Battle Ultimate = Verificar como não bugar !!!
 Black Dark Beta = 
-Blast Burn V2.1 = Verificar !!!
-Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
+Blast Burn V2.1 = Verificar !!! Renomear 
+Blast-Burn-v4.4 =  
+Blazing Emerald 1.6 = Amei jogar !!! OK Tem 2 versões !!!
+Blue Stars 2 Ulimate =
+Blue Stars 3 Forces v6 = 
+Blue Star Completed = Bugou !!!  
+Brasul 2.1 = 
+Brillo Purpura =
+Brutal Version = Verificar CRC32 
+-Caos 2 English v1.0 = Muito difícil pro Bulba !!! 
+Tomava Efetivo de Pidgey e Rattata na Rota 1
+-Classic 151 + = Gostei pois modifica o mapa e os pokémon tem son !!! Verificar tem 2 versões
+-Crush = 
+-Dark Blue Beta v1.9 = Verificar !!!
+-Dark Cry Fix Alpha 2.6.7 = Tela piscando a noite na batalha, mapa bonito, começou meio sem noção pois tem matinho e depois caverna, level alto no começo, gostei do sistema de dia e noite e o jogo começa rápido. !!! OK
+-Dark Cry Fixex Hotfix Alpha 2.6.7 RTC = Verificar CRC32 pra comparar !!!
+-Dark Cry The Legend of Giratina Alpha 2.1.5 =  !!!
+-Dark Crystal Beta 1.0 = Amei jogar !!!
+-Dark Rising Order Destroyed =  !!!
+-Dark Violet Final 2018 V1 = Selo !!!  
+-Dark Worship Oficial 3.1 Final = 
+-Diabound Beta 1.0 = 
+-Digimon Operation Digipedia = Digimon em Fire Red cheat !!!
+-Discovery Beta 1 (0.2.1) =  !!!
+-DPS Ultimate v1.1 fixed = Não entendi nada, comecei Lv 50. Pesquisar !!!
+-Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
 Light Platinum = Futuramente !!!
 
 Números
@@ -212,15 +236,15 @@ A
 Attv12.18 = Flora Sky ( já joguei ) OK
 AzulRando = Blue randomizado por mim. OK
 B
-Blazing Emerald 1.6 = Amei jogar !!! OK
+
 Blue = Versão que editei com programas. OK
 Blue(patched) = Versão ??
 
 C
 Coral Version 2022 Demo v1.2 = bugou, pesquisei e nãoa chei solução 
 
-Dark Cry Fix Alpha 2.6.7 = Tela piscando a noite na batalha, mapa bonito, começou meio sem noção pois tem matinho e depois caverna, level alto no começo, gostei do sistema de dia e noite e o jogo começa rápido. !!! OK
-Dark Violet Final 2018 V1 = Selo !!!
+
+
 E 
 Eclipse = Gostosinho várias missões ( verificar ) !!!. OK
 Elite Black = To fazendo projeto pro futuro !!! 
