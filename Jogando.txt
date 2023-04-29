@@ -195,18 +195,33 @@ Advanced Adventure 2013 =
 advanced-v2 = Lv começa 15 !!!
 Adventure - Red Chapter B15 = Verificar as 2 versões !!! CRC32 50F13BB6
 Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
-Ash Gray Esp = Não entendi !!! 
-Ash Quest = Pesquisar !!!
+-Ash Gray Esp = Não entendi !!! 
+AshGray 4.5.3.gba = B78FA4A4
+ashgray-b4.6.gba = DCD3DDCE ( última 2022 )
+AshGray Esp.gba = 98D27BC5
+-Ash Quest = Pesquisar !!!
 Awesome Version = Não entendi !!!
-Azure Horizons = Verificar as 2 versões !!! CRC32 9A1055D1 e 8D8551ED
-Battle Ultimate = Verificar como não bugar !!!
-Black Dark Beta = 
+-Azure Horizons = Verificar as 2 versões !!! CRC32 9A1055D1 e 8D8551ED
+Azure Horizons True Continued Beta 2 = 9A1055D1
+Azure Horizons True Continued Beta 2 (hacksrepairman) = 8D8551ED
+
+-Battle Ultimate = Jogo de 2017 Competitivo !!!
+Como não bugar :
+1-Fale com a enfermeira Joy no Centro, para baixar todos Pokémon para seu PC, o processo pode demorar um pouco,pode parecer que travou,mas aguarde.
+2-Fale com o Verskr Dark e Brock no Hotel
+3-Fale com o livro na primeira casinha para colocar seu nome.( Faça nesta ordem para não travar,use save do jogo e não save state).
+
+-Black Dark Beta = 
 Blast Burn V2.1 = Verificar !!! Renomear 
 Blast-Burn-v4.4 =  
-Blazing Emerald 1.6 = Amei jogar !!! OK Tem 2 versões !!!
-Blue Stars 2 Ulimate =
-Blue Stars 3 Forces v6 = 
-Blue Star Completed = Bugou !!!  
+-Blazing Emerald 1.6 = Amei jogar !!! 
+Blazing Emerald 1.6.gba = 35BF8D6C
+
+-Blue Stars 1 Completed 855C4124 = Bugou !!!  
+-Blue Stars 2 Ulimate =
+-Blue Stars 3 Forces v6 = 
+-Blue Stars Battle = F4FEC41
+
 Brasul 2.1 = 
 Brillo Purpura =
 Brutal Version = Verificar CRC32 
@@ -226,7 +241,11 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Digimon Operation Digipedia = Digimon em Fire Red cheat !!!
 -Discovery Beta 1 (0.2.1) =  !!!
 -DPS Ultimate v1.1 fixed = Não entendi nada, comecei Lv 50. Pesquisar !!!
+-Drab Conspiracy - Capitolo 1 = Muito boa porém ta em Italiano !!! Pesquisar 
+-Emerald - Markplier Smash = Versão Emerald Randomizer com Rare Candy e Oran berry 
+-Emerald Green Version = Leaf Green porém com pokémon de Emerald nos matinhos !!! 
 -Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
+-
 Light Platinum = Futuramente !!!
 
 Números
