@@ -28,17 +28,19 @@ História Própria com nova região  :
 1-Black White 3 Genesis
 2-Brown 2014 Final
 3-Coral Island
-4-Dark Violet
+4-Dar Cry
 5-Eclipse
 6-Flora Sky
 7-Gaia
 8-Gold 97 Reforged
-9-Light Platinum
-9-Quartz
-10-Sweet
-11-Sword Shield
-12-Vega
-13-Verde Musgo
+9-Gold Sinnoh
+10-Memories
+11-Quartz
+12-Sweet
+13-Sword Shield
+14-Unbound
+15-Vega
+16-Verde Musgo 
 
 Traduzidas :
 1-Blue Stars 2
@@ -90,6 +92,7 @@ Outras :
 -Dark Worship 
 -Emerald Kaizo
 -Hyper Emerald Ash Version
+-Hyper Emerald 5.3 Hard 
 -Radical Red
 -Yellow Kaizo 
 -Yellow Supreme
@@ -244,6 +247,13 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Drab Conspiracy - Capitolo 1 = Muito boa porém ta em Italiano !!! Pesquisar 
 -Emerald - Markplier Smash = Versão Emerald Randomizer com Rare Candy e Oran berry 
 -Emerald Green Version = Leaf Green porém com pokémon de Emerald nos matinhos !!! 
+-Emerald Open Version 1.0.0 = Mundo aberto, alter golpes batalhando ( não funciona indo nas opções ) e ginásio liberado 
+-emerald R1 e R2 = Verificar CRC32 !!!
+-Emerald Randomizer 3 BR = Randomizer BR porém os golpes estão em português . Tem o bug dos golpes não poder alterar . Verificar !!!
+-Emerald Semirandomiser_a2 = Randomiza os pokémon dos treinadores e líderes de Ginásios
+-Emerald Z = Altera os iniciais ( menos o Treecko ) e os pokémons dos matinhos  
+-Emerald Eight v1.5 = Verificar CRC32 pois tem 2 versões 
+-
 -Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
 -
 Light Platinum = Futuramente !!!
