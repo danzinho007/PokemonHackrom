@@ -1288,14 +1288,46 @@ Pokemon : 809
 -Wood = 
 -World Championship = ... e ok
 
+https://pokemundo.com/category/hack-roms-pokemon-gba/page/7/?_gl=1%2A1n2zfps%2A_ga%2AMjAxNzUwMTU0MC4xNjgyOTMxNTY0%2A_up%2AMQ..%2A_ga_XVV2J3R3NH%2AMTY4MjkzMTU2NC4xLjAuMTY4MjkzMTU2NC4wLjAuMA..
+https://www.emulatorgames.net/roms/gameboy-advance/
+
 X 
 -XYNaturiaVersion = OK
--Yellow Cross = 
 
+--- Y --- 
+-Yellow 151 = 
+Hackrom de 2021
+he Majority Of Attacks Have Been Altered.
+IV in the Menu.
+Lv’s are displayed in the stats.
+Changed evolutions.
+After catching any Pokemon, you will get EXP.
+There Is Currently Only One 1 Gym Battle.
+
+-Yellow Advanced = 
+Hackrom de 2019 
+New sprites for male/female protagonist
+Inverse Wild/Trainer Battles!
+Realms
+8 Gym Leaders and Elite 4
+PokeCenters are now better
+Funny dialogues
+B/W Repel System
+
+-Yellow Cross = 
 -Yellow Gen. II Graphics Patch = 
 Gráficos 2° Geração
 -Yellow Kaizo = OK
 https://www.pokecommunity.com/showthread.php?t=440400
+-Yellow Plus 
+Hackrom de 2019
+Brand New Regions
+A deep, dark and twisted story
+Minor changes in gameplay
+An interesting storyline
+A selection of Pokemon from all generations
+Type differences.
+
 -Yellow Supreme = 
 -YuGiOh = OK
 -Yuval = 

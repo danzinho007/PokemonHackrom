@@ -56,11 +56,13 @@ Battle
 Blue Kaizo 
 Crystal Kaizo 
 Enhanced Emerald 
+Frontier Adventure v16.12.20
 God of Arena
 Ice Blue = Não 
 Indigo Power Tournament
 Pit of 100 Trials 
 Quetzal 
+Unbound Battle Frontier 2.0
 World Tournament
 Yellow Kaizo 
 
@@ -253,10 +255,26 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Emerald Semirandomiser_a2 = Randomiza os pokémon dos treinadores e líderes de Ginásios
 -Emerald Z = Altera os iniciais ( menos o Treecko ) e os pokémons dos matinhos  
 -Emerald Eight v1.5 = Verificar CRC32 pois tem 2 versões 
+-Eternal Snow v2.0 = Muito difícil ( perdi 2x pro Mudkip Lv 5 da May ), rejogar futuramente 
+-Fat Kid Beta 1.2.4 = Muito boa, continuar !!! Não vi mapa ainda
+-Fire Red Alpha 2.3 = Renomear !!! 
+-Fire Phoenix BR = !!! Renomear
+-Fire Red 251 Final = Pidgey Lv 9 com Gust !!!
+-Fire Red Backwards = já joguei !! 
+-Fire Red BR Dia e Noite = TUDO traduzido ( até golpes ) !!! Renomear
 -
+-
+-
+-Fire Sun =  
 -Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
 -
-Light Platinum = Futuramente !!!
+-
+-Frontier Adventure v16.12.20 = 
+-Light Platinum = Futuramente !!!
+
+pike, tower e arena 
+mas a piramide e a palace e a mas chatinha
+
 
 Números
 2004 = Bugadaço
