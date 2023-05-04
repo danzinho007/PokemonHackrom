@@ -31,16 +31,19 @@ História Própria com nova região  :
 4-Dar Cry
 5-Eclipse
 6-Flora Sky
-7-Gaia
-8-Gold 97 Reforged
-9-Gold Sinnoh
-10-Memories
-11-Quartz
-12-Sweet
-13-Sword Shield
-14-Unbound
-15-Vega
-16-Verde Musgo 
+7-Fuligin Final
+8-Gaia
+9-Glazed / 釉色= Mapa em Chinês ( futuramente removo )
+10-Gold 97 Reforged
+11-Gold Sinnoh
+12-Islas Doradas 2.0
+13-Memories
+14-Quartz
+15-Sweet 
+16-Sword Shield
+17-Unbound
+18-Vega
+19-Verde Musgo
 
 Traduzidas :
 1-Blue Stars 2
@@ -270,8 +273,26 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -
 -
 -Frontier Adventure v16.12.20 = Competitivo, amei !!!
--Fuligin Final = 
+-Fuligin Final = Muito boa !!!
+-Gaia v2.5 = Daorinha, gostei !!!  
+-Hyper Emerald 807 = Gostei, mas precisa grindar !!! Pesquisar 
+-Indigo Power Tournament vApril 25th 2021 = Bugado depois do torneio 
+-Inflamed Red v1.0.5 = Renomear e Verificar !!!
+-Islas Doradas 2.0 Competo = Gostosinho, vale a pena !!!
 -Light Platinum = Futuramente !!!
+-Lunares_BR = Renomear !!!
+-Marble Beta 2.1 = Fire Red com Sprites alterados, muda os mapas  !!!
+-Nameless FireRed = Fire Red com Pokémon de Unova
+-Old White v1.2 Fixed 2023 = Renomear 
+-Old Ruby v1.3 = Renomear
+-Orange GBA Alpha 1.0 = Renomear
+-Orange Island = Jogo bom, porém não entendi muito bem o objetivo
+-Pengie's Silly Emerald = Todos pokémon lv 100, to perdendo pra rival !!!
+-Poke Seasons = Demora salvando, verificar !!!
+-Ragnarok = Bugou, verificar !!!
+-Ruby+++ 1.0.3 = precisa pegar a nature certa, upei até lv 7 e perdi pro Mudkipp !!!
+-Sacred Red World v1.0 = Verificar 2 versões !!!
+-Saiph Full v2020 Patch = 
 
 pike, tower e arena 
 mas a piramide e a palace e a mas chatinha
@@ -298,11 +319,11 @@ Eclipse = Gostosinho várias missões ( verificar ) !!!. OK
 Elite Black = To fazendo projeto pro futuro !!! 
 
 G
-Gaia v2.5 = Daorinha, gostei !!!  
+
 
 Gold 97 Reforged 5.0 = Gostei !!!
-Hyper Emerald 807 = Gostei, mas precisa grindar !!! Pesquisar 
-Indigo Power Tournament vApril 25th 2021 = Bugado depois do torneio 
+
+
 Modern Emerald = ??? OK
 Oak's Dream 2 V1.3 = Muda sprites. OK
 P

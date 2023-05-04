@@ -1,0 +1,59 @@
+Pikachu	Level 32	Raichu
+Raichu	Thunderstone	Gorochu
+Sandshrew	Ice stone	Sandslash
+Vulpix 	Ice stone	Ninetales
+Poliwhirl	Level 38	Poliwrath
+Poliwhirl	Waterstone	Politoed
+Abra	Level 50	Alakazam
+Machoke 	Level 42	Machamp
+Weepinbell	Level 35	Budmit
+Graveler	Level 38	Golem
+Slowpoke	Waterstone	Slowking
+Slowbro	Waterstone	Turbann
+Magneton	Thunderstone	Magnezone
+Farfetch'd	Level 26	Madame
+Haunter	Level 45	Gengar
+Onix	Level 30	Steelix
+Rhydon	Moonstone	Rhyperior
+Marowak	Firestone	Amarowak
+Lickitung	Level 38	Lickilicky
+Monja	Happiness	Tangela
+Tangela	Leaftstone	Tangrowth
+Seadra	Waterstone	Seedraking
+Scyther	Happiness	Scizor
+Electabuzz	Thunderstone	Electivire
+Magmar	Firestone	Magmortar
+Pinsir	Happiness	PluXXX
+Eevee	Leaf stone	Leafeon
+Eevee	Ice stone	Glaceon
+Eevee	Moonstone	Umbreon
+Eevee	Dawn stone 	Sylveon
+Porygon	Level 28	Porygon 2
+Porygon2	Shiny stone	Porygonz
+Honoguma	Level 18	Borubea
+Borubea	Level 40	Dainabear
+Kurusu	Level 22	Akua
+Akua	Level 38	Akueria
+Yanma	Level 35	Yanmega
+Qwilfish	Waterstone	Numpuff
+Snaesel	Dusk stone	Snibunna
+Piloswine	Ice stone	Mamoswine
+Mime jr	Happiness	Mr.mime
+Happiny	Level 15	Chansey
+Petuni	Level 18	Ponyta
+Puhdi	Level 18	Growlithe
+Parai	Level 12	Paras
+Kingyo	Level 15	Goldeen
+Betobebi	Happiness	Grimer
+Chicks	Level 17	Dodou
+Meowsy	Level 14	Meowth
+Sunmola	Level 18	Anchorage
+Anchorage	Level 34	Grotess
+Rinrin	Level 22	Bellboyant
+Tigerette	Level 20	Electiger
+Kurstraw	Level 24	Pangshi
+Wolfman	Level 22	Warwolf
+Mikon	Level 16	Vulpix
+Deino	Level 40	Zweilous
+Zweilous	Level 60	Trikephalo
+Feebas	Firendship	Milotic
