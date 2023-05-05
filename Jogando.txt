@@ -198,20 +198,22 @@ Crystal Clear Standard 2.5.6 = Travado. OK
 God of Arena v180715 = Focado em Batalha 3x3 Lv 50. !!! 
 
 ---GBA :
-Accept Defeat V2 = Pesquisar !!! CRC32 324F3435
-Advanced Adventure 2013 = 
-advanced-v2 = Lv começa 15 !!!
-Adventure - Red Chapter B15 = Verificar as 2 versões !!! CRC32 50F13BB6
-Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
+-Accept Defeat V2 = Pesquisar !!! CRC32 324F3435
+-Advanced Adventure 2013 = 
+-advanced-v2 = Lv começa 15 !!!
+-Adventure - Red Chapter B15 = Verificar as 2 versões !!! CRC32 50F13BB6
+-Altair English 2019-06-13 = 
+-Alternate Nusantara Beta 0.1.6 = Pesquisar !!!
+-Aquamarine Demo = 
+-Ash Gray 4.5.3.gba = B78FA4A4
+-Ash Gray-b4.6.gba = DCD3DDCE ( última 2022 )
 -Ash Gray Esp = Não entendi !!! 
-AshGray 4.5.3.gba = B78FA4A4
-ashgray-b4.6.gba = DCD3DDCE ( última 2022 )
-AshGray Esp.gba = 98D27BC5
+-Ash Gray Kanto MSB = 
 -Ash Quest = Pesquisar !!!
-Awesome Version = Não entendi !!!
--Azure Horizons = Verificar as 2 versões !!! CRC32 9A1055D1 e 8D8551ED
-Azure Horizons True Continued Beta 2 = 9A1055D1
-Azure Horizons True Continued Beta 2 (hacksrepairman) = 8D8551ED
+-Ash Red = 
+-Awesome Version = Não entendi !!!
+-Azure Horizons True Continued Beta 2 ( CRC32 9A1055D1 ) = 
+-Azure Horizons True Continued Beta 2 (hacksrepairman) ( CRC32 8D8551ED ) = 
 
 -Battle Ultimate = Jogo de 2017 Competitivo !!!
 Como não bugar :
@@ -292,7 +294,18 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Ragnarok = Bugou, verificar !!!
 -Ruby+++ 1.0.3 = precisa pegar a nature certa, upei até lv 7 e perdi pro Mudkipp !!!
 -Sacred Red World v1.0 = Verificar 2 versões !!!
--Saiph Full v2020 Patch = 
+-Saiph Full v2020 Patch = Gostei, apesar de ter rushado 2 ginásio rápido, porém não rolou grind !!!
+-ST 11.06.18 = É a Stone Dragon, verificar o CRC32 !!!
+-Stone Dragon =  Gostei bastante !!!
+-Team Rocket Jessie = Renomear !!!
+-Tempest Beta 1.11 = É o Fire Red com Mapa e pokémon das rotas alterados 
+-U_FR_Firered_Redux = É o Fire Red só que mundo aberto, precisa ter pokémon que permite o HM pra andar
+-Vega Fairy Edition EX 1.3 = Boa !!!
+-Verde Musgo = Legalzinho
+-World Stadium v1.1 = Competitivo
+-XY Emerald = Renomear !!!
+-Yu-Gi-Oh PokeDuel = Renomear !!!
+-Zoala v0.1.7 = tem 2 versões !!!
 
 pike, tower e arena 
 mas a piramide e a palace e a mas chatinha
@@ -346,8 +359,7 @@ U
 U_B shin pokemon = Versão Shiny. OK
 U-FR_Pokemon_Ice_Blue_2.0 = Mapa muito longo ( verificar ) OK
 V
-Vega Fairy Edition EX 1.3 = Boa !!!
-Verde Musgo = Legalzinho
+
 
 ---------------------------
 
