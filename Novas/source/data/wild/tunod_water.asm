@@ -1,0 +1,19 @@
+	map TUNOD_WATERWAY
+	db 4 percent
+	db 20, TENTACOOL
+	db 23, TENTACOOL
+	db 20, GOLDEEN
+
+	map SOUTH_SOUTHERLY
+	db 4 percent
+	db 20, TENTACOOL
+	db 23, TENTACOOL
+	db 20, GOLDEEN
+
+	map SOUTHERLY_CITY
+	db 4 percent
+	db 20, TENTACOOL
+	db 23, TENTACOOL
+	db 20, GOLDEEN
+
+	db -1

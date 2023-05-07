@@ -1,0 +1,43 @@
+SilverGroup:
+	; 1
+	db "Silver@"
+
+	db TRAINERTYPE_MOVES
+
+	db 79, WEAVILE
+		db FURY_CUTTER
+		db ICE_PUNCH
+		db SWORDS_DANCE
+		db NIGHT_SLASH
+
+	db 81, CROBAT
+		db BRAVE_BIRD
+		db AIR_SLASH
+		db CRUNCH
+		db SCREECH
+
+	db 82, MAGNETON
+		db METALLURGY
+		db THUNDERBOLT
+		db FLASH_CANNON
+		db SUPERSONIC
+
+	db 83, GENGAR
+		db WILL_O_WISP
+		db SLUDGE_BOMB
+		db HYPNOSIS
+		db DARK_PULSE
+
+	db 85, ALAKAZAM
+		db PSYCHIC_M
+		db CALM_MIND
+		db RECOVER
+		db DARK_PULSE
+
+	db 88, HITMONTOP
+		db HI_JUMP_KICK
+		db BULK_UP
+		db DOUBLE_EDGE
+		db MACH_PUNCH
+
+	db -1

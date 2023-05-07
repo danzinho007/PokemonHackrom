@@ -1,0 +1,43 @@
+GoldGroup:
+	; 1
+	db "Gold@"
+
+	db TRAINERTYPE_MOVES
+
+	db 95, AMPHAROS
+		db THUNDERBOLT
+		db DRAGON_PULSE
+		db AGILITY
+		db THUNDER
+
+	db 96, UMBREON
+		db NIGHT_SHADE
+		db LIGHT_SCREEN
+		db DARK_PULSE
+		db VOID_SPHERE
+
+	db 96, URSARING
+		db CRUNCH
+		db SWORDS_DANCE
+		db EARTHQUAKE
+		db SLASH
+
+	db 95, MEGANIUM
+		db SUNNY_DAY
+		db SOLARBEAM
+		db SYNTHESIS
+		db GIGA_DRAIN
+
+	db 96, TYPHLOSION
+		db FLAMETHROWER
+		db SUNNY_DAY
+		db BODY_SLAM
+		db DIG
+
+	db 97, FERALIGATR
+		db RAIN_DANCE
+		db SURF
+		db HYDRO_PUMP
+		db CRUNCH
+
+	db -1

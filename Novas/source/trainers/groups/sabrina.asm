@@ -1,0 +1,37 @@
+SabrinaGroup:
+	; 1
+	db "Sabrina@"
+
+	db TRAINERTYPE_MOVES
+
+	db 83, SLOWKING
+		db PSYCHIC_M
+		db FIRE_BLAST
+		db HYDRO_PUMP
+		db REST
+
+	db 84, GALLADE
+		db ZEN_HEADBUTT
+		db SWORDS_DANCE
+		db SUBSTITUTE
+		db DRAIN_PUNCH
+
+	db 86, VENOMOTH
+		db PSYCHIC_M
+		db SLEEP_POWDER
+		db SIGNAL_BEAM
+		db SLUDGE_BOMB
+
+	db 88, ESPEON
+		db PSYCHIC_M
+		db CALM_MIND
+		db SHADOW_BALL
+		db SAND_ATTACK
+
+	db 90, ALAKAZAM
+		db PSYCHIC_M
+		db CALM_MIND
+		db SHADOW_BALL
+		db SUBSTITUTE
+
+	db -1

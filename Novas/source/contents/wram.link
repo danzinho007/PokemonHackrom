@@ -1,0 +1,60 @@
+WRAM0
+	org $c000
+	"Version check"
+	"Stack"
+	align 8
+	"Audio WRAM"
+	"WRAM 0"
+	align 8
+	"WRAM Sprite Animations"
+	align 8
+	"Sprites WRAM"
+	"Tilemap"
+	"Battle"
+	align 8
+	"Overworld Map"
+	org $cd20
+	"WRAM 0 continued"
+
+WRAMX 1
+	org $d000
+	"WRAM 1"
+
+WRAMX 2
+	org $d000 ;dummy, avoid potential linker relocations
+	align 2
+	"WRAM 2 aligned"
+	"Pic Animations WRAM"
+	"Battle Tower"
+	"WRAM 2 extra"
+	org $dabf
+	"Sound Stack"
+
+WRAMX 3
+	"Metatiles" ;this is $1000 bytes long; no need to add anything else
+
+WRAMX 4
+	org $d000 ;dummy, avoid potential linker relocations
+	"Collision WRAM"
+	"Stable RNG"
+
+WRAMX 5
+	org $d000 ;dummy, avoid potential linker relocations
+	"GBC Video"
+	align 8
+	"LY Overrides"
+	"Magnet Train"
+	align 8
+	"LY Overrides Staging"
+	align 8
+	"Battle Animations"
+	align 8
+	"Trainer Card Leader Palettes"
+	align 8
+	"Palettes 2"
+
+WRAMX 6
+	"WRAM 6" ;this is $1000 bytes long; no need to add anything else
+
+WRAMX 7
+	"WRAM 7" ;this is $1000 bytes long; no need to add anything else

@@ -1,0 +1,86 @@
+MuraGroup:
+	; 1
+	db "Mura@"
+
+	db TRAINERTYPE_MOVES
+
+	db 58, FEAROW
+		db SKY_ATTACK
+		db WHIRLWIND
+		db AGILITY
+		db DRILL_PECK
+
+	db 58, TYRANITAR
+		db EARTHQUAKE
+		db CRUNCH
+		db NO_MOVE
+		db NO_MOVE
+
+	db 59, LUDICOLO
+		db HYDRO_PUMP
+		db GIGA_DRAIN
+		db REST
+		db SLEEP_TALK
+
+	db 59, HOUNDOOM
+		db FLAMETHROWER
+		db CRUNCH
+		db ROAR
+		db SUNNY_DAY
+
+	db 60, WEEZING
+		db NERVE_GAS
+		db MUSTARD_GAS
+		db SLUDGE_BOMB
+		db EXPLOSION
+
+	db 60, LEAFEON
+		db SUNNY_DAY
+		db SOLARBEAM
+		db SYNTHESIS
+		db RAZOR_LEAF
+
+	db -1
+
+	; 2
+	db "Mura@"
+
+	db TRAINERTYPE_MOVES
+
+	db 88, FEAROW
+		db SKY_ATTACK
+		db WHIRLWIND
+		db AGILITY
+		db DRILL_PECK
+
+	db 88, TYRANITAR
+		db EARTHQUAKE
+		db CRUNCH
+		db NO_MOVE
+		db NO_MOVE
+
+	db 89, LUDICOLO
+		db HYDRO_PUMP
+		db GIGA_DRAIN
+		db REST
+		db SLEEP_TALK
+
+	db 89, HOUNDOOM
+		db FLAMETHROWER
+		db CRUNCH
+		db ROAR
+		db SUNNY_DAY
+
+	db 90, WEEZING
+		db NERVE_GAS
+		db MUSTARD_GAS
+		db SLUDGE_BOMB
+		db EXPLOSION
+
+	db 90, LEAFEON
+		db SUNNY_DAY
+		db SOLARBEAM
+		db SYNTHESIS
+		db RAZOR_LEAF
+
+	db -1

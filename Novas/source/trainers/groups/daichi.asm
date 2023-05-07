@@ -1,0 +1,74 @@
+DaichiGroup:
+	; 1
+	db "Daichi@"
+
+	db TRAINERTYPE_MOVES
+
+	db 56, RHYDON
+		db IRON_TAIL
+		db SUBSTITUTE
+		db MEGAHORN
+		db EARTHQUAKE
+
+	db 56, STEELIX
+		db BODY_SLAM
+		db SANDSTORM
+		db IRON_TAIL
+		db EARTHQUAKE
+
+	db 58, DONPHAN
+		db ROLLOUT
+		db SANDSTORM
+		db FLAIL
+		db EARTHQUAKE
+
+	db 58, FLYGON
+		db DRAGON_CLAW
+		db CRUNCH
+		db SCREECH
+		db EARTHQUAKE
+
+	db 60, RHYPERIOR
+		db IRON_TAIL
+		db SUBSTITUTE
+		db MEGAHORN
+		db EARTHQUAKE
+
+	db -1
+
+	; 2
+	db "Daichi@"
+
+	db TRAINERTYPE_MOVES
+
+	db 86, RHYDON
+		db IRON_TAIL
+		db SUBSTITUTE
+		db MEGAHORN
+		db EARTHQUAKE
+
+	db 86, STEELIX
+		db BODY_SLAM
+		db SANDSTORM
+		db IRON_TAIL
+		db EARTHQUAKE
+
+	db 88, DONPHAN
+		db ROLLOUT
+		db SANDSTORM
+		db FLAIL
+		db EARTHQUAKE
+
+	db 88, FLYGON
+		db DRAGON_CLAW
+		db CRUNCH
+		db SCREECH
+		db EARTHQUAKE
+
+	db 90, RHYPERIOR
+		db IRON_TAIL
+		db SUBSTITUTE
+		db MEGAHORN
+		db EARTHQUAKE
+
+	db -1
