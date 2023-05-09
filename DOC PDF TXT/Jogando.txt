@@ -232,16 +232,19 @@ Blazing Emerald 1.6.gba = 35BF8D6C
 -Blue Stars 3 Forces v6 = 
 -Blue Stars Battle = F4FEC41
 
--Brasul 2.1 = 
--Brillo Purpura =
+-Brasul 2.1 = Fire Red com Sprites e Mapas novos 
+-Brillo Purpura = mutito boa !!!
 -Brutal Version = Verificar CRC32 
 
 -Caos 2 English v1.0 = Muito difícil pro Bulba !!! 
 Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Chaos EMR v1.9c Deluxe = Gostei !!!
+-Chaos Order Beta = Renomear !!!
 -Classic 151 + = Gostei pois modifica o mapa e os pokémon tem son !!! Verificar tem 2 versões
 -Crush = 
+-cslbs = Verificar !!!
 
+-Daia Beta = Renomear !!!
 -Dark Blue Beta v1.9 = Verificar !!!
 -Dark Cry Fix Alpha 2.6.7 = Tela piscando a noite na batalha, mapa bonito, começou meio sem noção pois tem matinho e depois caverna, level alto no começo, gostei do sistema de dia e noite e o jogo começa rápido. !!! OK
 -Dark Cry Fixex Hotfix Alpha 2.6.7 RTC = Verificar CRC32 pra comparar !!!
@@ -265,12 +268,13 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Emerald Green Version = Leaf Green porém com pokémon de Emerald nos matinhos !!! 
 -Emerald Open Version 1.0.0 = Mundo aberto, alter golpes batalhando ( não funciona indo nas opções ) e ginásio liberado 
 -emerald R1 e R2 = Verificar CRC32 !!!
--Emerald Randomizer 3 BR = Randomizer BR porém os golpes estão em português . Tem o bug dos golpes não poder alterar . Verificar !!!
+-Emerald SemiRandomizer 3 BR = Randomizer BR porém os golpes estão em português . Tem o bug dos golpes não poder alterar . Verificar !!!
 -Emerald Semirandomiser_a2 = Randomiza os pokémon dos treinadores e líderes de Ginásios
 -Emerald Z = Altera os iniciais ( menos o Treecko ) e os pokémons dos matinhos  
 -Emerald 386 = Renomear !!!
 -Emerald Green Beta 1.0 = Renomear !!!
--Emerald Eight v1.5 = Verificar CRC32 pois tem 2 versões 
+-Emerald Eight v1.5 = Vale a pena como relíquia !!!
+Verificar CRC32 pois tem 2 versões !!!
 -Eternal Snow v2.0 = Muito difícil ( perdi 2x pro Mudkip Lv 5 da May ), rejogar futuramente
 -Eternal Snow V2.0 = Versão sem treinadores nos ginásios, somente isso que notei de diferente !!!
 
