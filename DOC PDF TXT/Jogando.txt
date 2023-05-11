@@ -268,7 +268,7 @@ Tomava Efetivo de Pidgey e Rattata na Rota 1
 -Emerald Green Version = Leaf Green porém com pokémon de Emerald nos matinhos !!! 
 -Emerald Open Version 1.0.0 = Mundo aberto, alter golpes batalhando ( não funciona indo nas opções ) e ginásio liberado 
 -emerald R1 e R2 = Verificar CRC32 !!!
--Emerald SemiRandomizer 3 BR = Randomizer BR porém os golpes estão em português . Tem o bug dos golpes não poder alterar . Verificar !!!
+-Emerald Randomizer 3 BR = Randomizer BR porém os golpes estão em português . Tem o bug dos golpes não poder alterar . Verificar !!!
 -Emerald Semirandomiser_a2 = Randomiza os pokémon dos treinadores e líderes de Ginásios
 -Emerald Z = Altera os iniciais ( menos o Treecko ) e os pokémons dos matinhos  
 -Emerald 386 = Renomear !!!
@@ -279,13 +279,15 @@ Verificar CRC32 pois tem 2 versões !!!
 -Eternal Snow V2.0 = Versão sem treinadores nos ginásios, somente isso que notei de diferente !!!
 
 -Fat Kid Beta 1.2.4 = Muito boa, continuar !!! Não vi mapa ainda
--Fire Red Alpha 2.3 = Renomear !!! 
+-Fear Kaizo Fire Red = 
+-Fearzinho FireRed = 
+-Final Red Alpha 2.3 = Renomear !!! 
 -Fire Phoenix BR = !!! Renomear
 -Fire Red 251 Final = Pidgey Lv 9 com Gust !!!
 -Fire Red Backwards = já joguei !! 
 -Fire Red BR Dia e Noite = TUDO traduzido ( até golpes ) !!! Renomear
--
--
+-Fire Red Evolution Full v0.95 = Fire Red com novos pokémon nas rotas, verificar !!!
+-Fire Red Extended v3.4.5 = 
 -
 -Fire Sun =  
 -Flora Sky Rebirth Build v7.3.6 = Gostosinho. OK
@@ -293,15 +295,34 @@ Verificar CRC32 pois tem 2 versões !!!
 -
 -Frontier Adventure v16.12.20 = Competitivo, amei !!!
 -Fuligin Final = Muito boa !!!
+
 -Gaia v2.5 = Daorinha, gostei !!!  
--Hyper Emerald 807 = Gostei, mas precisa grindar !!! Pesquisar 
+-Gaia 3.2 XY Exp = 
+-Gaia = 
+-Galacta Completed = Fire Red com mapas novos, 3 iniciais diferentes e alterações nas rotas . Travou no centro pokémon !!!
+-Gary's Mod =
+-Greninja Z = 
+
+-Hard Fire 2.2 = Mapa modificado, pokémon na rota também, porém tudo em Francês 
+-Heroes = 
+-Hisui Red = 
+-Hoenn Adventures = 
+-Hyper Emerald 807 = Gostei, mas precisa grindar !!! 
+
+-Ice Adventure = Muito bom !!!
 -Indigo Power Tournament vApril 25th 2021 = Bugado depois do torneio 
 -Inflamed Red v1.0.5 = Renomear e Verificar !!!
+-Inverse Alter Feb 16 2021 = 
+-Irisdecent 1.4.1 = 
 -Islas Doradas 2.0 Competo = Gostosinho, vale a pena !!!
+
 -Light Platinum = Futuramente !!!
 -Lunares_BR = Renomear !!!
+
 -Marble Beta 2.1 = Fire Red com Sprites alterados, muda os mapas  !!!
+
 -Nameless FireRed = Fire Red com Pokémon de Unova
+
 -Old White v1.2 Fixed 2023 = Renomear 
 -Old Ruby v1.3 = Renomear
 -Orange GBA Alpha 1.0 = Renomear
