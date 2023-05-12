@@ -187,10 +187,53 @@ Pokémon Thunder Emblem [HACK-ROM]
 ---GB :
 -Brown 2014 Final = Daorinha, mapa enorme a toa. OK
 -MissingNo Challenge = Começa com o Mew !!!
+
 -Perfect Red = Versão melhorada da IA com Inicias em campo e Fósseis / TMs compráveis, movimentos da versão amarela presente ( - Ghost agora lida super eficazmente em pokémon psíquico (todos os tipos corrigidos) !!!
 -Purple = Parei no 1° ginásio
+
 -Rocket - Jessie Version V1.20 = Só sprites que muda
+
+-Spark Yellow = 
+All 151 Pokemon obtainable
+Some new and updated attacks.
+Your starter will be Eevee.
+ATM function
+New Tiles
+
+-Yellow 151 = 
+The Majority Of Attacks Have Been Altered.
+IV in the Menu.
+Lv’s are displayed in the stats.
+Changed evolutions.
+After catching any Pokemon, you will get EXP.
+There Is Currently Only One 1 Gym Battle.
+
+-Yellow Advanced 2019 = 
+New sprites for male/female protagonist
+Inverse Wild/Trainer Battles!
+Realms
+8 Gym Leaders and Elite 4
+PokeCenters are now better
+Funny dialogues
+B/W Repel System
+
+-Yellow Gen II =
+A few trainer sprites devamped from FRLG that did not exist in GSC
+Updated all Pokemon palettes, and added individual trainer class palettes, to match GSC
+Pokemon back sprites are now 48×48 and not zoomed in and pixelated
+Many graphics updated to match GSC, such as battle HUD, font, and text box border
+The “Pokemon owned” Pokeball tile in wild battles, from GSC
+Fully functional in-battle experience bar, from GSC
+
 -Yellow Kaizo Beta 0.4 = Mapa modificado e bem mais Difícil !!!
+
+-Yellow Plus = 
+Brand New Regions
+A deep, dark and twisted story
+Minor changes in gameplay
+An interesting storyline
+A selection of Pokemon from all generations
+Type differences.
 
 ---GBC :
 bw3genesis = !!!
@@ -315,6 +358,13 @@ Verificar CRC32 pois tem 2 versões !!!
 -Inverse Alter Feb 16 2021 = 
 -Irisdecent 1.4.1 = 
 -Islas Doradas 2.0 Competo = Gostosinho, vale a pena !!!
+
+-Jasper = bugou 
+-Jewel = bugou 
+-JKR = bugou 
+-Johto Adventures = Inicias de Johto em Fire Red 
+
+-Kanto Black 2.08 = 
 
 -Light Platinum = Futuramente !!!
 -Lunares_BR = Renomear !!!
@@ -454,3 +504,9 @@ Quartz
 Sweet 
 Sword Shield
 Verde Musgo
+
+Batalha Automática 
+Modo Deslizante
+Modo Marowak 
+Mundo aberto
+No HUD 
