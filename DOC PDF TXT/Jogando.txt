@@ -363,6 +363,9 @@ Verificar CRC32 pois tem 2 versões !!!
 -Jewel = bugou 
 -JKR = bugou 
 -Johto Adventures = Inicias de Johto em Fire Red 
+-Johto Adventures Rebirth = Bugou 
+-Johto League = Segue o anime / manga precisa capturar todos
+-Justicieros Beta 1.0 =  Bonita história e Mapa daora, continuar !!!
 
 -Kanto Black 2.08 = 
 
