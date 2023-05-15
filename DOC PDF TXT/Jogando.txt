@@ -367,8 +367,25 @@ Verificar CRC32 pois tem 2 versões !!!
 -Johto League = Segue o anime / manga precisa capturar todos
 -Justicieros Beta 1.0 =  Bonita história e Mapa daora, continuar !!!
 
--Kanto Black 2.08 = 
+-Kanto Black 2.08 = !!!
+ *Roaming Pokémon on routes 12, 13, 14, and 17 when it’s raining with thunderstorms.
+• *Roaming Pokémon on routes 19 and 21 when it’s raining with thunderstorms.
+• Portal in Unknown Dungeon 2F. Must have Tornados and Thundurus in your party.
+• Portal in Unknown Dungeon 2F. Must have Virizion, Cobalion, and Terrakion in your party.
+• Portal in Unknown Dungeon 2F. Must have Reshiram and Zekrom in your party.
+• Many in Navel Rock. See Prof. Oak aid in Rush Tower when you have 60 Pokemon registered as caught.
+• One in Birth Island (you get the ticket by winning a mini-game in Two Island)
+• Mt. Ember
+• Lost Cave
+• Altering Cave (yes, the puzzle is solvable without referencing braille.)
+• Tanoby Chambers
+*Do not search for them in the wild grass. Their overworld sprites generate when it rains in the routes specified. They will appear after you have obtained the 6th badge.
+-
+-Kanto Origins = !!!
 
+-Leaf Green Balanced v4 = Verificar !!!
+-Legendary = bugou !!! 
+-Life Alpha 1.9 = !!!
 -Light Platinum = Futuramente !!!
 -Lunares_BR = Renomear !!!
 

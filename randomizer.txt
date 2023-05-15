@@ -1,4 +1,13 @@
 
+Dewford Town :
+
+01 : Lilicove Museum
+02 : Sootopolis City
+03 : Aqua Hidehout
+04 : Aqua Hidehout
+05 : Meteor Falls
+06 : Meteor Falls
+
 Fortree City :
 
 01 : Duelo Lv 25+
@@ -83,4 +92,12 @@ Slateport 08 : Magma Hidehout
 Slateport 09 : Navel Rock
 Slateport 10 : Mt Pyree
 
+Verdant Surf : 
 
+01 : Centro Pokemon
+02 : Prédio de Venda 4° Andar
+03 : Abandoned Ship ( sem volta )
+04 : Ancient Tomb
+05 : Navel Rock
+06 : Seafloor Cavern
+07 : Oldale Town ( OK )
