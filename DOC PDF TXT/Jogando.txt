@@ -387,6 +387,11 @@ Verificar CRC32 pois tem 2 versões !!!
 -Legendary = bugou !!! 
 -Life Alpha 1.9 = !!!
 -Light Platinum = Futuramente !!!
+-Lilac Beta 1 = Verificar !!!
+-Liquid Cristal = Gostei !!! Verificar as 2 versões 
+A última é 3.3.00512 !!!
+-Lost Legacy Alpha 0.1 = Verificar !!!
+-LP V1.1 English = 
 -Lunares_BR = Renomear !!!
 
 -Marble Beta 2.1 = Fire Red com Sprites alterados, muda os mapas  !!!
