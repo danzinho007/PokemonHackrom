@@ -1,0 +1,18 @@
++
++reload = Recarregamento automático habilitado
+B
+bot_join_team <CT, T, ANY> - Bots jogam em uma equipe só (any = desativar)
+bot_traceview (0/1) = O BOT deixa um rastro por onde andar.	
+C
+cl_radartype 1 = radar
+cl_showfps 1 = mostrar fps
+H
+hud_fastswitch 1: comando para mudar a arma automaticamente ao pressionar o numero, sem a necessidade de clicar no mouse.
+M
+mp_autoteambalance 0 = Desliga o balanceamento automático das equipes para conseguir usar perfeitamente o comando anterior.
+mp_limitteams 0 = Retira os limites de cada equipe. Assim, os Terroristas podem ter 10 elementos e os CT 1 elemento.
+mp_timelimit 45 = Ajusta o tempo em minutos de troca dos mapas (“0” desabilita).
+N
+net_graph 3 = mostra FPS
+S
+sv_clienttrace 9999 = Hiper mira automática habilitada 	
