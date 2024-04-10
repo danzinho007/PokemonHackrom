@@ -1,0 +1,46 @@
+Nintendo and GameFreak for Pokemon Emerald
+Pret for the decompilation
+RHH for the Battle Engine
+-UltimaSoul
+-ghoulslash
+-DizzyEggg
+-AsparagusEduardo
+-ExpoSeed
+-Pyredrid
+-MandL127
+-Lunos
+-ShantyTown
+-mvit
+-Doesnt
+-Cancer Fairy
+-MrDollSteak
+-Avara
+-Kurausukun
+-TheLaw
+-BreadCrumbs
+-Syreldar
+-Porygon23
+-Everyone else who'd contributed
+
+The Pokecommunity forums for their instructions and modifications
+-Slawter666's dynamic overworld palette + auto-reflection
+-ghoulslash's Follow Me
+-Pyredrid's Surfboard
+-Xhyzi for custom introductory screen
+-CyanSMP64 for DPPT, HGSS and BW music
+-Diego Mertens for Portable Storage System
+-DizzyEgg for scrolling multichoice menus
+
+Padz and ShantyTown/Yenatch for the Porymap Map Editor
+
+Graphics:
+Unknown artist for title screen picture
+Aveontrainer for multiple overworld sprites (Professors, stat trainers)
+Princess Phoenix for Mega Diancie overworld sprite
+Nephae on deviantart for Zinnia trainer sprite
+"Wally Quest" on title screen made with fontmeme.com
+Gen 1-7 Pokemon overworld sprites (various creators) from Reddit (https://www.reddit.com/r/PokemonRMXP/comments/mhrxup/pokemon_gen_17_overworld_sprites_download_link/)
+
+Bulbapedia for existing trainer sprites from base games, move tutor, egg move and TM-HM learnsets
+
+The players, for your feedback and spotted bugs

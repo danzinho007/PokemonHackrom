@@ -1,0 +1,112 @@
+(The following list is not complete, and is only for more special items)
+
+Evolution stones:
+All evolution stones are in Granite Cave B1F. They will appear in your Key Items pocket.
+
+Mega Stones:
+Venusaurite: Carried by Oak's Bulbasaur
+Charizardite-X: (Missing in 1.0) Diving Treasure Hunter if you have a Charizard in party
+Charizardite-Y: Carried by Oak's Charmander
+Blastoisinite: Carried by Oak's Squirtle
+Beedrillite: Route 110
+Pidgeotite: Route 104
+Alakazite: Route 111
+Slowbronite: Diving Treasure Hunter if you have a Slowbro in party
+Gengarite: Route 119
+Kangaskhanite: Route 124
+Pinsirite: Route 115
+Gyaradosite: Diving Treasure Hunter if you have a Gyarados in party
+Aerodactylite: Route 125
+Mewtwonite-X: In Mewtwo's Cave on Route 120
+Mewtwonite-Y: In Mewtwo's Cave on Route 120
+Ampharosite: New Mauville Interior
+Steelixite: Old man at Lavaridge Herb Shop
+Scizorite: Route 123
+Heracronite: Victory Road 1F
+Houndoominite: Magma Hideout 3F-1R
+Tyranitarite: Victory Road B2F
+Sceptilite: Carried by Birch's Treecko
+Blazikenite: Carried by Birch's Torchic
+Swampertite: Carried by Birch's Mudkip
+Gardevoirite: Carried by traded Ralts
+Sablenite: Route 133
+Mawilite: Magma Hideout 3F-3R
+Aggronite: Sky Pillar 1F
+Medichamite: Route 123
+Manectite: New Mauville Interior
+Sharpedonite: Route 109
+Cameruptite: Fiery Path
+Altarianite: Meteor Falls 1F-1R
+Banettite: Route 119
+Absolite: (Missing in 1.0) Diving Treasure Hunter if you have an Absol in party
+Glalitite: Given at Mossdeep Space Center 1F
+Salamencite: Victory Road 1F
+Metagrossite: Victory Road B1F
+Latiasite: Carried by Latias
+Latiosite: Carried by Latios
+Lopunnite: Route 113
+Garchompite: Route 132
+Lucarionite: Shoal Cave Low TIde Inner Room
+Abomasite: Given at Mossdeep City
+Galladite: In Petalburg City (requires Surf)
+Audinite: Carried by Audino from Secret Power guy
+Diancite: Diancie
+
+Plates:
+Flame Plate: Fiery Path
+Splash Plate: Route 109
+Mind Plate: Rusturf Tunnel
+Zap Plate: New Mauville Interior
+Iron Plate: New Mauville Interior
+Draco Plate: Abandoned Ship Hidden Floor Rooms
+Spooky Plate: Mt Pyre 2F
+Sky Plate: Aqua Hideout B2F
+Earth Plate: Magma Hideout 4F
+Meadow Plate: Girl at Petalburg Woods
+Fist Plate: Guy at Dewford Town house
+Dread Plate: Blackbelt at Mt Pyre 5F
+Pixie Plate: Type:Null from Cynthia
+Icicle Plate: In-game Vulpix trade at Oldale Town house
+Toxic Plate: In-game Grimer trade at Fallarbor Contest Site
+Stone Plate: Talk to Reimi after finding her killer
+Insect Plate: Final Bug Maniac gift at Fortree House
+(Please note that Plates have replaced Memories for Silvally and Multi-Attack. Please report any Memories left in the game)
+
+Fossils: Please see pokemon_locations.txt
+
+Z-Crystals
+Buginium-Z: Obtain from Bug Maniac in Fortree
+Darkinium-Z: Meowth trade in Verdanturf Town house
+Dragonium-Z: Shoal Cave Low Tide Entrance Room
+Electrium-Z: Geodude trade in Mauville Game Corner
+Fairium-Z: Abandoned Ship Rooms B1F
+Fightinium-Z: Route 127
+Firium-Z: Fiery Path
+Flyinium-Z: (Missing in 1.0) Slateport's Old Man
+Ghostium-Z: Mt Pyre 3F
+Grassium-Z: Route 123
+Groundium-Z: New Mauville Interior
+Icium-Z: Sandshrew trade in Slateport City house
+Normalium-Z: Lilycove City
+Poisonium-Z: Route 126
+Psychium-Z: Petalburg City
+Rockium-Z: Route 121
+Steelium-Z: Diglett trade in Fallarbor Pokemon Center
+Waterium-Z: Pacifidlog Town house, girl who wants to see two Gastrodon patterns
+Aloraichium-Z: New Mauville Interior
+Decidium-Z: Kukui
+Eevium-Z: Diving Treasure Hunter with Eevee in party
+Incinium-Z: Kukui
+Kommonium-Z: Diving Treasure Hunter with Kommo-O in party
+Lunalium-Z: (Missing in 1.0) Diving Treasure Hunter with Lunala in party
+Lycanium-Z: (Missing in 1.0) Diving Treasure Hunter with any Lycanroc form in party
+Marshadium-Z: Mt Pyre Exterior
+Mewnium-Z: Carried by Mew
+Mimikium-Z: Mt Pyre 5F
+Pikanium-Z: New Mauville Interior
+Pikashunium-Z: Guy who wants to see Pikachu Caps in Lilycove Department Store 3F
+Primarium-Z: Kukui
+Snorlium-Z: Diving Treasure Hunter with Snorlax in party
+Solganium-Z: Carried by Cozmo's Cosmog
+Tapunium-Z: (Missing in 1.0) After obtaining all three Pokemon from Kukui, talk to him one more time
+Ultranecrozium-Z: NOT IN GAME

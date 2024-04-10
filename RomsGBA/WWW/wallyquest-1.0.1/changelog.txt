@@ -1,0 +1,32 @@
+********************************
+V1.0.1
+
+----BUG FIXES----
+1. Fix party being lost if the player whited out during the EFF-Spiritomb battle
+2. Fix S.S.Tidal being immediately boardable after the Delta Meteoroid due to an error in the ticket check
+3. Fix Zekrom's script being a last-minute test leftover
+4. Fix pokemon_locations.txt mistakes (Larvitar, Natu, Delibird, Taillow, Flabebe and Noibat)
+
+----Other changes----
+1. Reduced/removed some sturdy-grunt fights after feedback that they were tedious. Those who remain have two sturdy Pokemon at most
+2. Placed very explicit warnings to save before the Mt Pyre Summit fight
+3. Replaced a fight in Victory Road that had a Shell Bell Aron (in case the player has absolutely no way to multi-hit due to playthrough rules)
+4. Added explicit dialogue with Lance for directions after the Delta Episode
+5. Ghetsis' fight, even if lost, will continue (although during testing there appears to be no issue, just to be safe, and it's indeed odd to re-run through the dialogue)
+5. Removed leftover Memories (their existence will not harm the game, but Plates are used for RKS System and Multi-Attack). NPCs who gave Memories will give purchaseable Gems instead
+6. Added the following items missing in 1.0: Charizardite-X, Absolite, Flyinium-Z, Lunalium-Z, Lycanium-Z and Tapunium-Z
+7. Bug Maniac in Fortree City now gives rewards for every Vivillon shown, instead of only specific numbers
+8. Added triggers to suggest where Cozmo ran to in Meteor Falls
+9. Meltan's base friendship has been boosted to 35 (note: this will still have a chance of disobedience)
+10. Genesect has been moved to a one-time encounter in Altering Cave, with the normal wild encounters being replaced with Smeargles
+11. Reshiram's requirement now accepts Therian formes
+12. Improved but incomplete documentation (item_locations.txt), hidden items in Buck's sidequest, Vivillon locations etc
+
+----COMPATIBILITY----
+V1.0.1 is compatible with V1.0 saves, but please take note of the following:
+-If you're trapped in S.S.Tidal without the S.S. Tidal ticket, talk to the exit sailor who'll drop you at Lilycove's Cove Lily Motel
+-If you've lost your party after exiting EFF's location and saved after that, unfortunately they'll be unrecoverable, apologies. Same if you saved after Mt Pyre's fight
+-If you've defeated Ghetsis but not already caught a Genesect, Genesect will now be unavailable, apologies
+-If you've already shown the Bug Maniac Vivillons, some non-critical items will be missed, but the Buginium-Z and Insect Plate are still obtainable
+
+Very sorry that there're bugs found so quickly after release. Will be more thorough in testing in the future. Thanks to those who played and reported bugs :)

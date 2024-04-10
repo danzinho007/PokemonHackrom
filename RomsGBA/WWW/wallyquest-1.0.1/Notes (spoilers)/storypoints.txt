@@ -1,0 +1,72 @@
+In case you're stuck, as from feedback I've realised several things are unclear from a player's perspective
+
+---------MAIN STORY---------
+The pre-game story should be linear to follow, from the NPCs' dialogue.
+
+Granite Cave: B1F and B2F are unlocked after the quake
+Cozmo: He runs to the upper left room of Meteor Falls
+After Mt Pyre Summit: Go to Lavaridge Pokemon Center and talk to Sidney
+After Archie escapes with the submarine: Talk to the grunts blocking the Aqua Hideout
+
+Ability changer: This is a Devon scientist working on a dream device. After the 5th badge, you can select a Pokemon to dream, and the Pokemon's ability will "cycle" to the next ability.
+
+---------POST GAME---------
+
+--Delta Episode (post-game)--
+1. After beating the E4 for the first time, go home and watch the news.
+2. Go to Devon Corps and accept the mission
+3. Steven will call you after the events, go to his house
+4. Go to Sky Pillar and talk to Rayquaza
+--The boss will have +6 in all stats the first battle. If you lose, it will have +2 in Atk, SpA and Speed, +6 in Def/SpDef in the second battle. After that, it will vanish
+
+--Altering Cave (after Delta Episode)--
+1. Bring the Soul Dew to Eternal Flower Floette
+2. After leaving, Lance will call you. Go to Cove Lily Motel to speak to him
+3. Go to Altering Cave at Route 103
+
+--Alternate Dimension (after Altering Cave Episode)--
+1. Go to Cove Lily Motel and talk to Cynthia
+2. Mr. Stone will call you, go to Mr Briney at his Route 104 home
+3. On S.S. Tidal, talk to Lille, then go downstairs. There is a particular spot (straight down)
+4. After S.S. Tidal, talk to Cynthia again
+5. Bring a Cosmog, Solgaleo or Lunala to the Cave of Origin. If you do not have one in the party, Necrozma will continuously regenerate
+6. Navigate the messed-up place. The walkable area and teleportation triggers are provided in the maps folder/. In general, try to walk towards Uxie, Mesprit and Azelf
+--Alternate ending: Have Diancie with Diancite in your party before battling Zinnia
+To re-enter after exiting: go to Cave of Origin (the center-bottom place where Wallace usually stands) with Cosmog/Solgaleo/Lunala as lead Pokemon
+
+---------SIDE QUESTS---------
+--Stat trainers--
+-Cheryl is in Petalburg Woods, bring her to the north exit
+-Riley and Mira are in Granite Cave B2F, bring one to the other
+-Buck is in Fiery Path after Team Magma leaves Mt Chimney. To complete his quest, find the three hidden Nuggets and then go to the dead end
+-Marley is on the Abandoned Ship. To complete her quest, find the Storage Key and read the log in the Storage Room bag
+After each trainers’ quest is done, they will appear at Cove Lily Motel 2F, and will give you berries and EV-training battles. Post-game, they can be battled
+
+--Walda--
+Bring Walda's dad dolls. The doll to bring her can be found by talking to an NPC in Dewford Town Hall
+After that, give Walda a Pokemon
+Keldeo will be unlocked as a post-game encounter in Route 114
+
+--Tabitha (Post-game, Buck’s quest completed)--
+Go to Fiery Path’s dead end and encounter the Magma Grunt there
+Go to the Magma Hideout's end, battle Tabitha
+Unlocks Victini (talk to it)
+
+--Shelly (Post-game, Marley’s quest completed)--
+Go to Abandoned Ship and dive underwater
+Unlocks Mirage Island and Manaphy
+
+--Spiritomb--
+Go up Mt Pyre’s interior floors
+After Mt Pyre's interior's completion, Spiritomb can be found as a post-game encounter at Mt Pyre 5F
+To go back to EFF, the hole can be walked-into post-game (required to cleanse the Soul Dew)
+
+--Reimi--
+Talk to Reimi in Slateport City to get Arnold
+Talk to NPCs in Lilycove City; if Arnold is in the party, you’ll get an alert; if Arnold has evolved, the quest will proceed
+Talk to Reimi again to obtain the Stone Plate and unlock Terrakion
+
+--To be able to battle Steven--
+Return Diancie to him after the Alternate Dimension
+
+Hope this helps, and thanks for playing :)
