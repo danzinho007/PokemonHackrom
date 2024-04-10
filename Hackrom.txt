@@ -24,6 +24,7 @@ Capa OK
 -Aqua Version 2.4 = OK
 -Aquamarine = 
 Capa OK
+-Arco iris = 
 -Ascent Version = 
 Capa OK
 -Ash Gray Version = 
@@ -45,6 +46,7 @@ Capa OK
 Letra B
 -Baby Blue = 
 Capa OK
+-Battle Factory = 
 -Battle Labyrinth =
 Capa OK
 -Battle Ultimate = OK
@@ -70,6 +72,8 @@ Capa OK
 -Blazing Emerald = OK
 -Bloody Platinum = 
 Capa OK
+-Blue = 
+
 -Blue Kaizo = 
 Capa OK
 -Blue Legend Version = 
@@ -97,7 +101,9 @@ Capa OK
 
 Letra C
 -CAOS 2 English v1.0 = ???05
+-Ceylon = 
 -Chaos Emerald v2.4c = OK
+-Celias Smart Romhack = 
 -Cloud White = 
 -Cloud White 2 =
 -Clover = 
@@ -109,6 +115,7 @@ Letra C
 -Crystal Advance Redux 08/04 = ???06
 -Crystal Clear 2.5.6 = OK
 -Crystal Kaizo = 
+-Crystal Kanto = 
 -Crown = 
 -Cyan =
 
@@ -141,19 +148,22 @@ Letra E
 -Emerald 802 = 
 -Emerald Docal = 
 -Emerald Double Edition = 
+-Emerald Crest = 
 -Emerald Full = 
 -Emerald Kaizo = 
 -Emerald Rogue = 
--Emeralds Eight v1.5 = OK
--Emerald Green Version = ???09
 -Emerald Entire Map Randomizer = OK
+-Emerald Green Version = ???09
+-Emerald Horizons = 
 -Emerald Markplier Smash or Pass Edition - playtest version = ???10
 -Emerald Negative EXP = OK
 -Emerald Open Version 1.0.0 = OK
+-Emeralds Eight v1.5 = OK
 -Empyrean = 
 -Energized = 
 -Escudo = 
 -Espada = 
+-Eternal Colosseum = 
 -Evo Yellow = 
 -Exceeded = 
 
@@ -173,84 +183,135 @@ Letra F
 -Fire Red Extended 3.4.6 Atualização Maio 2023 = OK
 -Fire Red Fat = 
 -Fire Red Legacy = 
+-Fire Red Minus = !!!
+-Flora Sky Complement Dex = 
 -Flora Sky Rebirth = OK
 -Frontier Adventure v16.12.20 = OK
+-Fused Dimensions = 
 
 Letra G
-Gaia v2.5-230418-024339 = OK
-Gaia v3.2 = ?13
-Galacta Completed = ?14
-God of Arena = OK
-Gold 97 Reforged (v5.0)-230421-094144 = OK
+-Gaia v2.5-230418-024339 = OK
+-Gaia v3.2 = ?13
+-Galacta Completed = ?14
+-Gen 1 2Player = 
+-Glazed = 
+-God of Arena = OK
+-Gold 97 Reforged (v5.0)-230421-094144 = OK
+-Gold and Silver 97 Reforged = 
+-GS Chronicles = 
 
 Letra H
-Hyper Emerald 807 ( HE 807 DF-230418-041812 ) = OK
-Hyper Emerald Ash Version (ENG) v4.0 [Trad. 8.0] = OK
-Hyper Emerald 5.5 = OK
+-Heart and Seed = 
+-Hyper Emerald 807 ( HE 807 DF-230418-041812 ) = OK
+-Hyper Emerald Ash Version (ENG) v4.0 [Trad. 8.0] = OK
+-Hyper Emerald 5.5 = OK
 
 Letra I
-Ice Adventure = OK
-ice Blue 2.0 = OK
-Indigo Power Tournament vApril 25th 2021 = OK
-Inflamed Red (v1.0.5) = ?17
-Inheritance_Demo_1 = ? 18
-Islas Doradas 2.0 = OK
+-Ice Adventure = OK
+-ice Blue 2.0 = OK
+-Inclement Emerald = 
+-Indigo Power Tournament vApril 25th 2021 = OK
+-Inflamed Red (v1.0.5) = ?17
+-Inheritance_Demo_1 = ? 18
+-Intense Indigo = 
+-Islas Doradas 2.0 = OK
 
 Letra J
-Justicieros Beta 1.0 = OK
+-Justicieros Beta 1.0 = OK
 
 Letra K
-Kanto Black 2.08 = OK
-Kanto Origins [Spanish] = OK
+-Kanto Black 2.08 = OK
+-Kanto Expansion Pak = 
+-Kanto Origins [Spanish] = OK
 
 Letra L
-Life Alpha 1.9 = OK
-Liquid Cristal 3.3.00451 = OK
+-Lets Go Lugia = 
+-Life Alpha 1.9 = OK
+-Liquid Cristal 3.3.00451 = OK
+-Lunatic Crystal = 
 
 Letra M
-Marble Beta 2.1 = OK
+-Marble Beta 2.1 = OK
+-Mega Power = 
+-Mirage of Tales =
+-MissingNo Challenge = 
+-Modern Emerald = 
+-Moon Emerald = 
 
 Letra N
+-
+-
+-
 
 Letra O
+-Odyssey = 
+-Omega Red = 
+-
 
 Letra P
-Perfect Red = OK
-Personal Fire Red = ???
-Platinum Pro Full = OK
-Prims = ?
-Purple = OK
+-Perfect Blue = 
+-Perfect Red = OK
+-Personal Fire Red = ???
+-Pikamon = 
+-Pisces = 
+-Platinum Pro Full = OK
+-Polished Crystal = 
+-Prims = ?
+-Purple = OK
 
 Letra Q
-Quartz = OK
-Quetzal = OK
+-Quartz = OK
+-Quetzal = OK
 
 Letra R
-Radical Red 4.1 = ???
-Reboot = OK
+-Radical Red 4.1 = ???
+-Reboot = OK
+-Regis Origin = 
+-Resolute = 
+-Rocket Edition =
 
 Letra S
-Saiph Full v2020 = OK
-Stone Dragon = OK
-Super Auto Pokémon Emerald = OK
-Sweet 2th = OK
-Sword Shield 9.1 PT BR = OK
+-Saiph Full v2020 = OK
+-Serene Crystal = 
+-Shining Victory = 
+-Shiny Gold = 
+-Shiron Castle = 
+-Sienna = 
+-Sors = 
+-Sovereign of the Skies = 
+-Stone Dragon = OK
+-Stone Dragon 2 = 
+-Stone Dragon 3 = 
+-Stone Dragon 4 = 
+-Sun Sky and Moon Galaxy = 
+-Super Auto Pokémon Emerald = OK
+-Sweet 2th = OK
+-Sword Shield 9.1 PT BR = OK
+-Sword Shield Ultimate = 
 
 Letra T
 -Tits = 
 Capa OK
 
 Letra U
+-
+-Ultimate Fusion = 
+-Unbound = 
 
 Letra V
 -Verde Musgo = OK
+-Victory Fire = 
 
 Letra W
 -White 2 Version Kaizo = OK
 
 Letra X
+-
+-
+-
 
 Letra Y
+-Yellow Cross 
 -Yellow Kaizo Beta 0.4 = OK
 
 Letra Z
