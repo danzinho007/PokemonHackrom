@@ -98,9 +98,19 @@ Capa OK
 Letra C
 -CAOS 2 English v1.0 = ???05
 -Chaos Emerald v2.4c = OK
+-Cloud White = 
+-Cloud White 2 =
+-Clover = 
+-Complete Crystal = 
+-Conquest =
+-Copper =
 -Coral Island 2022 Demo v1.2 = OK
+-Crystal Advance = 
 -Crystal Advance Redux 08/04 = ???06
 -Crystal Clear 2.5.6 = OK
+-Crystal Kaizo = 
+-Crown = 
+-Cyan =
 
 Letra D
 -Daia_beta = ???07
@@ -112,7 +122,7 @@ Letra D
 -Drab Conspiracy - Capitolo 1 (v1.3.2) = OK
 -Dragon Ball Z =
 
-9 + 10
+Letra E
 Eclat Purpre = OK
 Eclipse = OK
 Elite Black = OK
@@ -123,7 +133,7 @@ Emerald Markplier Smash or Pass Edition - playtest version = ???10
 Emerald Negative EXP = OK
 Emerald Open Version 1.0.0 = OK
 
-11 + 12
+Letra F
 Fat Kid Beta 1.2.4 = OK
 FEAR KAIZO FIRE RED = ?11
 FEARZINHU FIRERED = ?12
@@ -132,19 +142,19 @@ Fire Red Extended 3.4.6 Atualização Maio 2023 = OK
 Flora Sky Rebirth = OK
 Frontier Adventure v16.12.20 = OK
 
-13 + 14
+Letra G
 Gaia v2.5-230418-024339 = OK
 Gaia v3.2 = ?13
 Galacta Completed = ?14
 God of Arena = OK
 Gold 97 Reforged (v5.0)-230421-094144 = OK
 
-15 + 16
+Letra H
 Hyper Emerald 807 ( HE 807 DF-230418-041812 ) = OK
 Hyper Emerald Ash Version (ENG) v4.0 [Trad. 8.0] = OK
 Hyper Emerald 5.5 = OK
 
-17 + 18
+Letra I
 Ice Adventure = OK
 ice Blue 2.0 = OK
 Indigo Power Tournament vApril 25th 2021 = OK
@@ -152,42 +162,62 @@ Inflamed Red (v1.0.5) = ?17
 Inheritance_Demo_1 = ? 18
 Islas Doradas 2.0 = OK
 
-19 + 20
+Letra J
 Justicieros Beta 1.0 = OK
 
+Letra K
 Kanto Black 2.08 = OK
 Kanto Origins [Spanish] = OK
 
+Letra L
 Life Alpha 1.9 = OK
 Liquid Cristal 3.3.00451 = OK
 
+Letra M
 Marble Beta 2.1 = OK
 
+Letra N
+
+Letra O
+
+Letra P
 Perfect Red = OK
 Personal Fire Red = ???
 Platinum Pro Full = OK
 Prims = ?
 Purple = OK
 
+Letra Q
 Quartz = OK
 Quetzal = OK
 
+Letra R
 Radical Red 4.1 = ???
 Reboot = OK
 
+Letra S
 Saiph Full v2020 = OK
 Stone Dragon = OK
 Super Auto Pokémon Emerald = OK
 Sweet 2th = OK
 Sword Shield 9.1 PT BR = OK
 
+Letra T
 -Tits = 
 Capa OK
 
+Letra U
+
+Letra V
 -Verde Musgo = OK
 
+Letra W
 -White 2 Version Kaizo = OK
 
+Letra X
+
+Letra Y
 -Yellow Kaizo Beta 0.4 = OK
 
+Letra Z
 -Zelda Sacred Paradox = OK
