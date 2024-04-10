@@ -1,0 +1,1440 @@
+﻿Pokemon base stats & type: unchanged
+
+--Removing Trade Evolutions--
+Made POLIWHIRL evolve into POLITOED at level 37
+Made KADABRA evolve into ALAKAZAM at level 37
+Made MACHOKE evolve into MACHAMP at level 37
+Made GRAVELER evolve into GOLEM at level 37
+Made SLOWPOKE evolve into SLOWKING using a WATER STONE
+Made HAUNTER evolve into GENGAR at level 37
+Made ONIX evolve into STEELIX at level 30
+Made SEADRA evolve into KINGDRA at level 40
+Made SCYTHER evolve into SCIZOR at level 30
+Made EEVEE evolve into ESPEON using a SUN STONE
+Made EEVEE evolve into UMBREON using a MOON STONE
+Made PORYGON evolve into PORYGON2 at level 30
+Made FEEBAS evolve into MILOTIC at level 35
+Made CLAMPERL evolve into HUNTAIL at level 30
+Made CLAMPERL evolve into GOREBYSS using a WATER STONE
+
+--Condensed Level Evolutions--
+RHYHORN now evolves into RHYDON at minimum level 40
+HORSEA now evolves into SEADRA at minimum level 30
+DRAGONAIR now evolves into DRAGONITE at minimum level 40
+PUPITAR now evolves into TYRANITAR at minimum level 40
+ARON now evolves into LAIRON at minimum level 30
+LAIRON now evolves into AGGRON at minimum level 40
+TRAPINCH now evolves into VIBRAVA at minimum level 30
+VIBRAVA now evolves into FLYGON at minimum level 40
+SNORUNT now evolves into GLALIE at minimum level 40
+SPHEAL now evolves into SEALEO at minimum level 30
+SEALEO now evolves into WALREIN at minimum level 40
+SHELGON now evolves into SALAMENCE at minimum level 40
+METANG now evolves into METAGROSS at minimum level 40
+
+--Random Starters--
+Set starter 1 to SLOWBRO
+Set starter 2 to EKANS
+Set starter 3 to HYPNO
+
+Move Data: Unchanged.
+
+--Pokemon Movesets--
+001 BULBASAUR  : VICEGRIP at level 1, MEGA DRAIN at level 4, SWIFT at level 7, HYPER VOICE at level 10, FLATTER at level 15, BLOCK at level 15, BIDE at level 20, WHIRLPOOL at level 25, METRONOME at level 32, TICKLE at level 39, SUPERPOWER at level 46
+002 IVYSAUR    : FURY ATTACK at level 1, ROCK SLIDE at level 1, VOLT TACKLE at level 1, SKY UPPERCUT at level 4, FIRE BLAST at level 7, PURSUIT at level 10, AURORA BEAM at level 15, MORNING SUN at level 15, CHARM at level 22, PSYCHIC at level 29, SHARPEN at level 38, ICE BALL at level 47, DOOM DESIRE at level 56
+003 VENUSAUR   : ICE PUNCH at level 1, PIN MISSILE at level 1, SHADOW PUNCH at level 1, WING ATTACK at level 1, POISON TAIL at level 4, LUSTER PURGE at level 7, HYDRO PUMP at level 10, IRON DEFENSE at level 15, CONVERSION 2 at level 15, MACH PUNCH at level 22, DOUBLE-EDGE at level 29, TAIL GLOW at level 41, POWDER SNOW at level 53, FACADE at level 65
+004 CHARMANDER : METEOR MASH at level 1, SLUDGE at level 1, MIND READER at level 7, SHEER COLD at level 13, SLEEP TALK at level 19, METRONOME at level 25, DRAGONBREATH at level 31, MAGNITUDE at level 37, WHIRLPOOL at level 43, HARDEN at level 49
+005 CHARMELEON : HORN ATTACK at level 1, PSYCHIC at level 1, UPROAR at level 1, DRAGON DANCE at level 7, RAGE at level 13, OCTAZOOKA at level 20, REST at level 27, TRI ATTACK at level 34, SKY UPPERCUT at level 41, LUSTER PURGE at level 48, GRUDGE at level 55
+006 CHARIZARD  : THUNDERSHOCK at level 1, MIRROR COAT at level 1, BODY SLAM at level 1, HYDRO PUMP at level 1, TRI ATTACK at level 1, MIMIC at level 7, FLATTER at level 13, MEMENTO at level 20, ACID at level 27, EXPLOSION at level 34, FALSE SWIPE at level 36, FOCUS PUNCH at level 44, JUMP KICK at level 54, WING ATTACK at level 64
+007 SQUIRTLE   : ROCK SLIDE at level 1, PECK at level 4, RAGE at level 7, WATER SPORT at level 10, DIG at level 13, INGRAIN at level 18, DOOM DESIRE at level 23, MEDITATE at level 28, BONE RUSH at level 33, GRUDGE at level 40, MIRROR COAT at level 47
+008 WARTORTLE  : AERIAL ACE at level 1, LEER at level 1, WEATHER BALL at level 1, NIGHTMARE at level 4, ROLLOUT at level 7, BODY SLAM at level 10, KNOCK OFF at level 13, NEEDLE ARM at level 19, SILVER WIND at level 25, TRICK at level 31, PSYCH UP at level 37, CRUSH CLAW at level 45, SCARY FACE at level 53
+009 BLASTOISE  : TAIL WHIP at level 1, REST at level 1, ENCORE at level 1, HYPER FANG at level 1, BIDE at level 4, MACH PUNCH at level 7, BLAST BURN at level 10, SKETCH at level 13, SNATCH at level 19, ABSORB at level 25, ACID at level 31, QUICK ATTACK at level 42, RAPID SPIN at level 55, SMELLINGSALT at level 68
+010 CATERPIE   : WEATHER BALL at level 1, BLAZE KICK at level 1
+011 METAPOD    : ICE PUNCH at level 1, BITE at level 7
+012 BUTTERFREE : POISON FANG at level 1, HORN ATTACK at level 10, HEAT WAVE at level 13, FURY CUTTER at level 14, HEADBUTT at level 15, SCRATCH at level 18, BLIZZARD at level 23, SPARK at level 28, ABSORB at level 34, MUD SHOT at level 40, DEFENSE CURL at level 47
+013 WEEDLE     : BELLY DRUM at level 1, ROCK SLIDE at level 1
+014 KAKUNA     : PSYCHIC at level 1, SAFEGUARD at level 7
+015 BEEDRILL   : AURORA BEAM at level 1, PRESENT at level 10, SNATCH at level 15, ASTONISH at level 20, WISH at level 25, HOWL at level 30, FAINT ATTACK at level 35, BRICK BREAK at level 40, AEROBLAST at level 45
+016 PIDGEY     : HYDRO CANNON at level 1, TORMENT at level 5, VOLT TACKLE at level 9, ROCK THROW at level 13, ARM THRUST at level 19, IMPRISON at level 25, TWISTER at level 31, COMET PUNCH at level 39, REST at level 47
+017 PIDGEOTTO  : DOUBLE TEAM at level 1, STUN SPORE at level 1, CRUSH CLAW at level 1, SLEEP TALK at level 5, BONE CLUB at level 9, BONE RUSH at level 13, PETAL DANCE at level 20, LOCK-ON at level 27, SKETCH at level 34, KNOCK OFF at level 43, MIMIC at level 52
+018 PIDGEOT    : HYDRO PUMP at level 1, GRUDGE at level 1, SUBSTITUTE at level 1, MIST BALL at level 1, SING at level 5, FISSURE at level 9, BONE RUSH at level 13, AEROBLAST at level 20, CRUNCH at level 27, METAL SOUND at level 34, SOLARBEAM at level 48, TAKE DOWN at level 62
+019 RATTATA    : GLARE at level 1, SLUDGE at level 1, SUPER FANG at level 7, RAIN DANCE at level 13, QUICK ATTACK at level 20, THUNDER at level 27, GIGA DRAIN at level 34, MEGAHORN at level 41
+020 RATICATE   : FOLLOW ME at level 1, BLAST BURN at level 1, HYDRO CANNON at level 1, CHARGE at level 7, BLIZZARD at level 13, BUBBLE at level 20, DOUBLE TEAM at level 30, STOCKPILE at level 40, WISH at level 50
+021 SPEAROW    : LEER at level 1, OVERHEAT at level 1, STUN SPORE at level 7, PSYCHIC at level 13, MEGA PUNCH at level 19, ARM THRUST at level 25, DREAM EATER at level 31, ENCORE at level 37, HEADBUTT at level 43
+022 FEAROW     : TOXIC at level 1, LEAF BLADE at level 1, ENDEAVOR at level 1, CRUSH CLAW at level 1, HYPER FANG at level 7, POISON TAIL at level 13, AGILITY at level 26, THUNDERBOLT at level 32, STRING SHOT at level 40, MEMENTO at level 47
+023 EKANS      : HEADBUTT at level 1, NEEDLE ARM at level 1, VINE WHIP at level 8, SCARY FACE at level 13, TORMENT at level 20, DISABLE at level 25, FAINT ATTACK at level 32, EXTREMESPEED at level 37, BLAST BURN at level 37, SLEEP POWDER at level 37, LEECH LIFE at level 44
+024 ARBOK      : MEAN LOOK at level 1, SKULL BASH at level 1, HYPER VOICE at level 1, FLAME WHEEL at level 1, MUDDY WATER at level 8, HAZE at level 13, EMBER at level 20, HYDRO PUMP at level 28, SCARY FACE at level 38, WHIRLWIND at level 46, HELPING HAND at level 46, SNATCH at level 46, ASSIST at level 56
+025 PIKACHU    : SPITE at level 1, EXTRASENSORY at level 1, PECK at level 6, TELEPORT at level 8, MEGA PUNCH at level 11, VINE WHIP at level 15, ERUPTION at level 20, SNORE at level 26, BUBBLE at level 33, BULK UP at level 41, FLATTER at level 50
+026 RAICHU     : GUST at level 1, TWISTER at level 1, COVET at level 1, MEGA KICK at level 1
+027 SANDSHREW  : EXTRASENSORY at level 1, METAL CLAW at level 6, MEGA KICK at level 11, FOCUS PUNCH at level 17, LEAF BLADE at level 23, SUBMISSION at level 30, FAKE OUT at level 37, GUILLOTINE at level 45, ROLLOUT at level 53
+028 SANDSLASH  : METEOR MASH at level 1, LEER at level 1, POISON FANG at level 1, RAZOR LEAF at level 6, STOCKPILE at level 11, BUBBLE at level 17, MIRROR MOVE at level 24, FAINT ATTACK at level 33, ICE BEAM at level 42, HYPER BEAM at level 52, WILL-O-WISP at level 62
+029 NIDORAN♀   : THUNDER at level 1, BLAZE KICK at level 1, CALM MIND at level 8, SOLARBEAM at level 12, BUBBLE at level 17, DEFENSE CURL at level 20, SPIKE CANNON at level 23, SKY UPPERCUT at level 30, TWISTER at level 38, HI JUMP KICK at level 47
+030 NIDORINA   : AMNESIA at level 1, METEOR MASH at level 1, ICE BALL at level 8, SUNNY DAY at level 12, HAIL at level 18, BLAZE KICK at level 22, POISON FANG at level 26, SCRATCH at level 34, BIDE at level 43, BITE at level 53
+031 NIDOQUEEN  : POISON GAS at level 1, FOCUS PUNCH at level 1, BRICK BREAK at level 1, THRASH at level 1, THUNDERPUNCH at level 22, NIGHTMARE at level 43
+032 NIDORAN♂   : HOWL at level 1, POISON TAIL at level 1, DRILL PECK at level 8, BATON PASS at level 12, STEEL WING at level 17, ACID at level 20, BONEMERANG at level 23, DRAGONBREATH at level 30, SLEEP TALK at level 38, DIZZY PUNCH at level 47
+033 NIDORINO   : FURY SWIPES at level 1, THUNDERBOLT at level 1, PSYCH UP at level 8, CONFUSION at level 12, EXTREMESPEED at level 18, ROCK TOMB at level 22, TAKE DOWN at level 26, KNOCK OFF at level 34, BONEMERANG at level 43, BRICK BREAK at level 53
+034 NIDOKING   : WATER PULSE at level 1, HEADBUTT at level 1, MUD SPORT at level 1, DRILL PECK at level 1, HAIL at level 22, DETECT at level 43
+035 CLEFAIRY   : CLAMP at level 1, ERUPTION at level 1, STOMP at level 5, ASTONISH at level 9, BITE at level 13, VOLT TACKLE at level 17, MUD SHOT at level 21, QUICK ATTACK at level 25, ICY WIND at level 29, SMOKESCREEN at level 33, REVENGE at level 37, AROMATHERAPY at level 41, NEEDLE ARM at level 45
+036 CLEFABLE   : WING ATTACK at level 1, ROLE PLAY at level 1, KINESIS at level 1, STEEL WING at level 1
+037 VULPIX     : HYDRO CANNON at level 1, PAY DAY at level 5, RAZOR WIND at level 9, TEETER DANCE at level 13, FRENZY PLANT at level 17, OUTRAGE at level 21, SPLASH at level 25, HEAL BELL at level 29, FACADE at level 33, BULLET SEED at level 37, COMET PUNCH at level 41
+038 NINETALES  : FRENZY PLANT at level 1, POISON TAIL at level 1, STRING SHOT at level 1, DRILL PECK at level 1, EGG BOMB at level 45
+039 JIGGLYPUFF : METAL CLAW at level 1, PAY DAY at level 4, QUICK ATTACK at level 9, HORN DRILL at level 14, SMOKESCREEN at level 19, RECYCLE at level 24, MUDDY WATER at level 29, FORESIGHT at level 34, IMPRISON at level 39, FIRE SPIN at level 44, BOUNCE at level 49
+040 WIGGLYTUFF : MIST at level 1, WITHDRAW at level 1, SMELLINGSALT at level 1, VOLT TACKLE at level 1
+041 ZUBAT      : CROSS CHOP at level 1, TACKLE at level 6, HI JUMP KICK at level 11, SUPER FANG at level 16, YAWN at level 21, CRUSH CLAW at level 26, BIDE at level 31, VICEGRIP at level 36, GRASSWHISTLE at level 41, BUBBLEBEAM at level 46
+042 GOLBAT     : EXPLOSION at level 1, MEGAHORN at level 1, MIST BALL at level 1, HYPER BEAM at level 1, SCRATCH at level 6, MACH PUNCH at level 11, DOUBLE-EDGE at level 16, IRON DEFENSE at level 21, PSYCHO BOOST at level 28, SEISMIC TOSS at level 35, OUTRAGE at level 42, RECYCLE at level 49, DOUBLESLAP at level 56
+043 ODDISH     : SIGNAL BEAM at level 1, BELLY DRUM at level 7, COTTON SPORE at level 14, THUNDER at level 16, MINIMIZE at level 18, SPLASH at level 23, DISABLE at level 32, GROWL at level 39
+044 GLOOM      : POISON TAIL at level 1, RETURN at level 1, SACRED FIRE at level 1, WATER GUN at level 7, DOUBLE KICK at level 14, PRESENT at level 16, MIRROR COAT at level 18, FUTURE SIGHT at level 24, DREAM EATER at level 35, DETECT at level 44
+045 VILEPLUME  : PERISH SONG at level 1, PAY DAY at level 1, PIN MISSILE at level 1, SLUDGE BOMB at level 1, CLAMP at level 44
+046 PARAS      : SILVER WIND at level 1, FURY ATTACK at level 7, KINESIS at level 13, MIRROR MOVE at level 19, DOUBLE TEAM at level 25, SUBMISSION at level 31, HAZE at level 37, COVET at level 43, PURSUIT at level 49
+047 PARASECT   : FIRE SPIN at level 1, TAIL WHIP at level 1, GIGA DRAIN at level 1, FOCUS PUNCH at level 7, SELFDESTRUCT at level 13, SYNTHESIS at level 19, AMNESIA at level 27, RAPID SPIN at level 35, METRONOME at level 43, DISABLE at level 51, AURORA BEAM at level 59
+048 VENONAT    : FACADE at level 1, LIGHT SCREEN at level 1, SACRED FIRE at level 1, LUSTER PURGE at level 9, PIN MISSILE at level 17, MUDDY WATER at level 20, LOVELY KISS at level 25, BEAT UP at level 28, TRICK at level 33, HORN ATTACK at level 36, CRABHAMMER at level 41
+049 VENOMOTH   : IMPRISON at level 1, PETAL DANCE at level 1, ROAR at level 1, METEOR MASH at level 1, ROCK THROW at level 1, ROLLOUT at level 9, ICE PUNCH at level 17, IRON DEFENSE at level 20, POISON FANG at level 25, MUDDY WATER at level 28, DREAM EATER at level 31, DRAGON DANCE at level 36, OUTRAGE at level 42, MINIMIZE at level 52
+050 DIGLETT    : FLAME WHEEL at level 1, LUSTER PURGE at level 1, FISSURE at level 5, VINE WHIP at level 9, IRON DEFENSE at level 17, SWORDS DANCE at level 21, CHARM at level 25, SLAM at level 33, FEATHERDANCE at level 41, ICE PUNCH at level 49
+051 DUGTRIO    : TORMENT at level 1, ATTRACT at level 1, BLIZZARD at level 1, HEADBUTT at level 1, DOUBLE TEAM at level 5, FISSURE at level 9, TAUNT at level 17, SWEET SCENT at level 21, PSYCH UP at level 25, TELEPORT at level 26, RAPID SPIN at level 38, COVET at level 51, FLAMETHROWER at level 64
+052 MEOWTH     : EXTREMESPEED at level 1, THRASH at level 1, EMBER at level 10, CONVERSION at level 18, MAGNITUDE at level 25, VICEGRIP at level 31, PURSUIT at level 36, SCREECH at level 40, FRENZY PLANT at level 43, POISON FANG at level 45
+053 PERSIAN    : DETECT at level 1, PURSUIT at level 1, AURORA BEAM at level 1, BODY SLAM at level 10, FURY CUTTER at level 18, FRUSTRATION at level 25, PSYWAVE at level 34, DRAGON CLAW at level 42, BONEMERANG at level 49, DIG at level 55, CURSE at level 61
+054 PSYDUCK    : PSYWAVE at level 1, ROCK THROW at level 1, HEAT WAVE at level 5, TRICK at level 10, GLARE at level 16, CHARGE at level 23, DOUBLE-EDGE at level 31, RAZOR WIND at level 40, LICK at level 50
+055 GOLDUCK    : PIN MISSILE at level 1, VICEGRIP at level 1, CONFUSION at level 1, WING ATTACK at level 1, KNOCK OFF at level 5, ENDURE at level 10, BONEMERANG at level 16, BARRIER at level 23, DIG at level 31, METAL CLAW at level 44, ROCK BLAST at level 58
+056 MANKEY     : PSYBEAM at level 1, BRICK BREAK at level 1, WISH at level 6, TELEPORT at level 11, SPIT UP at level 16, PECK at level 21, SWEET KISS at level 26, LUSTER PURGE at level 31, SUPERPOWER at level 36, FALSE SWIPE at level 41, VITAL THROW at level 46
+057 PRIMEAPE   : SUBSTITUTE at level 1, GRUDGE at level 1, BONE RUSH at level 1, DRAGON CLAW at level 1, THUNDER at level 6, MUD-SLAP at level 11, IMPRISON at level 16, ROCK THROW at level 21, MAGIC COAT at level 26, ASTONISH at level 28, AEROBLAST at level 35, OUTRAGE at level 44, MEGA DRAIN at level 53, SUPERSONIC at level 62
+058 GROWLITHE  : SLUDGE BOMB at level 1, RAZOR WIND at level 1, MEAN LOOK at level 7, THIEF at level 13, VOLT TACKLE at level 19, FURY SWIPES at level 25, POISON STING at level 31, SHEER COLD at level 37, FURY ATTACK at level 43, KARATE CHOP at level 49
+059 ARCANINE   : LOW KICK at level 1, MUDDY WATER at level 1, ACID ARMOR at level 1, SPIT UP at level 1, SLASH at level 49
+060 POLIWAG    : LUSTER PURGE at level 1, LEER at level 7, TOXIC at level 13, BLAST BURN at level 19, DIZZY PUNCH at level 25, HYDRO CANNON at level 31, SPIT UP at level 37, MUDDY WATER at level 43
+061 POLIWHIRL  : REFRESH at level 1, ROCK BLAST at level 1, DIG at level 1, REFLECT at level 7, CRABHAMMER at level 13, ENDURE at level 19, OVERHEAT at level 27, PSYCHIC at level 35, MIRROR COAT at level 43, FURY ATTACK at level 51
+062 POLIWRATH  : OVERHEAT at level 1, VITAL THROW at level 1, PSYCHIC at level 1, HORN ATTACK at level 1, CRUSH CLAW at level 35, BOUNCE at level 51
+063 ABRA       : WATER PULSE at level 1
+064 KADABRA    : SCRATCH at level 1, SMOKESCREEN at level 1, DOUBLE-EDGE at level 1, BRICK BREAK at level 16, ATTRACT at level 18, FOCUS ENERGY at level 21, IMPRISON at level 23, LOVELY KISS at level 25, DETECT at level 30, BULLET SEED at level 33, SCREECH at level 36, HORN ATTACK at level 43
+065 ALAKAZAM   : FIRE PUNCH at level 1, MEAN LOOK at level 1, SIGNAL BEAM at level 1, PAY DAY at level 16, MIRROR COAT at level 18, REVERSAL at level 21, MUDDY WATER at level 23, FRENZY PLANT at level 25, SOFTBOILED at level 30, SHADOW PUNCH at level 33, FLAMETHROWER at level 36, BUBBLEBEAM at level 43
+066 MACHOP     : SUPERSONIC at level 1, THUNDER at level 1, SCRATCH at level 7, MAGIC COAT at level 13, MEGA KICK at level 19, DOUBLE-EDGE at level 22, SLUDGE at level 25, TRICK at level 31, LIGHT SCREEN at level 37, BUBBLEBEAM at level 40, RAGE at level 43, ICY WIND at level 49
+067 MACHOKE    : MIMIC at level 1, THRASH at level 1, SACRED FIRE at level 1, DYNAMICPUNCH at level 7, ZAP CANNON at level 13, FUTURE SIGHT at level 19, FLAIL at level 22, DESTINY BOND at level 25, SWEET SCENT at level 33, CRABHAMMER at level 41, DOUBLESLAP at level 46, EGG BOMB at level 51, THUNDERPUNCH at level 59
+068 MACHAMP    : FRENZY PLANT at level 1, TRI ATTACK at level 1, ICE PUNCH at level 1, SWEET KISS at level 7, ICE BEAM at level 13, TORMENT at level 19, ICE BALL at level 22, DOUBLE TEAM at level 25, PSYWAVE at level 33, LEECH LIFE at level 41, SAND-ATTACK at level 46, RAZOR LEAF at level 51, POISON STING at level 59
+069 BELLSPROUT : ZAP CANNON at level 1, TAIL GLOW at level 6, ROCK TOMB at level 11, EXPLOSION at level 15, YAWN at level 17, BIND at level 19, ACID ARMOR at level 23, METAL SOUND at level 30, HEAL BELL at level 37, ASTONISH at level 45
+070 WEEPINBELL : THUNDERSHOCK at level 1, SHARPEN at level 1, BLIZZARD at level 1, TRI ATTACK at level 6, SELFDESTRUCT at level 11, CALM MIND at level 15, DRAGONBREATH at level 17, SPIKE CANNON at level 19, BONEMERANG at level 24, WATER PULSE at level 33, VICEGRIP at level 42, SILVER WIND at level 54
+071 VICTREEBEL : ROLLOUT at level 1, ATTRACT at level 1, SPLASH at level 1, MIND READER at level 1, BONE RUSH at level 1, METEOR MASH at level 1, SLUDGE BOMB at level 1
+072 TENTACOOL  : ROCK SLIDE at level 1, CALM MIND at level 6, ENDEAVOR at level 12, MEGA DRAIN at level 19, SPIDER WEB at level 25, SLAM at level 30, OCTAZOOKA at level 36, NATURE POWER at level 43, DRILL PECK at level 49
+073 TENTACRUEL : FLATTER at level 1, CONVERSION 2 at level 1, BRICK BREAK at level 1, YAWN at level 6, BONEMERANG at level 12, DIG at level 19, ANCIENTPOWER at level 25, SACRED FIRE at level 30, NATURE POWER at level 38, SUPERSONIC at level 47, SAND TOMB at level 55
+074 GEODUDE    : DOUBLESLAP at level 1, HYPER VOICE at level 1, ROCK BLAST at level 6, LEECH LIFE at level 11, STUN SPORE at level 16, UPROAR at level 21, HORN DRILL at level 26, ROCK SLIDE at level 31, DISABLE at level 36, THUNDERBOLT at level 41, YAWN at level 46
+075 GRAVELER   : SCREECH at level 1, METRONOME at level 1, SWORDS DANCE at level 1, PSYBEAM at level 1, HYPER FANG at level 6, VOLT TACKLE at level 11, ROLLING KICK at level 16, LUSTER PURGE at level 21, ROAR at level 29, SANDSTORM at level 37, SWALLOW at level 45, AROMATHERAPY at level 53, MEDITATE at level 62
+076 GOLEM      : BARRIER at level 1, SUPERSONIC at level 1, OUTRAGE at level 1, SUPERPOWER at level 1, GIGA DRAIN at level 6, ENDEAVOR at level 11, AERIAL ACE at level 16, ICY WIND at level 21, CALM MIND at level 29, HEAL BELL at level 37, ICICLE SPEAR at level 45, RETURN at level 53, HORN DRILL at level 62
+077 PONYTA     : FIRE BLAST at level 1, BARRIER at level 5, PECK at level 9, MUD-SLAP at level 14, SHADOW PUNCH at level 19, MEGA KICK at level 25, METAL SOUND at level 31, STUN SPORE at level 38, SUPER FANG at level 45, SAFEGUARD at level 53
+078 RAPIDASH   : NIGHT SHADE at level 1, MAGIC COAT at level 1, DIZZY PUNCH at level 1, WEATHER BALL at level 1, FUTURE SIGHT at level 5, SAND-ATTACK at level 9, SPIKES at level 14, LOW KICK at level 19, ERUPTION at level 25, TAIL WHIP at level 31, HEAL BELL at level 38, SKY ATTACK at level 40, BITE at level 50, SPARK at level 63
+079 SLOWPOKE   : RAZOR WIND at level 1, SMOG at level 1, ROCK THROW at level 1, MEAN LOOK at level 6, REVENGE at level 13, ENDEAVOR at level 17, THUNDERBOLT at level 24, HEAT WAVE at level 29, RECOVER at level 36, MINIMIZE at level 40, ACID at level 47
+080 SLOWBRO    : SKY ATTACK at level 1, ICICLE SPEAR at level 1, MIRROR COAT at level 1, AIR CUTTER at level 1, LOVELY KISS at level 6, NIGHTMARE at level 13, SWEET KISS at level 17, AURORA BEAM at level 24, DRILL PECK at level 29, SPARK at level 36, VITAL THROW at level 37, REVENGE at level 44, FLAME WHEEL at level 55
+081 MAGNEMITE  : YAWN at level 1, ICE PUNCH at level 1, WHIRLPOOL at level 6, TAIL GLOW at level 11, BLAZE KICK at level 16, CONVERSION at level 21, FALSE SWIPE at level 26, GLARE at level 32, SEISMIC TOSS at level 38, SKY UPPERCUT at level 44, BONE CLUB at level 50
+082 MAGNETON   : MIND READER at level 1, HI JUMP KICK at level 1, MUD SHOT at level 1, MEGA KICK at level 1, EARTHQUAKE at level 6, HYDRO CANNON at level 11, CALM MIND at level 16, GUST at level 21, DRAGON DANCE at level 26, REVERSAL at level 35, TACKLE at level 44, ANCIENTPOWER at level 53, MEGA DRAIN at level 62
+083 FARFETCH’D : BLIZZARD at level 1, FURY ATTACK at level 6, HORN ATTACK at level 11, SKILL SWAP at level 16, PROTECT at level 21, BLAZE KICK at level 26, POUND at level 31, SHOCK WAVE at level 36, POWDER SNOW at level 41, STOCKPILE at level 46
+084 DODUO      : SPLASH at level 1, MEGAHORN at level 1, SKULL BASH at level 9, MEGA PUNCH at level 13, DOUBLESLAP at level 21, CRABHAMMER at level 25, TORMENT at level 33, SLACK OFF at level 37, FAINT ATTACK at level 45
+085 DODRIO     : SLASH at level 1, PAIN SPLIT at level 1, STRING SHOT at level 1, WATER PULSE at level 1, ACID at level 9, MIMIC at level 13, RECOVER at level 21, LEECH LIFE at level 25, SPIKE CANNON at level 38, EARTHQUAKE at level 47, SPIT UP at level 60
+086 SEEL       : THUNDERPUNCH at level 1, WATER SPOUT at level 9, CRUNCH at level 17, COMET PUNCH at level 21, BARRIER at level 29, FRUSTRATION at level 37, SPIDER WEB at level 41, DRILL PECK at level 49
+087 DEWGONG    : PRESENT at level 1, ROAR at level 1, SPARK at level 1, BOUNCE at level 1, STEEL WING at level 1, COMET PUNCH at level 9, SCREECH at level 17, HELPING HAND at level 21, BEAT UP at level 29, MIND READER at level 34, COSMIC POWER at level 42, METAL SOUND at level 51, THUNDERPUNCH at level 64
+088 GRIMER     : MORNING SUN at level 1, DRAGON CLAW at level 1, TAIL WHIP at level 4, ANCIENTPOWER at level 8, PURSUIT at level 13, TAIL GLOW at level 19, MEMENTO at level 26, HAZE at level 34, RETURN at level 43, WITHDRAW at level 53
+089 MUK        : YAWN at level 1, BRICK BREAK at level 1, WEATHER BALL at level 1, METEOR MASH at level 4, VITAL THROW at level 8, HI JUMP KICK at level 13, BIND at level 19, REVENGE at level 26, RAZOR WIND at level 34, RETURN at level 47, BLOCK at level 61
+090 SHELLDER   : HORN ATTACK at level 1, SPARK at level 1, PSYBEAM at level 8, CHARGE at level 15, THUNDER at level 22, THUNDER WAVE at level 29, WITHDRAW at level 36, CURSE at level 43, DOUBLE KICK at level 50
+091 CLOYSTER   : AGILITY at level 1, SPARK at level 1, OCTAZOOKA at level 1, AEROBLAST at level 1, SYNTHESIS at level 36, LICK at level 43
+092 GASTLY     : ENCORE at level 1, SOLARBEAM at level 1, COUNTER at level 8, TELEPORT at level 13, ROCK TOMB at level 16, POISON STING at level 21, WATER SPORT at level 28, MUD SHOT at level 33, FIRE SPIN at level 36, SHADOW BALL at level 41, ENDEAVOR at level 48
+093 HAUNTER    : SLASH at level 1, SPIDER WEB at level 1, DIZZY PUNCH at level 1, HYDRO CANNON at level 8, WITHDRAW at level 13, CLAMP at level 16, IMPRISON at level 21, DREAM EATER at level 25, DOOM DESIRE at level 31, GIGA DRAIN at level 39, FACADE at level 45, SECRET POWER at level 53, TRIPLE KICK at level 64
+094 GENGAR     : MIST BALL at level 1, MIRROR MOVE at level 1, EARTHQUAKE at level 1, STOMP at level 8, ACID ARMOR at level 13, SNORE at level 16, VICEGRIP at level 21, BUBBLE at level 25, WATER SPORT at level 31, THRASH at level 39, ENDURE at level 45, PROTECT at level 53, SUPERPOWER at level 64
+095 ONIX       : WILL-O-WISP at level 1, LEAF BLADE at level 1, ASTONISH at level 8, BARRAGE at level 12, SUPERSONIC at level 19, ZAP CANNON at level 23, IRON DEFENSE at level 30, BEAT UP at level 34, RECYCLE at level 41, WRAP at level 45, OUTRAGE at level 52, BLIZZARD at level 56
+096 DROWZEE    : RECYCLE at level 1, METAL CLAW at level 1, BUBBLEBEAM at level 7, BONE RUSH at level 11, WHIRLWIND at level 17, LOCK-ON at level 21, TELEPORT at level 27, SACRED FIRE at level 31, MIMIC at level 37, CRUNCH at level 41, SIGNAL BEAM at level 47
+097 HYPNO      : SMELLINGSALT at level 1, SCRATCH at level 1, BRICK BREAK at level 1, NIGHT SHADE at level 1, ROCK THROW at level 1, DIG at level 7, MEGA KICK at level 11, GROWTH at level 17, MOONLIGHT at level 21, FURY ATTACK at level 29, SELFDESTRUCT at level 35, MILK DRINK at level 43, WATER GUN at level 49, SHARPEN at level 57
+098 KRABBY     : CONFUSION at level 1, RAPID SPIN at level 5, MAGICAL LEAF at level 12, WHIRLWIND at level 16, LICK at level 23, MIST at level 27, SWORDS DANCE at level 34, SLASH at level 38, IRON DEFENSE at level 45, BUBBLE at level 49
+099 KINGLER    : LEECH SEED at level 1, SOFTBOILED at level 1, TEETER DANCE at level 1, PSYWAVE at level 1, HORN ATTACK at level 1, THUNDERPUNCH at level 5, SMOKESCREEN at level 12, EMBER at level 16, MUD SPORT at level 23, SEISMIC TOSS at level 27, BONE RUSH at level 38, HEADBUTT at level 42, THUNDER WAVE at level 57, BARRAGE at level 65
+100 VOLTORB    : RECYCLE at level 1, THRASH at level 1, HELPING HAND at level 8, TOXIC at level 15, WING ATTACK at level 21, DEFENSE CURL at level 27, LOVELY KISS at level 32, SCREECH at level 37, RAGE at level 42, AIR CUTTER at level 46, METAL SOUND at level 49
+101 ELECTRODE  : ROCK SLIDE at level 1, SLACK OFF at level 1, SUPER FANG at level 1, NEEDLE ARM at level 1, ASTONISH at level 8, DIZZY PUNCH at level 15, MEGA KICK at level 21, SWAGGER at level 27, TAKE DOWN at level 34, SHADOW BALL at level 41, ENDEAVOR at level 48, RAGE at level 54, ENCORE at level 59
+102 EXEGGCUTE  : DOOM DESIRE at level 1, SPARK at level 1, KARATE CHOP at level 1, PAIN SPLIT at level 7, SHADOW BALL at level 13, SLUDGE BOMB at level 19, MILK DRINK at level 25, AURORA BEAM at level 31, SAFEGUARD at level 37, TICKLE at level 43
+103 EXEGGUTOR  : PSYCHIC at level 1, SLEEP TALK at level 1, SUPERPOWER at level 1, HAZE at level 19, MAGIC COAT at level 31
+104 CUBONE     : BRICK BREAK at level 1, STEEL WING at level 5, SMOG at level 9, METAL CLAW at level 13, REST at level 17, CONFUSION at level 21, FIRE SPIN at level 25, PECK at level 29, DIG at level 33, SCARY FACE at level 37, ERUPTION at level 41, SILVER WIND at level 45
+105 MAROWAK    : DRAGON DANCE at level 1, WATER GUN at level 1, WRAP at level 1, EARTHQUAKE at level 1, RAZOR WIND at level 5, SNATCH at level 9, TICKLE at level 13, HORN ATTACK at level 17, MEGA KICK at level 21, INGRAIN at level 25, CONVERSION 2 at level 32, THUNDER at level 39, ASTONISH at level 46, BARRAGE at level 53, TWISTER at level 61
+106 HITMONLEE  : LUSTER PURGE at level 1, FRENZY PLANT at level 1, RECYCLE at level 6, MOONLIGHT at level 11, DREAM EATER at level 16, METEOR MASH at level 20, PAIN SPLIT at level 21, CALM MIND at level 26, SNATCH at level 31, STEEL WING at level 36, SKILL SWAP at level 41, SEISMIC TOSS at level 46, EARTHQUAKE at level 51
+107 HITMONCHAN : METRONOME at level 1, UPROAR at level 1, BATON PASS at level 7, SMELLINGSALT at level 13, SWIFT at level 20, HEADBUTT at level 26, NIGHT SHADE at level 26, MEGA PUNCH at level 26, CRABHAMMER at level 32, TAKE DOWN at level 38, PROTECT at level 44, IMPRISON at level 50
+108 LICKITUNG  : FLAMETHROWER at level 1, WITHDRAW at level 7, FLAIL at level 12, DRAGONBREATH at level 18, ENDURE at level 23, AURORA BEAM at level 29, MORNING SUN at level 34, GROWTH at level 40, RAZOR LEAF at level 45, FIRE PUNCH at level 51
+109 KOFFING    : BOUNCE at level 1, PETAL DANCE at level 1, THUNDERPUNCH at level 9, GRUDGE at level 17, ACID at level 21, SWEET SCENT at level 25, TICKLE at level 33, SCARY FACE at level 41, YAWN at level 45, HYPNOSIS at level 49
+110 WEEZING    : MEGA PUNCH at level 1, ICE BEAM at level 1, MAGNITUDE at level 1, ROCK THROW at level 1, SMELLINGSALT at level 9, MIST at level 17, BIDE at level 21, MUD SHOT at level 25, CROSS CHOP at level 33, GRUDGE at level 44, WRAP at level 51, CONFUSION at level 58
+111 RHYHORN    : NATURE POWER at level 1, MUD SHOT at level 1, LEECH LIFE at level 10, SING at level 15, POISON FANG at level 24, ICE BEAM at level 29, MUD-SLAP at level 38, BRICK BREAK at level 43, SLAM at level 52, DOUBLE-EDGE at level 57
+112 RHYDON     : MINIMIZE at level 1, ENDURE at level 1, BEAT UP at level 1, ROCK THROW at level 1, ROLLOUT at level 10, BUBBLEBEAM at level 15, PSYWAVE at level 24, LEER at level 29, ROAR at level 38, DETECT at level 46, SHADOW PUNCH at level 58, EXPLOSION at level 66
+113 CHANSEY    : HORN ATTACK at level 1, CRUNCH at level 1, METEOR MASH at level 5, CONFUSION at level 9, YAWN at level 13, HYPER BEAM at level 17, TEETER DANCE at level 23, TRIPLE KICK at level 29, BLOCK at level 35, BULLET SEED at level 41, MEMENTO at level 49, REST at level 57
+114 TANGELA    : THUNDERPUNCH at level 1, CRUSH CLAW at level 1, SPIKES at level 4, BEAT UP at level 10, CROSS CHOP at level 13, BULK UP at level 19, TACKLE at level 22, MIRROR COAT at level 28, SAND TOMB at level 31, WISH at level 37, TAIL WHIP at level 40, TWINEEDLE at level 46
+115 KANGASKHAN : SPIKES at level 1, PETAL DANCE at level 1, MUD SHOT at level 7, PSYCHIC at level 13, ABSORB at level 19, SPIKE CANNON at level 25, BIDE at level 31, SLUDGE BOMB at level 37, VINE WHIP at level 43, NATURE POWER at level 49
+116 HORSEA     : HYDRO CANNON at level 1, CALM MIND at level 8, ICE BALL at level 15, BATON PASS at level 22, SMELLINGSALT at level 29, SIGNAL BEAM at level 36, ICICLE SPEAR at level 43, SUBMISSION at level 50
+117 SEADRA     : SWIFT at level 1, SHOCK WAVE at level 1, SKETCH at level 1, WATER PULSE at level 1, THUNDERBOLT at level 8, IMPRISON at level 15, SWEET KISS at level 22, FORESIGHT at level 29, STOCKPILE at level 40, TAIL GLOW at level 51, ICY WIND at level 62
+118 GOLDEEN    : REVERSAL at level 1, POWDER SNOW at level 1, FLAME WHEEL at level 1, TRIPLE KICK at level 10, EARTHQUAKE at level 15, FLAIL at level 24, DOUBLESLAP at level 29, SUPERPOWER at level 38, AEROBLAST at level 43, DOOM DESIRE at level 52, SHADOW BALL at level 57
+119 SEAKING    : THUNDER WAVE at level 1, SMOG at level 1, SPITE at level 1, SACRED FIRE at level 1, SOFTBOILED at level 10, MIND READER at level 15, SPORE at level 24, TRICK at level 29, ASTONISH at level 41, MEGA DRAIN at level 49, CROSS CHOP at level 61, FRENZY PLANT at level 69
+120 STARYU     : WISH at level 1, SLUDGE at level 1, BOUNCE at level 6, WATER SPORT at level 10, SANDSTORM at level 15, FURY CUTTER at level 19, FAKE OUT at level 24, MINIMIZE at level 28, FLAMETHROWER at level 33, CONSTRICT at level 37, SOFTBOILED at level 42, DIZZY PUNCH at level 46
+121 STARMIE    : SUBSTITUTE at level 1, LOVELY KISS at level 1, PROTECT at level 1, BODY SLAM at level 1, MIRROR COAT at level 33
+122 MR. MIME   : ANCIENTPOWER at level 1, PSYCHO BOOST at level 5, FURY ATTACK at level 8, MORNING SUN at level 12, LUSTER PURGE at level 15, DIG at level 19, CONFUSION at level 19, ICE PUNCH at level 22, PSYCHIC at level 26, DRILL PECK at level 29, LOW KICK at level 33, CRUNCH at level 36, SPIKES at level 40, PROTECT at level 43, COSMIC POWER at level 47, MAGICAL LEAF at level 50
+123 SCYTHER    : LEECH LIFE at level 1, PSYBEAM at level 1, TACKLE at level 6, MEMENTO at level 11, METEOR MASH at level 16, GIGA DRAIN at level 21, MOONLIGHT at level 26, SUPERPOWER at level 31, BIND at level 36, SWEET SCENT at level 41, PERISH SONG at level 46
+124 JYNX       : TORMENT at level 1, TEETER DANCE at level 1, KARATE CHOP at level 1, THRASH at level 1, WHIRLWIND at level 9, IRON DEFENSE at level 13, TAIL GLOW at level 21, EGG BOMB at level 25, PROTECT at level 35, RAZOR LEAF at level 41, SLUDGE BOMB at level 51, HAIL at level 57, AIR CUTTER at level 67
+125 ELECTABUZZ : MACH PUNCH at level 1, HARDEN at level 1, FIRE BLAST at level 1, SUBMISSION at level 9, HEAT WAVE at level 17, CONVERSION at level 25, STRING SHOT at level 36, ROCK TOMB at level 47, HYPER FANG at level 58
+126 MAGMAR     : TAIL WHIP at level 1, SPLASH at level 1, THRASH at level 1, MUD SHOT at level 1, CLAMP at level 7, SOFTBOILED at level 13, CRUSH CLAW at level 19, TRIPLE KICK at level 25, HORN DRILL at level 33, SACRED FIRE at level 41, REFLECT at level 49, ENDEAVOR at level 57
+127 PINSIR     : WATER SPOUT at level 1, SHADOW BALL at level 1, BULLET SEED at level 7, MEGA DRAIN at level 13, SKULL BASH at level 19, CHARM at level 25, WITHDRAW at level 31, POISONPOWDER at level 37, SACRED FIRE at level 43, HYDRO CANNON at level 49
+128 TAUROS     : AROMATHERAPY at level 1, RAZOR LEAF at level 1, RAIN DANCE at level 4, TEETER DANCE at level 8, SUNNY DAY at level 13, RAPID SPIN at level 19, MAGICAL LEAF at level 26, REFRESH at level 34, SKETCH at level 43, DREAM EATER at level 53
+129 MAGIKARP   : ICE PUNCH at level 1, LEAF BLADE at level 15, CONVERSION 2 at level 30
+130 GYARADOS   : VITAL THROW at level 1, CONVERSION at level 20, NIGHTMARE at level 25, POISONPOWDER at level 30, SUPERSONIC at level 35, ROLLING KICK at level 40, POISON FANG at level 45, WITHDRAW at level 50, DIG at level 55
+131 LAPRAS     : SOLARBEAM at level 1, REFRESH at level 1, METAL CLAW at level 1, HELPING HAND at level 7, FRUSTRATION at level 13, TELEPORT at level 19, AERIAL ACE at level 25, LOW KICK at level 31, HARDEN at level 37, REST at level 43, SHARPEN at level 49, HAZE at level 55
+132 DITTO      : THUNDERBOLT at level 1
+133 EEVEE      : MEGAHORN at level 1, DYNAMICPUNCH at level 1, GIGA DRAIN at level 1, QUICK ATTACK at level 8, FOCUS PUNCH at level 16, SLACK OFF at level 23, FAKE OUT at level 30, STRING SHOT at level 36, TWISTER at level 42
+134 VAPOREON   : ASSIST at level 1, ANCIENTPOWER at level 1, UPROAR at level 1, GIGA DRAIN at level 8, SLASH at level 16, RAPID SPIN at level 23, POISON GAS at level 30, THUNDERPUNCH at level 36, SPORE at level 42, RAZOR LEAF at level 47, SANDSTORM at level 52
+135 JOLTEON    : RAZOR LEAF at level 1, EXPLOSION at level 1, METAL CLAW at level 1, TEETER DANCE at level 8, GLARE at level 16, KNOCK OFF at level 23, RAZOR WIND at level 30, PRESENT at level 36, COTTON SPORE at level 42, CROSS CHOP at level 47, HYPER BEAM at level 52
+136 FLAREON    : SMELLINGSALT at level 1, VINE WHIP at level 1, EXTREMESPEED at level 1, NIGHTMARE at level 8, PSYCH UP at level 16, TAIL GLOW at level 23, SAND-ATTACK at level 30, TOXIC at level 36, PURSUIT at level 42, TAIL WHIP at level 47, DOUBLE TEAM at level 52
+137 PORYGON    : SAND-ATTACK at level 1, SPORE at level 1, FIRE BLAST at level 1, ROLE PLAY at level 9, HYPER FANG at level 12, MUD SHOT at level 20, SKETCH at level 24, SNORE at level 32, VITAL THROW at level 36, DYNAMICPUNCH at level 44, EARTHQUAKE at level 48
+138 OMANYTE    : SHADOW BALL at level 1, SMELLINGSALT at level 1, FRUSTRATION at level 13, VITAL THROW at level 19, AROMATHERAPY at level 25, SUPERPOWER at level 31, MINIMIZE at level 37, SCRATCH at level 43, WISH at level 49, MIST at level 55
+139 OMASTAR    : SNATCH at level 1, BLAZE KICK at level 1, SWEET SCENT at level 1, SLUDGE BOMB at level 1, BARRAGE at level 13, FURY ATTACK at level 19, BLOCK at level 25, REVERSAL at level 31, PSYWAVE at level 37, MEAN LOOK at level 40, LOVELY KISS at level 46, COMET PUNCH at level 55, ABSORB at level 65
+140 KABUTO     : LEER at level 1, BLAST BURN at level 1, RAPID SPIN at level 13, SLEEP POWDER at level 19, TEETER DANCE at level 25, VINE WHIP at level 31, NIGHTMARE at level 37, BEAT UP at level 43, BUBBLEBEAM at level 49, CRUSH CLAW at level 55
+141 KABUTOPS   : BODY SLAM at level 1, SKY UPPERCUT at level 1, PROTECT at level 1, ASSIST at level 1, NEEDLE ARM at level 1, SAFEGUARD at level 13, PRESENT at level 19, CONVERSION 2 at level 25, DIG at level 31, RAPID SPIN at level 37, GIGA DRAIN at level 40, BARRIER at level 46, HEAT WAVE at level 55, KINESIS at level 65
+142 AERODACTYL : WATER SPOUT at level 1, WATER GUN at level 8, SHADOW PUNCH at level 15, CONVERSION at level 22, DISABLE at level 29, FISSURE at level 36, DRAGON CLAW at level 43, EXTRASENSORY at level 50
+143 SNORLAX    : TRI ATTACK at level 1, HELPING HAND at level 5, GUST at level 9, SKETCH at level 13, CONVERSION at level 17, DETECT at level 21, WEATHER BALL at level 25, EXPLOSION at level 29, SWEET KISS at level 33, RAZOR LEAF at level 37, SKILL SWAP at level 41, DOUBLE TEAM at level 45, IRON DEFENSE at level 49, SWEET SCENT at level 53
+144 ARTICUNO   : COSMIC POWER at level 1, DIG at level 1, FURY CUTTER at level 13, RECYCLE at level 25, EMBER at level 37, HARDEN at level 49, MIND READER at level 61, HIDDEN POWER at level 73, SKILL SWAP at level 85
+145 ZAPDOS     : SUPERSONIC at level 1, HI JUMP KICK at level 1, SMOG at level 13, MIND READER at level 25, UPROAR at level 37, MUD SHOT at level 49, TICKLE at level 61, MOONLIGHT at level 73, GIGA DRAIN at level 85
+146 MOLTRES    : DIZZY PUNCH at level 1, POISON TAIL at level 1, ROCK BLAST at level 13, SKY ATTACK at level 25, SPARK at level 37, SUNNY DAY at level 49, NIGHTMARE at level 61, LEECH SEED at level 73, TORMENT at level 85
+147 DRATINI    : SLACK OFF at level 1, LUSTER PURGE at level 1, SMELLINGSALT at level 8, FAKE TEARS at level 15, BIDE at level 22, EXTRASENSORY at level 29, THRASH at level 36, RAIN DANCE at level 43, HAIL at level 50, UPROAR at level 57
+148 DRAGONAIR  : OCTAZOOKA at level 1, DIZZY PUNCH at level 1, MIST BALL at level 1, POISON FANG at level 1, ARM THRUST at level 8, SPORE at level 15, HYPER BEAM at level 22, TRI ATTACK at level 29, SEISMIC TOSS at level 38, VOLT TACKLE at level 47, BELLY DRUM at level 56, FEATHERDANCE at level 65
+149 DRAGONITE  : BOUNCE at level 1, BLOCK at level 1, ICICLE SPEAR at level 1, DRAGON CLAW at level 1, RECOVER at level 8, EGG BOMB at level 15, FOCUS PUNCH at level 22, ICE BEAM at level 29, TRICK at level 38, WATER SPORT at level 47, MOONLIGHT at level 55, TELEPORT at level 61, ROLE PLAY at level 75
+150 MEWTWO     : SKETCH at level 1, PETAL DANCE at level 1, ERUPTION at level 11, DRAGONBREATH at level 22, TEETER DANCE at level 33, IMPRISON at level 44, NATURE POWER at level 55, SLUDGE BOMB at level 66, FOCUS PUNCH at level 77, FRUSTRATION at level 88, HI JUMP KICK at level 99
+151 MEW        : BLAST BURN at level 1, BATON PASS at level 10, ICICLE SPEAR at level 20, NIGHT SHADE at level 30, CONSTRICT at level 40, WATER SPOUT at level 50
+152 CHIKORITA  : UPROAR at level 1, AURORA BEAM at level 1, SILVER WIND at level 8, STOCKPILE at level 12, TAUNT at level 15, CRABHAMMER at level 22, ODOR SLEUTH at level 29, GROWL at level 36, YAWN at level 43, TICKLE at level 50
+153 BAYLEEF    : HYPNOSIS at level 1, SHOCK WAVE at level 1, SLEEP TALK at level 1, VOLT TACKLE at level 1, FURY CUTTER at level 8, IRON TAIL at level 12, DESTINY BOND at level 15, QUICK ATTACK at level 23, FIRE SPIN at level 31, EARTHQUAKE at level 39, SWALLOW at level 47, FRUSTRATION at level 55
+154 MEGANIUM   : FRENZY PLANT at level 1, TRI ATTACK at level 1, REVERSAL at level 1, SILVER WIND at level 1, REST at level 8, MEDITATE at level 12, OVERHEAT at level 15, RAIN DANCE at level 23, FALSE SWIPE at level 31, MEGA PUNCH at level 41, LEECH SEED at level 51, ROCK SLIDE at level 61
+155 CYNDAQUIL  : DYNAMICPUNCH at level 1, NEEDLE ARM at level 1, THUNDERPUNCH at level 6, FAKE OUT at level 12, SLEEP TALK at level 19, POISON TAIL at level 27, BARRIER at level 36, SLUDGE at level 46
+156 QUILAVA    : FLAIL at level 1, FRENZY PLANT at level 1, CONFUSION at level 1, POISONPOWDER at level 6, SPIDER WEB at level 12, ROLLOUT at level 21, FURY SWIPES at level 31, HIDDEN POWER at level 42, ICE PUNCH at level 54
+157 TYPHLOSION : REST at level 1, MIST BALL at level 1, BLAZE KICK at level 1, SPIT UP at level 1, HEADBUTT at level 6, MEAN LOOK at level 12, CONVERSION at level 21, CAMOUFLAGE at level 31, HEAT WAVE at level 45, ROCK THROW at level 60
+158 TOTODILE   : SAFEGUARD at level 1, ICE PUNCH at level 1, FLAME WHEEL at level 7, BITE at level 13, BULK UP at level 20, BOUNCE at level 27, BATON PASS at level 35, REVENGE at level 43, POISONPOWDER at level 52
+159 CROCONAW   : SWEET KISS at level 1, ICE BALL at level 1, ICE BEAM at level 1, WHIRLWIND at level 7, POISON STING at level 13, BULK UP at level 21, ASTONISH at level 28, SKETCH at level 37, SWEET SCENT at level 45, COSMIC POWER at level 55
+160 FERALIGATR : TAKE DOWN at level 1, DRILL PECK at level 1, TWINEEDLE at level 1, WATER PULSE at level 1, PSYCH UP at level 7, SOFTBOILED at level 13, SPITE at level 21, MIRROR MOVE at level 28, TRIPLE KICK at level 38, FEATHERDANCE at level 47, SILVER WIND at level 58
+161 SENTRET    : WEATHER BALL at level 1, EMBER at level 4, TRIPLE KICK at level 7, SNORE at level 12, WATER GUN at level 17, FORESIGHT at level 24, PURSUIT at level 31, POISONPOWDER at level 40, PSYCHIC at level 49
+162 FURRET     : DISABLE at level 1, PROTECT at level 1, CROSS CHOP at level 1, SCRATCH at level 4, SUPER FANG at level 7, POISON TAIL at level 12, DIZZY PUNCH at level 19, ABSORB at level 28, SCARY FACE at level 37, ICE BEAM at level 48, KINESIS at level 59
+163 HOOTHOOT   : SMOKESCREEN at level 1, GIGA DRAIN at level 1, PSYCHIC at level 6, DOUBLE-EDGE at level 11, SCRATCH at level 16, FLATTER at level 22, DRILL PECK at level 28, CONFUSE RAY at level 34, BONE CLUB at level 48
+164 NOCTOWL    : SECRET POWER at level 1, SACRED FIRE at level 1, STEEL WING at level 1, HYPER FANG at level 1, CROSS CHOP at level 6, BEAT UP at level 11, WATER PULSE at level 16, ICE BALL at level 25, BULLET SEED at level 33, QUICK ATTACK at level 41, WING ATTACK at level 57
+165 LEDYBA     : CROSS CHOP at level 1, IMPRISON at level 8, FUTURE SIGHT at level 15, ICE PUNCH at level 22, COTTON SPORE at level 22, MUD SPORT at level 22, MIST BALL at level 29, THRASH at level 36, LUSTER PURGE at level 43, SWORDS DANCE at level 50
+166 LEDIAN     : MIND READER at level 1, AURORA BEAM at level 1, ROCK SLIDE at level 8, MAGICAL LEAF at level 15, DOUBLESLAP at level 24, SPORE at level 24, THRASH at level 24, TRI ATTACK at level 33, SLUDGE BOMB at level 42, POISONPOWDER at level 51, SYNTHESIS at level 60
+167 SPINARAK   : LOW KICK at level 1, SKY ATTACK at level 1, ROLLING KICK at level 6, SKULL BASH at level 11, HYPNOSIS at level 17, SILVER WIND at level 23, FIRE SPIN at level 30, STEEL WING at level 37, FOLLOW ME at level 45, SHEER COLD at level 53
+168 ARIADOS    : LEAF BLADE at level 1, SUPER FANG at level 1, HAIL at level 1, MEGA KICK at level 1, AMNESIA at level 6, TRIPLE KICK at level 11, SUPERPOWER at level 17, WITHDRAW at level 25, SECRET POWER at level 34, METRONOME at level 43, ACID ARMOR at level 53, SLEEP TALK at level 63
+169 CROBAT     : SWALLOW at level 1, MIRROR MOVE at level 1, POISONPOWDER at level 1, DRAGON CLAW at level 1, SANDSTORM at level 6, FRENZY PLANT at level 11, ENDEAVOR at level 16, BONE CLUB at level 21, BULLET SEED at level 28, REFRESH at level 35, PERISH SONG at level 42, PAY DAY at level 49, COVET at level 56
+170 CHINCHOU   : ENDURE at level 1, RAZOR WIND at level 1, CRUSH CLAW at level 5, SLACK OFF at level 13, ROCK SLIDE at level 17, CHARGE at level 25, ICICLE SPEAR at level 29, FAKE TEARS at level 37, FAINT ATTACK at level 41, POISON TAIL at level 49
+171 LANTURN    : LEECH LIFE at level 1, FACADE at level 1, METEOR MASH at level 1, SPIT UP at level 5, MUD SHOT at level 13, THUNDERPUNCH at level 17, HAZE at level 25, FLAIL at level 32, QUICK ATTACK at level 43, DOUBLE TEAM at level 50, TEETER DANCE at level 61
+172 PICHU      : ROLLOUT at level 1, MEGA KICK at level 1, STRING SHOT at level 6, RAZOR LEAF at level 8, SHARPEN at level 11
+173 CLEFFA     : SHARPEN at level 1, FIRE PUNCH at level 1, MIST BALL at level 4, SYNTHESIS at level 8, BLAST BURN at level 13, REVENGE at level 17
+174 IGGLYBUFF  : DESTINY BOND at level 1, DRILL PECK at level 1, BRICK BREAK at level 4, PIN MISSILE at level 9, PSYCHIC at level 14
+175 TOGEPI     : OUTRAGE at level 1, RAZOR LEAF at level 1, POWDER SNOW at level 4, SWALLOW at level 9, ABSORB at level 13, COUNTER at level 17, HYPER BEAM at level 21, POISONPOWDER at level 25, POISON STING at level 29, HAIL at level 33, SANDSTORM at level 37, SHOCK WAVE at level 41
+176 TOGETIC    : WATER SPOUT at level 1, FAINT ATTACK at level 1, SKETCH at level 1, HORN ATTACK at level 1, BITE at level 1, GRUDGE at level 4, SLEEP POWDER at level 9, SLAM at level 13, ACID at level 17, DIZZY PUNCH at level 21, QUICK ATTACK at level 25, BULK UP at level 29, HYDRO CANNON at level 33, BONE RUSH at level 37, POISONPOWDER at level 41
+177 NATU       : BARRIER at level 1, THUNDER at level 1, AGILITY at level 10, PSYCHIC at level 20, RECOVER at level 30, FLAMETHROWER at level 30, FOLLOW ME at level 40, MIST BALL at level 50
+178 XATU       : BULK UP at level 1, BLAZE KICK at level 1, CALM MIND at level 10, ROLLING KICK at level 20, TAIL GLOW at level 35, LIGHT SCREEN at level 35, PAY DAY at level 50, SHEER COLD at level 65
+179 MAREEP     : VOLT TACKLE at level 1, HYPER FANG at level 1, PIN MISSILE at level 9, SIGNAL BEAM at level 16, AMNESIA at level 23, DETECT at level 30, GIGA DRAIN at level 37
+180 FLAAFFY    : POISONPOWDER at level 1, IRON TAIL at level 1, SKY ATTACK at level 1, LEECH SEED at level 9, SHARPEN at level 18, BIND at level 27, WILL-O-WISP at level 36, HYPER BEAM at level 45
+181 AMPHAROS   : SCARY FACE at level 1, PSYCHO BOOST at level 1, MEDITATE at level 1, DRAGONBREATH at level 1, THUNDERSHOCK at level 9, HI JUMP KICK at level 18, DIG at level 27, TWISTER at level 30, SILVER WIND at level 42, RECYCLE at level 57
+182 BELLOSSOM  : BLAST BURN at level 1, TAKE DOWN at level 1, MUD SHOT at level 1, FRENZY PLANT at level 1, WISH at level 44, BARRAGE at level 55
+183 MARILL     : EGG BOMB at level 1, KNOCK OFF at level 3, FLATTER at level 6, FLAMETHROWER at level 10, FOCUS ENERGY at level 15, RAPID SPIN at level 21, SKULL BASH at level 28, ICE BEAM at level 36, SACRED FIRE at level 45
+184 AZUMARILL  : MUDDY WATER at level 1, STOCKPILE at level 1, BLAZE KICK at level 1, HYPER VOICE at level 1, SKY UPPERCUT at level 3, FISSURE at level 6, MILK DRINK at level 10, OVERHEAT at level 15, FOCUS ENERGY at level 24, SPIKES at level 34, ICICLE SPEAR at level 45, SPORE at level 57
+185 SUDOWOODO  : MUD-SLAP at level 1, WATER SPOUT at level 1, MEAN LOOK at level 9, TACKLE at level 17, AIR CUTTER at level 25, PSYCHIC at level 33, MAGIC COAT at level 41, OUTRAGE at level 49, DOUBLE-EDGE at level 57
+186 POLITOED   : SPIT UP at level 1, IRON DEFENSE at level 1, DIG at level 1, LUSTER PURGE at level 1, DREAM EATER at level 35, PURSUIT at level 51
+187 HOPPIP     : THUNDER at level 1, MIST BALL at level 5, LICK at level 5, BONEMERANG at level 10, HAIL at level 13, TAUNT at level 15, SWAGGER at level 17, ACID ARMOR at level 20, FIRE PUNCH at level 25, MUD SPORT at level 30
+188 SKIPLOOM   : COVET at level 1, BIND at level 1, BULLET SEED at level 1, LEAF BLADE at level 1, DRAGON DANCE at level 5, BARRAGE at level 5, OCTAZOOKA at level 10, SWIFT at level 13, FLAME WHEEL at level 15, ICE PUNCH at level 17, SPITE at level 22, PSYCHIC at level 29, SUPER FANG at level 36
+189 JUMPLUFF   : FURY CUTTER at level 1, COMET PUNCH at level 1, SWEET KISS at level 1, ZAP CANNON at level 1, FIRE SPIN at level 5, WATER SPOUT at level 5, PROTECT at level 10, TACKLE at level 13, TICKLE at level 15, PSYCHIC at level 17, RETURN at level 22, SLAM at level 33, LEECH LIFE at level 44
+190 AIPOM      : THUNDERBOLT at level 1, DIG at level 1, THUNDERSHOCK at level 6, SPIKES at level 13, BOUNCE at level 18, GRUDGE at level 25, ROCK TOMB at level 31, RECYCLE at level 38, CRUNCH at level 43, ICE BALL at level 50
+191 SUNKERN    : THUNDERPUNCH at level 1, ROAR at level 6, LOVELY KISS at level 13, FAKE TEARS at level 18, THUNDER at level 25, SPARK at level 30, SKY UPPERCUT at level 37, RECOVER at level 42
+192 SUNFLORA   : BARRAGE at level 1, SUPERPOWER at level 1, ICE BALL at level 6, SKY ATTACK at level 13, HYPER BEAM at level 18, WING ATTACK at level 25, SAND-ATTACK at level 30, MEAN LOOK at level 37, MAGIC COAT at level 42
+193 YANMA      : SUPER FANG at level 1, ICY WIND at level 1, TRICK at level 6, ANCIENTPOWER at level 12, BIND at level 17, SWEET SCENT at level 23, ROLLOUT at level 28, DYNAMICPUNCH at level 34, COUNTER at level 39, SLEEP POWDER at level 45, MAGICAL LEAF at level 50
+194 WOOPER     : EXTRASENSORY at level 1, HEADBUTT at level 1, FRUSTRATION at level 11, FIRE BLAST at level 16, POISON FANG at level 21, REST at level 31, NEEDLE ARM at level 36, SWEET KISS at level 41, THUNDER WAVE at level 51, RAGE at level 51
+195 QUAGSIRE   : CHARGE at level 1, IRON TAIL at level 1, DOUBLE KICK at level 11, SIGNAL BEAM at level 16, HORN ATTACK at level 23, ROCK THROW at level 35, BUBBLEBEAM at level 42, FEATHERDANCE at level 49, RAZOR WIND at level 61, ROCK SLIDE at level 61
+196 ESPEON     : ROCK TOMB at level 1, SKY ATTACK at level 1, HYPER BEAM at level 1, BIDE at level 8, TACKLE at level 16, SUNNY DAY at level 23, HEADBUTT at level 30, STEEL WING at level 36, DRILL PECK at level 42, ABSORB at level 47, SMOG at level 52
+197 UMBREON    : WATER SPOUT at level 1, METRONOME at level 1, REVENGE at level 1, ICE BEAM at level 8, SWEET SCENT at level 16, PAIN SPLIT at level 23, LEECH SEED at level 30, TACKLE at level 36, OCTAZOOKA at level 42, PECK at level 47, GIGA DRAIN at level 52
+198 MURKROW    : SMELLINGSALT at level 1, PIN MISSILE at level 9, WING ATTACK at level 14, PSYWAVE at level 22, LOW KICK at level 27, SYNTHESIS at level 35, PSYCH UP at level 40, TAIL WHIP at level 48
+199 SLOWKING   : DOUBLESLAP at level 1, THUNDERPUNCH at level 1, PSYBEAM at level 1, WING ATTACK at level 6, POISON FANG at level 13, CALM MIND at level 17, DOUBLE-EDGE at level 24, PERISH SONG at level 29, PECK at level 36, TAIL GLOW at level 40, HAZE at level 47
+200 MISDREAVUS : FURY CUTTER at level 1, ROCK SLIDE at level 1, RAZOR LEAF at level 6, TOXIC at level 11, BARRIER at level 17, AURORA BEAM at level 23, SPARK at level 30, LUSTER PURGE at level 37, ICE BEAM at level 45, FACADE at level 53
+201 UNOWN      : FLAME WHEEL at level 1
+202 WOBBUFFET  : NIGHT SHADE at level 1, FORESIGHT at level 1, ROLLOUT at level 1, SILVER WIND at level 1
+203 GIRAFARIG  : REFLECT at level 1, LEAF BLADE at level 1, HARDEN at level 7, SHARPEN at level 13, GUST at level 19, PRESENT at level 25, SING at level 31, NIGHTMARE at level 37, SKULL BASH at level 43, FUTURE SIGHT at level 49
+204 PINECO     : CONVERSION at level 1, BUBBLEBEAM at level 1, AGILITY at level 8, SCREECH at level 15, FOCUS ENERGY at level 22, ERUPTION at level 29, TICKLE at level 36, SHADOW PUNCH at level 43, SPLASH at level 50
+205 FORRETRESS : CHARM at level 1, WEATHER BALL at level 1, BONEMERANG at level 1, CONFUSION at level 8, FALSE SWIPE at level 15, SWIFT at level 22, CONVERSION at level 29, MEGAHORN at level 31, ASSIST at level 39, DREAM EATER at level 49, HOWL at level 59
+206 DUNSPARCE  : WING ATTACK at level 1, MEMENTO at level 4, GROWTH at level 11, FISSURE at level 14, ROCK BLAST at level 21, CRUNCH at level 24, RAZOR LEAF at level 31, SWIFT at level 34, MORNING SUN at level 41, SYNTHESIS at level 44, HIDDEN POWER at level 51
+207 GLIGAR     : FLAMETHROWER at level 1, BODY SLAM at level 6, SWAGGER at level 13, ENCORE at level 20, CONFUSION at level 28, MEAN LOOK at level 36, WITHDRAW at level 44, SAND TOMB at level 52
+208 STEELIX    : MACH PUNCH at level 1, EGG BOMB at level 1, SIGNAL BEAM at level 8, PETAL DANCE at level 12, FORESIGHT at level 19, WITHDRAW at level 23, SPIDER WEB at level 30, UPROAR at level 34, ICE BALL at level 41, COVET at level 45, SPITE at level 52, LUSTER PURGE at level 56
+209 SNUBBULL   : PSYWAVE at level 1, DRAGONBREATH at level 1, REST at level 4, WATER SPORT at level 8, SANDSTORM at level 13, SUBSTITUTE at level 19, SKILL SWAP at level 26, POISONPOWDER at level 34, GUST at level 43, DEFENSE CURL at level 53
+210 GRANBULL   : SIGNAL BEAM at level 1, WATER SPOUT at level 1, MEAN LOOK at level 4, SAFEGUARD at level 8, GROWL at level 13, FRENZY PLANT at level 19, FALSE SWIPE at level 28, BIND at level 38, METAL CLAW at level 49, SANDSTORM at level 61
+211 QWILFISH   : ICE BALL at level 1, POWDER SNOW at level 1, PETAL DANCE at level 1, GRUDGE at level 9, STUN SPORE at level 9, HORN ATTACK at level 13, ENCORE at level 21, BLOCK at level 25, OUTRAGE at level 33, BULK UP at level 37, RAZOR WIND at level 45
+212 SCIZOR     : HYPER FANG at level 1, MEGAHORN at level 1, SUNNY DAY at level 6, MIRROR MOVE at level 11, ATTRACT at level 16, PRESENT at level 21, LICK at level 26, POUND at level 31, SLUDGE BOMB at level 36, DYNAMICPUNCH at level 41, REFRESH at level 46
+213 SHUCKLE    : SKY ATTACK at level 1, MEGA KICK at level 1, SAND TOMB at level 9, ICICLE SPEAR at level 14, SPIKES at level 23, HELPING HAND at level 28, ASTONISH at level 37
+214 HERACROSS  : YAWN at level 1, THUNDERPUNCH at level 1, FEATHERDANCE at level 6, SING at level 11, GIGA DRAIN at level 17, SKULL BASH at level 23, ASSIST at level 30, CRUNCH at level 37, TAUNT at level 45, DOUBLESLAP at level 53
+215 SNEASEL    : PECK at level 1, MACH PUNCH at level 1, BLAST BURN at level 1, THUNDERPUNCH at level 8, HARDEN at level 15, FEATHERDANCE at level 22, SHADOW BALL at level 29, ICY WIND at level 36, AERIAL ACE at level 43, MAGICAL LEAF at level 50, SLACK OFF at level 57, SMELLINGSALT at level 64
+216 TEDDIURSA  : HORN DRILL at level 1, HYPER BEAM at level 1, BLOCK at level 7, PSYCHO BOOST at level 13, FOLLOW ME at level 19, SLAM at level 25, SKULL BASH at level 31, WATER PULSE at level 37, STUN SPORE at level 43, AGILITY at level 49
+217 URSARING   : DOOM DESIRE at level 1, HARDEN at level 1, ACID ARMOR at level 1, EXTREMESPEED at level 1, HEADBUTT at level 7, MEMENTO at level 13, AROMATHERAPY at level 19, SLACK OFF at level 25, AURORA BEAM at level 31, ICICLE SPEAR at level 37, GLARE at level 43, SILVER WIND at level 49
+218 SLUGMA     : POISON TAIL at level 1, HI JUMP KICK at level 1, WRAP at level 8, SLASH at level 15, RAGE at level 22, TAKE DOWN at level 29, LUSTER PURGE at level 36, EXTRASENSORY at level 43, FOCUS PUNCH at level 50
+219 MAGCARGO   : DRAGON CLAW at level 1, DIG at level 1, MAGICAL LEAF at level 1, SPIT UP at level 1, MIMIC at level 8, WATER GUN at level 15, SKETCH at level 22, AEROBLAST at level 29, DESTINY BOND at level 36, THUNDERSHOCK at level 48, VITAL THROW at level 60
+220 SWINUB     : COSMIC POWER at level 1, ROCK SLIDE at level 1, FRENZY PLANT at level 10, POISON STING at level 19, ROLLING KICK at level 28, CAMOUFLAGE at level 37, JUMP KICK at level 46, SELFDESTRUCT at level 55
+221 PILOSWINE  : SILVER WIND at level 1, SKULL BASH at level 1, AROMATHERAPY at level 1, SLUDGE BOMB at level 1, HIDDEN POWER at level 10, PAIN SPLIT at level 19, THUNDER at level 28, GROWTH at level 33, TICKLE at level 42, SCRATCH at level 56, REVERSAL at level 70
+222 CORSOLA    : CROSS CHOP at level 1, HYPNOSIS at level 6, WISH at level 12, SPIT UP at level 17, BLAST BURN at level 17, COSMIC POWER at level 23, BITE at level 28, MUDDY WATER at level 34, CONFUSION at level 39, DOOM DESIRE at level 45
+223 REMORAID   : KARATE CHOP at level 1, BULLET SEED at level 11, SWAGGER at level 22, THIEF at level 22, SING at level 22, SPARK at level 33, LICK at level 44, COUNTER at level 55
+224 OCTILLERY  : WATER SPOUT at level 1, ENDURE at level 11, SPIDER WEB at level 22, MEGAHORN at level 22, WATER PULSE at level 22, FIRE PUNCH at level 25, PECK at level 38, ROLLOUT at level 54, ICE PUNCH at level 70
+225 DELIBIRD   : DRAGONBREATH at level 1
+226 MANTINE    : SKY ATTACK at level 1, ROCK SLIDE at level 1, WING ATTACK at level 8, COTTON SPORE at level 15, ANCIENTPOWER at level 22, RAZOR WIND at level 29, CALM MIND at level 36, THUNDERSHOCK at level 43, DESTINY BOND at level 50
+227 SKARMORY   : REFLECT at level 1, SILVER WIND at level 1, VITAL THROW at level 10, ICICLE SPEAR at level 13, MILK DRINK at level 16, HEAL BELL at level 26, MUD SPORT at level 29, RAGE at level 32, SMOKESCREEN at level 42, DEFENSE CURL at level 45
+228 HOUNDOUR   : AGILITY at level 1, POISON FANG at level 1, CROSS CHOP at level 7, MEGA DRAIN at level 13, DOUBLE-EDGE at level 19, INGRAIN at level 25, SHOCK WAVE at level 31, BONE RUSH at level 37, HARDEN at level 43, PSYCHIC at level 49
+229 HOUNDOOM   : LIGHT SCREEN at level 1, FIRE BLAST at level 1, HORN ATTACK at level 1, FRENZY PLANT at level 7, CONSTRICT at level 13, TORMENT at level 19, RECOVER at level 27, POISON FANG at level 35, PSYCH UP at level 43, SHADOW BALL at level 51, HYPNOSIS at level 59
+230 KINGDRA    : DOUBLESLAP at level 1, STUN SPORE at level 1, TAIL GLOW at level 1, AEROBLAST at level 1, SPIKES at level 8, PROTECT at level 15, CONVERSION 2 at level 22, PETAL DANCE at level 29, REFRESH at level 40, ROLLOUT at level 51, AMNESIA at level 62
+231 PHANPY     : BIND at level 1, COMET PUNCH at level 1, DIG at level 1, POISON GAS at level 9, CONVERSION 2 at level 17, PIN MISSILE at level 25, ATTRACT at level 33, REFLECT at level 41, ARM THRUST at level 49
+232 DONPHAN    : CONVERSION 2 at level 1, SUPER FANG at level 1, SUPERPOWER at level 1, VINE WHIP at level 9, FIRE SPIN at level 17, SKILL SWAP at level 25, BUBBLE at level 33, WATER GUN at level 41, BITE at level 49
+233 PORYGON2   : SHADOW BALL at level 1, SLAM at level 1, POISON FANG at level 1, INGRAIN at level 9, ICE BEAM at level 12, NIGHTMARE at level 20, THUNDER WAVE at level 24, SHADOW PUNCH at level 32, KINESIS at level 36, MIMIC at level 44, SUPERPOWER at level 48
+234 STANTLER   : VITAL THROW at level 1, PSYBEAM at level 7, NATURE POWER at level 11, MEMENTO at level 17, BULK UP at level 21, CROSS CHOP at level 27, SLEEP POWDER at level 31, HI JUMP KICK at level 37, HARDEN at level 41, SKY UPPERCUT at level 47
+235 SMEARGLE   : PSYCHIC at level 1, STRING SHOT at level 11, CONVERSION at level 21, PIN MISSILE at level 31, WHIRLPOOL at level 41, METRONOME at level 51, TRIPLE KICK at level 61, ACID ARMOR at level 71, MUD-SLAP at level 81, BRICK BREAK at level 91
+236 TYROGUE    : THRASH at level 1
+237 HITMONTOP  : HAZE at level 1, WEATHER BALL at level 1, GROWL at level 7, HYDRO CANNON at level 13, TAIL WHIP at level 19, GROWTH at level 20, QUICK ATTACK at level 25, CLAMP at level 31, WING ATTACK at level 37, CHARM at level 43, SUPERPOWER at level 49
+238 SMOOCHUM   : SKY ATTACK at level 1, MIST BALL at level 1, SCREECH at level 9, PAIN SPLIT at level 13, GUST at level 21, SHOCK WAVE at level 25, SHARPEN at level 33, HYDRO PUMP at level 37, SWEET SCENT at level 45, SPITE at level 49, AGILITY at level 57
+239 ELEKID     : NEEDLE ARM at level 1, PSYBEAM at level 1, EXPLOSION at level 9, ODOR SLEUTH at level 17, AURORA BEAM at level 25, GLARE at level 33, SCARY FACE at level 41, DYNAMICPUNCH at level 49
+240 MAGBY      : ANCIENTPOWER at level 1, SLAM at level 7, BRICK BREAK at level 13, TACKLE at level 19, MINIMIZE at level 25, FLAME WHEEL at level 31, SKULL BASH at level 37, SELFDESTRUCT at level 43, WATER SPORT at level 49
+241 MILTANK    : THUNDERBOLT at level 1, KINESIS at level 4, CHARGE at level 8, AEROBLAST at level 13, CAMOUFLAGE at level 19, BLAST BURN at level 26, ICE BEAM at level 34, BITE at level 43, MUD-SLAP at level 53
+242 BLISSEY    : SLASH at level 1, GIGA DRAIN at level 1, GUILLOTINE at level 4, MACH PUNCH at level 7, OUTRAGE at level 10, SAFEGUARD at level 13, PSYCHIC at level 18, SHOCK WAVE at level 23, PETAL DANCE at level 28, ENDEAVOR at level 33, HYPER BEAM at level 40, REVERSAL at level 47
+243 RAIKOU     : PROTECT at level 1, ICY WIND at level 1, SLEEP TALK at level 11, FORESIGHT at level 21, PECK at level 31, ENDEAVOR at level 41, NIGHTMARE at level 51, VICEGRIP at level 61, FAKE TEARS at level 71, FEATHERDANCE at level 81
+244 ENTEI      : TAIL GLOW at level 1, DRAGON CLAW at level 1, REVENGE at level 11, FISSURE at level 21, HORN DRILL at level 31, TELEPORT at level 41, RAZOR WIND at level 51, WATER SPOUT at level 61, HAZE at level 71, CRUNCH at level 81
+245 SUICUNE    : TOXIC at level 1, DRAGONBREATH at level 1, IRON DEFENSE at level 11, TRICK at level 21, FIRE PUNCH at level 31, MIMIC at level 41, DEFENSE CURL at level 51, SNORE at level 61, FLAMETHROWER at level 71, MEGA KICK at level 81
+246 LARVITAR   : FURY SWIPES at level 1, DRAGON CLAW at level 1, REFRESH at level 8, THRASH at level 15, EXTRASENSORY at level 22, MEGA PUNCH at level 29, RAZOR WIND at level 36, STOCKPILE at level 43, LEECH SEED at level 50, CRUSH CLAW at level 57
+247 PUPITAR    : AROMATHERAPY at level 1, SCREECH at level 1, ERUPTION at level 1, ICE BEAM at level 1, TICKLE at level 8, SIGNAL BEAM at level 15, IMPRISON at level 22, BATON PASS at level 29, ROCK SLIDE at level 38, HYPNOSIS at level 47, MIRROR MOVE at level 56, MEGA DRAIN at level 65
+248 TYRANITAR  : COTTON SPORE at level 1, SKULL BASH at level 1, SHARPEN at level 1, SILVER WIND at level 1, SPARK at level 8, COSMIC POWER at level 15, SLEEP POWDER at level 22, TELEPORT at level 29, PETAL DANCE at level 38, POUND at level 47, PURSUIT at level 61, HOWL at level 75
+249 LUGIA      : GIGA DRAIN at level 1, ZAP CANNON at level 11, PAY DAY at level 22, SUBSTITUTE at level 33, POISON GAS at level 44, LUSTER PURGE at level 55, SWEET SCENT at level 66, WHIRLPOOL at level 77, MUDDY WATER at level 88, FIRE PUNCH at level 99
+250 HO-OH      : SLUDGE BOMB at level 1, LEAF BLADE at level 11, CALM MIND at level 22, SWIFT at level 33, HEAT WAVE at level 44, HORN DRILL at level 55, NEEDLE ARM at level 66, QUICK ATTACK at level 77, CRUNCH at level 88, TAUNT at level 99
+251 CELEBI     : CONFUSE RAY at level 1, DYNAMICPUNCH at level 1, FURY CUTTER at level 1, HYPER FANG at level 1, REFLECT at level 10, RECYCLE at level 20, SWIFT at level 30, BLIZZARD at level 40, GUILLOTINE at level 50
+252 TREECKO    : METEOR MASH at level 1, ROCK SLIDE at level 1, SWORDS DANCE at level 6, SPITE at level 11, OVERHEAT at level 16, YAWN at level 21, SCREECH at level 26, TRIPLE KICK at level 31, TEETER DANCE at level 36, POISON STING at level 41, OCTAZOOKA at level 46
+253 GROVYLE    : TWINEEDLE at level 1, BIND at level 1, SKY ATTACK at level 1, HYPER FANG at level 1, ICY WIND at level 6, BULLET SEED at level 11, SLEEP TALK at level 16, DREAM EATER at level 17, REFLECT at level 23, CALM MIND at level 29, METAL CLAW at level 35, EXPLOSION at level 41, TAUNT at level 47, CHARGE at level 53
+254 SCEPTILE   : HYDRO CANNON at level 1, KINESIS at level 1, ROCK TOMB at level 1, SOLARBEAM at level 1, DRILL PECK at level 6, TWINEEDLE at level 11, SHADOW BALL at level 16, BULK UP at level 17, SNATCH at level 23, LEER at level 29, FRUSTRATION at level 35, PRESENT at level 43, SECRET POWER at level 51, FOCUS PUNCH at level 59
+255 TORCHIC    : MEGA DRAIN at level 1, FACADE at level 1, DETECT at level 7, SWEET SCENT at level 10, NIGHT SHADE at level 16, PSYCHO BOOST at level 19, DIG at level 25, SUPERPOWER at level 28, AROMATHERAPY at level 34, REVERSAL at level 37, FORESIGHT at level 43
+256 COMBUSKEN  : SNATCH at level 1, CRUNCH at level 1, HEADBUTT at level 1, SHADOW BALL at level 1, EMBER at level 7, BRICK BREAK at level 13, WILL-O-WISP at level 16, JUMP KICK at level 17, TICKLE at level 21, FLAIL at level 28, HOWL at level 32, ICE PUNCH at level 39, CLAMP at level 43, PSYCHIC at level 50
+257 BLAZIKEN   : WITHDRAW at level 1, SOFTBOILED at level 1, HYPER VOICE at level 1, HIDDEN POWER at level 1, DOUBLE-EDGE at level 1, SLEEP POWDER at level 7, BELLY DRUM at level 13, MIST BALL at level 16, ICY WIND at level 17, MOONLIGHT at level 21, PSYCHO BOOST at level 28, HYPNOSIS at level 32, ASTONISH at level 36, ENDURE at level 42, EXTREMESPEED at level 49, STOMP at level 59
+258 MUDKIP     : CRUNCH at level 1, HYPER BEAM at level 1, POISON GAS at level 6, TORMENT at level 10, WATER GUN at level 15, MIST at level 19, DISABLE at level 24, SWEET KISS at level 28, SKY ATTACK at level 33, SUNNY DAY at level 37, JUMP KICK at level 42, EXPLOSION at level 46
+259 MARSHTOMP  : CONFUSION at level 1, METEOR MASH at level 1, SPARK at level 1, EXTREMESPEED at level 1, TOXIC at level 6, TELEPORT at level 10, NIGHTMARE at level 15, PROTECT at level 16, COVET at level 20, SIGNAL BEAM at level 25, THRASH at level 31, KNOCK OFF at level 37, POISON GAS at level 42, BEAT UP at level 46, WATER SPORT at level 53
+260 SWAMPERT   : FISSURE at level 1, HELPING HAND at level 1, DYNAMICPUNCH at level 1, HEAT WAVE at level 1, AGILITY at level 6, AEROBLAST at level 10, SLEEP POWDER at level 15, SKY UPPERCUT at level 16, TWISTER at level 20, ODOR SLEUTH at level 25, FURY ATTACK at level 31, FIRE PUNCH at level 39, SMOG at level 46, SWEET SCENT at level 52, DREAM EATER at level 61
+261 POOCHYENA  : HORN ATTACK at level 1, PSYWAVE at level 5, BIDE at level 9, ZAP CANNON at level 13, MIRROR MOVE at level 17, BULK UP at level 21, SUPERSONIC at level 25, BONE RUSH at level 29, SMOKESCREEN at level 33, IRON DEFENSE at level 37, MEMENTO at level 41, FAKE TEARS at level 45
+262 MIGHTYENA  : NEEDLE ARM at level 1, SELFDESTRUCT at level 1, SWORDS DANCE at level 1, MEGAHORN at level 1, DOUBLE-EDGE at level 5, MOONLIGHT at level 9, MIST BALL at level 13, STRING SHOT at level 17, POISON STING at level 22, BARRIER at level 27, SNATCH at level 32, PSYCHO BOOST at level 37, STOMP at level 42, REFRESH at level 47, AIR CUTTER at level 52
+263 ZIGZAGOON  : RETURN at level 1, FLAMETHROWER at level 1, VOLT TACKLE at level 5, THUNDER WAVE at level 9, HEAT WAVE at level 13, MIST BALL at level 17, WATER SPORT at level 21, PURSUIT at level 25, RAZOR LEAF at level 29, SWEET KISS at level 33, MILK DRINK at level 37, HYPNOSIS at level 41
+264 LINOONE    : SACRED FIRE at level 1, SPIKES at level 1, PSYCHIC at level 1, THUNDERPUNCH at level 1, SUPERSONIC at level 5, POUND at level 9, CONSTRICT at level 13, EGG BOMB at level 17, DOUBLE-EDGE at level 23, SLAM at level 29, MUD SHOT at level 35, VICEGRIP at level 41, AEROBLAST at level 47, TELEPORT at level 53
+265 WURMPLE    : POUND at level 1, HYDRO CANNON at level 1, BULK UP at level 5
+266 SILCOON    : REVENGE at level 1, SLEEP TALK at level 7
+267 BEAUTIFLY  : SPARK at level 1, DREAM EATER at level 10, LEECH LIFE at level 13, ICE BEAM at level 17, FORESIGHT at level 20, WITHDRAW at level 24, SWEET KISS at level 27, HYPNOSIS at level 31, RAZOR WIND at level 34, IRON TAIL at level 38
+268 CASCOON    : SPARK at level 1, FACADE at level 7
+269 DUSTOX     : EGG BOMB at level 1, SCARY FACE at level 10, MUD SPORT at level 13, TEETER DANCE at level 17, SLEEP TALK at level 20, GROWL at level 24, VICEGRIP at level 27, TAUNT at level 31, TICKLE at level 34, FIRE SPIN at level 38
+270 LOTAD      : ICE BEAM at level 1, IRON DEFENSE at level 3, HIDDEN POWER at level 7, FIRE BLAST at level 13, IRON TAIL at level 21, PAIN SPLIT at level 31, TORMENT at level 43
+271 LOMBRE     : PETAL DANCE at level 1, FEATHERDANCE at level 3, TOXIC at level 7, CRUSH CLAW at level 13, SPIKE CANNON at level 19, THRASH at level 25, TAIL WHIP at level 31, WATER GUN at level 37, SCARY FACE at level 43, DOUBLESLAP at level 49
+272 LUDICOLO   : WEATHER BALL at level 1, SKULL BASH at level 1, SHARPEN at level 1, EXTRASENSORY at level 1
+273 SEEDOT     : THUNDERBOLT at level 1, GIGA DRAIN at level 3, TAIL WHIP at level 7, TORMENT at level 13, SLUDGE at level 21, CAMOUFLAGE at level 31, DOUBLE-EDGE at level 43
+274 NUZLEAF    : REVENGE at level 1, WEATHER BALL at level 3, HYPER VOICE at level 7, EGG BOMB at level 13, OUTRAGE at level 19, COMET PUNCH at level 25, KNOCK OFF at level 31, DETECT at level 37, SLUDGE at level 43, GLARE at level 49
+275 SHIFTRY    : SYNTHESIS at level 1, LEER at level 1, COUNTER at level 1, DRAGONBREATH at level 1
+276 TAILLOW    : WHIRLWIND at level 1, FIRE PUNCH at level 1, PERISH SONG at level 4, ROLLING KICK at level 8, NEEDLE ARM at level 13, DOUBLE-EDGE at level 19, UPROAR at level 26, MOONLIGHT at level 34, SHOCK WAVE at level 43
+277 SWELLOW    : DRILL PECK at level 1, MUD-SLAP at level 1, ABSORB at level 1, BODY SLAM at level 1, COSMIC POWER at level 4, MINIMIZE at level 8, ICICLE SPEAR at level 13, SPIKES at level 19, SLASH at level 28, WATER PULSE at level 38, WITHDRAW at level 49
+278 WINGULL    : ERUPTION at level 1, ANCIENTPOWER at level 1, RECYCLE at level 7, MILK DRINK at level 13, EXPLOSION at level 21, HEADBUTT at level 31, RAIN DANCE at level 43, DRAGON DANCE at level 55
+279 PELIPPER   : MILK DRINK at level 1, SAFEGUARD at level 1, METAL SOUND at level 1, HYDRO CANNON at level 1, RECOVER at level 3, SCRATCH at level 7, HELPING HAND at level 13, RAPID SPIN at level 21, SHADOW BALL at level 25, GROWTH at level 33, COMET PUNCH at level 33, KNOCK OFF at level 47, MEGA PUNCH at level 61
+280 RALTS      : AIR CUTTER at level 1, RETURN at level 6, FAINT ATTACK at level 11, HAZE at level 16, MUDDY WATER at level 21, TWISTER at level 26, OVERHEAT at level 31, CONSTRICT at level 36, SOLARBEAM at level 41, ATTRACT at level 46
+281 KIRLIA     : BULK UP at level 1, TRIPLE KICK at level 1, BLAST BURN at level 1, MEGA DRAIN at level 1, SPARK at level 1, FLATTER at level 6, STOMP at level 11, REST at level 16, SKULL BASH at level 21, POISON FANG at level 26, PROTECT at level 33, SNORE at level 40, MAGIC COAT at level 47, SMOG at level 54
+282 GARDEVOIR  : CRABHAMMER at level 1, COMET PUNCH at level 1, FORESIGHT at level 1, SACRED FIRE at level 1, ICE PUNCH at level 6, SAND TOMB at level 11, MIRROR COAT at level 16, MORNING SUN at level 21, WEATHER BALL at level 26, BLAZE KICK at level 33, SUBMISSION at level 42, FIRE SPIN at level 51, MUD SPORT at level 60
+283 SURSKIT    : BITE at level 1, SMELLINGSALT at level 7, PSYCHO BOOST at level 13, ATTRACT at level 19, DREAM EATER at level 25, PETAL DANCE at level 31, MAGICAL LEAF at level 37, SWIFT at level 37
+284 MASQUERAIN : COMET PUNCH at level 1, METAL SOUND at level 1, ROLLING KICK at level 1, THRASH at level 1, POUND at level 7, AERIAL ACE at level 13, BONEMERANG at level 19, PSYCHIC at level 26, MEGAHORN at level 33, SACRED FIRE at level 40, FISSURE at level 47, THUNDER at level 53
+285 SHROOMISH  : BONEMERANG at level 1, DISABLE at level 4, GUST at level 7, REVENGE at level 10, FURY ATTACK at level 16, MOONLIGHT at level 22, CRUNCH at level 28, NIGHT SHADE at level 36, ABSORB at level 45, WILL-O-WISP at level 54
+286 BRELOOM    : WING ATTACK at level 1, FURY SWIPES at level 1, PSYBEAM at level 1, SHADOW BALL at level 1, MIST at level 4, ASTONISH at level 7, BONE CLUB at level 10, RECOVER at level 16, TRI ATTACK at level 22, THUNDER at level 23, DYNAMICPUNCH at level 28, ASSIST at level 36, ROLLING KICK at level 45, WATER SPOUT at level 54
+287 SLAKOTH    : YAWN at level 1, SKULL BASH at level 1, HELPING HAND at level 7, GROWTH at level 13, CHARM at level 19, PSYCHIC at level 25, FEATHERDANCE at level 31, SACRED FIRE at level 37, GROWL at level 43
+288 VIGOROTH   : BIND at level 1, EGG BOMB at level 1, MOONLIGHT at level 1, DRILL PECK at level 1, STOCKPILE at level 7, HAZE at level 13, RAZOR WIND at level 19, GROWL at level 25, METAL CLAW at level 31, VITAL THROW at level 37, WATER PULSE at level 43, COMET PUNCH at level 49
+289 SLAKING    : SWIFT at level 1, SYNTHESIS at level 1, AERIAL ACE at level 1, AEROBLAST at level 1, GLARE at level 7, TORMENT at level 13, RAIN DANCE at level 19, PROTECT at level 25, EXTREMESPEED at level 31, PSYCHIC at level 36, MEGA DRAIN at level 37, CONFUSE RAY at level 43
+290 NINCADA    : POISON FANG at level 1, CRUNCH at level 1, BEAT UP at level 5, RAZOR WIND at level 9, AURORA BEAM at level 14, ROCK THROW at level 19, ABSORB at level 25, FALSE SWIPE at level 31, WISH at level 38, WATER GUN at level 45
+291 NINJASK    : GRUDGE at level 1, HYPER FANG at level 1, MEDITATE at level 1, SKULL BASH at level 1, WISH at level 5, MEGA DRAIN at level 9, STEEL WING at level 14, AIR CUTTER at level 19, ROAR at level 20, UPROAR at level 20, SLAM at level 20, TWINEEDLE at level 25, WING ATTACK at level 31, STOCKPILE at level 38, SPIKE CANNON at level 45
+292 SHEDINJA   : SPARK at level 1, HYDRO PUMP at level 1, RECOVER at level 5, CONFUSE RAY at level 9, SOFTBOILED at level 14, SWORDS DANCE at level 19, SLUDGE at level 25, MUD SPORT at level 31, TICKLE at level 38, REST at level 45
+293 WHISMUR    : POISON FANG at level 1, MIRROR COAT at level 5, TAUNT at level 11, HIDDEN POWER at level 15, FISSURE at level 21, LICK at level 25, MIRROR MOVE at level 31, ICICLE SPEAR at level 35, MORNING SUN at level 41, AGILITY at level 41, EARTHQUAKE at level 45
+294 LOUDRED    : ENCORE at level 1, DESTINY BOND at level 1, SLUDGE at level 1, EGG BOMB at level 1, SLACK OFF at level 5, MAGICAL LEAF at level 11, MINIMIZE at level 15, SLAM at level 23, FIRE SPIN at level 29, SUPER FANG at level 37, MIST BALL at level 43, LUSTER PURGE at level 51, MUD SPORT at level 51, TAUNT at level 57
+295 EXPLOUD    : MIRROR COAT at level 1, FISSURE at level 1, PROTECT at level 1, JUMP KICK at level 1, WISH at level 5, MUD SPORT at level 11, FOCUS ENERGY at level 15, RAIN DANCE at level 23, MIST at level 29, HIDDEN POWER at level 37, MUD SHOT at level 40, BUBBLE at level 45, AERIAL ACE at level 55, TELEPORT at level 55, AURORA BEAM at level 63
+296 MAKUHITA   : DOUBLE-EDGE at level 1, SKULL BASH at level 1, SILVER WIND at level 4, THUNDERSHOCK at level 10, SLACK OFF at level 13, MIND READER at level 19, SLUDGE BOMB at level 22, PSYWAVE at level 28, MILK DRINK at level 31, FALSE SWIPE at level 37, ENCORE at level 40, HI JUMP KICK at level 46, LOW KICK at level 49
+297 HARIYAMA   : BUBBLEBEAM at level 1, DEFENSE CURL at level 1, THUNDER at level 1, METEOR MASH at level 1, CONVERSION at level 4, DRAGON DANCE at level 10, ROCK TOMB at level 13, MEDITATE at level 19, PETAL DANCE at level 22, OCTAZOOKA at level 29, WHIRLWIND at level 33, METAL CLAW at level 40, SWAGGER at level 44, STEEL WING at level 51, TAIL WHIP at level 55
+298 AZURILL    : HYPER VOICE at level 1, WING ATTACK at level 3, LEECH SEED at level 6, EGG BOMB at level 10, ICY WIND at level 15, TAIL GLOW at level 21
+299 NOSEPASS   : ZAP CANNON at level 1, POISON FANG at level 7, MIST at level 13, NATURE POWER at level 16, SLAM at level 22, PROTECT at level 28, RETURN at level 31, INGRAIN at level 37, ROCK BLAST at level 43, FIRE BLAST at level 46
+300 SKITTY     : ERUPTION at level 1, WATER SPOUT at level 1, ANCIENTPOWER at level 3, MORNING SUN at level 7, TRICK at level 13, MOONLIGHT at level 15, THUNDERSHOCK at level 19, TORMENT at level 25, TRI ATTACK at level 27, INGRAIN at level 31, SCRATCH at level 37, SAND-ATTACK at level 39
+301 DELCATTY   : LEECH SEED at level 1, SWORDS DANCE at level 1, SHADOW PUNCH at level 1, THRASH at level 1
+302 SABLEYE    : BITE at level 1, THUNDERBOLT at level 1, CRUSH CLAW at level 5, CONFUSE RAY at level 9, MIST at level 13, SPORE at level 17, FRUSTRATION at level 21, SMOG at level 25, DRAGONBREATH at level 29, SHEER COLD at level 33, SWAGGER at level 37, ROCK THROW at level 41, COUNTER at level 45
+303 MAWILE     : DRAGON CLAW at level 1, OUTRAGE at level 6, SLUDGE BOMB at level 11, SKY UPPERCUT at level 16, FURY CUTTER at level 21, TRICK at level 26, SIGNAL BEAM at level 31, CROSS CHOP at level 36, SPARK at level 41, IMPRISON at level 46, KARATE CHOP at level 46, GROWTH at level 46
+304 ARON       : SMELLINGSALT at level 1, SPIKES at level 4, SAFEGUARD at level 7, OUTRAGE at level 10, FIRE PUNCH at level 13, DOUBLE-EDGE at level 17, FLAIL at level 21, ERUPTION at level 25, MACH PUNCH at level 29, SHARPEN at level 34, LIGHT SCREEN at level 39, LUSTER PURGE at level 44
+305 LAIRON     : CONVERSION at level 1, PSYCH UP at level 1, EXPLOSION at level 1, FIRE PUNCH at level 1, SLACK OFF at level 4, DESTINY BOND at level 7, BONE RUSH at level 10, DOUBLE-EDGE at level 13, CALM MIND at level 17, METEOR MASH at level 21, MUDDY WATER at level 25, FIRE BLAST at level 29, IRON DEFENSE at level 37, SCREECH at level 45, SLUDGE at level 53
+306 AGGRON     : HARDEN at level 1, EXTRASENSORY at level 1, CONVERSION 2 at level 1, PSYCHO BOOST at level 1, BLAST BURN at level 4, WATER SPOUT at level 7, LEAF BLADE at level 10, BARRAGE at level 13, ODOR SLEUTH at level 17, TAUNT at level 21, MIST at level 25, BRICK BREAK at level 29, TACKLE at level 37, ROLE PLAY at level 50, AMNESIA at level 63
+307 MEDITITE   : FLAME WHEEL at level 1, FIRE BLAST at level 4, METRONOME at level 9, STEEL WING at level 12, FURY ATTACK at level 17, PSYWAVE at level 20, ROCK THROW at level 25, TORMENT at level 28, FOCUS ENERGY at level 33, HEAT WAVE at level 36, SWEET KISS at level 41, DRAGONBREATH at level 44
+308 MEDICHAM   : AGILITY at level 1, CURSE at level 1, MEGA DRAIN at level 1, WISH at level 1, MOONLIGHT at level 1, ACID at level 1, DIG at level 1, SACRED FIRE at level 4, POISONPOWDER at level 9, UPROAR at level 12, ICY WIND at level 17, PSYCHO BOOST at level 20, OVERHEAT at level 25, SCRATCH at level 28, CONVERSION at level 33, FAKE OUT at level 36, BLAZE KICK at level 47, LEER at level 56
+309 ELECTRIKE  : THRASH at level 1, ENCORE at level 4, TRIPLE KICK at level 9, JUMP KICK at level 12, DREAM EATER at level 17, BLOCK at level 20, INGRAIN at level 25, PAY DAY at level 28, BOUNCE at level 33, PERISH SONG at level 36, ABSORB at level 41
+310 MANECTRIC  : MIST BALL at level 1, VINE WHIP at level 1, GROWTH at level 1, SECRET POWER at level 1, LEAF BLADE at level 4, SKULL BASH at level 9, BONE CLUB at level 12, CONVERSION at level 17, REFLECT at level 20, RAPID SPIN at level 25, SHEER COLD at level 31, TEETER DANCE at level 39, DREAM EATER at level 45, METRONOME at level 53
+311 PLUSLE     : FIRE PUNCH at level 1, SUPERPOWER at level 4, DRAGONBREATH at level 10, FUTURE SIGHT at level 13, BITE at level 19, POISONPOWDER at level 22, FURY SWIPES at level 28, SWALLOW at level 31, CHARM at level 37, SILVER WIND at level 40, DREAM EATER at level 47
+312 MINUN      : BLAST BURN at level 1, IRON DEFENSE at level 4, FOCUS ENERGY at level 10, CONSTRICT at level 13, FURY CUTTER at level 19, HYPER VOICE at level 22, SWEET SCENT at level 28, SHADOW PUNCH at level 31, THUNDERPUNCH at level 37, ICICLE SPEAR at level 40, KINESIS at level 47
+313 VOLBEAT    : STEEL WING at level 1, ARM THRUST at level 5, POISONPOWDER at level 9, SWEET SCENT at level 13, ENDURE at level 17, SING at level 21, FOCUS ENERGY at level 25, KARATE CHOP at level 29, FUTURE SIGHT at level 33, BIDE at level 37
+314 ILLUMISE   : TRI ATTACK at level 1, SEISMIC TOSS at level 5, BARRAGE at level 9, MUDDY WATER at level 13, SNORE at level 17, CRABHAMMER at level 21, CONSTRICT at level 25, HYPER FANG at level 29, SLACK OFF at level 33, LOW KICK at level 37
+315 ROSELIA    : FRENZY PLANT at level 1, REVENGE at level 5, ASTONISH at level 9, LOVELY KISS at level 13, VOLT TACKLE at level 17, STRING SHOT at level 21, ERUPTION at level 25, SWORDS DANCE at level 29, BUBBLE at level 33, DISABLE at level 37, WATER SPOUT at level 41, PECK at level 45, MUDDY WATER at level 49, PRESENT at level 53, DRILL PECK at level 57
+316 GULPIN     : SECRET POWER at level 1, FOLLOW ME at level 6, MOONLIGHT at level 9, MIRROR MOVE at level 14, ARM THRUST at level 17, BUBBLE at level 23, WITHDRAW at level 28, DRAGONBREATH at level 34, MEGAHORN at level 34, LOCK-ON at level 34, FURY SWIPES at level 39
+317 SWALOT     : NEEDLE ARM at level 1, THRASH at level 1, FOCUS PUNCH at level 1, DRAGONBREATH at level 1, AERIAL ACE at level 6, DETECT at level 9, TICKLE at level 14, CURSE at level 17, SLEEP TALK at level 23, FAINT ATTACK at level 26, PSYCHO BOOST at level 31, LOCK-ON at level 40, HIDDEN POWER at level 40, REFRESH at level 40, WHIRLPOOL at level 48
+318 CARVANHA   : MIST BALL at level 1, SPIT UP at level 1, WHIRLPOOL at level 7, DOUBLE TEAM at level 13, BODY SLAM at level 16, JUMP KICK at level 22, VICEGRIP at level 28, YAWN at level 31, SPLASH at level 37, LOW KICK at level 43
+319 SHARPEDO   : FORESIGHT at level 1, FRENZY PLANT at level 1, MAGNITUDE at level 1, DIG at level 1, TACKLE at level 7, COVET at level 13, DRAGON DANCE at level 16, WATER SPOUT at level 22, AMNESIA at level 28, STEEL WING at level 33, SKY ATTACK at level 38, TELEPORT at level 43, ROLLING KICK at level 48, ARM THRUST at level 53
+320 WAILMER    : VICEGRIP at level 1, STOMP at level 5, THUNDERBOLT at level 10, HOWL at level 14, RAZOR WIND at level 19, PAIN SPLIT at level 23, EARTHQUAKE at level 28, MIST at level 32, MEMENTO at level 37, POISON STING at level 41, TICKLE at level 46, SCARY FACE at level 50
+321 WAILORD    : POISON GAS at level 1, MAGICAL LEAF at level 1, SKULL BASH at level 1, MEGAHORN at level 1, SMOKESCREEN at level 5, SIGNAL BEAM at level 10, DOUBLE-EDGE at level 14, FEATHERDANCE at level 19, VITAL THROW at level 23, FAKE OUT at level 28, REVERSAL at level 32, OCTAZOOKA at level 37, FISSURE at level 44, RAIN DANCE at level 52, ROAR at level 59
+322 NUMEL      : FUTURE SIGHT at level 1, BLAST BURN at level 1, MOONLIGHT at level 11, SING at level 19, SHADOW PUNCH at level 25, CONSTRICT at level 29, SPLASH at level 31, WING ATTACK at level 35, HYPER VOICE at level 41, SWAGGER at level 49
+323 CAMERUPT   : CONFUSE RAY at level 1, MIST at level 1, HYPNOSIS at level 1, SLASH at level 1, HORN DRILL at level 11, ASTONISH at level 19, MIRROR MOVE at level 25, METAL CLAW at level 29, THUNDERSHOCK at level 31, QUICK ATTACK at level 33, HYDRO CANNON at level 37, BUBBLE at level 45, MEGA PUNCH at level 55
+324 TORKOAL    : SIGNAL BEAM at level 1, TICKLE at level 4, BODY SLAM at level 7, PAIN SPLIT at level 14, SPARK at level 17, THUNDERBOLT at level 20, CALM MIND at level 27, ROCK SLIDE at level 30, HYDRO PUMP at level 33, GRUDGE at level 40, BUBBLE at level 43, FLATTER at level 46
+325 SPOINK     : DYNAMICPUNCH at level 1, STUN SPORE at level 7, SNATCH at level 10, PIN MISSILE at level 16, SOFTBOILED at level 19, CLAMP at level 25, HYPER VOICE at level 28, DREAM EATER at level 34, MIST BALL at level 37, LICK at level 37, WRAP at level 43
+326 GRUMPIG    : BUBBLE at level 1, ENDURE at level 1, GLARE at level 1, ROCK THROW at level 1, HIDDEN POWER at level 7, RAGE at level 10, DISABLE at level 16, RAZOR WIND at level 19, CRUSH CLAW at level 25, CROSS CHOP at level 28, POISON TAIL at level 37, FURY SWIPES at level 43, ROCK SLIDE at level 43, HORN ATTACK at level 55
+327 SPINDA     : POISON TAIL at level 1, MUD SHOT at level 5, DISABLE at level 12, IRON TAIL at level 16, HI JUMP KICK at level 23, POUND at level 27, BULK UP at level 34, CRABHAMMER at level 38, SKY ATTACK at level 45, DRAGON CLAW at level 49, POISON GAS at level 56
+328 TRAPINCH   : MIST BALL at level 1, WATER SPOUT at level 9, GROWTH at level 17, ROLLOUT at level 25, EGG BOMB at level 33, FOCUS ENERGY at level 41, MAGNITUDE at level 49, ROLE PLAY at level 57
+329 VIBRAVA    : NIGHT SHADE at level 1, UPROAR at level 1, LEECH LIFE at level 1, SIGNAL BEAM at level 1, SCARY FACE at level 9, POISON STING at level 17, WATER PULSE at level 25, RETURN at level 33, TELEPORT at level 35, PSYCH UP at level 41, PECK at level 49, WING ATTACK at level 57
+330 FLYGON     : STEEL WING at level 1, MEGA KICK at level 1, REST at level 1, WATER SPOUT at level 1, DOUBLE-EDGE at level 9, COSMIC POWER at level 17, HORN DRILL at level 25, TAKE DOWN at level 33, DRAGON CLAW at level 35, TRICK at level 41, METAL SOUND at level 53, DESTINY BOND at level 65
+331 CACNEA     : SUPER FANG at level 1, THUNDERBOLT at level 1, CHARGE at level 5, AURORA BEAM at level 9, SLEEP POWDER at level 13, NIGHTMARE at level 17, FISSURE at level 21, FIRE BLAST at level 25, THIEF at level 29, KINESIS at level 33, PROTECT at level 37, ROCK THROW at level 41, CONVERSION 2 at level 45, DRAGONBREATH at level 49
+332 CACTURNE   : PSYBEAM at level 1, EMBER at level 1, MEGA DRAIN at level 1, BARRAGE at level 1, GIGA DRAIN at level 1, TWISTER at level 5, CAMOUFLAGE at level 9, SIGNAL BEAM at level 13, AURORA BEAM at level 17, HAZE at level 21, SKETCH at level 25, FOCUS ENERGY at level 29, SMOG at level 35, SACRED FIRE at level 41, LEECH LIFE at level 47, ASTONISH at level 53, POWDER SNOW at level 59
+333 SWABLU     : AEROBLAST at level 1, SLUDGE BOMB at level 1, PSYBEAM at level 8, PURSUIT at level 11, FUTURE SIGHT at level 18, SPARK at level 21, NIGHTMARE at level 28, TICKLE at level 31, EMBER at level 38, BULLET SEED at level 41, SPITE at level 48
+334 ALTARIA    : PERISH SONG at level 1, SHARPEN at level 1, SHEER COLD at level 1, THUNDER at level 1, BLAZE KICK at level 8, DOUBLE TEAM at level 11, INGRAIN at level 18, AMNESIA at level 21, PRESENT at level 28, SLASH at level 31, WHIRLWIND at level 35, WATER PULSE at level 40, COMET PUNCH at level 45, SECRET POWER at level 54, SUBMISSION at level 59
+335 ZANGOOSE   : SLASH at level 1, SKETCH at level 4, EGG BOMB at level 7, NATURE POWER at level 10, COTTON SPORE at level 13, QUICK ATTACK at level 19, BUBBLE at level 25, SMELLINGSALT at level 31, INGRAIN at level 37, THIEF at level 46, WATER SPORT at level 55
+336 SEVIPER    : VOLT TACKLE at level 1, GLARE at level 7, CRUNCH at level 10, PERISH SONG at level 16, GROWTH at level 19, RAZOR WIND at level 25, LICK at level 28, REFLECT at level 34, SPIKE CANNON at level 37, POISON TAIL at level 43
+337 LUNATONE   : TORMENT at level 1, HYPER FANG at level 1, HARDEN at level 7, SAFEGUARD at level 13, WATER GUN at level 19, PETAL DANCE at level 25, EGG BOMB at level 31, HYDRO PUMP at level 37, DRAGON CLAW at level 43, GUILLOTINE at level 49
+338 SOLROCK    : TICKLE at level 1, SLUDGE at level 1, MIST BALL at level 7, TACKLE at level 13, ROLE PLAY at level 19, HYPER BEAM at level 25, DOOM DESIRE at level 31, HYPER FANG at level 37, SILVER WIND at level 43, FIRE SPIN at level 49
+339 BARBOACH   : KARATE CHOP at level 1, COVET at level 6, REVERSAL at level 6, ATTRACT at level 11, ROCK TOMB at level 16, SPIKE CANNON at level 21, INGRAIN at level 26, THRASH at level 26, REFRESH at level 31, TAKE DOWN at level 36, ACID ARMOR at level 41
+340 WHISCASH   : MUD SPORT at level 1, KNOCK OFF at level 1, SWORDS DANCE at level 1, WATER PULSE at level 1, SPIDER WEB at level 6, BUBBLEBEAM at level 6, METEOR MASH at level 11, HEADBUTT at level 16, WITHDRAW at level 21, IRON TAIL at level 26, RAPID SPIN at level 26, MINIMIZE at level 36, NATURE POWER at level 46, TRICK at level 56
+341 CORPHISH   : HI JUMP KICK at level 1, SPIKES at level 7, BLAST BURN at level 10, FACADE at level 13, ENCORE at level 19, CRABHAMMER at level 22, LEER at level 25, METEOR MASH at level 31, ASSIST at level 34, BARRAGE at level 37, METAL CLAW at level 43, BRICK BREAK at level 46
+342 CRAWDAUNT  : RAIN DANCE at level 1, LOVELY KISS at level 1, RECYCLE at level 1, SMELLINGSALT at level 1, DOUBLE KICK at level 7, OCTAZOOKA at level 10, BUBBLE at level 13, FUTURE SIGHT at level 19, PIN MISSILE at level 22, FEATHERDANCE at level 25, HELPING HAND at level 33, GROWL at level 38, METAL CLAW at level 43, SKULL BASH at level 51, TORMENT at level 56
+343 BALTOY     : BITE at level 1, POISON TAIL at level 3, TACKLE at level 5, STUN SPORE at level 7, SPIKES at level 11, SKY UPPERCUT at level 15, MUD-SLAP at level 19, FURY SWIPES at level 25, NIGHT SHADE at level 31, MIST at level 37, KINESIS at level 45
+344 CLAYDOL    : POISON FANG at level 1, BLAST BURN at level 1, SPIT UP at level 1, BLAZE KICK at level 1, PAY DAY at level 3, SOFTBOILED at level 5, INGRAIN at level 7, SKETCH at level 11, SUBSTITUTE at level 15, OVERHEAT at level 19, FAKE OUT at level 25, SHOCK WAVE at level 31, FACADE at level 36, SWEET SCENT at level 42, DESTINY BOND at level 55
+345 LILEEP     : HEAT WAVE at level 1, FUTURE SIGHT at level 8, MAGICAL LEAF at level 15, MIRROR MOVE at level 22, SCARY FACE at level 29, SIGNAL BEAM at level 36, SLASH at level 43, YAWN at level 50, DRAGONBREATH at level 50, ASSIST at level 50
+346 CRADILY    : DESTINY BOND at level 1, LEECH SEED at level 1, WISH at level 1, HYPER FANG at level 1, FIRE PUNCH at level 8, CONFUSION at level 15, CONVERSION at level 22, LUSTER PURGE at level 29, SPARK at level 36, TAIL GLOW at level 48, ENDURE at level 60, MIND READER at level 60, SKY UPPERCUT at level 60
+347 ANORITH    : HEAT WAVE at level 1, IRON DEFENSE at level 7, AGILITY at level 13, ACID at level 19, SWORDS DANCE at level 25, GLARE at level 31, SPLASH at level 37, CRUSH CLAW at level 43, MOONLIGHT at level 49, PURSUIT at level 55
+348 ARMALDO    : HEADBUTT at level 1, EXTREMESPEED at level 1, BATON PASS at level 1, SPARK at level 1, SWAGGER at level 7, HYPER VOICE at level 13, MIRROR COAT at level 19, MILK DRINK at level 25, COVET at level 31, SACRED FIRE at level 37, FIRE PUNCH at level 46, AMNESIA at level 55, FRENZY PLANT at level 64
+349 FEEBAS     : UPROAR at level 1, RAZOR LEAF at level 15, LOCK-ON at level 30
+350 MILOTIC    : FLAMETHROWER at level 1, WITHDRAW at level 5, SKY ATTACK at level 10, BODY SLAM at level 15, ICE PUNCH at level 20, SACRED FIRE at level 25, SECRET POWER at level 30, AMNESIA at level 35, FUTURE SIGHT at level 40, KINESIS at level 45, HORN ATTACK at level 50
+351 CASTFORM   : TRI ATTACK at level 1, CONVERSION at level 10, HORN ATTACK at level 10, WISH at level 10, WATER GUN at level 20, WING ATTACK at level 20, ABSORB at level 20, SLEEP POWDER at level 30
+352 KECLEON    : ABSORB at level 1, CRABHAMMER at level 1, AIR CUTTER at level 1, METEOR MASH at level 1, HEADBUTT at level 1, BRICK BREAK at level 4, PSYBEAM at level 7, WHIRLPOOL at level 12, LIGHT SCREEN at level 17, SMOG at level 24, RAPID SPIN at level 31, DOUBLE TEAM at level 40, GRASSWHISTLE at level 49
+353 SHUPPET    : THUNDERPUNCH at level 1, VICEGRIP at level 8, RECYCLE at level 13, HYPER VOICE at level 20, EARTHQUAKE at level 25, ENDURE at level 32, AIR CUTTER at level 37, EXPLOSION at level 44, NEEDLE ARM at level 49, CLAMP at level 56
+354 BANETTE    : VOLT TACKLE at level 1, GROWTH at level 1, ICE BALL at level 1, EXTRASENSORY at level 1, THRASH at level 8, BLIZZARD at level 13, SOLARBEAM at level 20, NIGHTMARE at level 25, THUNDERBOLT at level 32, POISON STING at level 39, ENCORE at level 48, HORN ATTACK at level 55, EXTREMESPEED at level 64
+355 DUSKULL    : SLUDGE at level 1, BODY SLAM at level 1, LIGHT SCREEN at level 5, FURY SWIPES at level 12, NIGHT SHADE at level 16, BRICK BREAK at level 23, ICE BEAM at level 27, SNATCH at level 34, FURY CUTTER at level 38, FAKE TEARS at level 45, ICY WIND at level 49
+356 DUSCLOPS   : MAGICAL LEAF at level 1, SUPER FANG at level 1, CONFUSION at level 1, REVENGE at level 1, MEDITATE at level 5, HAIL at level 12, TOXIC at level 16, SHADOW BALL at level 23, HAZE at level 27, RECOVER at level 34, LOW KICK at level 37, LOCK-ON at level 41, SPIDER WEB at level 51, SPORE at level 58
+357 TROPIUS    : DETECT at level 1, HEADBUTT at level 1, WRAP at level 7, COTTON SPORE at level 11, POUND at level 17, SHADOW PUNCH at level 21, CAMOUFLAGE at level 27, CHARGE at level 31, SWIFT at level 37, GRASSWHISTLE at level 41, BITE at level 47
+358 CHIMECHO   : NEEDLE ARM at level 1, ICE BEAM at level 6, GRASSWHISTLE at level 9, PAY DAY at level 14, SMELLINGSALT at level 17, ATTRACT at level 22, PSYCHO BOOST at level 25, LOW KICK at level 30, MUD SHOT at level 33, FIRE BLAST at level 38, HYPNOSIS at level 41, CURSE at level 46
+359 ABSOL      : BLAZE KICK at level 1, TAIL WHIP at level 5, SILVER WIND at level 9, SPLASH at level 13, SUBSTITUTE at level 17, WITHDRAW at level 21, CHARM at level 26, BARRAGE at level 31, FLAME WHEEL at level 36, HAIL at level 41, SKY UPPERCUT at level 46
+360 WYNAUT     : POISON TAIL at level 1, MIST BALL at level 1, RAZOR LEAF at level 1, SYNTHESIS at level 15, FUTURE SIGHT at level 15, ICY WIND at level 15, SLUDGE at level 15
+361 SNORUNT    : DIZZY PUNCH at level 1, HYPER FANG at level 1, GRASSWHISTLE at level 7, WATER SPORT at level 10, RAZOR LEAF at level 16, SWIFT at level 19, DESTINY BOND at level 25, VINE WHIP at level 28, PURSUIT at level 34, SMELLINGSALT at level 37, HORN DRILL at level 43
+362 GLALIE     : MIRROR COAT at level 1, EMBER at level 1, SUPER FANG at level 1, TRI ATTACK at level 1, SOLARBEAM at level 7, DOUBLESLAP at level 10, SKULL BASH at level 16, MEGA DRAIN at level 19, ENDEAVOR at level 25, ROCK TOMB at level 28, SWEET SCENT at level 34, LEECH LIFE at level 42, MIMIC at level 53, SLACK OFF at level 61
+363 SPHEAL     : DRAGON CLAW at level 1, SPORE at level 1, TWINEEDLE at level 1, TRI ATTACK at level 1, ODOR SLEUTH at level 7, TRIPLE KICK at level 13, HYPER BEAM at level 19, FOCUS ENERGY at level 25, DEFENSE CURL at level 31, DOOM DESIRE at level 37, TAUNT at level 37, CONSTRICT at level 43, SACRED FIRE at level 49
+364 SEALEO     : OCTAZOOKA at level 1, EXTREMESPEED at level 1, SMOG at level 1, SPARK at level 1, MUD SHOT at level 7, LICK at level 13, POISONPOWDER at level 19, ATTRACT at level 25, STEEL WING at level 31, SLEEP POWDER at level 39, SKETCH at level 39, JUMP KICK at level 47, AGILITY at level 55
+365 WALREIN    : CONVERSION 2 at level 1, SHARPEN at level 1, ROLLOUT at level 1, CRUNCH at level 1, POISONPOWDER at level 7, BODY SLAM at level 13, TAIL GLOW at level 19, SMOKESCREEN at level 25, AROMATHERAPY at level 31, NATURE POWER at level 39, HARDEN at level 39, PECK at level 50, ROCK SLIDE at level 61
+366 CLAMPERL   : FRENZY PLANT at level 1, BUBBLE at level 1, MIND READER at level 1, WING ATTACK at level 1
+367 HUNTAIL    : SACRED FIRE at level 1, SNATCH at level 8, GRUDGE at level 15, SPITE at level 22, AMNESIA at level 29, DYNAMICPUNCH at level 36, STOCKPILE at level 43, LOCK-ON at level 50
+368 GOREBYSS   : RAZOR LEAF at level 1, HYPNOSIS at level 8, SLACK OFF at level 15, HARDEN at level 22, TEETER DANCE at level 29, PRESENT at level 36, FAINT ATTACK at level 43, COVET at level 50
+369 RELICANTH  : DYNAMICPUNCH at level 1, SUPERPOWER at level 1, STOMP at level 8, CLAMP at level 15, IRON TAIL at level 22, WING ATTACK at level 29, GUST at level 36, STUN SPORE at level 43, BONE RUSH at level 50, WHIRLWIND at level 57, TRI ATTACK at level 64
+370 LUVDISC    : POISON FANG at level 1, INGRAIN at level 4, IMPRISON at level 12, ENCORE at level 16, WEATHER BALL at level 24, MAGIC COAT at level 28, ARM THRUST at level 36, CRUSH CLAW at level 40, BRICK BREAK at level 48
+371 BAGON      : FRENZY PLANT at level 1, SECRET POWER at level 5, DOUBLE-EDGE at level 9, THRASH at level 17, AMNESIA at level 21, GUST at level 25, ENCORE at level 33, FALSE SWIPE at level 37, FOCUS ENERGY at level 41, BIND at level 49, FOLLOW ME at level 53
+372 SHELGON    : LEAF BLADE at level 1, STUN SPORE at level 1, IRON DEFENSE at level 1, SIGNAL BEAM at level 1, DRAGONBREATH at level 5, POISON TAIL at level 9, FUTURE SIGHT at level 17, HI JUMP KICK at level 21, GRUDGE at level 25, SECRET POWER at level 30, ICICLE SPEAR at level 38, BONE RUSH at level 47, SLACK OFF at level 56, ENCORE at level 69, SCREECH at level 78
+373 SALAMENCE  : ANCIENTPOWER at level 1, BONE CLUB at level 1, SUPERPOWER at level 1, SOLARBEAM at level 1, VINE WHIP at level 5, CALM MIND at level 9, FLAMETHROWER at level 17, WATER SPORT at level 21, SILVER WIND at level 25, YAWN at level 30, THIEF at level 38, EGG BOMB at level 47, TWISTER at level 50, TAIL GLOW at level 61, GROWL at level 79, UPROAR at level 93
+374 BELDUM     : FIRE PUNCH at level 1
+375 METANG     : SHADOW BALL at level 1, SAND TOMB at level 20, ABSORB at level 20, SEISMIC TOSS at level 26, ARM THRUST at level 32, BONE RUSH at level 38, FAKE OUT at level 44, LOCK-ON at level 50, TWINEEDLE at level 56, WATER SPORT at level 62
+376 METAGROSS  : SWAGGER at level 1, SLASH at level 1, SILVER WIND at level 1, WEATHER BALL at level 1, IRON DEFENSE at level 20, FAINT ATTACK at level 20, CAMOUFLAGE at level 26, NIGHTMARE at level 32, PERISH SONG at level 38, METEOR MASH at level 44, BLOCK at level 55, DYNAMICPUNCH at level 66, SLACK OFF at level 77
+377 REGIROCK   : KARATE CHOP at level 1, PAY DAY at level 9, HYPER VOICE at level 17, METAL SOUND at level 25, WHIRLWIND at level 33, MIST at level 41, SPARK at level 49, JUMP KICK at level 57, AIR CUTTER at level 65
+378 REGICE     : SOLARBEAM at level 1, SUBSTITUTE at level 9, LOVELY KISS at level 17, TAUNT at level 25, DRAGON DANCE at level 33, RECOVER at level 41, FIRE PUNCH at level 49, MACH PUNCH at level 57, ARM THRUST at level 65
+379 REGISTEEL  : BLAST BURN at level 1, OUTRAGE at level 9, SOLARBEAM at level 17, SKILL SWAP at level 25, SUBSTITUTE at level 33, WITHDRAW at level 41, FALSE SWIPE at level 41, METAL CLAW at level 49, SPIKE CANNON at level 57, UPROAR at level 65
+380 LATIAS     : ZAP CANNON at level 1, THUNDERBOLT at level 5, TWISTER at level 10, BARRAGE at level 15, POUND at level 20, TORMENT at level 25, CONSTRICT at level 30, EXTREMESPEED at level 35, RECYCLE at level 40, FURY ATTACK at level 45, ENDEAVOR at level 50
+381 LATIOS     : HI JUMP KICK at level 1, MAGIC COAT at level 5, SELFDESTRUCT at level 10, ROLE PLAY at level 15, DEFENSE CURL at level 20, DISABLE at level 25, RAGE at level 30, ZAP CANNON at level 35, AERIAL ACE at level 40, MIND READER at level 45, TAIL GLOW at level 50
+382 KYOGRE     : ANCIENTPOWER at level 1, FLATTER at level 5, WING ATTACK at level 15, SWEET KISS at level 20, FOCUS ENERGY at level 30, FRENZY PLANT at level 35, TRICK at level 45, LEECH SEED at level 50, DOUBLE-EDGE at level 60, TICKLE at level 65, CRUSH CLAW at level 75
+383 GROUDON    : HI JUMP KICK at level 1, COTTON SPORE at level 5, VOLT TACKLE at level 15, AGILITY at level 20, SLAM at level 30, HYDRO PUMP at level 35, MACH PUNCH at level 45, SANDSTORM at level 50, TRICK at level 60, HEAT WAVE at level 65, SYNTHESIS at level 75
+384 RAYQUAZA   : VITAL THROW at level 1, HEADBUTT at level 5, MACH PUNCH at level 15, NATURE POWER at level 20, ABSORB at level 30, SWEET SCENT at level 35, REST at level 45, POISONPOWDER at level 50, DOUBLESLAP at level 60, MIRROR MOVE at level 65, COMET PUNCH at level 75
+385 JIRACHI    : VOLT TACKLE at level 1, SUPERPOWER at level 1, HOWL at level 5, MOONLIGHT at level 10, IMPRISON at level 15, REVERSAL at level 20, DEFENSE CURL at level 25, CONVERSION 2 at level 30, LOCK-ON at level 35, MAGIC COAT at level 40, AMNESIA at level 45, SILVER WIND at level 50
+386 DEOXYS     : HYDRO CANNON at level 1, THUNDER at level 1, FIRE BLAST at level 5, SYNTHESIS at level 10, MEAN LOOK at level 15, BUBBLEBEAM at level 20, SEISMIC TOSS at level 25, AIR CUTTER at level 30, FORESIGHT at level 35, SWEET KISS at level 40, LOVELY KISS at level 45, SLUDGE BOMB at level 50
+
+--Trainers Pokemon--
+#1 (AQUA LEADER )@23F7EC - MAGNEMITE Lv5
+#2 (TEAM AQUA )@23F814 - SPINDA Lv5
+#3 (TEAM AQUA )@23F83C - RELICANTH Lv5
+#4 (AROMA LADY )@23F864 - SWINUB Lv5
+#5 (RUIN MANIAC )@23F88C - FLAREON Lv5
+#6 (INTERVIEWER )@23F8B4 - MILOTIC Lv5
+#7 (TUBER )@23F8DC - MAKUHITA Lv38
+#8 (TUBER )@23F904 - SEVIPER Lv38
+#9 (COOLTRAINER )@23F92C - MAGBY Lv5
+#10 (COOLTRAINER )@23F954 - MR. MIME Lv5
+#11 (HEX MANIAC )@23F97C - CLAYDOL Lv5
+#12 (LADY )@23F9A4 - KRABBY Lv5
+#13 (BEAUTY )@23F9CC - SILCOON Lv5
+#14 (RICH BOY )@23F9F4 - TRAPINCH Lv5
+#15 (POKéMANIAC )@23FA1C - LUGIA Lv5
+#16 (SWIMMER♂ )@23FA44 - FEAROW Lv5
+#17 (BLACK BELT )@23FA6C - BRELOOM Lv5
+#18 (GUITARIST )@23FA94 - GOREBYSS Lv5
+#19 (KINDLER )@23FABC - SKITTY Lv5
+#20 (CAMPER )@23FAE4 - PLUSLE Lv5
+#21 (BUG MANIAC )@23FB0C - POOCHYENA Lv5
+#22 (PSYCHIC )@23FB34 - TOGEPI Lv5
+#23 (PSYCHIC )@23FB5C - WEEPINBELL Lv5
+#24 (GENTLEMAN )@23FB84 - HITMONLEE Lv5
+#25 (ELITE FOUR SIDNEY)@23FBAC - DRAGONITE Lv5
+#26 (ELITE FOUR PHOEBE)@23FBD4 - LOUDRED Lv5
+#27 (LEADER ROXANNE)@23FBFC - ZUBAT Lv5
+#28 (LEADER BRAWLY)@23FC24 - SLAKOTH Lv5
+#29 (LEADER TATE&LIZA)@23FC4C - OCTILLERY Lv5
+#30 (SCHOOL KID )@23FC74 - RHYDON Lv5
+#31 (SCHOOL KID )@23FC9C - CAMERUPT Lv5
+#32 (SR. AND JR. )@23FCC4 - POOCHYENA Lv5
+#33 (POKéFAN )@23FCEC - SNEASEL Lv5
+#34 (POKéFAN )@23FD14 - SALAMENCE Lv5
+#35 (EXPERT )@23FD3C - CHARMELEON Lv5
+#36 (EXPERT )@23FD64 - MEDICHAM Lv5
+#37 (YOUNGSTER )@23FD8C - MANTINE Lv5
+#38 (CHAMPION )@23FDB4 - PORYGON2 Lv5
+#39 (FISHERMAN )@23FDDC - SUNFLORA Lv5
+#40 (TRIATHLETE )@23FE04 - MASQUERAIN Lv5
+#41 (TRIATHLETE )@23FE2C - PARAS Lv5
+#42 (TRIATHLETE )@23FE54 - BEEDRILL Lv5
+#43 (TRIATHLETE )@23FE7C - PELIPPER Lv5
+#44 (TRIATHLETE )@23FEA4 - TEDDIURSA Lv5
+#45 (TRIATHLETE )@23FECC - RELICANTH Lv5
+#46 (DRAGON TAMER )@23FEF4 - MARILL Lv5
+#47 (BIRD KEEPER )@23FF1C - RAIKOU Lv5
+#48 (NINJA BOY )@23FF44 - SUICUNE Lv5
+#49 (BATTLE GIRL )@23FF6C - SEALEO Lv5
+#50 (PARASOL LADY )@23FF94 - AMPHAROS Lv5
+#51 (SWIMMER♀ )@23FFBC - CRADILY Lv5
+#52 (PICNICKER )@23FFE4 - SPINDA Lv5
+#53 (TWINS )@24000C - POLIWRATH Lv5
+#54 (SAILOR )@240034 - MASQUERAIN Lv5
+#55 (BOARDER )@24005C - SABLEYE Lv5
+#56 (BOARDER )@240084 - NINJASK Lv5
+#57 (COLLECTOR )@2400AC - AZUMARILL Lv5
+#58 ([PK][MN] TRAINER )@2400D4 - URSARING Lv5
+#59 ([PK][MN] TRAINER )@2400FC - RELICANTH Lv5
+#60 ([PK][MN] TRAINER )@240124 - CELEBI Lv5
+#61 ([PK][MN] TRAINER )@24014C - LEDYBA Lv5
+#62 ([PK][MN] TRAINER )@240174 - SHELGON Lv5
+#63 ([PK][MN] TRAINER )@24019C - GEODUDE Lv5
+#64 ([PK][MN] TRAINER )@2401C4 - PINSIR Lv5
+#65 ([PK][MN] BREEDER )@2401EC - ONIX Lv5
+#66 ([PK][MN] BREEDER )@240214 - GROWLITHE Lv5
+#67 ([PK][MN] RANGER )@24023C - BLASTOISE Lv5
+#68 ([PK][MN] RANGER )@240264 - MAGBY Lv5
+#69 (MAGMA LEADER )@24028C - EXEGGCUTE Lv5
+#70 (TEAM MAGMA )@2402B4 - RAICHU Lv5
+#71 (TEAM MAGMA )@2402DC - MILTANK Lv5
+#72 (LASS )@240304 - DRAGONITE Lv5
+#73 (BUG CATCHER )@24032C - STARYU Lv5
+#74 (HIKER )@240354 - CARVANHA Lv5
+#75 (YOUNG COUPLE )@24037C - HO-OH Lv5, AERODACTYL Lv5
+#76 (OLD COUPLE )@2403A4 - SALAMENCE Lv5
+#77 (SIS AND BRO )@2403CC - PARASECT Lv5
+#78 (AQUA ADMIN MATT)@2403F4 - CASCOON Lv5
+#79 (AQUA ADMIN SHELLY)@24041C - GIRAFARIG Lv5
+#80 (MAGMA ADMIN TABITHA)@240444 - SWINUB Lv5
+#81 (MAGMA ADMIN COURTNEY)@24046C - TENTACRUEL Lv5
+#82 (LEADER WATTSON)@240494 - EXEGGUTOR Lv5
+#83 (LEADER FLANNERY)@2404BC - CHIMECHO Lv5
+#84 (LEADER NORMAN)@2404E4 - SEADRA Lv5
+#85 (LEADER WINONA)@24050C - SWAMPERT Lv5
+#86 (LEADER WALLACE)@240534 - TROPIUS Lv5
+#87 (ELITE FOUR GLACIA)@24055C - QUILAVA Lv5
+#88 (ELITE FOUR DRAKE)@240584 - BEEDRILL Lv5
+#89 (YOUNGSTER BEN)@2405AC - JIRACHI Lv11, VOLTORB Lv11
+#90 (YOUNGSTER CALVIN)@2405D4 - GOLDUCK Lv14
+#91 (YOUNGSTER JOSH)@2405FC - GROWLITHE Lv10, GYARADOS Lv10, LATIOS Lv10
+#92 (YOUNGSTER TIMMY)@240624 - SLUGMA Lv14, MISDREAVUS Lv14
+#93 (YOUNGSTER JOEY)@24064C - CELEBI Lv15, SWELLOW Lv15
+#94 (YOUNGSTER DAN)@240674 - KANGASKHAN Lv17
+#95 (YOUNGSTER CHAD)@24069C - DEOXYS Lv14, TREECKO Lv14
+#96 (YOUNGSTER TYLER)@2406C4 - DEWGONG Lv21
+#97 (YOUNGSTER EDDIE)@2406EC - HOUNDOOM Lv21
+#98 (YOUNGSTER DILLON)@240714 - GROUDON Lv19, SWELLOW Lv19
+#99 (YOUNGSTER YASU)@24073C - CHINCHOU Lv17, SWELLOW Lv17, GRAVELER Lv17
+#100 (YOUNGSTER DAVE)@240764 - CASCOON Lv18, SHUPPET Lv18
+#101 (YOUNGSTER BEN)@24078C - WYNAUT Lv17, CHIKORITA Lv17
+#102 (BUG CATCHER RICK)@2407B4 - KOFFING Lv6, PELIPPER Lv6
+#103 (BUG CATCHER DOUG)@2407DC - SHARPEDO Lv7, CLAYDOL Lv7, VICTREEBEL Lv7
+#104 (BUG CATCHER SAMMY)@240804 - LUNATONE Lv9
+#105 (BUG CATCHER COLTON)@24082C - MEOWTH Lv10, RAICHU Lv10, HOPPIP Lv10
+#106 (BUG CATCHER GREG)@240854 - VIGOROTH Lv9, AZUMARILL Lv9, DRATINI Lv9, BEAUTIFLY Lv9
+#107 (BUG CATCHER JAMES)@24087C - SALAMENCE Lv11, DIGLETT Lv11
+#108 (BUG CATCHER KENT)@2408A4 - LAIRON Lv11, BAGON Lv11
+#109 (BUG CATCHER ROBBY)@2408CC - REMORAID Lv10, AIPOM Lv10, DODRIO Lv10
+#110 (BUG CATCHER CALE)@2408F4 - SLUGMA Lv10, VENONAT Lv10, MAGNEMITE Lv10, PICHU Lv10
+#111 (BUG CATCHER KEIGO)@24091C - RHYDON Lv16, MASQUERAIN Lv16, GENGAR Lv16
+#112 (BUG CATCHER ELIJAH)@240944 - GRANBULL Lv20
+#113 (BUG CATCHER )@24096C - OMANYTE Lv18, WOOPER Lv18, KAKUNA Lv18
+#114 (BUG CATCHER BRENT)@240994 - SUNFLORA Lv19, VAPOREON Lv19
+#115 (BUG CATCHER CONNER)@2409BC - OMASTAR Lv20, VIBRAVA Lv20, TEDDIURSA Lv20
+#116 (LASS JANICE)@2409E4 - AERODACTYL Lv9, HUNTAIL Lv9
+#117 (LASS SALLY)@240A0C - EKANS Lv10, KINGLER Lv10
+#118 (LASS ROBIN)@240A34 - MINUN Lv14
+#119 (LASS CRISSY)@240A5C - ELECTRODE Lv31, METANG Lv31, PIDGEY Lv31
+#120 (LASS MIRIAM)@240A84 - AZUMARILL Lv11, AZURILL Lv11
+#121 (LASS IRIS)@240AAC - WAILORD Lv14
+#122 (LASS RELI)@240AD4 - MAREEP Lv16, CARVANHA Lv16
+#123 (LASS ALI)@240AFC - SNUBBULL Lv12, MAGMAR Lv12, ELECTRIKE Lv12
+#124 (LASS )@240B24 - SCYTHER Lv15, RALTS Lv15
+#125 (LASS HALEY)@240B4C - GRAVELER Lv13, DEOXYS Lv13, DUSCLOPS Lv13
+#126 (LASS ANN)@240B74 - MILOTIC Lv18, MANTINE Lv18
+#127 (LASS DAWN)@240B9C - LOUDRED Lv18, OMASTAR Lv18
+#128 (LASS PAIGE)@240BC4 - NIDOQUEEN Lv23, TENTACOOL Lv23
+#129 (LASS ANDREA)@240BEC - CLAYDOL Lv24, SLOWKING Lv24, DITTO Lv24
+#130 (LASS MEGAN)@240C14 - NINCADA Lv19, ALTARIA Lv19, HUNTAIL Lv19, BRELOOM Lv19, EXEGGUTOR Lv19
+#131 (LASS JULIA)@240C3C - LICKITUNG Lv22, GROWLITHE Lv22
+#132 (LASS KAY)@240C64 - GENGAR Lv23, XATU Lv23
+#133 (LASS LISA)@240C8C - SEAKING Lv23, SOLROCK Lv23
+#134 (SAILOR EDMOND)@240CB4 - MEGANIUM Lv18, BALTOY Lv18
+#135 (SAILOR TREVOR)@240CDC - BEEDRILL Lv17, HOPPIP Lv17
+#136 (SAILOR LEONARD)@240D04 - VOLTORB Lv21
+#137 (SAILOR DUNCAN)@240D2C - TORCHIC Lv17, CATERPIE Lv17, DUSCLOPS Lv17
+#138 (SAILOR HUEY)@240D54 - IGGLYBUFF Lv18, DODRIO Lv18
+#139 (SAILOR DYLAN)@240D7C - LATIOS Lv17, SHUPPET Lv17, TENTACRUEL Lv17
+#140 (SAILOR PHILLIP)@240DA4 - SUNFLORA Lv20
+#141 (SAILOR DWAYNE)@240DCC - ENTEI Lv21, CROBAT Lv21
+#142 (CAMPER LIAM)@240DF4 - VAPOREON Lv10, KRABBY Lv11
+#143 (CAMPER SHANE)@240E1C - CROBAT Lv14, BAYLEEF Lv14
+#144 (CAMPER ETHAN)@240E44 - LARVITAR Lv18
+#145 (CAMPER RICKY)@240E6C - PUPITAR Lv20
+#146 (CAMPER JEFF)@240E94 - LAIRON Lv16, EEVEE Lv16
+#147 (CAMPER )@240EBC - LICKITUNG Lv5
+#148 (CAMPER CHRIS)@240EE4 - SANDSLASH Lv21, DONPHAN Lv21
+#149 (CAMPER DREW)@240F0C - REGICE Lv19, DUSCLOPS Lv19, CACNEA Lv19, URSARING Lv19
+#150 (PICNICKER DIANA)@240F34 - SEALEO Lv19
+#151 (PICNICKER NANCY)@240F5C - CROCONAW Lv16, CROBAT Lv16
+#152 (PICNICKER ISABELLE)@240F84 - MILOTIC Lv16, SHELGON Lv16, GOLEM Lv16
+#153 (PICNICKER KELSEY)@240FAC - LUNATONE Lv15, CHINCHOU Lv15
+#154 (PICNICKER ALICIA)@240FD4 - FEEBAS Lv18, LOMBRE Lv18, HOPPIP Lv18, HO-OH Lv18
+#155 (PICNICKER CAITLIN)@240FFC - WALREIN Lv23
+#156 (PICNICKER HEIDI)@241024 - QUILAVA Lv20, BULBASAUR Lv20
+#157 (PICNICKER CAROL)@24104C - KECLEON Lv21, DEOXYS Lv21
+#158 (PICNICKER SOFIA)@241074 - PSYDUCK Lv21, IGGLYBUFF Lv21, BEAUTIFLY Lv21
+#159 (PICNICKER MARTHA)@24109C - LUVDISC Lv22, VICTREEBEL Lv22
+#160 (PICNICKER TINA)@2410C4 - SEVIPER Lv24, BLAZIKEN Lv24
+#161 (PICNICKER HANNAH)@2410EC - TEDDIURSA Lv24, FERALIGATR Lv24, NATU Lv24, TOGEPI Lv24, PARASECT Lv24
+#162 (POKéMANIAC MARK)@241114 - WYNAUT Lv29, PIDGEOT Lv29
+#163 (POKéMANIAC HERMAN)@24113C - WOOPER Lv20, CRADILY Lv20
+#164 (POKéMANIAC COOPER)@241164 - GOLDEEN Lv20, KINGLER Lv20, WAILMER Lv20
+#165 (POKéMANIAC STEVE)@24118C - CHANSEY Lv22, GLALIE Lv22
+#166 (POKéMANIAC WINSTON)@2411B4 - KABUTOPS Lv25
+#167 (POKéMANIAC DAWSON)@2411DC - PUPITAR Lv40, ZAPDOS Lv40, WURMPLE Lv40
+#168 (POKéMANIAC ASHTON)@241204 - COMBUSKEN Lv23, WARTORTLE Lv23
+#169 (SUPER NERD JOVAN)@24122C - JIRACHI Lv11, SUNFLORA Lv11
+#170 (SUPER NERD MIGUEL)@241254 - PONYTA Lv12, PORYGON2 Lv12, HOPPIP Lv12
+#171 (SUPER NERD AIDAN)@24127C - PERSIAN Lv20, BELDUM Lv20, WAILMER Lv20, VOLBEAT Lv20
+#172 (SUPER NERD GLENN)@2412A4 - WAILMER Lv22, BLISSEY Lv22, GROVYLE Lv22
+#173 (SUPER NERD LESLIE)@2412CC - SABLEYE Lv26
+#174 (SUPER NERD )@2412F4 - AZUMARILL Lv22, REMORAID Lv22, SABLEYE Lv22
+#175 (SUPER NERD )@24131C - HYPNO Lv20, WALREIN Lv20, DRATINI Lv20, SHUPPET Lv20
+#176 (SUPER NERD )@241344 - HOUNDOUR Lv24, WAILMER Lv24
+#177 (SUPER NERD ERIK)@24136C - EXEGGUTOR Lv36, LUGIA Lv36, MAWILE Lv36
+#178 (SUPER NERD AVERY)@241394 - CYNDAQUIL Lv34, SUNFLORA Lv34, EXPLOUD Lv34, QUILAVA Lv34
+#179 (SUPER NERD DEREK)@2413BC - CHARMELEON Lv41
+#180 (SUPER NERD ZAC)@2413E4 - TYROGUE Lv37, WHISCASH Lv37
+#181 (HIKER MARCOS)@24140C - WYNAUT Lv10, HO-OH Lv10, CHIMECHO Lv10
+#182 (HIKER FRANKLIN)@241434 - OMANYTE Lv15, PONYTA Lv15
+#183 (HIKER NOB)@24145C - MACHAMP Lv13, BAGON Lv13, MEGANIUM Lv13, CHIMECHO Lv13
+#184 (HIKER WAYNE)@241484 - DODUO Lv17
+#185 (HIKER ALAN)@2414AC - MAGNEMITE Lv21, WALREIN Lv21
+#186 (HIKER BRICE)@2414D4 - ENTEI Lv20, VIGOROTH Lv20, CATERPIE Lv20
+#187 (HIKER CLARK)@2414FC - BAYLEEF Lv21, GULPIN Lv21
+#188 (HIKER TRENT)@241524 - NINCADA Lv19, SMOOCHUM Lv19
+#189 (HIKER DUDLEY)@24154C - CRADILY Lv21, MEGANIUM Lv21, MANKEY Lv21
+#190 (HIKER ALLEN)@241574 - GROWLITHE Lv25
+#191 (HIKER ERIC)@24159C - CUBONE Lv20, SHUPPET Lv20
+#192 (HIKER LENNY)@2415C4 - GRAVELER Lv19, GOLDEEN Lv19, ZAPDOS Lv19, MARSHTOMP Lv19
+#193 (HIKER OLIVER)@2415EC - SEEL Lv20, KIRLIA Lv20, HAUNTER Lv20
+#194 (HIKER LUCAS)@241614 - KECLEON Lv21, SHARPEDO Lv21
+#195 (BIKER JARED)@24163C - ELECTRODE Lv28, ARMALDO Lv28, NOCTOWL Lv28
+#196 (BIKER MALIK)@241664 - DEWGONG Lv29, SMEARGLE Lv29
+#197 (BIKER ERNEST)@24168C - MURKROW Lv25, FLAAFFY Lv25, CORPHISH Lv25, LARVITAR Lv25, BARBOACH Lv25
+#198 (BIKER ALEX)@2416B4 - YANMA Lv28, REGISTEEL Lv28, TEDDIURSA Lv28
+#199 (BIKER LAO)@2416DC - CHARMANDER Lv29, ELECTRODE Lv29
+#200 (BIKER )@241704 - SABLEYE Lv5
+#201 (BIKER HIDEO)@24172C - VAPOREON Lv33
+#202 (BIKER RUBEN)@241754 - HO-OH Lv28, KIRLIA Lv28, LEDYBA Lv28
+#203 (BIKER BILLY)@24177C - WIGGLYTUFF Lv33
+#204 (BIKER NIKOLAS)@2417A4 - PONYTA Lv29, WAILORD Lv29
+#205 (BIKER JAXON)@2417CC - SNUBBULL Lv29, KABUTOPS Lv29
+#206 (BIKER WILLIAM)@2417F4 - POOCHYENA Lv25, KINGLER Lv25, LANTURN Lv25, WIGGLYTUFF Lv25, STARMIE Lv25
+#207 (BIKER LUKAS)@24181C - ELEKID Lv26, SNORUNT Lv26, CARVANHA Lv26, SURSKIT Lv26
+#208 (BIKER ISAAC)@241844 - SKIPLOOM Lv28, LAPRAS Lv28, ELECTRIKE Lv28
+#209 (BIKER GERALD)@24186C - TYRANITAR Lv29, MACHOKE Lv29
+#210 (BURGLAR )@241894 - NIDOKING Lv29, TOTODILE Lv29
+#211 (BURGLAR )@2418BC - ARCANINE Lv33
+#212 (BURGLAR )@2418E4 - KYOGRE Lv28, CATERPIE Lv28, GOREBYSS Lv28
+#213 (BURGLAR QUINN)@24190C - FEAROW Lv36, MACHOKE Lv36, HAUNTER Lv36
+#214 (BURGLAR RAMON)@241934 - GENGAR Lv41
+#215 (BURGLAR DUSTY)@24195C - SLOWPOKE Lv37, BANETTE Lv37
+#216 (BURGLAR ARNIE)@241984 - TAUROS Lv34, SHELLDER Lv34
+#217 (BURGLAR )@2419AC - TROPIUS Lv34, KIRLIA Lv34
+#218 (BURGLAR SIMON)@2419D4 - NIDOQUEEN Lv38
+#219 (BURGLAR LEWIS)@2419FC - UMBREON Lv34, PARAS Lv34
+#220 (ENGINEER BAILY)@241A24 - MURKROW Lv21, OMANYTE Lv21
+#221 (ENGINEER BRAXTON)@241A4C - STANTLER Lv21
+#222 (ENGINEER BERNIE)@241A74 - GROUDON Lv18, DODUO Lv18, KABUTO Lv18
+#223 (FISHERMAN DALE)@241A9C - LUNATONE Lv17, SNORUNT Lv17, STARMIE Lv17
+#224 (FISHERMAN BARNY)@241AC4 - EXPLOUD Lv17, REGISTEEL Lv17, ILLUMISE Lv17
+#225 (FISHERMAN NED)@241AEC - EXPLOUD Lv22, CRAWDAUNT Lv22, WHISCASH Lv22
+#226 (FISHERMAN CHIP)@241B14 - PUPITAR Lv24, DODUO Lv24
+#227 (FISHERMAN HANK)@241B3C - MAGNEMITE Lv27
+#228 (FISHERMAN ELLIOT)@241B64 - PILOSWINE Lv21, CRADILY Lv21, SNEASEL Lv21, PARASECT Lv21
+#229 (FISHERMAN RONALD)@241B8C - SWINUB Lv28, FLAAFFY Lv28, WARTORTLE Lv28, SPINDA Lv28
+#230 (FISHERMAN CLAUDE)@241BB4 - SANDSHREW Lv31, XATU Lv31
+#231 (FISHERMAN WADE)@241BDC - RAYQUAZA Lv27, CLEFFA Lv27, TORCHIC Lv27, WURMPLE Lv27, ARON Lv27, NIDORINO Lv27
+#232 (FISHERMAN NOLAN)@241C04 - SHARPEDO Lv33, PARAS Lv33
+#233 (FISHERMAN ANDREW)@241C2C - RALTS Lv24, QUAGSIRE Lv24
+#234 (SWIMMER♂ LUIS)@241C54 - GASTLY Lv16, PORYGON2 Lv16
+#235 (SWIMMER♂ RICHARD)@241C7C - ODDISH Lv30, LOMBRE Lv30
+#236 (SWIMMER♂ REECE)@241CA4 - COMBUSKEN Lv29, MUK Lv29, AGGRON Lv29
+#237 (SWIMMER♂ MATTHEW)@241CCC - QWILFISH Lv30, JYNX Lv30
+#238 (SWIMMER♂ DOUGLAS)@241CF4 - PORYGON2 Lv27, LUGIA Lv27, NIDORINO Lv27, GLIGAR Lv27
+#239 (SWIMMER♂ DAVID)@241D1C - CYNDAQUIL Lv29, AZUMARILL Lv29, SILCOON Lv29
+#240 (SWIMMER♂ TONY)@241D44 - LAPRAS Lv30, KINGDRA Lv30
+#241 (SWIMMER♂ AXLE)@241D6C - ENTEI Lv27, SCIZOR Lv27, LILEEP Lv27, WOBBUFFET Lv27, GOLDUCK Lv27
+#242 (SWIMMER♂ BARRY)@241D94 - ABSOL Lv31, GEODUDE Lv31
+#243 (SWIMMER♂ DEAN)@241DBC - KRABBY Lv35
+#244 (SWIMMER♂ DARRIN)@241DE4 - SUDOWOODO Lv28, MAGBY Lv28, TOGEPI Lv28, KADABRA Lv28
+#245 (SWIMMER♂ SPENCER)@241E0C - ONIX Lv33, ARIADOS Lv33
+#246 (SWIMMER♂ JACK)@241E34 - WARTORTLE Lv37
+#247 (SWIMMER♂ JEROME)@241E5C - MANECTRIC Lv33, SENTRET Lv33
+#248 (SWIMMER♂ ROLAND)@241E84 - ALAKAZAM Lv32, SPOINK Lv32, CHANSEY Lv32
+#249 (CUE BALL KOJI)@241EAC - STANTLER Lv28, POLIWHIRL Lv28, ESPEON Lv28
+#250 (CUE BALL LUKE)@241ED4 - WYNAUT Lv29, DEOXYS Lv29
+#251 (CUE BALL CAMRON)@241EFC - EXEGGCUTE Lv29, CACTURNE Lv29
+#252 (CUE BALL RAUL)@241F24 - KABUTO Lv29, FORRETRESS Lv29
+#253 (CUE BALL ISAIAH)@241F4C - DONPHAN Lv29, QWILFISH Lv29
+#254 (CUE BALL ZEEK)@241F74 - CROBAT Lv33
+#255 (CUE BALL JAMAL)@241F9C - BEEDRILL Lv26, TYROGUE Lv26, MEWTWO Lv26, URSARING Lv26
+#256 (CUE BALL COREY)@241FC4 - MANTINE Lv29, PORYGON Lv29
+#257 (CUE BALL CHASE)@241FEC - SEADRA Lv31, BRELOOM Lv31, MEWTWO Lv31
+#258 (GAMER HUGO)@242014 - MANECTRIC Lv18, PIDGEOTTO Lv18
+#259 (GAMER JASPER)@24203C - CHARMANDER Lv18, MIGHTYENA Lv18
+#260 (GAMER DIRK)@242064 - LARVITAR Lv18, SNUBBULL Lv18
+#261 (GAMER DARIAN)@24208C - SEEDOT Lv18, DODUO Lv18
+#262 (GAMER STAN)@2420B4 - MILOTIC Lv22, AGGRON Lv22, POOCHYENA Lv22
+#263 (GAMER )@2420DC - SMOOCHUM Lv5
+#264 (GAMER RICH)@242104 - VIGOROTH Lv24, PICHU Lv24
+#265 (BEAUTY BRIDGET)@24212C - GLIGAR Lv21, BULBASAUR Lv21, LUNATONE Lv21, PELIPPER Lv21
+#266 (BEAUTY TAMIA)@242154 - VENUSAUR Lv24, TYPHLOSION Lv24
+#267 (BEAUTY LORI)@24217C - TYPHLOSION Lv24
+#268 (BEAUTY LOLA)@2421A4 - LANTURN Lv27, TENTACOOL Lv27, WOBBUFFET Lv27
+#269 (BEAUTY SHEILA)@2421CC - TEDDIURSA Lv29, SEEL Lv29
+#270 (SWIMMER♀ TIFFANY)@2421F4 - HOOTHOOT Lv35
+#271 (SWIMMER♀ NORA)@24221C - FORRETRESS Lv30, DODRIO Lv30, DUGTRIO Lv30
+#272 (SWIMMER♀ MELISSA)@242244 - URSARING Lv31, WHISMUR Lv31
+#273 (BEAUTY GRACE)@24226C - CRAWDAUNT Lv29, OMANYTE Lv29
+#274 (BEAUTY OLIVIA)@242294 - SPINDA Lv29, JIRACHI Lv29
+#275 (BEAUTY LAUREN)@2422BC - DODRIO Lv33, WAILORD Lv33, WAILMER Lv33
+#276 (SWIMMER♀ ANYA)@2422E4 - XATU Lv27, SHARPEDO Lv27, SWINUB Lv27, CARVANHA Lv27, LOTAD Lv27
+#277 (SWIMMER♀ ALICE)@24230C - ANORITH Lv30, PELIPPER Lv30
+#278 (SWIMMER♀ CONNIE)@242334 - BAYLEEF Lv29, SCIZOR Lv29, NUMEL Lv29
+#279 (SWIMMER♀ SHIRLEY)@24235C - WIGGLYTUFF Lv30, NIDORINO Lv30, TYPHLOSION Lv30
+#280 (PSYCHIC JOHAN)@242384 - PUPITAR Lv31, MEOWTH Lv31, KABUTO Lv31, RHYDON Lv31
+#281 (PSYCHIC TYRON)@2423AC - SUNFLORA Lv34, BULBASAUR Lv34
+#282 (PSYCHIC CAMERON)@2423D4 - PUPITAR Lv33, PUPITAR Lv33, SHARPEDO Lv33
+#283 (PSYCHIC PRESTON)@2423FC - NATU Lv38
+#284 (ROCKER RANDALL)@242424 - PIKACHU Lv20, TOTODILE Lv20, PORYGON Lv20
+#285 (ROCKER LUCA)@24244C - MAGCARGO Lv29, CYNDAQUIL Lv29
+#286 (JUGGLER DALTON)@242474 - ALTARIA Lv29, BAGON Lv29
+#287 (JUGGLER NELSON)@24249C - BLASTOISE Lv41, DUSKULL Lv41, SKARMORY Lv41, METANG Lv41
+#288 (JUGGLER KIRK)@2424C4 - JOLTEON Lv31, KABUTO Lv31, TOGETIC Lv31, DELIBIRD Lv31
+#289 (JUGGLER SHAWN)@2424EC - IVYSAUR Lv34, KRABBY Lv34
+#290 (JUGGLER GREGORY)@242514 - AIPOM Lv48
+#291 (JUGGLER EDWARD)@24253C - WURMPLE Lv46, FEEBAS Lv46, HITMONCHAN Lv47, MAGCARGO Lv48
+#292 (JUGGLER KAYDEN)@242564 - OMANYTE Lv38
+#293 (JUGGLER NATE)@24258C - GOLBAT Lv34, SNUBBULL Lv34
+#294 (TAMER PHIL)@2425B4 - TREECKO Lv34, LAPRAS Lv34
+#295 (TAMER EDGAR)@2425DC - IVYSAUR Lv33, SHELLDER Lv33, MEGANIUM Lv33
+#296 (TAMER JASON)@242604 - FLYGON Lv43
+#297 (TAMER COLE)@24262C - CORPHISH Lv39, HOUNDOUR Lv39
+#298 (TAMER VINCENT)@242654 - NUZLEAF Lv44, TAUROS Lv44
+#299 (TAMER JOHN)@24267C - ANORITH Lv42, SEVIPER Lv42, GYARADOS Lv42, MINUN Lv42
+#300 (BIRD KEEPER SEBASTIAN)@2426A4 - DODRIO Lv29, HOUNDOUR Lv29
+#301 (BIRD KEEPER PERRY)@2426CC - ABSOL Lv25, KINGLER Lv25, SWABLU Lv25, VAPOREON Lv25, ENTEI Lv25
+#302 (BIRD KEEPER ROBERT)@2426F4 - KANGASKHAN Lv26, TYPHLOSION Lv26, CLEFAIRY Lv26, GROWLITHE Lv26
+#303 (BIRD KEEPER DONALD)@24271C - SLOWKING Lv33
+#304 (BIRD KEEPER BENNY)@242744 - AERODACTYL Lv29, CHANSEY Lv29
+#305 (BIRD KEEPER EDWIN)@24276C - HARIYAMA Lv26, FARFETCH’D Lv26, ARTICUNO Lv26, HITMONCHAN Lv26
+#306 (BIRD KEEPER CHESTER)@242794 - JUMPLUFF Lv28, LILEEP Lv28, WOBBUFFET Lv28
+#307 (BIRD KEEPER WILTON)@2427BC - LOMBRE Lv29, SHELLDER Lv29
+#308 (BIRD KEEPER RAMIRO)@2427E4 - POLIWRATH Lv34
+#309 (BIRD KEEPER JACOB)@24280C - RAIKOU Lv26, CROBAT Lv26, EXEGGUTOR Lv26, SNORUNT Lv26
+#310 (BIRD KEEPER ROGER)@242834 - SMEARGLE Lv30, SEALEO Lv30, FLAREON Lv30
+#311 (BIRD KEEPER REED)@24285C - MAGIKARP Lv39, BUTTERFREE Lv39, MEDITITE Lv39, TYPHLOSION Lv39
+#312 (BIRD KEEPER KEITH)@242884 - BLISSEY Lv39, SMEARGLE Lv39
+#313 (BIRD KEEPER CARTER)@2428AC - LOTAD Lv28, BELLSPROUT Lv28, KRABBY Lv28
+#314 (BIRD KEEPER MITCH)@2428D4 - STEELIX Lv26, ALTARIA Lv26, CLAMPERL Lv26, SENTRET Lv26
+#315 (BIRD KEEPER BECK)@2428FC - TOTODILE Lv29, SWABLU Lv29
+#316 (BIRD KEEPER MARLON)@242924 - PINSIR Lv28, PINECO Lv28, SILCOON Lv28
+#317 (BLACK BELT KOICHI)@24294C - CLOYSTER Lv37, BARBOACH Lv37
+#318 (BLACK BELT MIKE)@242974 - NIDORAN♀ Lv31, NUMEL Lv31, GOREBYSS Lv31
+#319 (BLACK BELT HIDEKI)@24299C - ARIADOS Lv32, CATERPIE Lv32
+#320 (BLACK BELT AARON)@2429C4 - LAIRON Lv36
+#321 (BLACK BELT HITOSHI)@2429EC - CLEFFA Lv31, MEWTWO Lv31, SKIPLOOM Lv31
+#322 (BLACK BELT ATSUSHI)@242A14 - SEAKING Lv40, LILEEP Lv40
+#323 (BLACK BELT KIYO)@242A3C - CAMERUPT Lv43
+#324 (BLACK BELT TAKASHI)@242A64 - SABLEYE Lv38, ZIGZAGOON Lv38, DROWZEE Lv38
+#325 (BLACK BELT DAISUKE)@242A8C - SEEL Lv43, DELCATTY Lv43, KAKUNA Lv43
+#326 (RIVAL TERRY)@242AB4 - HYPNO Lv5
+#327 (RIVAL TERRY)@242ADC - SLOWBRO Lv5
+#328 (RIVAL TERRY)@242B04 - EKANS Lv5
+#329 (RIVAL TERRY)@242B2C - STARMIE Lv9, HYPNO Lv9
+#330 (RIVAL TERRY)@242B54 - MASQUERAIN Lv9, SLOWBRO Lv9
+#331 (RIVAL TERRY)@242B7C - FORRETRESS Lv9, EKANS Lv9
+#332 (RIVAL TERRY)@242BA4 - REGICE Lv17, TOGEPI Lv16, SMEARGLE Lv15, HYPNO Lv18
+#333 (RIVAL TERRY)@242BCC - NINCADA Lv17, ODDISH Lv16, CLOYSTER Lv15, SLOWBRO Lv18
+#334 (RIVAL TERRY)@242BF4 - REGICE Lv17, WEEZING Lv16, BULBASAUR Lv15, EKANS Lv18
+#335 (SCIENTIST TED)@242C1C - TREECKO Lv29, TANGELA Lv29
+#336 (SCIENTIST CONNOR)@242C44 - JUMPLUFF Lv26, ELECTRODE Lv26, SCYTHER Lv26, DITTO Lv26
+#337 (SCIENTIST JERRY)@242C6C - UMBREON Lv28, BALTOY Lv28, SNORUNT Lv28
+#338 (SCIENTIST JOSE)@242C94 - SENTRET Lv29, NUZLEAF Lv29
+#339 (SCIENTIST RODNEY)@242CBC - CACNEA Lv33
+#340 (SCIENTIST BEAU)@242CE4 - WAILORD Lv26, RATTATA Lv26, LINOONE Lv26, IGGLYBUFF Lv26
+#341 (SCIENTIST TAYLOR)@242D0C - FLAREON Lv25, QUAGSIRE Lv25, CROBAT Lv25, LOMBRE Lv25, SKITTY Lv25
+#342 (SCIENTIST JOSHUA)@242D34 - NUMEL Lv29, AZURILL Lv29
+#343 (SCIENTIST PARKER)@242D5C - SHIFTRY Lv29, PUPITAR Lv29
+#344 (SCIENTIST ED)@242D84 - TEDDIURSA Lv28, BLISSEY Lv28, SWAMPERT Lv28
+#345 (SCIENTIST TRAVIS)@242DAC - GRANBULL Lv29, WHISMUR Lv29
+#346 (SCIENTIST BRAYDON)@242DD4 - KAKUNA Lv33, NUZLEAF Lv33, KINGLER Lv33
+#347 (SCIENTIST IVAN)@242DFC - WHISCASH Lv34, CLEFABLE Lv34
+#348 (BOSS GIOVANNI)@242E24 - SENTRET Lv25, SLOWBRO Lv24, JUMPLUFF Lv29
+#349 (BOSS GIOVANNI)@242E4C - MEDITITE Lv37, KADABRA Lv35, ABRA Lv37, MANECTRIC Lv41
+#350 (LEADER GIOVANNI)@242E74 - WURMPLE Lv45, NUZLEAF Lv42, SLAKOTH Lv44, CROCONAW Lv45, MOLTRES Lv50
+#351 (TEAM ROCKET GRUNT)@242E9C - ELEKID Lv13, FLAAFFY Lv13
+#352 (TEAM ROCKET GRUNT)@242EC4 - DEWGONG Lv11, MISDREAVUS Lv11, HARIYAMA Lv11
+#353 (TEAM ROCKET GRUNT)@242EEC - ELECTRODE Lv11, WOBBUFFET Lv11
+#354 (TEAM ROCKET GRUNT)@242F14 - RAPIDASH Lv13, NATU Lv13
+#355 (TEAM ROCKET GRUNT)@242F3C - SURSKIT Lv17, BALTOY Lv17
+#356 (TEAM ROCKET GRUNT)@242F64 - NIDOQUEEN Lv15, BALTOY Lv15
+#357 (TEAM ROCKET GRUNT)@242F8C - TAUROS Lv20, DROWZEE Lv20
+#358 (TEAM ROCKET GRUNT)@242FB4 - SMEARGLE Lv21, MURKROW Lv21
+#359 (TEAM ROCKET GRUNT)@242FDC - RAPIDASH Lv21, ZUBAT Lv21
+#360 (TEAM ROCKET GRUNT)@243004 - STEELIX Lv20, HYPNO Lv20, LUVDISC Lv20
+#361 (TEAM ROCKET GRUNT)@24302C - VIGOROTH Lv19, MEOWTH Lv19, SMEARGLE Lv19, MEGANIUM Lv19
+#362 (TEAM ROCKET GRUNT)@243054 - PONYTA Lv22, GRANBULL Lv22
+#363 (TEAM ROCKET GRUNT)@24307C - SPOINK Lv17, SEEDOT Lv17, LUGIA Lv17, HOOTHOOT Lv17, GROVYLE Lv17
+#364 (TEAM ROCKET GRUNT)@2430A4 - TREECKO Lv20, MAWILE Lv20, SWAMPERT Lv20
+#365 (TEAM ROCKET GRUNT)@2430CC - WAILORD Lv21, SEALEO Lv21
+#366 (TEAM ROCKET GRUNT)@2430F4 - BULBASAUR Lv23, PSYDUCK Lv23, SPEAROW Lv23
+#367 (TEAM ROCKET GRUNT)@24311C - HOOTHOOT Lv23, ARBOK Lv23, TORCHIC Lv23
+#368 (TEAM ROCKET GRUNT)@243144 - MEDITITE Lv21, TEDDIURSA Lv21
+#369 (TEAM ROCKET GRUNT)@24316C - ANORITH Lv25, DROWZEE Lv25, GLALIE Lv25
+#370 (TEAM ROCKET GRUNT)@243194 - WHISCASH Lv26, COMBUSKEN Lv26
+#371 (TEAM ROCKET GRUNT)@2431BC - STARMIE Lv23, SEEL Lv23, MEDITITE Lv23, MISDREAVUS Lv23
+#372 (TEAM ROCKET GRUNT)@2431E4 - MINUN Lv26, DRAGONITE Lv26
+#373 (TEAM ROCKET GRUNT)@24320C - ABRA Lv29, NIDOKING Lv29
+#374 (TEAM ROCKET GRUNT)@243234 - CHINCHOU Lv25, SCEPTILE Lv25, YANMA Lv25, LUVDISC Lv25, QWILFISH Lv25
+#375 (TEAM ROCKET GRUNT)@24325C - KAKUNA Lv28, TENTACRUEL Lv28, BELLOSSOM Lv28
+#376 (TEAM ROCKET GRUNT)@243284 - CLAYDOL Lv29, SCEPTILE Lv29
+#377 (TEAM ROCKET GRUNT)@2432AC - TAILLOW Lv28, TYROGUE Lv28, SILCOON Lv28
+#378 (TEAM ROCKET GRUNT)@2432D4 - EKANS Lv33
+#379 (TEAM ROCKET GRUNT)@2432FC - MUK Lv33
+#380 (TEAM ROCKET GRUNT)@243324 - ARTICUNO Lv29, MILOTIC Lv29
+#381 (TEAM ROCKET GRUNT)@24334C - WARTORTLE Lv28, CASCOON Lv28, FLAREON Lv28
+#382 (TEAM ROCKET GRUNT)@243374 - NIDORAN♀ Lv26, PIDGEOTTO Lv26, WOBBUFFET Lv26, ZANGOOSE Lv26
+#383 (TEAM ROCKET GRUNT)@24339C - SUNFLORA Lv29, ARON Lv29
+#384 (TEAM ROCKET GRUNT)@2433C4 - STEELIX Lv29, SLUGMA Lv29
+#385 (TEAM ROCKET GRUNT)@2433EC - TROPIUS Lv26, LOUDRED Lv26, WYNAUT Lv26, GYARADOS Lv26
+#386 (TEAM ROCKET GRUNT)@243414 - AIPOM Lv28, REGISTEEL Lv28, PILOSWINE Lv28
+#387 (TEAM ROCKET GRUNT)@24343C - NOSEPASS Lv28, SHUCKLE Lv28, DITTO Lv28
+#388 (TEAM ROCKET GRUNT)@243464 - HOOTHOOT Lv28, MAGMAR Lv28, KABUTOPS Lv28
+#389 (TEAM ROCKET GRUNT)@24348C - NIDORAN♂ Lv33
+#390 (TEAM ROCKET GRUNT)@2434B4 - METAPOD Lv25, LILEEP Lv25, NINETALES Lv25, GLALIE Lv25, ARIADOS Lv25
+#391 (TEAM ROCKET GRUNT)@2434DC - BLASTOISE Lv32, LUGIA Lv32, DRATINI Lv32
+#392 (COOLTRAINER SAMUEL)@243504 - KINGDRA Lv37, SNEASEL Lv37, CHARMELEON Lv38, SUNFLORA Lv39, MEOWTH Lv39
+#393 (COOLTRAINER GEORGE)@24352C - WYNAUT Lv42, VIGOROTH Lv42, SPINDA Lv42, SILCOON Lv42, QUAGSIRE Lv42
+#394 (COOLTRAINER COLBY)@243554 - SPEAROW Lv41, CLAMPERL Lv42, MUK Lv42, WEEPINBELL Lv42, SMEARGLE Lv43
+#395 (COOLTRAINER PAUL)@24357C - WEEZING Lv42, FEEBAS Lv42, HYPNO Lv42, UNOWN Lv42, VENUSAUR Lv42
+#396 (COOLTRAINER ROLANDO)@2435A4 - TAUROS Lv42, GRAVELER Lv42, PONYTA Lv42, ARTICUNO Lv42, CACTURNE Lv42
+#397 (COOLTRAINER GILBERT)@2435CC - MAROWAK Lv42, PHANPY Lv42, EEVEE Lv42, DUSCLOPS Lv42, PSYDUCK Lv42
+#398 (COOLTRAINER OWEN)@2435F4 - DODUO Lv42, JUMPLUFF Lv42, SHELLDER Lv42, KECLEON Lv42, ALTARIA Lv42
+#399 (COOLTRAINER BERKE)@24361C - ESPEON Lv42, KINGLER Lv42, ALTARIA Lv42, MAGNETON Lv42, SCEPTILE Lv42
+#400 (COOLTRAINER YUJI)@243644 - HYPNO Lv38, ARTICUNO Lv38, MOLTRES Lv38, RAPIDASH Lv38, TENTACOOL Lv38
+#401 (COOLTRAINER WARREN)@24366C - CHARMANDER Lv37, LUVDISC Lv37, KABUTOPS Lv38, SLOWKING Lv39, SANDSHREW Lv39
+#402 (COOLTRAINER MARY)@243694 - PIKACHU Lv22, SKIPLOOM Lv22, MAGCARGO Lv22, CYNDAQUIL Lv22, MILTANK Lv22
+#403 (COOLTRAINER CAROLINE)@2436BC - VIGOROTH Lv42, TAUROS Lv42, HOPPIP Lv42, FARFETCH’D Lv42, SHIFTRY Lv42
+#404 (COOLTRAINER ALEXA)@2436E4 - MACHOP Lv42, SHIFTRY Lv42, ARON Lv42, PHANPY Lv42, DELCATTY Lv42
+#405 (COOLTRAINER SHANNON)@24370C - MAGMAR Lv42, HOOTHOOT Lv42, LEDIAN Lv42, ABSOL Lv42, BELDUM Lv42
+#406 (COOLTRAINER NAOMI)@243734 - MURKROW Lv42, DEOXYS Lv42, DELCATTY Lv42, TYROGUE Lv42, SHELGON Lv42
+#407 (COOLTRAINER BROOKE)@24375C - LATIAS Lv42, CLAYDOL Lv42, GASTLY Lv42, AZUMARILL Lv42, POOCHYENA Lv42
+#408 (COOLTRAINER AUSTINA)@243784 - SWELLOW Lv42, SHROOMISH Lv42, DUSCLOPS Lv42, EXEGGUTOR Lv42, CELEBI Lv42
+#409 (COOLTRAINER JULIE)@2437AC - ENTEI Lv42, QUAGSIRE Lv42, BAGON Lv42, SWELLOW Lv42, SKARMORY Lv42
+#410 (ELITE FOUR LORELEI)@2437D4 - MIGHTYENA Lv52, BARBOACH Lv51, MEDITITE Lv52, ILLUMISE Lv54, SLAKING Lv54
+#411 (ELITE FOUR BRUNO)@2437FC - STEELIX Lv51, NUZLEAF Lv53, NIDORAN♀ Lv53, NINJASK Lv54, CLEFAIRY Lv56
+#412 (ELITE FOUR AGATHA)@243824 - SOLROCK Lv54, LOMBRE Lv54, EXPLOUD Lv53, TOGEPI Lv56, NUZLEAF Lv58
+#413 (ELITE FOUR LANCE)@24384C - PINECO Lv56, PORYGON Lv54, DODRIO Lv54, GROWLITHE Lv58, MAGNETON Lv60
+#414 (LEADER BROCK)@243874 - QUILAVA Lv12, LUVDISC Lv14
+#415 (LEADER MISTY)@24389C - GRUMPIG Lv18, GRUMPIG Lv21
+#416 (LEADER LT. SURGE)@2438C4 - QWILFISH Lv21, AMPHAROS Lv18, VICTREEBEL Lv24
+#417 (LEADER ERIKA)@2438EC - CLAMPERL Lv29, LANTURN Lv24, ODDISH Lv29
+#418 (LEADER KOGA)@243914 - CHANSEY Lv37, VIGOROTH Lv39, REGIROCK Lv37, HOOTHOOT Lv43
+#419 (LEADER BLAINE)@24393C - EKANS Lv42, CLOYSTER Lv40, ANORITH Lv42, EXPLOUD Lv47
+#420 (LEADER SABRINA)@243964 - ARMALDO Lv38, WHISCASH Lv37, NIDORAN♀ Lv38, WEEZING Lv43
+#421 (GENTLEMAN THOMAS)@24398C - EKANS Lv18, BELDUM Lv18
+#422 (GENTLEMAN ARTHUR)@2439B4 - FLYGON Lv19, VICTREEBEL Lv19
+#423 (GENTLEMAN TUCKER)@2439DC - SPEAROW Lv23
+#424 (GENTLEMAN NORTON)@243A04 - MUK Lv48
+#425 (GENTLEMAN WALTER)@243A2C - IGGLYBUFF Lv17, ARIADOS Lv17
+#426 (RIVAL TERRY)@243A54 - TANGELA Lv19, TYRANITAR Lv16, GOREBYSS Lv18, HYPNO Lv20
+#427 (RIVAL TERRY)@243A7C - ODDISH Lv19, NIDORAN♂ Lv16, NINETALES Lv18, SLOWBRO Lv20
+#428 (RIVAL TERRY)@243AA4 - GOLBAT Lv19, POLIWAG Lv16, PIDGEOTTO Lv18, EKANS Lv20
+#429 (RIVAL TERRY)@243ACC - LEDYBA Lv25, SLOWPOKE Lv23, CATERPIE Lv22, MEGANIUM Lv20, HYPNO Lv25
+#430 (RIVAL TERRY)@243AF4 - VILEPLUME Lv25, SILCOON Lv23, POLIWRATH Lv22, NIDOQUEEN Lv20, SLOWBRO Lv25
+#431 (RIVAL TERRY)@243B1C - MANECTRIC Lv25, TAUROS Lv23, SHROOMISH Lv22, JIRACHI Lv20, ARBOK Lv25
+#432 (RIVAL TERRY)@243B44 - PIDGEOT Lv37, PIDGEOTTO Lv38, PORYGON Lv35, MAGBY Lv35, HYPNO Lv40
+#433 (RIVAL TERRY)@243B6C - BEAUTIFLY Lv37, SLAKOTH Lv38, ARBOK Lv35, LOMBRE Lv35, SLOWBRO Lv40
+#434 (RIVAL TERRY)@243B94 - MASQUERAIN Lv37, SEEDOT Lv38, CHARMANDER Lv35, WAILORD Lv35, ARBOK Lv40
+#435 (RIVAL TERRY)@243BBC - ARTICUNO Lv47, WEEDLE Lv45, WAILORD Lv45, SHUCKLE Lv45, METAGROSS Lv47, HYPNO Lv53
+#436 (RIVAL TERRY)@243BE4 - MEOWTH Lv47, LAPRAS Lv45, AIPOM Lv45, ALTARIA Lv45, BLISSEY Lv47, SLOWBRO Lv53
+#437 (RIVAL TERRY)@243C0C - FLYGON Lv47, ARBOK Lv45, WARTORTLE Lv45, GARDEVOIR Lv45, CHARIZARD Lv47, ARBOK Lv53
+#438 (CHAMPION TERRY)@243C34 - NIDOQUEEN Lv59, FEAROW Lv57, OCTILLERY Lv59, SHROOMISH Lv59, PARASECT Lv61, HYPNO Lv63
+#439 (CHAMPION TERRY)@243C5C - GROVYLE Lv59, NOSEPASS Lv57, NIDORINA Lv59, WURMPLE Lv59, SCIZOR Lv61, SLOWBRO Lv63
+#440 (CHAMPION TERRY)@243C84 - MANTINE Lv59, FLAAFFY Lv57, NINETALES Lv59, HO-OH Lv59, RAYQUAZA Lv61, ARBOK Lv63
+#441 (CHANNELER PATRICIA)@243CAC - DELCATTY Lv22
+#442 (CHANNELER CARLY)@243CD4 - DROWZEE Lv24
+#443 (CHANNELER HOPE)@243CFC - BEAUTIFLY Lv23
+#444 (CHANNELER PAULA)@243D24 - HERACROSS Lv24
+#445 (CHANNELER LAUREL)@243D4C - MANTINE Lv23, CACTURNE Lv23
+#446 (CHANNELER JODY)@243D74 - REMORAID Lv22
+#447 (CHANNELER TAMMY)@243D9C - JIGGLYPUFF Lv23
+#448 (CHANNELER RUTH)@243DC4 - GROVYLE Lv22
+#449 (CHANNELER KARINA)@243DEC - SEVIPER Lv24
+#450 (CHANNELER JANAE)@243E14 - CELEBI Lv22
+#451 (CHANNELER ANGELICA)@243E3C - XATU Lv22, GOLEM Lv22, IGGLYBUFF Lv22
+#452 (CHANNELER EMILIA)@243E64 - ALAKAZAM Lv24
+#453 (CHANNELER JENNIFER)@243E8C - NIDORINA Lv24
+#454 (CHANNELER )@243EB4 - POLIWRATH Lv23
+#455 (CHANNELER )@243EDC - NUMEL Lv24
+#456 (CHANNELER )@243F04 - SUNFLORA Lv22
+#457 (CHANNELER )@243F2C - EXEGGCUTE Lv24
+#458 (CHANNELER )@243F54 - GLOOM Lv22
+#459 (CHANNELER )@243F7C - VIGOROTH Lv22, ARCANINE Lv22, GROWLITHE Lv22
+#460 (CHANNELER )@243FA4 - SCIZOR Lv24
+#461 (CHANNELER )@243FCC - BLAZIKEN Lv24
+#462 (CHANNELER AMANDA)@243FF4 - WOBBUFFET Lv34, ARIADOS Lv34
+#463 (CHANNELER STACY)@24401C - LOTAD Lv38
+#464 (CHANNELER TASHA)@244044 - VILEPLUME Lv33, KINGDRA Lv33, MASQUERAIN Lv33
+#465 (HIKER JEREMY)@24406C - PSYDUCK Lv20, ELECTRIKE Lv20
+#466 (PICNICKER ALMA)@244094 - GLOOM Lv28, TOGEPI Lv28, XATU Lv28
+#467 (PICNICKER SUSIE)@2440BC - HARIYAMA Lv24, CHIKORITA Lv24, HUNTAIL Lv24, RAYQUAZA Lv24, MACHAMP Lv24
+#468 (PICNICKER VALERIE)@2440E4 - SHUPPET Lv30, BELLSPROUT Lv30
+#469 (PICNICKER GWEN)@24410C - CASCOON Lv27, MEDITITE Lv27, AZURILL Lv27, PIDGEOTTO Lv27
+#470 (BIKER VIRGIL)@244134 - SLUGMA Lv28, VAPOREON Lv28, GOLDUCK Lv28
+#471 (CAMPER FLINT)@24415C - NUZLEAF Lv14, SLUGMA Lv14
+#472 (PICNICKER MISSY)@244184 - WHISMUR Lv31, DROWZEE Lv31
+#473 (PICNICKER IRENE)@2441AC - SHARPEDO Lv30, LUNATONE Lv30, SCYTHER Lv30
+#474 (PICNICKER DANA)@2441D4 - POLIWHIRL Lv20, MAGNETON Lv20, MINUN Lv20
+#475 (PICNICKER ARIANA)@2441FC - QUILAVA Lv19, MACHAMP Lv19, COMBUSKEN Lv19, WALREIN Lv19
+#476 (PICNICKER LEAH)@244224 - BULBASAUR Lv22, HOUNDOOM Lv22
+#477 (CAMPER JUSTIN)@24424C - SNUBBULL Lv29, TOTODILE Lv29
+#478 (PICNICKER YAZMIN)@244274 - BELLSPROUT Lv29, GRAVELER Lv29, REMORAID Lv29
+#479 (PICNICKER KINDRA)@24429C - HOUNDOOM Lv28, TORKOAL Lv28, LAPRAS Lv28
+#480 (PICNICKER BECKY)@2442C4 - CARVANHA Lv29, SOLROCK Lv29
+#481 (PICNICKER CELIA)@2442EC - PINSIR Lv33
+#482 (GENTLEMAN BROOKS)@244314 - GROVYLE Lv23
+#483 (GENTLEMAN LAMAR)@24433C - IVYSAUR Lv17, CHIMECHO Lv17
+#484 (TWINS ELI & ANNE)@244364 - VAPOREON Lv22, MEW Lv22
+#485 (COOL COUPLE RAY & TYRA)@24438C - HARIYAMA Lv45, CATERPIE Lv45
+#486 (YOUNG COUPLE GIA & JES)@2443B4 - CLEFABLE Lv24, DUSTOX Lv24
+#487 (TWINS KIRI & JAN)@2443DC - DUGTRIO Lv29, GOLBAT Lv29
+#488 (CRUSH KIN RON & MYA)@244404 - MAROWAK Lv29, PILOSWINE Lv29
+#489 (YOUNG COUPLE LEA & JED)@24442C - FEEBAS Lv29, CACNEA Lv29
+#490 (SIS AND BRO LIA & LUC)@244454 - MAREEP Lv30, GEODUDE Lv30
+#491 (SIS AND BRO LIL & IAN)@24447C - MILTANK Lv33, LOMBRE Lv33
+#492 (BUG CATCHER )@2444A4 - PINECO Lv5
+#493 (BUG CATCHER )@2444CC - DRAGONAIR Lv5
+#494 (BUG CATCHER )@2444F4 - ARON Lv5
+#495 (BUG CATCHER )@24451C - KINGDRA Lv5
+#496 (BUG CATCHER )@244544 - CORSOLA Lv5
+#497 (BUG CATCHER )@24456C - HOOTHOOT Lv5
+#498 (YOUNGSTER BEN)@244594 - DRATINI Lv28, DEWGONG Lv28
+#499 (YOUNGSTER BEN)@2445BC - RATTATA Lv48, HITMONTOP Lv48
+#500 (YOUNGSTER CHAD)@2445E4 - SKARMORY Lv20, LUVDISC Lv20
+#501 (LASS RELI)@24460C - VENOMOTH Lv20, WALREIN Lv20
+#502 (LASS RELI)@244634 - VOLTORB Lv28, VOLBEAT Lv28
+#503 (YOUNGSTER TIMMY)@24465C - PARAS Lv19, SPINDA Lv19, SLAKOTH Lv19
+#504 (YOUNGSTER TIMMY)@244684 - KIRLIA Lv27, MAGBY Lv27, FEAROW Lv27
+#505 (YOUNGSTER TIMMY)@2446AC - RATICATE Lv52, EXEGGCUTE Lv52, KABUTO Lv52
+#506 (YOUNGSTER CHAD)@2446D4 - POLIWRATH Lv28, ZIGZAGOON Lv28
+#507 (LASS JANICE)@2446FC - WALREIN Lv20, CLOYSTER Lv20
+#508 (LASS JANICE)@244724 - XATU Lv28, BLASTOISE Lv28
+#509 (YOUNGSTER CHAD)@24474C - PARASECT Lv48, NIDORAN♂ Lv48
+#510 (HIKER FRANKLIN)@244774 - LARVITAR Lv25, HAUNTER Lv25
+#511 ([PK][MN] PROF. PROF. OAK)@24479C - VOLTORB Lv5
+#512 (PLAYER BRENDAN)@2447C4 - STARMIE Lv5
+#513 (PLAYER MAY)@2447EC - KECLEON Lv5
+#514 (PLAYER RED)@244814 - DROWZEE Lv5
+#515 (PLAYER LEAF)@24483C - GRIMER Lv5
+#516 (TEAM ROCKET GRUNT)@244864 - TORCHIC Lv49, BEEDRILL Lv49
+#517 (PSYCHIC JACLYN)@24488C - MEGANIUM Lv48, TAILLOW Lv48, IGGLYBUFF Lv49
+#518 (CRUSH GIRL SHARON)@2448B4 - VIBRAVA Lv37, SCIZOR Lv37
+#519 (TUBER AMIRA)@2448DC - RALTS Lv34, CHARMANDER Lv35, SILCOON Lv34
+#520 ([PK][MN] BREEDER ALIZE)@244904 - LOMBRE Lv48, SANDSLASH Lv48, PIDGEY Lv48
+#521 ([PK][MN] RANGER NICOLAS)@24492C - NIDORAN♂ Lv51, SLOWPOKE Lv51
+#522 ([PK][MN] RANGER MADELINE)@244954 - LOMBRE Lv51, SPINDA Lv51
+#523 (AROMA LADY NIKKI)@24497C - VIBRAVA Lv37, CHARIZARD Lv37
+#524 (RUIN MANIAC STANLY)@2449A4 - GRAVELER Lv48, KOFFING Lv48, TAUROS Lv48
+#525 (LADY JACKI)@2449CC - LUVDISC Lv48, KABUTOPS Lv50
+#526 (PAINTER DAISY)@2449F4 - STEELIX Lv50
+#527 (BIKER GOON)@244A1C - MARILL Lv37, FLAREON Lv37
+#528 (BIKER GOON)@244A44 - MEW Lv38
+#529 (BIKER GOON)@244A6C - MAGIKARP Lv38
+#530 (BIKER )@244A94 - SMOOCHUM Lv5
+#531 (BUG CATCHER ANTHONY)@244ABC - ABSOL Lv7, SEAKING Lv8
+#532 (BUG CATCHER CHARLIE)@244AE4 - PILOSWINE Lv7, OMANYTE Lv7, SPINDA Lv7
+#533 (TWINS ELI & ANNE)@244B0C - PORYGON2 Lv28, UMBREON Lv28
+#534 (YOUNGSTER JOHNSON)@244B34 - BELDUM Lv33, PARAS Lv33, PIDGEY Lv34
+#535 (BIKER RICARDO)@244B5C - REGIROCK Lv22, SWALOT Lv22, SMEARGLE Lv23
+#536 (BIKER JAREN)@244B84 - IGGLYBUFF Lv24, NIDOKING Lv24
+#537 (TEAM ROCKET GRUNT)@244BAC - TOGEPI Lv37, PUPITAR Lv37
+#538 (TEAM ROCKET GRUNT)@244BD4 - OCTILLERY Lv35, ARMALDO Lv35, SALAMENCE Lv35, CROCONAW Lv35
+#539 (TEAM ROCKET GRUNT)@244BFC - SENTRET Lv38, REMORAID Lv38, TOTODILE Lv38
+#540 (TEAM ROCKET GRUNT)@244C24 - MAWILE Lv48, CAMERUPT Lv48, AMPHAROS Lv48
+#541 (TEAM ROCKET GRUNT)@244C4C - NUMEL Lv48, KIRLIA Lv48, DELIBIRD Lv48
+#542 (TEAM ROCKET GRUNT)@244C74 - HITMONCHAN Lv49, ABRA Lv49
+#543 (TEAM ROCKET ADMIN)@244C9C - ZUBAT Lv52, LUGIA Lv53, EXEGGUTOR Lv54
+#544 (TEAM ROCKET ADMIN)@244CC4 - TOGEPI Lv53, AMPHAROS Lv54, PUPITAR Lv55
+#545 (SCIENTIST GIDEON)@244CEC - NUZLEAF Lv46, URSARING Lv46, IVYSAUR Lv46, XATU Lv46, RAYQUAZA Lv46
+#546 (SWIMMER♀ AMARA)@244D14 - HERACROSS Lv36, HITMONTOP Lv36, VOLBEAT Lv36
+#547 (SWIMMER♀ MARIA)@244D3C - WYNAUT Lv37, SMOOCHUM Lv37
+#548 (SWIMMER♀ ABIGAIL)@244D64 - GOREBYSS Lv35, DUSCLOPS Lv36, AERODACTYL Lv37
+#549 (SWIMMER♂ FINN)@244D8C - PILOSWINE Lv38
+#550 (SWIMMER♂ GARRETT)@244DB4 - CASCOON Lv35, SEADRA Lv35, SNORUNT Lv38
+#551 (FISHERMAN TOMMY)@244DDC - CORSOLA Lv33, MARILL Lv33, EXEGGUTOR Lv35, PIKACHU Lv35, MEDICHAM Lv35
+#552 (CRUSH GIRL TANYA)@244E04 - ANORITH Lv38, TANGELA Lv38
+#553 (BLACK BELT SHEA)@244E2C - SNEASEL Lv38, VULPIX Lv38
+#554 (BLACK BELT HUGH)@244E54 - SLOWKING Lv37, SANDSHREW Lv37
+#555 (CAMPER BRYCE)@244E7C - MEDICHAM Lv36, PRIMEAPE Lv36, AZURILL Lv36
+#556 (PICNICKER CLAIRE)@244EA4 - SLAKING Lv35, POLIWRATH Lv35, CLAMPERL Lv35, TYRANITAR Lv35
+#557 (CRUSH KIN MIK & KIA)@244ECC - MEGANIUM Lv39, HOUNDOUR Lv39
+#558 (AROMA LADY VIOLET)@244EF4 - VIBRAVA Lv36, CUBONE Lv36, SNORLAX Lv36
+#559 (TUBER ALEXIS)@244F1C - MUK Lv34, REGICE Lv34, HORSEA Lv34, JYNX Lv34
+#560 (TWINS JOY & MEG)@244F44 - KIRLIA Lv37, CLEFFA Lv37
+#561 (SWIMMER♀ TISHA)@244F6C - NIDORINO Lv38
+#562 (PAINTER CELINA)@244F94 - SURSKIT Lv50
+#563 (PAINTER RAYNA)@244FBC - RHYDON Lv50
+#564 (LADY GILLIAN)@244FE4 - ELECTRIKE Lv47, KIRLIA Lv48, LOMBRE Lv49
+#565 (YOUNGSTER DESTIN)@24500C - SLAKING Lv48, HUNTAIL Lv48
+#566 (SWIMMER♂ TOBY)@245034 - NUMEL Lv48, TAILLOW Lv48, SLOWKING Lv48
+#567 (TEAM ROCKET GRUNT)@24505C - VENOMOTH Lv48, MILTANK Lv48, REGIROCK Lv48
+#568 (TEAM ROCKET GRUNT)@245084 - GRANBULL Lv49, SUDOWOODO Lv49
+#569 (TEAM ROCKET GRUNT)@2450AC - DRAGONAIR Lv48, PORYGON2 Lv48, CLEFFA Lv48
+#570 (BIRD KEEPER MILO)@2450D4 - RALTS Lv47, LEDYBA Lv49
+#571 (BIRD KEEPER CHAZ)@2450FC - JUMPLUFF Lv47, HYPNO Lv49
+#572 (BIRD KEEPER HAROLD)@245124 - CELEBI Lv47, KRABBY Lv49
+#573 (FISHERMAN TYLOR)@24514C - GROWLITHE Lv49, EXEGGUTOR Lv49
+#574 (SWIMMER♂ MYMO)@245174 - KADABRA Lv49, PIKACHU Lv49
+#575 (SWIMMER♀ NICOLE)@24519C - CACNEA Lv50
+#576 (SIS AND BRO AVA & GEB)@2451C4 - CRAWDAUNT Lv50, JUMPLUFF Lv50
+#577 (AROMA LADY ROSE)@2451EC - HITMONCHAN Lv49, PIDGEY Lv49
+#578 (SWIMMER♂ SAMIR)@245214 - KINGDRA Lv50
+#579 (SWIMMER♀ DENISE)@24523C - VOLTORB Lv49, EXPLOUD Lv49
+#580 (TWINS MIU & MIA)@245264 - HOOTHOOT Lv50, MUDKIP Lv50
+#581 (HIKER EARL)@24528C - HOOTHOOT Lv49, PIDGEY Lv49
+#582 (RUIN MANIAC FOSTER)@2452B4 - MEW Lv50
+#583 (RUIN MANIAC LARRY)@2452DC - POLITOED Lv49, ESPEON Lv49
+#584 (HIKER DARYL)@245304 - BELLSPROUT Lv50
+#585 (POKéMANIAC HECTOR)@24532C - GLOOM Lv49, ANORITH Lv49
+#586 (PSYCHIC DARIO)@245354 - KAKUNA Lv52
+#587 (PSYCHIC RODETTE)@24537C - NIDORINO Lv48, PUPITAR Lv48, AZURILL Lv50
+#588 (AROMA LADY MIAH)@2453A4 - NIDOKING Lv50, KRABBY Lv50
+#589 (YOUNG COUPLE EVE & JON)@2453CC - RHYDON Lv50, METAGROSS Lv50
+#590 (JUGGLER MASON)@2453F4 - DRATINI Lv47, ABRA Lv47, SWAMPERT Lv47, ARTICUNO Lv47
+#591 (CRUSH GIRL CYNDY)@24541C - DIGLETT Lv48, BRELOOM Lv48, DUGTRIO Lv48
+#592 (CRUSH GIRL JOCELYN)@245444 - METAGROSS Lv38, SPINDA Lv38
+#593 (TAMER EVAN)@24546C - GLALIE Lv48, LUDICOLO Lv48, KADABRA Lv49
+#594 (POKéMANIAC MARK)@245494 - KABUTOPS Lv33, REGIROCK Lv33
+#595 ([PK][MN] RANGER LOGAN)@2454BC - PARAS Lv37, SUNFLORA Lv40
+#596 ([PK][MN] RANGER JACKSON)@2454E4 - HORSEA Lv49, PINECO Lv49, JIGGLYPUFF Lv49
+#597 ([PK][MN] RANGER BETH)@24550C - ZANGOOSE Lv38, SUNKERN Lv38, DUSKULL Lv38
+#598 ([PK][MN] RANGER KATELYN)@245534 - AMPHAROS Lv52
+#599 (COOLTRAINER LEROY)@24555C - GRAVELER Lv47, KOFFING Lv48, ODDISH Lv47, MARSHTOMP Lv48, SMOOCHUM Lv50
+#600 (COOLTRAINER MICHELLE)@245584 - SHELLDER Lv47, CAMERUPT Lv47, ENTEI Lv48, KECLEON Lv48, SPEAROW Lv50
+#601 (COOL COUPLE LEX & NYA)@2455AC - CACTURNE Lv52, MAGNETON Lv52
+#602 (RUIN MANIAC BRANDON)@2455D4 - MASQUERAIN Lv50
+#603 (RUIN MANIAC BENJAMIN)@2455FC - HOUNDOOM Lv48, FLAREON Lv48, ONIX Lv48
+#604 (PAINTER EDNA)@245624 - MASQUERAIN Lv50
+#605 (GENTLEMAN CLIFFORD)@24564C - HYPNO Lv49, LAIRON Lv49
+#606 (LADY SELPHY)@245674 - HARIYAMA Lv49, ABRA Lv49
+#607 (RUIN MANIAC LAWSON)@24569C - ELECTRIKE Lv47, PIDGEOTTO Lv48, KIRLIA Lv49
+#608 (PSYCHIC LAURA)@2456C4 - CHANSEY Lv48, STEELIX Lv48, MUDKIP Lv49
+#609 ([PK][MN] BREEDER BETHANY)@2456EC - MUK Lv50
+#610 ([PK][MN] BREEDER ALLISON)@245714 - MAGIKARP Lv48, KANGASKHAN Lv48, BLASTOISE Lv48
+#611 (BUG CATCHER GARRET)@24573C - METANG Lv49
+#612 (BUG CATCHER JONAH)@245764 - TENTACRUEL Lv45, SNEASEL Lv45, LICKITUNG Lv46, LAIRON Lv47
+#613 (BUG CATCHER VANCE)@24578C - NOSEPASS Lv48, HOOTHOOT Lv48
+#614 (YOUNGSTER NASH)@2457B4 - SWABLU Lv47, ARIADOS Lv47, MAREEP Lv49
+#615 (YOUNGSTER CORDELL)@2457DC - DONPHAN Lv48, IVYSAUR Lv48
+#616 (LASS DALIA)@245804 - GRUMPIG Lv46, MACHAMP Lv47, ELEKID Lv47, MANTINE Lv48
+#617 (LASS JOANA)@24582C - TREECKO Lv49
+#618 (CAMPER RILEY)@245854 - CORPHISH Lv49, NOCTOWL Lv50
+#619 (PICNICKER MARCY)@24587C - SMEARGLE Lv48, POLIWHIRL Lv48, SPOINK Lv49
+#620 (RUIN MANIAC LAYTON)@2458A4 - LUGIA Lv48, RELICANTH Lv48, SHUPPET Lv48
+#621 (PICNICKER KELSEY)@2458CC - DRAGONITE Lv21, MAGIKARP Lv21
+#622 (PICNICKER KELSEY)@2458F4 - ELECTRODE Lv29, GLALIE Lv29
+#623 (PICNICKER KELSEY)@24591C - CASCOON Lv49, NINCADA Lv49
+#624 (CAMPER RICKY)@245944 - CAMERUPT Lv22
+#625 (CAMPER RICKY)@24596C - SPEAROW Lv30
+#626 (CAMPER RICKY)@245994 - GENGAR Lv55
+#627 (CAMPER JEFF)@2459BC - GRIMER Lv21, WEEPINBELL Lv21
+#628 (CAMPER JEFF)@2459E4 - FERALIGATR Lv29, EXEGGUTOR Lv29
+#629 (CAMPER JEFF)@245A0C - TOGEPI Lv54, BELLOSSOM Lv54
+#630 (PICNICKER ISABELLE)@245A34 - LILEEP Lv21, DUSKULL Lv21, OMASTAR Lv18
+#631 (PICNICKER ISABELLE)@245A5C - SURSKIT Lv29, LARVITAR Lv29, MANECTRIC Lv26
+#632 (PICNICKER ISABELLE)@245A84 - HUNTAIL Lv47, BELLSPROUT Lv47, MAROWAK Lv50
+#633 (YOUNGSTER YASU)@245AAC - SPHEAL Lv22, SWABLU Lv22, SALAMENCE Lv22
+#634 (YOUNGSTER YASU)@245AD4 - HOPPIP Lv47, CASTFORM Lv47, ABRA Lv47
+#635 (ENGINEER BERNIE)@245AFC - LUNATONE Lv28, NINETALES Lv28, DRAGONITE Lv28
+#636 (GAMER DARIAN)@245B24 - NOCTOWL Lv29, KAKUNA Lv29
+#637 (CAMPER CHRIS)@245B4C - SUNKERN Lv24, ELECTABUZZ Lv24
+#638 (CAMPER CHRIS)@245B74 - CACNEA Lv29, CACNEA Lv29
+#639 (CAMPER CHRIS)@245B9C - VAPOREON Lv54, HOUNDOOM Lv54
+#640 (PICNICKER ALICIA)@245BC4 - GYARADOS Lv25
+#641 (PICNICKER ALICIA)@245BEC - CASCOON Lv30
+#642 (PICNICKER ALICIA)@245C14 - DRAGONITE Lv55
+#643 (HIKER JEREMY)@245C3C - CHARIZARD Lv30, SLOWKING Lv28
+#644 (POKéMANIAC MARK)@245C64 - VAPOREON Lv54, BULBASAUR Lv54
+#645 (POKéMANIAC HERMAN)@245C8C - GROVYLE Lv29, SLOWKING Lv29
+#646 (POKéMANIAC HERMAN)@245CB4 - SPEAROW Lv54, CROBAT Lv54
+#647 (HIKER TRENT)@245CDC - CROBAT Lv31, CHIMECHO Lv31
+#648 (LASS MEGAN)@245D04 - STEELIX Lv22, FURRET Lv22, MEDICHAM Lv23, GLIGAR Lv21, MACHAMP Lv22
+#649 (LASS MEGAN)@245D2C - NUMEL Lv46, MACHOKE Lv47, SHIFTRY Lv47, STARYU Lv47, SMEARGLE Lv48
+#650 (SUPER NERD GLENN)@245D54 - RAPIDASH Lv28, SNEASEL Lv28, PORYGON Lv28
+#651 (GAMER RICH)@245D7C - EXEGGCUTE Lv30, PUPITAR Lv30
+#652 (BIKER JAREN)@245DA4 - ARTICUNO Lv28, URSARING Lv30
+#653 (FISHERMAN ELLIOT)@245DCC - NIDORAN♂ Lv28, WALREIN Lv28, EXEGGCUTE Lv28, MANKEY Lv28
+#654 (ROCKER LUCA)@245DF4 - BELDUM Lv33, WHISMUR Lv33
+#655 (BEAUTY SHEILA)@245E1C - ELECTRODE Lv49, SLAKING Lv49
+#656 (BIRD KEEPER ROBERT)@245E44 - LUVDISC Lv28, RATTATA Lv28, IVYSAUR Lv28, SHUPPET Lv28
+#657 (BIRD KEEPER ROBERT)@245E6C - SMEARGLE Lv47, METAGROSS Lv47, WHISCASH Lv47, SURSKIT Lv47
+#658 (PICNICKER SUSIE)@245E94 - SEEDOT Lv27, SPINDA Lv27, CORSOLA Lv27, GRUMPIG Lv27, SHARPEDO Lv27
+#659 (PICNICKER SUSIE)@245EBC - LEDYBA Lv47, SKIPLOOM Lv47, TANGELA Lv47, KYOGRE Lv47, MAGIKARP Lv47
+#660 (PICNICKER SUSIE)@245EE4 - COMBUSKEN Lv52, CACTURNE Lv52, TANGELA Lv52, PORYGON2 Lv52, GYARADOS Lv52
+#661 (BIKER LUKAS)@245F0C - MIGHTYENA Lv47, SLAKING Lv47, TROPIUS Lv47, WARTORTLE Lv47
+#662 (BIRD KEEPER BENNY)@245F34 - DODRIO Lv32, HOPPIP Lv32
+#663 (BIRD KEEPER BENNY)@245F5C - WEEZING Lv49, GOLDEEN Lv49
+#664 (BIRD KEEPER MARLON)@245F84 - VENONAT Lv30, LARVITAR Lv30, GOLDEEN Lv30
+#665 (BIRD KEEPER MARLON)@245FAC - CHARIZARD Lv48, SEAKING Lv48, VENUSAUR Lv48
+#666 (BEAUTY GRACE)@245FD4 - MARSHTOMP Lv49, SKARMORY Lv49
+#667 (BIRD KEEPER CHESTER)@245FFC - MAGBY Lv30, ZUBAT Lv30, SHARPEDO Lv30
+#668 (BIRD KEEPER CHESTER)@246024 - FORRETRESS Lv48, OMASTAR Lv48, MEWTWO Lv48
+#669 (PICNICKER BECKY)@24604C - CLEFFA Lv32, SOLROCK Lv32
+#670 (PICNICKER BECKY)@246074 - POLIWHIRL Lv49, UNOWN Lv49
+#671 (PICNICKER BECKY)@24609C - LATIOS Lv54, RHYHORN Lv54
+#672 (CRUSH KIN RON & MYA)@2460C4 - CLEFAIRY Lv33, MAREEP Lv33
+#673 (CRUSH KIN RON & MYA)@2460EC - METANG Lv51, MASQUERAIN Lv51
+#674 (CRUSH KIN RON & MYA)@246114 - TAILLOW Lv56, SLAKING Lv56
+#675 (BIKER RUBEN)@24613C - GOLDEEN Lv48, SEADRA Lv48, SABLEYE Lv48
+#676 (CUE BALL CAMRON)@246164 - GRIMER Lv49, TREECKO Lv49
+#677 (BIKER JAXON)@24618C - REGISTEEL Lv49, TOGETIC Lv49
+#678 (CUE BALL ISAIAH)@2461B4 - HARIYAMA Lv49, LUNATONE Lv49
+#679 (CUE BALL COREY)@2461DC - LOUDRED Lv49, MUDKIP Lv49
+#680 (BIRD KEEPER JACOB)@246204 - POLITOED Lv28, MEDICHAM Lv28, AMPHAROS Lv28, HUNTAIL Lv28
+#681 (BIRD KEEPER JACOB)@24622C - IVYSAUR Lv47, SNUBBULL Lv47, DROWZEE Lv47, WHISCASH Lv47
+#682 (SWIMMER♀ ALICE)@246254 - ZUBAT Lv49, FLYGON Lv49
+#683 (SWIMMER♂ DARRIN)@24627C - MACHOKE Lv52, WYNAUT Lv52, LAPRAS Lv52, GIRAFARIG Lv52
+#684 (PICNICKER MISSY)@2462A4 - SNUBBULL Lv49, PINSIR Lv49
+#685 (PICNICKER MISSY)@2462CC - ALAKAZAM Lv54, MOLTRES Lv54
+#686 (FISHERMAN WADE)@2462F4 - RAIKOU Lv47, METAPOD Lv47, SLOWBRO Lv47, SEVIPER Lv47, ILLUMISE Lv47, RATICATE Lv47
+#687 (SWIMMER♂ JACK)@24631C - SLOWKING Lv50
+#688 (SIS AND BRO LIL & IAN)@246344 - SPEAROW Lv50, CLEFAIRY Lv50
+#689 (SIS AND BRO LIL & IAN)@24636C - TYROGUE Lv55, SPINDA Lv55
+#690 (SWIMMER♂ FINN)@246394 - WEEDLE Lv50
+#691 (CRUSH GIRL SHARON)@2463BC - SHELGON Lv50, AERODACTYL Lv50
+#692 (CRUSH GIRL SHARON)@2463E4 - MAKUHITA Lv55, KABUTO Lv55
+#693 (CRUSH GIRL TANYA)@24640C - SMEARGLE Lv50, CAMERUPT Lv50
+#694 (CRUSH GIRL TANYA)@246434 - BEEDRILL Lv55, SCEPTILE Lv55
+#695 (BLACK BELT SHEA)@24645C - CLAYDOL Lv50, LILEEP Lv50
+#696 (BLACK BELT SHEA)@246484 - XATU Lv55, FARFETCH’D Lv55
+#697 (BLACK BELT HUGH)@2464AC - LUDICOLO Lv50, MEWTWO Lv50
+#698 (BLACK BELT HUGH)@2464D4 - SPHEAL Lv55, MINUN Lv55
+#699 (CRUSH KIN MIK & KIA)@2464FC - SEEL Lv51, MEDITITE Lv51
+#700 (CRUSH KIN MIK & KIA)@246524 - BELDUM Lv56, MEOWTH Lv56
+#701 (TUBER AMIRA)@24654C - COMBUSKEN Lv47, SNORLAX Lv47, ARON Lv47
+#702 (TWINS JOY & MEG)@246574 - PUPITAR Lv49, SNORLAX Lv49
+#703 (PAINTER RAYNA)@24659C - GIRAFARIG Lv54
+#704 (YOUNGSTER DESTIN)@2465C4 - HORSEA Lv53, BALTOY Lv53
+#705 ([PK][MN] BREEDER ALIZE)@2465EC - DODRIO Lv53, SWINUB Lv53, POOCHYENA Lv53
+#706 (YOUNG COUPLE GIA & JES)@246614 - NUMEL Lv30, TROPIUS Lv30
+#707 (YOUNG COUPLE GIA & JES)@24663C - PIDGEY Lv55, REGISTEEL Lv55
+#708 (BIRD KEEPER MILO)@246664 - SKIPLOOM Lv53, PORYGON Lv55
+#709 (BIRD KEEPER CHAZ)@24668C - MAGNEMITE Lv53, PINECO Lv55
+#710 (BIRD KEEPER HAROLD)@2466B4 - DONPHAN Lv53, XATU Lv55
+#711 (SWIMMER♀ NICOLE)@2466DC - SUNKERN Lv54
+#712 (PSYCHIC JACLYN)@246704 - SABLEYE Lv52, KYOGRE Lv52, MIGHTYENA Lv54
+#713 (SWIMMER♂ SAMIR)@24672C - MR. MIME Lv55
+#714 (HIKER EARL)@246754 - RALTS Lv54, RHYHORN Lv54
+#715 (RUIN MANIAC LARRY)@24677C - PIDGEOTTO Lv54, KANGASKHAN Lv54
+#716 (POKéMANIAC HECTOR)@2467A4 - ROSELIA Lv55, WYNAUT Lv55
+#717 (PSYCHIC DARIO)@2467CC - SNORLAX Lv56
+#718 (PSYCHIC RODETTE)@2467F4 - KANGASKHAN Lv53, MANTINE Lv53, LUDICOLO Lv53
+#719 (JUGGLER MASON)@24681C - SNUBBULL Lv52, ARTICUNO Lv52, MAGBY Lv52, SWABLU Lv52
+#720 ([PK][MN] RANGER NICOLAS)@246844 - PICHU Lv55, PELIPPER Lv55
+#721 ([PK][MN] RANGER MADELINE)@24686C - STARMIE Lv55, GROWLITHE Lv55
+#722 (CRUSH GIRL CYNDY)@246894 - PICHU Lv54, HITMONTOP Lv54, XATU Lv54
+#723 (TAMER EVAN)@2468BC - MEGANIUM Lv52, OMASTAR Lv52, NOSEPASS Lv55
+#724 ([PK][MN] RANGER JACKSON)@2468E4 - GLIGAR Lv53, TORKOAL Lv54, DROWZEE Lv55
+#725 ([PK][MN] RANGER KATELYN)@24690C - TAILLOW Lv56
+#726 (COOLTRAINER LEROY)@246934 - ELECTRIKE Lv52, IVYSAUR Lv54, BLAZIKEN Lv52, KABUTOPS Lv52, RALTS Lv55
+#727 (COOLTRAINER MICHELLE)@24695C - SWINUB Lv53, SALAMENCE Lv53, NUZLEAF Lv54, GULPIN Lv54, IVYSAUR Lv56
+#728 (COOL COUPLE LEX & NYA)@246984 - IGGLYBUFF Lv57, HOOTHOOT Lv57
+#729 (BUG CATCHER COLTON)@2469AC - MACHOP Lv19, SEADRA Lv19, HUNTAIL Lv19
+#730 (BUG CATCHER COLTON)@2469D4 - CHIMECHO Lv27, CLAMPERL Lv27, ROSELIA Lv27
+#731 (BUG CATCHER COLTON)@2469FC - FLAREON Lv51, HARIYAMA Lv54, IGGLYBUFF Lv51
+#732 (SWIMMER♂ MATTHEW)@246A24 - AZUMARILL Lv49, TOGETIC Lv49
+#733 (SWIMMER♂ TONY)@246A4C - MISDREAVUS Lv49, POLIWHIRL Lv49
+#734 (SWIMMER♀ MELISSA)@246A74 - MACHAMP Lv49, HORSEA Lv49
+#735 (ELITE FOUR LORELEI)@246A9C - PINSIR Lv64, LOTAD Lv63, LILEEP Lv63, MACHAMP Lv66, MOLTRES Lv66
+#736 (ELITE FOUR BRUNO)@246AC4 - HOUNDOOM Lv65, CLAMPERL Lv65, HAUNTER Lv65, BEAUTIFLY Lv66, DODUO Lv68
+#737 (ELITE FOUR AGATHA)@246AEC - SLAKOTH Lv66, GIRAFARIG Lv66, PIKACHU Lv65, FURRET Lv68, SUNKERN Lv70
+#738 (ELITE FOUR LANCE)@246B14 - CUBONE Lv68, PONYTA Lv66, SPOINK Lv66, UMBREON Lv70, MAREEP Lv72
+#739 (CHAMPION TERRY)@246B3C - PSYDUCK Lv72, RAYQUAZA Lv73, GRIMER Lv72, LUNATONE Lv73, PINSIR Lv73, HYPNO Lv75
+#740 (CHAMPION TERRY)@246B64 - SNUBBULL Lv72, SPHEAL Lv73, NIDORINO Lv72, QUILAVA Lv73, SNUBBULL Lv73, SLOWBRO Lv75
+#741 (CHAMPION TERRY)@246B8C - VIBRAVA Lv72, BLISSEY Lv73, CLAMPERL Lv72, SUNFLORA Lv73, SOLROCK Lv73, ARBOK Lv75
+#742 (CUE BALL PAXTON)@246BB4 - IGGLYBUFF Lv39, SNUBBULL Lv39
+
+--Static Pokemon--
+EEVEE => HOPPIP
+HITMONLEE => CHIMECHO
+HITMONCHAN => EXEGGCUTE
+ELECTRODE => MANTINE
+ELECTRODE(2) => GASTLY
+ZAPDOS => SEALEO
+ARTICUNO => PIDGEOT
+MOLTRES => SKARMORY
+MEWTWO => FEAROW
+SNORLAX => IGGLYBUFF
+SNORLAX(2) => OCTILLERY
+HYPNO => GRIMER
+DEOXYS => CACTURNE
+HO-OH => ZUBAT
+LUGIA => DUSKULL
+AERODACTYL => ELECTRIKE
+OMANYTE => TYROGUE
+KABUTO => SOLROCK
+LAPRAS => SHELGON
+MAGIKARP => GLOOM
+ABRA => ELECTABUZZ
+CLEFAIRY => AGGRON
+DRATINI => WOOPER
+SCYTHER => DIGLETT
+PORYGON => TANGELA
+
+--Wild Pokemon--
+Set #1 - MONEAN CHAMBER Grass/Cave (rate=7) - RHYHORN Lv25, CHIKORITA Lv25, ROSELIA Lv25, SEVIPER Lv25, RAICHU Lv25, ILLUMISE Lv25
+Set #2 - LIPTOO CHAMBER Grass/Cave (rate=7) - FERALIGATR Lv25, PRIMEAPE Lv25, NUMEL Lv25, MAWILE Lv25, SHARPEDO Lv25, MAGMAR Lv25
+Set #3 - WEEPTH CHAMBER Grass/Cave (rate=7) - GOLDEEN Lv25, DONPHAN Lv25, DRAGONITE Lv25, GLOOM Lv25, ELECTRODE Lv25, NATU Lv25
+Set #4 - DILFORD CHAMBER Grass/Cave (rate=7) - FURRET Lv25, VENOMOTH Lv25, CORSOLA Lv25, CLAYDOL Lv25, CHARMANDER Lv25, SUNFLORA Lv25
+Set #5 - SCUFIB CHAMBER Grass/Cave (rate=7) - CRADILY Lv25, LATIOS Lv25, WEEPINBELL Lv25, WEEDLE Lv25, REGIROCK Lv25, PICHU Lv25
+Set #6 - RIXY CHAMBER Grass/Cave (rate=7) - SHARPEDO Lv25, SPINDA Lv25, KIRLIA Lv25, TAILLOW Lv25, NIDORAN♂ Lv25, MACHAMP Lv25
+Set #7 - VIAPOIS CHAMBER Grass/Cave (rate=7) - SWELLOW Lv25, PIDGEOT Lv25, SPOINK Lv25, SENTRET Lv25, MOLTRES Lv25, TORCHIC Lv25
+Set #8 - VIRIDIAN FOREST Grass/Cave (rate=14) - TROPIUS Lv4, ELECTRODE Lv4, MANECTRIC Lv5, RHYHORN Lv5, SHROOMISH Lv3, SWALOT Lv3
+Set #9 - MT. MOON Grass/Cave (rate=7) - POLITOED Lv7, GRUMPIG Lv8, SLOWBRO Lv7, MEDICHAM Lv9, NINJASK Lv10, WINGULL Lv8
+Set #10 - MT. MOON Grass/Cave (rate=5) - HUNTAIL Lv7, MEDITITE Lv8, RELICANTH Lv5, WEEPINBELL Lv6, WHISMUR Lv9, PONYTA Lv10
+Set #11 - MT. MOON Grass/Cave (rate=7) - TANGELA Lv8, VENUSAUR Lv9, MAWILE Lv9, HOUNDOOM Lv10, ALAKAZAM Lv10, MACHOP Lv10
+Set #12 - S.S. ANNE Surfing (rate=1) - BUTTERFREE Lvs 5-10, POLIWAG Lvs 10-20, SALAMENCE Lvs 20-30, SUICUNE Lvs 30-35, PIKACHU Lvs 35-40
+Set #13 - S.S. ANNE Fishing (rate=10) - CRADILY Lv5, SMOOCHUM Lv5, MR. MIME Lvs 5-15, PICHU Lvs 5-15, ARIADOS Lvs 15-25, RATTATA Lvs 15-25
+Set #14 - DIGLETT’S CAVE Grass/Cave (rate=5) - KABUTOPS Lv18, NIDORINO Lv19, XATU Lv17, SPOINK Lv15, FARFETCH’D Lv16, VIGOROTH Lv20
+Set #15 - VICTORY ROAD Grass/Cave (rate=7) - ALTARIA Lv32, SMEARGLE Lv32, ALAKAZAM Lv40, SENTRET Lv43, TORKOAL Lv46, IVYSAUR Lv32
+Set #16 - VICTORY ROAD Grass/Cave (rate=7) - CORPHISH Lv34, LUGIA Lv34, URSARING Lv42, UMBREON Lv45, HORSEA Lv48, LUVDISC Lv34
+Set #17 - VICTORY ROAD Grass/Cave (rate=7) - LOMBRE Lv32, JIGGLYPUFF Lv32, REGIROCK Lv40, CLEFABLE Lv43, BLAZIKEN Lv46, WEEPINBELL Lv32
+Set #18 - POKéMON MANSION Grass/Cave (rate=7) - SUNKERN Lv28, STARYU Lv32, BELDUM Lv30, MAREEP Lv36, SHEDINJA Lv30, SPHEAL Lv28
+Set #19 - POKéMON MANSION Grass/Cave (rate=7) - WEEPINBELL Lv28, PARASECT Lv32, MOLTRES Lv30, ESPEON Lv36, PHANPY Lv30, LOUDRED Lv28
+Set #20 - POKéMON MANSION Grass/Cave (rate=7) - MEWTWO Lv28, MURKROW Lv32, CRADILY Lv30, VIBRAVA Lv36, FURRET Lv30, MEDITITE Lv28
+Set #21 - POKéMON MANSION Grass/Cave (rate=5) - BEEDRILL Lv28, KINGDRA Lv34, ZAPDOS Lv30, GROWLITHE Lv30, CRAWDAUNT Lv30, HORSEA Lv38
+Set #22 - SAFARI ZONE Grass/Cave (rate=21) - PONYTA Lv25, SHROOMISH Lv22, PARASECT Lv24, NATU Lv25, SKITTY Lv22, PICHU Lv31
+Set #23 - SAFARI ZONE Surfing (rate=2) - BELDUM Lvs 20-25, PINECO Lvs 20-25, DUNSPARCE Lvs 25-30, BELLOSSOM Lvs 30-35, PRIMEAPE Lvs 35-40
+Set #24 - SAFARI ZONE Fishing (rate=20) - TANGELA Lv5, FLYGON Lv5, MAGMAR Lvs 5-15, VAPOREON Lvs 5-15, MAGNETON Lvs 15-25, MARILL Lvs 20-30
+Set #25 - SAFARI ZONE Grass/Cave (rate=21) - WOOPER Lv24, SANDSLASH Lv26, SANDSHREW Lv23, DIGLETT Lv25, ILLUMISE Lv22, CASTFORM Lv33
+Set #26 - SAFARI ZONE Surfing (rate=2) - SWINUB Lvs 20-25, NINJASK Lvs 20-25, VENOMOTH Lvs 25-30, SHARPEDO Lvs 30-35, MEGANIUM Lvs 35-40
+Set #27 - SAFARI ZONE Fishing (rate=20) - SHELGON Lv5, NIDORINO Lv5, MASQUERAIN Lvs 5-15, SCEPTILE Lvs 5-15, SWALOT Lvs 15-25, SUDOWOODO Lvs 20-30
+Set #28 - SAFARI ZONE Grass/Cave (rate=21) - JUMPLUFF Lv26, BARBOACH Lv30, ARTICUNO Lv25, AERODACTYL Lv27, MEOWTH Lv23, KABUTO Lv30
+Set #29 - SAFARI ZONE Surfing (rate=2) - FLYGON Lvs 20-25, VOLTORB Lvs 20-25, CRAWDAUNT Lvs 25-30, RATICATE Lvs 30-35, SABLEYE Lvs 35-40
+Set #30 - SAFARI ZONE Fishing (rate=20) - REGICE Lv5, BALTOY Lv5, HOUNDOUR Lvs 5-15, KAKUNA Lvs 5-15, MAGNEMITE Lvs 15-25, FARFETCH’D Lvs 20-30
+Set #31 - SAFARI ZONE Grass/Cave (rate=21) - CHANSEY Lv26, TRAPINCH Lv22, DEOXYS Lv25, PONYTA Lv27, TOGETIC Lv23, LEDIAN Lv30
+Set #32 - SAFARI ZONE Surfing (rate=2) - SLOWPOKE Lvs 20-25, EXEGGCUTE Lvs 20-25, SPOINK Lvs 25-30, MANTINE Lvs 30-35, ARON Lvs 35-40
+Set #33 - SAFARI ZONE Fishing (rate=20) - LEDIAN Lv5, GULPIN Lv5, SUICUNE Lvs 5-15, SUNFLORA Lvs 5-15, NINJASK Lvs 15-25, BAGON Lvs 20-30
+Set #34 - CERULEAN CAVE Grass/Cave (rate=7) - EEVEE Lv49, NOSEPASS Lv49, JUMPLUFF Lv46, CLAMPERL Lv46, GROWLITHE Lv52, SILCOON Lv52
+Set #35 - CERULEAN CAVE Surfing (rate=2) - WEEDLE Lvs 30-40, MANTINE Lvs 40-50, HAUNTER Lvs 45-55, WINGULL Lvs 40-50, IVYSAUR Lvs 40-50
+Set #36 - CERULEAN CAVE Rock Smash (rate=50) - MAGCARGO Lvs 30-40, SALAMENCE Lvs 40-50, WOBBUFFET Lvs 45-55, GROVYLE Lvs 40-50, WIGGLYTUFF Lvs 40-50
+Set #37 - CERULEAN CAVE Fishing (rate=20) - LARVITAR Lv5, DUSKULL Lv5, KOFFING Lvs 5-15, ABSOL Lvs 5-15, PICHU Lvs 15-25, VENONAT Lvs 20-30
+Set #38 - CERULEAN CAVE Grass/Cave (rate=7) - DIGLETT Lv49, MEOWTH Lv49, MACHAMP Lv52, PIKACHU Lv52, ZANGOOSE Lv55, SEALEO Lv55
+Set #39 - CERULEAN CAVE Rock Smash (rate=50) - KINGLER Lvs 35-45, TRAPINCH Lvs 45-55, PIKACHU Lvs 50-60, LAIRON Lvs 45-55, TOGETIC Lvs 45-55
+Set #40 - CERULEAN CAVE Grass/Cave (rate=7) - LEDYBA Lv58, PICHU Lv58, CHIMECHO Lv55, JYNX Lv55, MAGBY Lv52, DUSKULL Lv52
+Set #41 - CERULEAN CAVE Surfing (rate=2) - GROWLITHE Lvs 40-50, DEOXYS Lvs 50-60, CLEFABLE Lvs 55-65, SPOINK Lvs 50-60, DELCATTY Lvs 50-60
+Set #42 - CERULEAN CAVE Rock Smash (rate=50) - ALAKAZAM Lvs 40-50, IVYSAUR Lvs 50-60, JIRACHI Lvs 55-65, MOLTRES Lvs 50-60, MACHOP Lvs 50-60
+Set #43 - CERULEAN CAVE Fishing (rate=20) - GRAVELER Lv5, IGGLYBUFF Lv5, LILEEP Lvs 5-15, NIDOQUEEN Lvs 5-15, NIDORAN♀ Lvs 15-25, LAPRAS Lvs 20-30
+Set #44 - ROCK TUNNEL Grass/Cave (rate=7) - CRADILY Lv15, KAKUNA Lv16, TENTACRUEL Lv16, CLAYDOL Lv17, RAICHU Lv16, REGISTEEL Lv16
+Set #45 - ROCK TUNNEL Grass/Cave (rate=7) - MANTINE Lv16, ZUBAT Lv17, ARTICUNO Lv17, REGISTEEL Lv16, WAILMER Lv15, IGGLYBUFF Lv17
+Set #46 - ROCK TUNNEL Rock Smash (rate=50) - REGICE Lvs 5-20, RAPIDASH Lvs 10-20, RHYDON Lvs 15-30, MACHOP Lvs 25-40, SEAKING Lvs 30-40
+Set #47 - SEAFOAM ISLANDS Grass/Cave (rate=7) - MINUN Lv27, NOCTOWL Lv29, NUZLEAF Lv31, IGGLYBUFF Lv22, SKITTY Lv22, TREECKO Lv24
+Set #48 - SEAFOAM ISLANDS Grass/Cave (rate=7) - MIGHTYENA Lv29, TAUROS Lv31, KAKUNA Lv28, SWINUB Lv22, DROWZEE Lv22, DEOXYS Lv24
+Set #49 - SEAFOAM ISLANDS Grass/Cave (rate=7) - LICKITUNG Lv30, MANECTRIC Lv32, ZANGOOSE Lv30, SKITTY Lv32, EKANS Lv22, NIDOKING Lv24
+Set #50 - SEAFOAM ISLANDS Grass/Cave (rate=7) - SNORLAX Lv30, SMEARGLE Lv32, SPOINK Lv32, DUSKULL Lv30, WEEPINBELL Lv32, MURKROW Lv24
+Set #51 - SEAFOAM ISLANDS Surfing (rate=2) - DUSCLOPS Lvs 25-35, GOLEM Lvs 25-30, GOLDEEN Lvs 35-40, PORYGON Lvs 30-40, BELLSPROUT Lvs 35-40
+Set #52 - SEAFOAM ISLANDS Fishing (rate=20) - MEWTWO Lv5, STANTLER Lv5, COMBUSKEN Lvs 5-15, KINGLER Lvs 5-15, DELCATTY Lvs 15-25, WINGULL Lvs 20-30
+Set #53 - SEAFOAM ISLANDS Grass/Cave (rate=7) - DUNSPARCE Lv30, ZIGZAGOON Lv32, GIRAFARIG Lv32, BARBOACH Lv34, WINGULL Lv32, WALREIN Lv26
+Set #54 - SEAFOAM ISLANDS Surfing (rate=2) - TENTACOOL Lvs 25-35, EXEGGCUTE Lvs 25-30, SEVIPER Lvs 35-40, FURRET Lvs 30-40, PIDGEY Lvs 35-40
+Set #55 - SEAFOAM ISLANDS Fishing (rate=20) - SKARMORY Lv5, MACHOP Lv5, FERALIGATR Lvs 5-15, SPINDA Lvs 5-15, MAGNETON Lvs 15-25, KOFFING Lvs 20-30
+Set #56 - POKéMON TOWER Grass/Cave (rate=2) - BARBOACH Lv15, CARVANHA Lv16, SHARPEDO Lv17, FLAREON Lv13, SILCOON Lv14, GRAVELER Lv18
+Set #57 - POKéMON TOWER Grass/Cave (rate=4) - VENOMOTH Lv15, PIDGEOTTO Lv16, CHIKORITA Lv17, CHARMELEON Lv13, SPOINK Lv14, EXPLOUD Lv18
+Set #58 - POKéMON TOWER Grass/Cave (rate=6) - MIGHTYENA Lv15, SEEL Lv16, TYROGUE Lv17, PLUSLE Lv13, EXPLOUD Lv14, OMASTAR Lv18
+Set #59 - POKéMON TOWER Grass/Cave (rate=8) - ELECTRODE Lv16, KANGASKHAN Lv17, TOGEPI Lv18, SWALOT Lv14, SHELGON Lv15, SHEDINJA Lv19
+Set #60 - POKéMON TOWER Grass/Cave (rate=10) - SENTRET Lv16, MAGBY Lv17, CLEFABLE Lv18, ARIADOS Lv15, DELCATTY Lv19, NIDORINA Lv23
+Set #61 - POWER PLANT Grass/Cave (rate=7) - MANECTRIC Lv22, KINGDRA Lv22, LINOONE Lv25, KINGLER Lv25, GRUMPIG Lv22, ARMALDO Lv24
+Set #62 - MT. EMBER Grass/Cave (rate=21) - CROBAT Lv30, METANG Lv38, MURKROW Lv33, CATERPIE Lv32, NIDORAN♀ Lv35, MAKUHITA Lv33
+Set #63 - MT. EMBER Rock Smash (rate=50) - KADABRA Lvs 5-20, HYPNO Lvs 10-20, SLOWPOKE Lvs 15-30, HORSEA Lvs 25-40, METAPOD Lvs 30-40
+Set #64 - MT. EMBER Grass/Cave (rate=7) - DUSKULL Lv33, JOLTEON Lv35, SILCOON Lv29, BEAUTIFLY Lv31, BELLOSSOM Lv31, SPEAROW Lv33
+Set #65 - MT. EMBER Grass/Cave (rate=7) - FORRETRESS Lv34, POLITOED Lv36, PSYDUCK Lv30, FEEBAS Lv32, OMASTAR Lv32, MOLTRES Lv34
+Set #66 - MT. EMBER Rock Smash (rate=50) - SUNKERN Lvs 5-20, IGGLYBUFF Lvs 10-20, AZURILL Lvs 15-30, POLIWAG Lvs 25-40, DONPHAN Lvs 30-40
+Set #67 - MT. EMBER Grass/Cave (rate=7) - BAGON Lv33, KECLEON Lv35, MEWTWO Lv29, TENTACOOL Lv31, CROBAT Lv31, MANKEY Lv33
+Set #68 - MT. EMBER Grass/Cave (rate=7) - FLAAFFY Lv36, URSARING Lv38, LATIAS Lv32, WHISCASH Lv34, ALTARIA Lv34, FURRET Lv36
+Set #69 - MT. EMBER Rock Smash (rate=50) - PONYTA Lvs 25-35, NIDORINA Lvs 30-45, PERSIAN Lvs 35-50, PSYDUCK Lvs 30-40, GRUMPIG Lvs 30-40
+Set #70 - MT. EMBER Grass/Cave (rate=7) - SEEDOT Lv38, CARVANHA Lv36, CUBONE Lv34, PORYGON2 Lv40, PARASECT Lv24, CROBAT Lv26
+Set #71 - MT. EMBER Rock Smash (rate=50) - SABLEYE Lvs 25-35, PHANPY Lvs 30-45, KINGDRA Lvs 35-50, WINGULL Lvs 30-40, SURSKIT Lvs 30-40
+Set #72 - MT. EMBER Grass/Cave (rate=7) - ELECTABUZZ Lv40, SUNKERN Lv26, MAGIKARP Lv42, GOREBYSS Lv24, SMEARGLE Lv28, STARYU Lv30
+Set #73 - MT. EMBER Rock Smash (rate=50) - TENTACRUEL Lvs 25-35, NIDORAN♀ Lvs 30-45, SEEDOT Lvs 35-50, DEWGONG Lvs 30-40, GLALIE Lvs 30-40
+Set #74 - MT. EMBER Grass/Cave (rate=7) - VIGOROTH Lv26, ZAPDOS Lv28, REMORAID Lv30, STARMIE Lv32, MUK Lv24, PSYDUCK Lv22
+Set #75 - MT. EMBER Rock Smash (rate=50) - KYOGRE Lvs 15-25, TYRANITAR Lvs 25-35, UMBREON Lvs 40-45, KABUTOPS Lvs 35-45, SLUGMA Lvs 25-35
+Set #76 - MT. EMBER Grass/Cave (rate=7) - ALAKAZAM Lv40, SHELGON Lv26, GARDEVOIR Lv42, ZANGOOSE Lv24, MURKROW Lv28, WYNAUT Lv30
+Set #77 - MT. EMBER Rock Smash (rate=50) - DRAGONAIR Lvs 25-35, MAGBY Lvs 30-45, NINJASK Lvs 35-50, WEEDLE Lvs 30-40, PARAS Lvs 30-40
+Set #78 - MT. EMBER Grass/Cave (rate=7) - FARFETCH’D Lv38, IGGLYBUFF Lv36, GENGAR Lv34, VIGOROTH Lv40, SLOWBRO Lv24, WHISMUR Lv26
+Set #79 - MT. EMBER Rock Smash (rate=50) - MAGCARGO Lvs 25-35, GARDEVOIR Lvs 30-45, CHARIZARD Lvs 35-50, BUTTERFREE Lvs 30-40, WOBBUFFET Lvs 30-40
+Set #80 - BERRY FOREST Grass/Cave (rate=21) - OMASTAR Lv37, VOLTORB Lv35, SEEDOT Lv32, METAPOD Lv30, WARTORTLE Lv34, RAICHU Lv34
+Set #81 - BERRY FOREST Surfing (rate=2) - POLIWHIRL Lvs 5-20, TENTACRUEL Lvs 20-35, RAYQUAZA Lvs 35-40, PARASECT Lvs 35-40, HAUNTER Lvs 35-40
+Set #82 - BERRY FOREST Fishing (rate=20) - SNORLAX Lv5, PIKACHU Lv5, REGISTEEL Lvs 5-15, LEDIAN Lvs 5-15, VAPOREON Lvs 15-25, FORRETRESS Lvs 20-30
+Set #83 - ICEFALL CAVE Grass/Cave (rate=7) - MIGHTYENA Lv43, VENOMOTH Lv45, EXEGGCUTE Lv45, CASTFORM Lv47, ILLUMISE Lv40, NINCADA Lv49
+Set #84 - ICEFALL CAVE Surfing (rate=2) - ONIX Lvs 5-35, GOLDUCK Lvs 5-35, COMBUSKEN Lvs 35-40, HOUNDOOM Lvs 5-15, POOCHYENA Lvs 5-15
+Set #85 - ICEFALL CAVE Fishing (rate=20) - FURRET Lv5, TORCHIC Lv5, LARVITAR Lvs 5-15, MANECTRIC Lvs 5-15, ABSOL Lvs 15-25, BELLSPROUT Lvs 20-30
+Set #86 - ICEFALL CAVE Grass/Cave (rate=7) - DITTO Lv25, GASTLY Lv45, OMANYTE Lv45, PERSIAN Lv27, TENTACRUEL Lv40, RAIKOU Lv29
+Set #87 - ICEFALL CAVE Grass/Cave (rate=7) - MEDITITE Lv25, WEEZING Lv45, DUGTRIO Lv45, URSARING Lv27, FERALIGATR Lv40, CAMERUPT Lv29
+Set #88 - ICEFALL CAVE Grass/Cave (rate=7) - BLAZIKEN Lv43, POOCHYENA Lv45, GOLDEEN Lv45, SALAMENCE Lv47, LOMBRE Lv40, WURMPLE Lv49
+Set #89 - ICEFALL CAVE Surfing (rate=2) - SANDSLASH Lvs 5-20, FARFETCH’D Lvs 20-35, TRAPINCH Lvs 35-45, EKANS Lvs 35-45, DODUO Lvs 30-45
+Set #90 - ICEFALL CAVE Fishing (rate=20) - DUNSPARCE Lv5, HARIYAMA Lv5, SNORLAX Lvs 5-15, SOLROCK Lvs 5-15, MARILL Lvs 15-25, GLALIE Lvs 15-25
+Set #91 - PATTERN BUSH Grass/Cave (rate=21) - SPOINK Lv9, RAPIDASH Lv9, BLISSEY Lv14, MANECTRIC Lv6, OMASTAR Lv6, CROBAT Lv15
+Set #92 - LOST CAVE Grass/Cave (rate=1) - VILEPLUME Lv40, UMBREON Lv37, BALTOY Lv44, PERSIAN Lv46, LUNATONE Lv41, MAWILE Lv43
+Set #93 - LOST CAVE Grass/Cave (rate=2) - URSARING Lv40, NINCADA Lv37, SOLROCK Lv44, BULBASAUR Lv46, SEEL Lv41, PIDGEOTTO Lv43
+Set #94 - LOST CAVE Grass/Cave (rate=3) - SUICUNE Lv40, SANDSLASH Lv37, SLAKOTH Lv44, LINOONE Lv46, ZUBAT Lv41, QUILAVA Lv43
+Set #95 - LOST CAVE Grass/Cave (rate=4) - SEEDOT Lv40, SHARPEDO Lv37, TRAPINCH Lv44, RATTATA Lv46, PERSIAN Lv41, FERALIGATR Lv43
+Set #96 - LOST CAVE Grass/Cave (rate=5) - MAWILE Lv40, GRUMPIG Lv37, KECLEON Lv44, TEDDIURSA Lv46, SWALOT Lv41, MANECTRIC Lv43
+Set #97 - LOST CAVE Grass/Cave (rate=6) - QUAGSIRE Lv40, DEOXYS Lv37, OCTILLERY Lv44, NIDORINO Lv46, WIGGLYTUFF Lv41, FLAREON Lv43
+Set #98 - LOST CAVE Grass/Cave (rate=7) - JIGGLYPUFF Lv40, DELCATTY Lv37, BLISSEY Lv44, DELCATTY Lv46, POLIWRATH Lv41, VULPIX Lv43
+Set #99 - LOST CAVE Grass/Cave (rate=8) - OMASTAR Lv40, MILOTIC Lv37, SKARMORY Lv44, HERACROSS Lv46, SANDSLASH Lv41, SLAKOTH Lv43
+Set #100 - LOST CAVE Grass/Cave (rate=9) - WINGULL Lv40, WINGULL Lv37, DITTO Lv44, SLOWKING Lv46, SEEL Lv41, LUVDISC Lv43
+Set #101 - LOST CAVE Grass/Cave (rate=10) - FLAREON Lv40, MEOWTH Lv37, DUSCLOPS Lv44, DUGTRIO Lv46, WINGULL Lv41, REGISTEEL Lv43
+Set #102 - LOST CAVE Grass/Cave (rate=5) - SMOOCHUM Lv40, PELIPPER Lv37, TREECKO Lv44, OMANYTE Lv46, MEWTWO Lv41, MAWILE Lv15
+Set #103 - LOST CAVE Grass/Cave (rate=5) - MAREEP Lv40, MAGCARGO Lv37, ARBOK Lv44, POOCHYENA Lv46, PELIPPER Lv41, NIDORINO Lv15
+Set #104 - LOST CAVE Grass/Cave (rate=5) - WYNAUT Lv40, TROPIUS Lv37, PONYTA Lv44, GOLDUCK Lv46, REGIROCK Lv41, DUSTOX Lv15
+Set #105 - LOST CAVE Grass/Cave (rate=5) - AERODACTYL Lv40, SHELGON Lv37, PELIPPER Lv44, MAROWAK Lv46, BLASTOISE Lv41, STARMIE Lv15
+Set #106 - KINDLE ROAD Grass/Cave (rate=21) - GROVYLE Lv32, FEAROW Lv34, DUSCLOPS Lv36, RALTS Lv31, JIRACHI Lv31, WARTORTLE Lv31
+Set #107 - KINDLE ROAD Surfing (rate=2) - LUNATONE Lvs 5-20, DODUO Lvs 20-35, NIDORAN♂ Lvs 35-40, LICKITUNG Lvs 35-40, HITMONTOP Lvs 35-40
+Set #108 - KINDLE ROAD Rock Smash (rate=25) - WURMPLE Lvs 5-20, SHUCKLE Lvs 10-20, SNUBBULL Lvs 15-30, ARBOK Lvs 25-40, DITTO Lvs 30-40
+Set #109 - KINDLE ROAD Fishing (rate=20) - NIDORINA Lv5, SPOINK Lv5, XATU Lvs 5-15, PILOSWINE Lvs 5-15, CARVANHA Lvs 15-25, PLUSLE Lvs 15-25
+Set #110 - TREASURE BEACH Grass/Cave (rate=21) - FLYGON Lv32, MAWILE Lv33, TOGETIC Lv31, GROWLITHE Lv35, METAGROSS Lv36, GROVYLE Lv31
+Set #111 - TREASURE BEACH Surfing (rate=2) - TROPIUS Lvs 5-20, JIRACHI Lvs 20-35, CLAYDOL Lvs 35-40, ELECTRIKE Lvs 35-40, PORYGON Lvs 35-40
+Set #112 - TREASURE BEACH Fishing (rate=20) - PELIPPER Lv5, AIPOM Lv5, HARIYAMA Lvs 5-15, QUAGSIRE Lvs 5-15, MURKROW Lvs 15-25, MINUN Lvs 15-25
+Set #113 - CAPE BRINK Grass/Cave (rate=21) - EEVEE Lv31, CHIMECHO Lv30, CLEFFA Lv32, EXPLOUD Lv36, POLIWHIRL Lv36, BANETTE Lv31
+Set #114 - CAPE BRINK Surfing (rate=2) - SHUCKLE Lvs 5-20, WHISMUR Lvs 20-35, NIDORINO Lvs 35-40, SWINUB Lvs 35-40, ESPEON Lvs 35-40
+Set #115 - CAPE BRINK Fishing (rate=20) - WARTORTLE Lv5, SENTRET Lv5, LAIRON Lvs 5-15, SUICUNE Lvs 5-15, VOLTORB Lvs 15-25, CHARMANDER Lvs 20-30
+Set #116 - BOND BRIDGE Grass/Cave (rate=21) - TEDDIURSA Lv32, SURSKIT Lv31, MACHOKE Lv29, NINJASK Lv36, PIDGEY Lv34, BLASTOISE Lv31
+Set #117 - BOND BRIDGE Surfing (rate=2) - NINCADA Lvs 5-20, NOCTOWL Lvs 20-35, SABLEYE Lvs 35-40, URSARING Lvs 35-40, PIDGEOTTO Lvs 35-40
+Set #118 - BOND BRIDGE Fishing (rate=20) - TENTACRUEL Lv5, TOTODILE Lv5, FORRETRESS Lvs 5-15, PELIPPER Lvs 5-15, WAILMER Lvs 15-25, SWABLU Lvs 15-25
+Set #119 - THREE ISLE PORT Grass/Cave (rate=1) - SUNFLORA Lv15, WURMPLE Lv15, LOTAD Lv10, NATU Lv10, BRELOOM Lv20, NOCTOWL Lv20
+Set #120 - RESORT GORGEOUS Surfing (rate=2) - ZUBAT Lvs 5-35, FLYGON Lvs 5-15, MAGNEMITE Lvs 35-40, VICTREEBEL Lvs 35-40, SWALOT Lvs 35-40
+Set #121 - RESORT GORGEOUS Fishing (rate=20) - GLALIE Lv5, VICTREEBEL Lv5, CYNDAQUIL Lvs 5-15, GLIGAR Lvs 5-15, AZUMARILL Lvs 15-25, ILLUMISE Lvs 15-25
+Set #122 - WATER LABYRINTH Surfing (rate=2) - SILCOON Lvs 5-20, SNUBBULL Lvs 5-15, ALAKAZAM Lvs 35-40, MR. MIME Lvs 35-40, CUBONE Lvs 35-40
+Set #123 - WATER LABYRINTH Fishing (rate=20) - CHIKORITA Lv5, PIDGEOTTO Lv5, MARILL Lvs 5-15, LUNATONE Lvs 5-15, BAGON Lvs 15-25, PICHU Lvs 15-25
+Set #124 - FIVE ISLE MEADOW Grass/Cave (rate=21) - TANGELA Lv44, LARVITAR Lv10, RAIKOU Lv48, CACNEA Lv10, EEVEE Lv15, SPINDA Lv41
+Set #125 - FIVE ISLE MEADOW Surfing (rate=2) - ZUBAT Lvs 5-35, SHUPPET Lvs 5-15, PRIMEAPE Lvs 35-40, CORPHISH Lvs 35-40, SCYTHER Lvs 35-40
+Set #126 - FIVE ISLE MEADOW Fishing (rate=20) - SNUBBULL Lv5, GRANBULL Lv5, LUNATONE Lvs 5-15, ARTICUNO Lvs 5-15, AZUMARILL Lvs 15-25, NOSEPASS Lvs 15-25
+Set #127 - MEMORIAL PILLAR Grass/Cave (rate=21) - STARYU Lv10, SUDOWOODO Lv12, DELIBIRD Lv8, ZANGOOSE Lv14, NIDORAN♀ Lv10, TANGELA Lv12
+Set #128 - MEMORIAL PILLAR Surfing (rate=2) - DEOXYS Lvs 5-35, OMASTAR Lvs 5-15, BARBOACH Lvs 35-40, PHANPY Lvs 35-40, JIRACHI Lvs 35-40
+Set #129 - MEMORIAL PILLAR Fishing (rate=20) - SPOINK Lv5, PIKACHU Lv5, ABSOL Lvs 5-15, TYPHLOSION Lvs 5-15, METAGROSS Lvs 15-25, AZUMARILL Lvs 15-25
+Set #130 - OUTCAST ISLAND Surfing (rate=2) - AZUMARILL Lvs 5-20, LARVITAR Lvs 20-35, CACNEA Lvs 35-40, WOBBUFFET Lvs 35-40, GULPIN Lvs 35-40
+Set #131 - OUTCAST ISLAND Fishing (rate=20) - RAPIDASH Lv5, SWALOT Lv5, QUILAVA Lvs 5-15, SHIFTRY Lvs 5-15, MR. MIME Lvs 15-25, PIKACHU Lvs 15-25
+Set #132 - GREEN PATH Surfing (rate=2) - KINGDRA Lvs 5-20, EKANS Lvs 20-35, ARON Lvs 35-40, JIGGLYPUFF Lvs 35-40, CASCOON Lvs 35-40
+Set #133 - GREEN PATH Fishing (rate=20) - CUBONE Lv5, NATU Lv5, KABUTOPS Lvs 5-15, QUAGSIRE Lvs 5-15, CHARMELEON Lvs 15-25, HO-OH Lvs 15-25
+Set #134 - WATER PATH Grass/Cave (rate=21) - MACHOKE Lv44, BRELOOM Lv10, FURRET Lv44, ELECTRODE Lv48, BALTOY Lv15, STARMIE Lv41
+Set #135 - WATER PATH Surfing (rate=2) - LEDIAN Lvs 5-20, ILLUMISE Lvs 20-35, MAGCARGO Lvs 35-40, DUSKULL Lvs 35-40, GIRAFARIG Lvs 35-40
+Set #136 - WATER PATH Fishing (rate=20) - GROVYLE Lv5, TAILLOW Lv5, LUNATONE Lvs 5-15, NIDOQUEEN Lvs 5-15, SNEASEL Lvs 15-25, FLAAFFY Lvs 15-25
+Set #137 - RUIN VALLEY Grass/Cave (rate=21) - CLAYDOL Lv15, PIDGEY Lv44, ZANGOOSE Lv18, ONIX Lv15, PINECO Lv49, WHISMUR Lv43
+Set #138 - RUIN VALLEY Surfing (rate=2) - RHYDON Lvs 5-20, GULPIN Lvs 10-20, LEDYBA Lvs 15-25, SEVIPER Lvs 20-25, LOTAD Lvs 20-25
+Set #139 - RUIN VALLEY Fishing (rate=20) - POLITOED Lv5, KINGLER Lv5, GRIMER Lvs 5-15, UMBREON Lvs 5-15, SLOWBRO Lvs 15-25, WAILMER Lvs 20-30
+Set #140 - TRAINER TOWER Surfing (rate=2) - SMOOCHUM Lvs 5-20, ELECTABUZZ Lvs 20-35, ZAPDOS Lvs 35-40, PIDGEOT Lvs 35-40, TYRANITAR Lvs 35-40
+Set #141 - TRAINER TOWER Fishing (rate=20) - RHYDON Lv5, PHANPY Lv5, ELECTRIKE Lvs 5-15, WHISCASH Lvs 5-15, METAPOD Lvs 15-25, YANMA Lvs 15-25
+Set #142 - CANYON ENTRANCE Grass/Cave (rate=21) - GENGAR Lv44, NIDOKING Lv10, BELDUM Lv10, MANECTRIC Lv48, CRADILY Lv15, BUTTERFREE Lv41
+Set #143 - SEVAULT CANYON Grass/Cave (rate=21) - TAILLOW Lv46, PIKACHU Lv15, MACHAMP Lv46, SCIZOR Lv50, KYOGRE Lv52, MUDKIP Lv43
+Set #144 - SEVAULT CANYON Rock Smash (rate=25) - GLIGAR Lvs 25-35, VENONAT Lvs 30-45, SWELLOW Lvs 35-50, HORSEA Lvs 30-40, SLOWBRO Lvs 30-40
+Set #145 - TANOBY RUINS Surfing (rate=2) - DONPHAN Lvs 5-20, VICTREEBEL Lvs 20-35, MANTINE Lvs 35-40, AZURILL Lvs 35-40, MACHAMP Lvs 35-40
+Set #146 - TANOBY RUINS Fishing (rate=20) - SHARPEDO Lv5, FLAAFFY Lv5, EKANS Lvs 5-15, KYOGRE Lvs 5-15, ABRA Lvs 15-25, OMASTAR Lvs 15-25
+Set #147 - ROUTE 1 Grass/Cave (rate=21) - FORRETRESS Lv3, PUPITAR Lv3, SEVIPER Lv3, LARVITAR Lv3, ZAPDOS Lv2, EKANS Lv2
+Set #148 - ROUTE 2 Grass/Cave (rate=21) - PIDGEY Lv3, STANTLER Lv3, MILOTIC Lv4, SLOWKING Lv4, NOSEPASS Lv2, FLYGON Lv2
+Set #149 - ROUTE 3 Grass/Cave (rate=21) - BANETTE Lv6, BLASTOISE Lv6, SCYTHER Lv7, ENTEI Lv7, TYPHLOSION Lv6, NIDORINA Lv7
+Set #150 - ROUTE 4 Grass/Cave (rate=21) - PORYGON2 Lv10, KADABRA Lv10, KINGLER Lv6, CLAMPERL Lv10, MEGANIUM Lv8, ALTARIA Lv8
+Set #151 - ROUTE 4 Surfing (rate=2) - SABLEYE Lvs 5-10, COMBUSKEN Lvs 10-20, LOTAD Lvs 20-30, ABRA Lvs 30-35, PIDGEY Lvs 35-40
+Set #152 - ROUTE 4 Fishing (rate=20) - KANGASKHAN Lv5, EKANS Lv5, SNEASEL Lvs 5-15, FORRETRESS Lvs 5-15, BANETTE Lvs 15-25, YANMA Lvs 15-25
+Set #153 - ROUTE 5 Grass/Cave (rate=21) - TYROGUE Lv10, FLAREON Lv13, VOLBEAT Lv13, NUMEL Lv12, ELEKID Lv15, WHISMUR Lv15
+Set #154 - ROUTE 6 Grass/Cave (rate=21) - UNOWN Lv10, RALTS Lv13, PERSIAN Lv13, FLAREON Lv12, GRIMER Lv15, MEDITITE Lv15
+Set #155 - ROUTE 6 Surfing (rate=2) - OCTILLERY Lvs 20-25, MEWTWO Lvs 20-25, LAIRON Lvs 25-30, BLASTOISE Lvs 30-35, NIDORINO Lvs 35-40
+Set #156 - ROUTE 6 Fishing (rate=20) - LINOONE Lv5, SPINDA Lv5, TYPHLOSION Lvs 5-15, JUMPLUFF Lvs 5-15, RAIKOU Lvs 15-25, NUMEL Lvs 20-30
+Set #157 - ROUTE 7 Grass/Cave (rate=21) - PRIMEAPE Lv19, NOSEPASS Lv17, TOGETIC Lv19, BALTOY Lv18, NIDOQUEEN Lv22, PONYTA Lv22
+Set #158 - ROUTE 8 Grass/Cave (rate=21) - ZANGOOSE Lv18, DODRIO Lv18, LEDIAN Lv16, GASTLY Lv20, DEWGONG Lv20, GOLBAT Lv17
+Set #159 - ROUTE 9 Grass/Cave (rate=21) - RAICHU Lv16, MARSHTOMP Lv16, ODDISH Lv11, DUSKULL Lv15, SHELLDER Lv13, RHYHORN Lv14
+Set #160 - ROUTE 10 Grass/Cave (rate=21) - POLIWAG Lv16, GOLBAT Lv16, GOLDUCK Lv11, MARILL Lv15, CHARMANDER Lv13, MEWTWO Lv14
+Set #161 - ROUTE 10 Surfing (rate=2) - KRABBY Lvs 5-10, FEAROW Lvs 10-20, SWINUB Lvs 20-30, AMPHAROS Lvs 30-35, GRANBULL Lvs 35-40
+Set #162 - ROUTE 10 Fishing (rate=20) - CELEBI Lv5, PUPITAR Lv5, LUNATONE Lvs 5-15, KADABRA Lvs 5-15, AZURILL Lvs 15-25, BANETTE Lvs 15-25
+Set #163 - ROUTE 11 Grass/Cave (rate=21) - ODDISH Lv14, HOPPIP Lv15, BUTTERFREE Lv12, GOLDUCK Lv13, GRIMER Lv11, POLITOED Lv13
+Set #164 - ROUTE 11 Surfing (rate=2) - MEWTWO Lvs 5-10, BELLOSSOM Lvs 10-20, PIDGEOTTO Lvs 20-30, AZUMARILL Lvs 30-35, HORSEA Lvs 35-40
+Set #165 - ROUTE 11 Fishing (rate=20) - RATICATE Lv5, TORCHIC Lv5, WEEZING Lvs 5-15, PORYGON Lvs 5-15, DEOXYS Lvs 15-25, ABRA Lvs 15-25
+Set #166 - ROUTE 12 Grass/Cave (rate=21) - SLOWPOKE Lv24, MARILL Lv24, FEEBAS Lv22, SANDSHREW Lv23, TROPIUS Lv25, NIDORAN♀ Lv26
+Set #167 - ROUTE 12 Surfing (rate=2) - CACNEA Lvs 5-10, URSARING Lvs 10-20, MAROWAK Lvs 20-30, WINGULL Lvs 30-35, TAUROS Lvs 35-40
+Set #168 - ROUTE 12 Fishing (rate=60) - GEODUDE Lv5, ARTICUNO Lv5, LUDICOLO Lvs 5-15, MEW Lvs 5-15, SLUGMA Lvs 15-25, CHANSEY Lvs 15-25
+Set #169 - ROUTE 13 Grass/Cave (rate=21) - UNOWN Lv24, ARTICUNO Lv24, REGIROCK Lv22, CASCOON Lv27, GRUMPIG Lv25, SURSKIT Lv26
+Set #170 - ROUTE 13 Surfing (rate=2) - PRIMEAPE Lvs 5-10, MAGCARGO Lvs 10-20, AGGRON Lvs 20-30, GROVYLE Lvs 30-35, YANMA Lvs 35-40
+Set #171 - ROUTE 13 Fishing (rate=20) - DRAGONAIR Lv5, LICKITUNG Lv5, PHANPY Lvs 5-15, NIDORINA Lvs 5-15, DUSTOX Lvs 15-25, UNOWN Lvs 15-25
+Set #172 - ROUTE 14 Grass/Cave (rate=21) - MOLTRES Lv24, SLOWPOKE Lv24, SPHEAL Lv22, BLASTOISE Lv23, KINGDRA Lv27, NATU Lv26
+Set #173 - ROUTE 15 Grass/Cave (rate=21) - JIRACHI Lv24, GROWLITHE Lv24, HUNTAIL Lv22, PONYTA Lv27, JIRACHI Lv25, HO-OH Lv26
+Set #174 - ROUTE 16 Grass/Cave (rate=21) - SEEL Lv20, HITMONTOP Lv18, SUDOWOODO Lv18, CHANSEY Lv20, WEEPINBELL Lv22, STEELIX Lv20
+Set #175 - ROUTE 17 Grass/Cave (rate=21) - ALAKAZAM Lv20, KAKUNA Lv24, CHARIZARD Lv22, STARMIE Lv26, REGICE Lv25, OCTILLERY Lv27
+Set #176 - ROUTE 18 Grass/Cave (rate=21) - HERACROSS Lv20, LICKITUNG Lv24, CLEFAIRY Lv22, SEALEO Lv26, LUNATONE Lv25, MEWTWO Lv25
+Set #177 - ROUTE 19 Surfing (rate=2) - PLUSLE Lvs 5-10, AIPOM Lvs 10-20, DUSCLOPS Lvs 20-30, LAIRON Lvs 30-35, WALREIN Lvs 35-40
+Set #178 - ROUTE 19 Fishing (rate=20) - RATTATA Lv5, BARBOACH Lv5, MANTINE Lvs 5-15, COMBUSKEN Lvs 5-15, MEOWTH Lvs 15-25, DRAGONITE Lvs 15-25
+Set #179 - ROUTE 20 Surfing (rate=2) - VOLTORB Lvs 5-10, NIDORINO Lvs 10-20, TORCHIC Lvs 20-30, PLUSLE Lvs 30-35, LATIAS Lvs 35-40
+Set #180 - ROUTE 20 Fishing (rate=20) - VOLBEAT Lv5, HITMONTOP Lv5, SEEL Lvs 5-15, FLAREON Lvs 5-15, ELEKID Lvs 15-25, PORYGON2 Lvs 15-25
+Set #181 - ROUTE 21 Grass/Cave (rate=14) - TAUROS Lv22, IGGLYBUFF Lv23, AMPHAROS Lv24, NIDORINO Lv21, DEOXYS Lv25, HO-OH Lv20
+Set #182 - ROUTE 21 Surfing (rate=2) - HOUNDOUR Lvs 5-10, LOMBRE Lvs 10-20, GRIMER Lvs 20-30, SHUCKLE Lvs 30-35, SUICUNE Lvs 35-40
+Set #183 - ROUTE 21 Fishing (rate=20) - SEAKING Lv5, MUDKIP Lv5, SWABLU Lvs 5-15, CHINCHOU Lvs 5-15, MASQUERAIN Lvs 15-25, PARAS Lvs 15-25
+Set #184 - ROUTE 21 Grass/Cave (rate=14) - CARVANHA Lv22, TORCHIC Lv23, SANDSLASH Lv24, SALAMENCE Lv21, WHISCASH Lv25, CRADILY Lv20
+Set #185 - ROUTE 21 Surfing (rate=2) - GEODUDE Lvs 5-10, LEDYBA Lvs 10-20, SLOWKING Lvs 20-30, HERACROSS Lvs 30-35, EXEGGCUTE Lvs 35-40
+Set #186 - ROUTE 21 Fishing (rate=20) - GOLBAT Lv5, UNOWN Lv5, TYROGUE Lvs 5-15, ANORITH Lvs 5-15, SURSKIT Lvs 15-25, SNEASEL Lvs 15-25
+Set #187 - ROUTE 22 Grass/Cave (rate=21) - CLOYSTER Lv3, DUSCLOPS Lv3, TYROGUE Lv4, TAILLOW Lv4, PERSIAN Lv2, HOPPIP Lv2
+Set #188 - ROUTE 22 Surfing (rate=2) - RAYQUAZA Lvs 20-25, IVYSAUR Lvs 20-25, CROBAT Lvs 25-30, NIDORINO Lvs 30-35, CLAMPERL Lvs 35-40
+Set #189 - ROUTE 22 Fishing (rate=20) - CASTFORM Lv5, DROWZEE Lv5, ABRA Lvs 5-15, TANGELA Lvs 5-15, POLIWRATH Lvs 15-25, NATU Lvs 20-30
+Set #190 - ROUTE 23 Grass/Cave (rate=21) - POLIWRATH Lv32, WEEPINBELL Lv40, EXEGGUTOR Lv34, REGIROCK Lv34, SLAKING Lv32, VULPIX Lv34
+Set #191 - ROUTE 23 Surfing (rate=2) - NIDORAN♂ Lvs 20-25, POLITOED Lvs 20-25, CELEBI Lvs 25-30, REGIROCK Lvs 30-35, SUNKERN Lvs 35-40
+Set #192 - ROUTE 23 Fishing (rate=20) - CLOYSTER Lv5, ELEKID Lv5, ILLUMISE Lvs 5-15, DUNSPARCE Lvs 5-15, QUILAVA Lvs 15-25, CORPHISH Lvs 20-30
+Set #193 - ROUTE 24 Grass/Cave (rate=21) - BELLOSSOM Lv7, MINUN Lv7, TORCHIC Lv11, MAWILE Lv12, CARVANHA Lv13, WYNAUT Lv10
+Set #194 - ROUTE 24 Surfing (rate=2) - PERSIAN Lvs 5-10, VIBRAVA Lvs 10-20, DUSTOX Lvs 20-30, FLAREON Lvs 30-35, TAUROS Lvs 35-40
+Set #195 - ROUTE 24 Fishing (rate=20) - REGICE Lv5, LILEEP Lv5, BANETTE Lvs 5-15, GYARADOS Lvs 5-15, CLEFFA Lvs 15-25, CHIMECHO Lvs 15-25
+Set #196 - ROUTE 25 Grass/Cave (rate=21) - PERSIAN Lv8, RAICHU Lv8, PIDGEY Lv13, KIRLIA Lv14, FERALIGATR Lv13, XATU Lv11
+Set #197 - ROUTE 25 Surfing (rate=2) - SHIFTRY Lvs 20-25, CRADILY Lvs 20-25, TOGEPI Lvs 25-30, LINOONE Lvs 30-35, SEEL Lvs 35-40
+Set #198 - ROUTE 25 Fishing (rate=20) - SHELLDER Lv5, MAROWAK Lv5, WAILORD Lvs 5-15, POLIWAG Lvs 5-15, SUICUNE Lvs 15-25, STARYU Lvs 20-30
+Set #199 - PALLET TOWN Surfing (rate=1) - VENOMOTH Lvs 5-10, FLAAFFY Lvs 10-20, DRAGONITE Lvs 20-30, UNOWN Lvs 30-35, CLAMPERL Lvs 35-40
+Set #200 - PALLET TOWN Fishing (rate=10) - HITMONLEE Lvs 5-10, CARVANHA Lvs 5-10, AMPHAROS Lvs 5-15, ARCANINE Lvs 5-15, DONPHAN Lvs 15-25, JYNX Lvs 15-25
+Set #201 - VIRIDIAN CITY Surfing (rate=1) - BAGON Lvs 20-25, ALAKAZAM Lvs 20-25, MANECTRIC Lvs 25-30, DEOXYS Lvs 30-35, SPHEAL Lvs 35-40
+Set #202 - VIRIDIAN CITY Fishing (rate=10) - DEWGONG Lv5, SEADRA Lv5, WOOPER Lvs 5-15, UNOWN Lvs 5-15, ELECTRIKE Lvs 15-25, VICTREEBEL Lvs 20-30
+Set #203 - CERULEAN CITY Surfing (rate=1) - TROPIUS Lvs 5-10, CORPHISH Lvs 10-20, BELLSPROUT Lvs 20-30, ARMALDO Lvs 30-35, REGISTEEL Lvs 35-40
+Set #204 - CERULEAN CITY Fishing (rate=10) - VICTREEBEL Lv5, GLOOM Lv5, POLIWAG Lvs 5-15, MEW Lvs 5-15, MURKROW Lvs 15-25, GOREBYSS Lvs 15-25
+Set #205 - VERMILION CITY Surfing (rate=1) - SLOWKING Lvs 5-10, TROPIUS Lvs 10-20, PICHU Lvs 20-30, GLOOM Lvs 30-35, DELIBIRD Lvs 35-40
+Set #206 - VERMILION CITY Fishing (rate=10) - SENTRET Lv5, RATTATA Lv5, CARVANHA Lvs 5-15, SLAKOTH Lvs 5-15, ANORITH Lvs 15-25, ARCANINE Lvs 15-25
+Set #207 - CELADON CITY Surfing (rate=1) - PORYGON Lvs 5-10, TORKOAL Lvs 10-20, GOLDUCK Lvs 20-30, WHISMUR Lvs 30-40, CHIKORITA Lvs 30-40
+Set #208 - CELADON CITY Fishing (rate=10) - SHARPEDO Lv5, TREECKO Lv5, NIDORAN♂ Lvs 5-15, PILOSWINE Lvs 5-15, XATU Lvs 15-25, DUGTRIO Lvs 15-25
+Set #209 - FUCHSIA CITY Surfing (rate=1) - REGIROCK Lvs 20-25, SMEARGLE Lvs 20-25, DEOXYS Lvs 25-30, METAPOD Lvs 30-35, KRABBY Lvs 35-40
+Set #210 - FUCHSIA CITY Fishing (rate=10) - ZUBAT Lv5, SLUGMA Lv5, SKARMORY Lvs 5-15, BLAZIKEN Lvs 5-15, PINSIR Lvs 15-25, ARCANINE Lvs 20-30
+Set #211 - CINNABAR ISLAND Surfing (rate=1) - ODDISH Lvs 5-10, PERSIAN Lvs 10-20, GRANBULL Lvs 20-30, MAKUHITA Lvs 30-35, SNEASEL Lvs 35-40
+Set #212 - CINNABAR ISLAND Fishing (rate=10) - DUSTOX Lv5, FLAAFFY Lv5, FLAAFFY Lvs 5-15, CROCONAW Lvs 5-15, SUNKERN Lvs 15-25, KABUTOPS Lvs 15-25
+Set #213 - ONE ISLAND Surfing (rate=1) - HUNTAIL Lvs 5-20, TAUROS Lvs 20-35, LATIOS Lvs 35-40, STARYU Lvs 35-40, EXEGGUTOR Lvs 35-40
+Set #214 - ONE ISLAND Fishing (rate=10) - SNORUNT Lv5, SCIZOR Lv5, KRABBY Lvs 5-15, HITMONLEE Lvs 5-15, MACHAMP Lvs 15-25, BELDUM Lvs 15-25
+Set #215 - FOUR ISLAND Surfing (rate=2) - GLALIE Lvs 5-15, MUDKIP Lvs 5-35, RHYHORN Lvs 15-25, CROCONAW Lvs 15-25, MAKUHITA Lvs 15-25
+Set #216 - FOUR ISLAND Fishing (rate=20) - SEAKING Lv5, ZIGZAGOON Lv5, ESPEON Lvs 5-15, GIRAFARIG Lvs 5-15, CACNEA Lvs 15-25, MIGHTYENA Lvs 20-30
+Set #217 - FIVE ISLAND Surfing (rate=1) - CRADILY Lvs 5-35, PONYTA Lvs 5-15, SLOWPOKE Lvs 35-40, GOLBAT Lvs 35-40, LEDYBA Lvs 35-40
+Set #218 - FIVE ISLAND Fishing (rate=10) - ARCANINE Lv5, SWABLU Lv5, STANTLER Lvs 5-15, RHYDON Lvs 5-15, ZIGZAGOON Lvs 15-25, SALAMENCE Lvs 15-25
+Set #219 - ALTERING CAVE Grass/Cave (rate=5) - RAICHU Lv10, HITMONTOP Lv12, SUICUNE Lv8, AMPHAROS Lv14, POLIWAG Lv10, NIDOKING Lv12
+Set #220 - ALTERING CAVE Grass/Cave (rate=5) - MAKUHITA Lv7, FEEBAS Lv9, LARVITAR Lv5, KADABRA Lv11, DUSCLOPS Lv7, SNUBBULL Lv9
+Set #221 - ALTERING CAVE Grass/Cave (rate=5) - CORSOLA Lv23, GRAVELER Lv25, NUZLEAF Lv22, DUGTRIO Lv27, FLYGON Lv23, DELCATTY Lv25
+Set #222 - ALTERING CAVE Grass/Cave (rate=5) - TRAPINCH Lv16, SPINDA Lv18, HITMONCHAN Lv14, LOTAD Lv20, CHIKORITA Lv16, TENTACRUEL Lv18
+Set #223 - ALTERING CAVE Grass/Cave (rate=5) - MARSHTOMP Lv22, WHISCASH Lv24, DEWGONG Lv20, SEEL Lv26, MEDICHAM Lv22, SHROOMISH Lv24
+Set #224 - ALTERING CAVE Grass/Cave (rate=5) - BRELOOM Lv22, HUNTAIL Lv24, DELCATTY Lv20, SHELLDER Lv26, CUBONE Lv22, SUNKERN Lv24
+Set #225 - ALTERING CAVE Grass/Cave (rate=5) - CHARIZARD Lv22, STARMIE Lv24, MILOTIC Lv20, MEGANIUM Lv26, MUK Lv22, PIDGEOT Lv24
+Set #226 - ALTERING CAVE Grass/Cave (rate=5) - GLALIE Lv22, SPOINK Lv24, CRAWDAUNT Lv20, SCYTHER Lv26, MACHOKE Lv22, LUGIA Lv24
+Set #227 - ALTERING CAVE Grass/Cave (rate=5) - MAGBY Lv22, HITMONTOP Lv24, WINGULL Lv20, KRABBY Lv26, KRABBY Lv22, PIDGEY Lv24
+
+TM Moves: Unchanged.
+
+Move Tutor Moves: Unchanged.
+
+Field Items: Unchanged.
+
+------------------------------------------------------------------
+Randomization of Fire Red (U) (1.0)z completed.
+Time elapsed: 729ms
+RNG Calls: 11747
+------------------------------------------------------------------
