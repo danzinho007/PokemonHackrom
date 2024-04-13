@@ -1,0 +1,1134 @@
+﻿--Move Updates--
+Made DANÇA ESPADA have 20 PP
+Made VOAR have 90 power
+Made AMARRAR have 85% accuracy
+Made CHICOTE CIPÓ have 45 power and 25 PP
+Made VOADORA have 100 power and 10 PP
+Made INVESTIDA have 50 power and 100% accuracy
+Made ENROLAR have 90% accuracy
+Made TURBULÊNCIA have 120 power and 10 PP
+Made MÏSSIL PINO have 25 power and 95% accuracy
+Made DESATIVAR have 100% accuracy
+Made LANÇA-CHAMAS have 90 power
+Made HIDRO BOMBA have 110 power
+Made SURFAR have 90 power
+Made RAIO GELO have 90 power
+Made NEVASCA have 110 power
+Made ABSORVER have 25 PP
+Made MEGA DRENO have 15 PP
+Made CRESCIMENTO have 20 PP
+Made DANÇA PÉTALA have 120 power and 10 PP
+Made GIRO FOGO have 35 power and 85% accuracy
+Made RAIO have 90 power
+Made TROVÄO have 110 power
+Made CAVAR have 80 power
+Made TÓXICO have 90% accuracy
+Made RECUPERAÇÄO have 10 PP
+Made MINIMIZAR have 10 PP
+Made BARREIRA have 20 PP
+Made LAMBIDA have 30 power
+Made POLUIÇÄO have 30 power
+Made RAJADA FOGO have 110 power
+Made PINÇA have 15 PP and 85% accuracy
+Made RACHA CRÂNIO have 130 power and 10 PP
+Made VOADORA ALTA have 130 power and 10 PP
+Made OFUSCAR have 100% accuracy
+Made GÁS VENENOSO have 90% accuracy
+Made BOLHAS have 40 power
+Made LUZES have 100% accuracy
+Made MAR PSÏQUICO have 100% accuracy
+Made ARMAD. ÁCIDA have 20 PP
+Made MAU HUMOR have 100 power and 90% accuracy
+Made LADRÄO have 60 power and 25 PP
+Made RONCAR have 50 power
+Made MALDIÇÄO be GHOST-type
+Made ESPOROS have 100% accuracy
+Made CARA FEIA have 100% accuracy
+Made ELETROCANHÄO have 120 power
+Made OSSO RÁPIDO have 90% accuracy
+Made ATROCIDADE have 120 power and 10 PP
+Made GIGA DRENO have 75 power and 10 PP
+Made CORTE FÚRIA have 40 power
+Made VISÄO FUTURA have 120 power, 10 PP and 100% accuracy
+Made QUEBRA PEDRA have 40 power
+Made REDEMOINHO have 35 power and 85% accuracy
+Made ALVOROÇO have 90 power
+Made ESTOCAR have 20 PP
+Made ONDA CALOR have 95 power
+Made MINI DESEJO have 85% accuracy
+Made SAL CHEIROSO have 70 power
+Made DERRUBAR have 65 power
+Made MERGULHO have 80 power
+Made METEORO have 90 power and 90% accuracy
+Made CORTE AÉREO have 60 power
+Made SUPERAQUEÇER have 130 power
+Made PEDRA TUMBA have 60 power, 15 PP and 95% accuracy
+Made SENSORIAL have 20 PP
+Made TUMBA AREIA have 35 power and 85% accuracy
+Made ÁGUA LAMA have 90 power
+Made SEMENTE BALA have 25 power
+Made LANÇA ARPÄO have 25 power
+Made COBIÇA have 60 power and 25 PP
+Made LÂMINA FOLHA have 90 power
+Made SOPRO PEDRA have 90% accuracy
+Made DESEJA MORTE have 140 power and 100% accuracy
+
+--Removing Trade Evolutions--
+Made POLIWHIRL evolve into POLITOED at level 37
+Made KADABRA evolve into ALAKAZAM at level 37
+Made MACHOKE evolve into MACHAMP at level 37
+Made GRAVELER evolve into GOLEM at level 37
+Made SLOWPOKE evolve into SLOWKING using a PEDRA ÁGUA
+Made HAUNTER evolve into GENGAR at level 37
+Made ONIX evolve into STEELIX at level 30
+Made SEADRA evolve into KINGDRA at level 40
+Made SCYTHER evolve into SCIZOR at level 30
+Made PORYGON evolve into PORYGON2 at level 30
+Made CLAMPERL evolve into HUNTAIL at level 30
+Made CLAMPERL evolve into GOREBYSS using a PEDRA ÁGUA
+
+--Patching for National Dex at Start of Game--
+Patch successful!
+
+--Pokemon Base Stats & Types--
+NUM|NAME      |TYPE             |  HP| ATK| DEF| SPE|SATK|SDEF|ABILITY1    |ABILITY2    |ITEM
+  1|Bulbasaur |GRASS/POISON     |  45|  49|  49|  45|  65|  65|ENORME      |-------     |TM44 (rare)
+  2|Ivysaur   |GRASS/POISON     |  60|  62|  63|  60|  80|  80|ENORME      |-------     |
+  3|Venusaur  |GRASS/POISON     |  80|  82|  83|  80| 100| 100|ENORME      |-------     |
+  4|Charmander|FIRE             |  39|  52|  43|  65|  60|  50|BRASA       |-------     |TM45 (common)
+  5|Charmeleon|FIRE             |  58|  64|  58|  80|  80|  65|BRASA       |-------     |INCENSO LAX (common), SUCO DE FRUTA (rare)
+  6|Charizard |FIRE/FLYING      |  78|  84|  78| 100| 109|  85|BRASA       |-------     |
+  7|Squirtle  |WATER            |  44|  48|  65|  43|  50|  64|TEMPORAL    |-------     |STARF FRUTO (common)
+  8|Wartortle |WATER            |  59|  63|  80|  58|  65|  80|TEMPORAL    |-------     |PEDRA LUA (common), ZINCO (rare)
+  9|Blastoise |WATER            |  79|  83| 100|  78|  85| 105|TEMPORAL    |-------     |CAUDA FELPUDA (rare)
+ 10|Caterpie  |BUG              |  45|  30|  35|  45|  20|  20|ESCUDO DE PÓ|-------     |
+ 11|Metapod   |BUG              |  50|  20|  55|  30|  25|  25|TROCA PELE  |-------     |ÏMA (common)
+ 12|Butterfree|BUG/FLYING       |  60|  45|  50|  70|  80|  80|OLHO FACETA |-------     |SAL FINO (common)
+ 13|Weedle    |BUG/POISON       |  40|  35|  30|  50|  20|  20|ESCUDO DE PÓ|-------     |
+ 14|Kakuna    |BUG/POISON       |  45|  25|  50|  35|  25|  25|TROCA PELE  |-------     |
+ 15|Beedrill  |BUG/POISON       |  65|  80|  40|  75|  45|  80|ENXAME      |-------     |BANDANA (common), VELOCIDADE X (rare)
+ 16|Pidgey    |NORMAL/FLYING    |  40|  45|  40|  56|  35|  35|OLHO VIVO   |-------     |PÓ PRATEADO (100%)
+ 17|Pidgeotto |NORMAL/FLYING    |  63|  60|  55|  71|  50|  50|OLHO VIVO   |-------     |
+ 18|Pidgeot   |NORMAL/FLYING    |  83|  80|  75|  91|  70|  70|OLHO VIVO   |-------     |DOCE LAVA (common)
+ 19|Rattata   |NORMAL           |  30|  56|  35|  72|  25|  35|CORRER      |VÏCERAS     |SAL FINO (common)
+ 20|Raticate  |NORMAL           |  55|  81|  60|  97|  50|  70|CORRER      |VÏCERAS     |WIKI FRUTO (rare)
+ 21|Spearow   |NORMAL/FLYING    |  40|  60|  30|  70|  31|  31|OLHO VIVO   |-------     |SOCO DA SORTE (common)
+ 22|Fearow    |NORMAL/FLYING    |  65|  90|  65| 100|  61|  61|OLHO VIVO   |-------     |
+ 23|Ekans     |POISON           |  35|  60|  44|  55|  40|  54|INTIMIDA    |TROCA PELE  |
+ 24|Arbok     |POISON           |  60|  85|  69|  80|  65|  79|INTIMIDA    |TROCA PELE  |TM01 (common)
+ 25|Pikachu   |ELECTRIC         |  35|  55|  30|  90|  50|  40|ESTÁTICA    |-------     |ORAN FRUTO (common)
+ 26|Raichu    |ELECTRIC         |  60|  90|  55| 100|  90|  80|ESTÁTICA    |-------     |BOLA NINHO (common)
+ 27|Sandshrew |GROUND           |  50|  75|  85|  40|  20|  30|VÉU DE AREIA|-------     |
+ 28|Sandslash |GROUND           |  75| 100| 110|  65|  45|  55|VÉU DE AREIA|-------     |TM28 (rare)
+ 29|Nidoran♀  |POISON           |  55|  47|  52|  41|  40|  40|VENENOSO    |-------     |TM28 (100%)
+ 30|Nidorina  |POISON           |  70|  62|  67|  56|  55|  55|VENENOSO    |-------     |OVO DA SORTE (rare)
+ 31|Nidoqueen |POISON/GROUND    |  90|  82|  87|  76|  75|  85|VENENOSO    |-------     |
+ 32|Nidoran♂  |POISON           |  46|  57|  40|  50|  40|  40|VENENOSO    |-------     |FL. BRANCA (rare)
+ 33|Nidorino  |POISON           |  61|  72|  57|  65|  55|  55|VENENOSO    |-------     |
+ 34|Nidoking  |POISON/GROUND    |  81|  92|  77|  85|  85|  75|VENENOSO    |-------     |RAZZ FRUTO (common)
+ 35|Clefairy  |NORMAL           |  70|  45|  48|  35|  60|  65|CHARME      |-------     |GREPA FRUTO (100%)
+ 36|Clefable  |NORMAL           |  95|  70|  73|  60|  85|  90|CHARME      |-------     |PEDRA ETERNA (100%)
+ 37|Vulpix    |FIRE             |  38|  41|  40|  65|  50|  65|LUZES FOGO  |-------     |TM41 (100%)
+ 38|Ninetales |FIRE             |  73|  76|  75| 100|  81| 100|LUZES FOGO  |-------     |TM34 (100%)
+ 39|Jigglypuff|NORMAL           | 115|  45|  20|  20|  45|  25|CHARME      |-------     |SODA POP (common)
+ 40|Wigglytuff|NORMAL           | 140|  70|  45|  45|  75|  50|CHARME      |-------     |
+ 41|Zubat     |POISON/FLYING    |  40|  45|  35|  55|  30|  40|FOCO SECRETO|-------     |SUPER BOLA (rare)
+ 42|Golbat    |POISON/FLYING    |  75|  80|  70|  90|  65|  75|FOCO SECRETO|-------     |TM46 (common)
+ 43|Oddish    |GRASS/POISON     |  45|  50|  55|  30|  75|  65|CLOROFILA   |-------     |
+ 44|Gloom     |GRASS/POISON     |  60|  65|  70|  40|  85|  75|CLOROFILA   |-------     |
+ 45|Vileplume |GRASS/POISON     |  75|  80|  85|  50| 100|  90|CLOROFILA   |-------     |
+ 46|Paras     |BUG/GRASS        |  35|  70|  55|  25|  45|  55|ESPOROS     |-------     |COGUMELO G. (rare)
+ 47|Parasect  |BUG/GRASS        |  60|  95|  80|  30|  60|  80|ESPOROS     |-------     |REPETE BOLA (common), ESPECIAL X (rare)
+ 48|Venonat   |BUG/POISON       |  60|  55|  50|  45|  40|  55|OLHO FACETA |-------     |
+ 49|Venomoth  |BUG/POISON       |  70|  65|  60|  90|  90|  75|ESCUDO DE PÓ|-------     |FL. PRETA (rare)
+ 50|Diglett   |GROUND           |  10|  55|  25|  95|  35|  45|VÉU DE AREIA|ARAPUCA     |
+ 51|Dugtrio   |GROUND           |  35|  80|  50| 120|  50|  70|VÉU DE AREIA|ARAPUCA     |
+ 52|Meowth    |NORMAL           |  40|  45|  35|  90|  40|  40|ACELERAÇÄO  |-------     |FIGY FRUTO (common), ANTÏDOTO (rare)
+ 53|Persian   |NORMAL           |  65|  70|  60| 115|  65|  65|FLEXÏVEL    |-------     |
+ 54|Psyduck   |WATER            |  50|  52|  48|  55|  65|  50|UMIDADE     |EUFÓRICO    |SEM. MILAGRE (common), TM23 (rare)
+ 55|Golduck   |WATER            |  80|  82|  78|  85|  95|  80|UMIDADE     |EUFÓRICO    |
+ 56|Mankey    |FIGHTING         |  40|  80|  35|  70|  35|  45|ALMA VITAL  |-------     |
+ 57|Primeape  |FIGHTING         |  65| 105|  60|  95|  60|  70|ALMA VITAL  |-------     |
+ 58|Growlithe |FIRE             |  55|  70|  45|  60|  70|  50|INTIMIDA    |LUZES FOGO  |CHESTO FRUTO (100%)
+ 59|Arcanine  |FIRE             |  90| 110|  80|  95| 100|  80|INTIMIDA    |LUZES FOGO  |APICOT FRUTO (100%)
+ 60|Poliwag   |WATER            |  40|  50|  40|  90|  40|  40|ABSORVE ÁGUA|UMIDADE     |
+ 61|Poliwhirl |WATER            |  65|  65|  65|  90|  50|  50|ABSORVE ÁGUA|UMIDADE     |
+ 62|Poliwrath |WATER/FIGHTING   |  90|  85|  95|  70|  70|  90|ABSORVE ÁGUA|UMIDADE     |QUALOT FRUTO (rare)
+ 63|Abra      |PSYCHIC          |  25|  20|  15|  90| 105|  55|SINCRONISMO |FOCO SECRETO|MÁX. PP (rare)
+ 64|Kadabra   |PSYCHIC          |  40|  35|  30| 105| 120|  70|SINCRONISMO |FOCO SECRETO|TM39 (100%)
+ 65|Alakazam  |PSYCHIC          |  55|  50|  45| 120| 135|  85|SINCRONISMO |FOCO SECRETO|
+ 66|Machop    |FIGHTING         |  70|  80|  50|  35|  35|  35|VÏCERAS     |-------     |
+ 67|Machoke   |FIGHTING         |  80| 100|  70|  45|  50|  60|VÏCERAS     |-------     |
+ 68|Machamp   |FIGHTING         |  90| 130|  80|  55|  65|  85|VÏCERAS     |-------     |
+ 69|Bellsprout|GRASS/POISON     |  50|  75|  35|  40|  70|  30|CLOROFILA   |-------     |CONCHA RASA (common), DIVE BOLA (rare)
+ 70|Weepinbell|GRASS/POISON     |  65|  90|  50|  55|  85|  45|CLOROFILA   |-------     |
+ 71|Victreebel|GRASS/POISON     |  80| 105|  65|  70| 100|  60|CLOROFILA   |-------     |
+ 72|Tentacool |WATER/POISON     |  40|  40|  35|  70|  50| 100|CORPO LIMPO |LODO LÏQUIDO|
+ 73|Tentacruel|WATER/POISON     |  80|  70|  65| 100|  80| 120|CORPO LIMPO |LODO LÏQUIDO|MÁX. POÇÄO (rare)
+ 74|Geodude   |ROCK/GROUND      |  40|  80| 100|  20|  30|  30|CABEÇA PEDRA|ROBUSTO     |DOCE LAVA (common)
+ 75|Graveler  |ROCK/GROUND      |  55|  95| 115|  35|  45|  45|CABEÇA PEDRA|ROBUSTO     |ESPECIAL X (common)
+ 76|Golem     |ROCK/GROUND      |  80| 110| 130|  45|  55|  65|CABEÇA PEDRA|ROBUSTO     |ERVA REVIVA (common)
+ 77|Ponyta    |FIRE             |  50|  85|  55|  90|  65|  65|CORRER      |LUZES FOGO  |TM43 (rare)
+ 78|Rapidash  |FIRE             |  65| 100|  70| 105|  80|  80|CORRER      |LUZES FOGO  |BOLA TURNO (rare)
+ 79|Slowpoke  |WATER/PSYCHIC    |  90|  65|  65|  15|  40|  40|DISTRAÏDO   |TEM RITMO   |
+ 80|Slowbro   |WATER/PSYCHIC    |  95|  75| 110|  30| 100|  80|DISTRAÏDO   |TEM RITMO   |
+ 81|Magnemite |ELECTRIC/STEEL   |  25|  35|  70|  45|  95|  55|ATRAI IMÄ   |ROBUSTO     |DOCE RARO (rare)
+ 82|Magneton  |ELECTRIC/STEEL   |  50|  60|  95|  70| 120|  70|ATRAI IMÄ   |ROBUSTO     |PÓ ENERGIA (common)
+ 83|Farfetch’D|NORMAL/FLYING    |  52|  65|  55|  60|  58|  62|OLHO VIVO   |FOCO SECRETO|
+ 84|Doduo     |NORMAL/FLYING    |  35|  85|  45|  75|  35|  35|CORRER      |AVE MATUTINA|ERVA BRANCA (common)
+ 85|Dodrio    |NORMAL/FLYING    |  60| 110|  70| 100|  60|  60|CORRER      |AVE MATUTINA|
+ 86|Seel      |WATER            |  65|  45|  55|  45|  45|  70|GORDURA     |-------     |ATAQUE X (rare)
+ 87|Dewgong   |WATER/ICE        |  90|  70|  80|  70|  70|  95|GORDURA     |-------     |TM02 (rare)
+ 88|Grimer    |POISON           |  80|  80|  50|  25|  40|  50|FEDOR       |PEGAJOSO    |
+ 89|Muk       |POISON           | 105| 105|  75|  50|  65| 100|FEDOR       |PEGAJOSO    |RAÍZ ENERGIA (rare)
+ 90|Shellder  |WATER            |  30|  65| 100|  40|  45|  25|CARAPAÇA    |-------     |
+ 91|Cloyster  |WATER/ICE        |  50|  95| 180|  70|  85|  45|CARAPAÇA    |-------     |
+ 92|Gastly    |GHOST/POISON     |  30|  35|  30|  80| 100|  35|LEVITAR     |-------     |TM13 (100%)
+ 93|Haunter   |GHOST/POISON     |  45|  50|  45|  95| 115|  55|LEVITAR     |-------     |TM33 (rare)
+ 94|Gengar    |GHOST/POISON     |  60|  65|  60| 110| 130|  75|LEVITAR     |-------     |HONDEW FRUTO (common)
+ 95|Onix      |ROCK/GROUND      |  35|  45| 160|  70|  30|  45|CABEÇA PEDRA|ROBUSTO     |
+ 96|Drowzee   |PSYCHIC          |  60|  48|  45|  42|  43|  90|INSÔNIA     |-------     |
+ 97|Hypno     |PSYCHIC          |  85|  73|  70|  67|  73| 115|INSÔNIA     |-------     |PÓ DE CURA (rare)
+ 98|Krabby    |WATER            |  30| 105|  90|  50|  25|  25|HIPER CORTE |CARAPAÇA    |OSSO FINO (common)
+ 99|Kingler   |WATER            |  55| 130| 115|  75|  50|  50|HIPER CORTE |CARAPAÇA    |BANDANA F (common)
+100|Voltorb   |ELECTRIC         |  40|  30|  50| 100|  55|  55|ACÚSTICA    |ESTÁTICA    |MAIS HP (common)
+101|Electrode |ELECTRIC         |  60|  50|  70| 140|  80|  80|ACÚSTICA    |ESTÁTICA    |
+102|Exeggcute |GRASS/PSYCHIC    |  60|  40|  80|  40|  60|  45|CLOROFILA   |-------     |
+103|Exeggutor |GRASS/PSYCHIC    |  95|  95|  85|  55| 125|  65|CLOROFILA   |-------     |
+104|Cubone    |GROUND           |  50|  50|  95|  35|  40|  50|CABEÇA PEDRA|CLAREZA     |ESCAMA MAR. (common)
+105|Marowak   |GROUND           |  60|  80| 110|  45|  50|  80|CABEÇA PEDRA|CLAREZA     |SAL FINO (rare)
+106|Hitmonlee |FIGHTING         |  50| 120|  53|  87|  35| 110|FLEXÏVEL    |-------     |
+107|Hitmonchan|FIGHTING         |  50| 105|  79|  76|  35| 110|OLHO VIVO   |-------     |
+108|Lickitung |NORMAL           |  90|  55|  75|  30|  60|  75|TEM RITMO   |DISTRAÏDO   |PETAYA FRUTO (common), DESCONGELA (rare)
+109|Koffing   |POISON           |  40|  65|  95|  35|  60|  45|LEVITAR     |-------     |
+110|Weezing   |POISON           |  65|  90| 120|  60|  85|  70|LEVITAR     |-------     |
+111|Rhyhorn   |GROUND/ROCK      |  80|  85|  95|  25|  30|  30|CLAREZA     |CABEÇA PEDRA|TM28 (common)
+112|Rhydon    |GROUND/ROCK      | 105| 130| 120|  40|  45|  45|CLAREZA     |CABEÇA PEDRA|
+113|Chansey   |NORMAL           | 250|   5|   5|  50|  35| 105|CURA NATURAL|GRAÇA SERENA|CARTA RETRO. (common), REPARTIR EXP (rare)
+114|Tangela   |GRASS            |  65|  55| 115|  60| 100|  40|CLOROFILA   |-------     |
+115|Kangaskhan|NORMAL           | 105|  95|  80|  90|  40|  80|AVE MATUTINA|-------     |VELOCIDADE X (rare)
+116|Horsea    |WATER            |  30|  40|  70|  60|  70|  25|VÔO RÁPIDO  |-------     |ÉTER MÁX. (common)
+117|Seadra    |WATER            |  55|  65|  95|  85|  95|  45|VENENOSO    |-------     |
+118|Goldeen   |WATER            |  45|  67|  60|  63|  35|  50|VÔO RÁPIDO  |VÉU D’ÁGUA  |DEFESA X (common), BLUK FRUTO (rare)
+119|Seaking   |WATER            |  80|  92|  65|  68|  65|  80|VÔO RÁPIDO  |VÉU D’ÁGUA  |ERVA BRANCA (rare)
+120|Staryu    |WATER            |  30|  45|  55|  85|  70|  55|ILUMINADO   |CURA NATURAL|RAÍZ ENERGIA (common), RABUTA FRUTO (rare)
+121|Starmie   |WATER/PSYCHIC    |  60|  75|  85| 115| 100|  85|ILUMINADO   |CURA NATURAL|TM22 (common)
+122|Mr. Mime  |PSYCHIC          |  40|  45|  65|  90| 100| 120|ACÚSTICA    |-------     |
+123|Scyther   |BUG/FLYING       |  70| 110|  80| 105|  55|  80|ENXAME      |-------     |TM13 (rare)
+124|Jynx      |ICE/PSYCHIC      |  65|  50|  35|  95| 115|  95|DISTRAÏDO   |-------     |PRECISÄO X (100%)
+125|Electabuzz|ELECTRIC         |  65|  83|  57| 105|  95|  85|ESTÁTICA    |-------     |
+126|Magmar    |FIRE             |  65|  95|  57|  93| 100|  85|CORPO QUENTE|-------     |REPETE BOLA (100%)
+127|Pinsir    |BUG              |  65| 125| 100|  85|  55|  70|HIPER CORTE |-------     |PEDRA DURA (100%)
+128|Tauros    |NORMAL           |  75| 100|  95| 110|  40|  70|INTIMIDA    |-------     |
+129|Magikarp  |WATER            |  20|  10|  55|  80|  15|  20|VÔO RÁPIDO  |-------     |PEPITA (common), ERVA REVIVA (rare)
+130|Gyarados  |WATER/FLYING     |  95| 125|  79|  81|  60| 100|INTIMIDA    |-------     |
+131|Lapras    |WATER/ICE        | 130|  85|  80|  60|  85|  95|ABSORVE ÁGUA|CARAPAÇA    |
+132|Ditto     |NORMAL           |  48|  48|  48|  48|  48|  48|FLEXÏVEL    |-------     |
+133|Eevee     |NORMAL           |  55|  55|  50|  55|  45|  65|CORRER      |-------     |TM18 (common)
+134|Vaporeon  |WATER            | 130|  65|  60|  65| 110|  95|ABSORVE ÁGUA|-------     |
+135|Jolteon   |ELECTRIC         |  65|  65|  60| 130| 110|  95|ABSORVE RAIO|-------     |
+136|Flareon   |FIRE             |  65| 130|  60|  65|  95| 110|LUZES FOGO  |-------     |
+137|Porygon   |NORMAL           |  65|  60|  70|  40|  85|  75|PEGADA      |-------     |ESC. CORAÇÄO (common)
+138|Omanyte   |ROCK/WATER       |  35|  40| 100|  35|  90|  55|VÔO RÁPIDO  |CARAPAÇA    |
+139|Omastar   |ROCK/WATER       |  70|  60| 125|  55| 115|  70|VÔO RÁPIDO  |CARAPAÇA    |TM14 (rare)
+140|Kabuto    |ROCK/WATER       |  30|  80|  90|  55|  55|  45|VÔO RÁPIDO  |ARMADURA    |ERVA REVIVA (rare)
+141|Kabutops  |ROCK/WATER       |  60| 115| 105|  80|  65|  70|VÔO RÁPIDO  |ARMADURA    |PÉROLA (rare)
+142|Aerodactyl|ROCK/FLYING      |  80| 105|  65| 130|  60|  75|CABEÇA PEDRA|PRESSÄO     |ÓCULOESCURO (100%)
+143|Snorlax   |NORMAL           | 160| 110|  65|  30|  65| 110|IMUNIDADE   |GORDURA     |PEDRA DURA (100%)
+144|Articuno  |ICE/FLYING       |  90|  85| 100|  85|  95| 125|PRESSÄO     |-------     |
+145|Zapdos    |ELECTRIC/FLYING  |  90|  90|  85| 100| 125|  90|PRESSÄO     |-------     |PETAYA FRUTO (common), REI DO ROCK (rare)
+146|Moltres   |FIRE/FLYING      |  90| 100|  90|  90| 125|  85|PRESSÄO     |-------     |
+147|Dratini   |DRAGON           |  41|  64|  45|  50|  50|  50|TROCA PELE  |-------     |TM18 (rare)
+148|Dragonair |DRAGON           |  61|  84|  65|  70|  70|  70|TROCA PELE  |-------     |
+149|Dragonite |DRAGON/FLYING    |  91| 134|  95|  80| 100| 100|FOCO SECRETO|-------     |BANDANA F (common), TM31 (rare)
+150|Mewtwo    |PSYCHIC          | 106| 110|  90| 130| 154|  90|PRESSÄO     |-------     |BANDANA (rare)
+151|Mew       |PSYCHIC          | 100| 100| 100| 100| 100| 100|SINCRONISMO |-------     |PÉROLA G. (100%)
+152|Chikorita |GRASS            |  45|  49|  65|  45|  49|  65|ENORME      |-------     |
+153|Bayleef   |GRASS            |  60|  62|  80|  60|  63|  80|ENORME      |-------     |
+154|Meganium  |GRASS            |  80|  82| 100|  80|  83| 100|ENORME      |-------     |SPELON FRUTO (common), PÓ.METÁLICO (rare)
+155|Cyndaquil |FIRE             |  39|  52|  43|  65|  60|  50|BRASA       |-------     |TM01 (common)
+156|Quilava   |FIRE             |  58|  64|  58|  80|  80|  65|BRASA       |-------     |CAUDA FELPUDA (rare)
+157|Typhlosion|FIRE             |  78|  84|  78| 100| 109|  85|BRASA       |-------     |
+158|Totodile  |WATER            |  50|  65|  64|  43|  44|  48|TEMPORAL    |-------     |
+159|Croconaw  |WATER            |  65|  80|  80|  58|  59|  63|TEMPORAL    |-------     |
+160|Feraligatr|WATER            |  85| 105| 100|  78|  79|  83|TEMPORAL    |-------     |PEDRA FOLHA (rare)
+161|Sentret   |NORMAL           |  35|  46|  34|  20|  35|  45|CORRER      |OLHO VIVO   |
+162|Furret    |NORMAL           |  85|  76|  64|  90|  45|  55|CORRER      |OLHO VIVO   |
+163|Hoothoot  |NORMAL/FLYING    |  60|  30|  30|  50|  36|  56|INSÔNIA     |OLHO VIVO   |
+164|Noctowl   |NORMAL/FLYING    | 100|  50|  50|  70|  76|  96|INSÔNIA     |OLHO VIVO   |
+165|Ledyba    |BUG/FLYING       |  40|  20|  30|  55|  40|  80|ENXAME      |AVE MATUTINA|TM29 (100%)
+166|Ledian    |BUG/FLYING       |  55|  35|  50|  85|  55| 110|ENXAME      |AVE MATUTINA|
+167|Spinarak  |BUG/POISON       |  40|  60|  40|  30|  40|  40|ENXAME      |INSÔNIA     |
+168|Ariados   |BUG/POISON       |  70|  90|  70|  40|  60|  60|ENXAME      |INSÔNIA     |
+169|Crobat    |POISON/FLYING    |  85|  90|  80| 130|  70|  80|FOCO SECRETO|-------     |
+170|Chinchou  |WATER/ELECTRIC   |  75|  38|  38|  67|  56|  56|ABSORVE RAIO|ILUMINADO   |RAWST FRUTO (100%)
+171|Lanturn   |WATER/ELECTRIC   | 125|  58|  58|  67|  76|  76|ABSORVE RAIO|ILUMINADO   |LUM FRUTO (rare)
+172|Pichu     |ELECTRIC         |  20|  40|  15|  60|  35|  35|ESTÁTICA    |-------     |
+173|Cleffa    |NORMAL           |  50|  25|  28|  15|  45|  55|CHARME      |-------     |
+174|Igglybuff |NORMAL           |  90|  30|  15|  15|  40|  20|CHARME      |-------     |
+175|Togepi    |NORMAL           |  35|  20|  65|  20|  40|  65|APRESSADO   |GRAÇA SERENA|ERVA BRANCA (rare)
+176|Togetic   |NORMAL/FLYING    |  55|  40|  85|  40|  80| 105|APRESSADO   |GRAÇA SERENA|
+177|Natu      |PSYCHIC/FLYING   |  40|  50|  45|  70|  70|  45|SINCRONISMO |AVE MATUTINA|
+178|Xatu      |PSYCHIC/FLYING   |  65|  75|  70|  95|  95|  70|SINCRONISMO |AVE MATUTINA|
+179|Mareep    |ELECTRIC         |  55|  40|  40|  35|  65|  45|ESTÁTICA    |-------     |
+180|Flaaffy   |ELECTRIC         |  70|  55|  55|  45|  80|  60|ESTÁTICA    |-------     |
+181|Ampharos  |ELECTRIC         |  90|  75|  75|  55| 115|  90|ESTÁTICA    |-------     |VELOCIDADE X (rare)
+182|Bellossom |GRASS            |  75|  80|  85|  50|  90| 100|CLOROFILA   |-------     |CARTA BRILHO (100%)
+183|Marill    |WATER            |  70|  20|  50|  40|  20|  50|GORDURA     |VASTO PODER |
+184|Azumarill |WATER            | 100|  50|  80|  50|  50|  80|GORDURA     |VASTO PODER |
+185|Sudowoodo |ROCK             |  70| 100| 115|  30|  30|  65|ROBUSTO     |CABEÇA PEDRA|
+186|Politoed  |WATER            |  90|  75|  75|  70|  90| 100|ABSORVE ÁGUA|UMIDADE     |
+187|Hoppip    |GRASS/FLYING     |  35|  35|  40|  50|  35|  55|CLOROFILA   |-------     |
+188|Skiploom  |GRASS/FLYING     |  55|  45|  50|  80|  45|  65|CLOROFILA   |-------     |ÉTER MÁX. (common), FERRO (rare)
+189|Jumpluff  |GRASS/FLYING     |  75|  55|  70| 110|  55|  85|CLOROFILA   |-------     |
+190|Aipom     |NORMAL           |  55|  70|  55|  85|  40|  55|CORRER      |ACELERAÇÄO  |
+191|Sunkern   |GRASS            |  30|  30|  30|  30|  30|  30|CLOROFILA   |-------     |
+192|Sunflora  |GRASS            |  75|  75|  55|  30| 105|  85|CLOROFILA   |-------     |
+193|Yanma     |BUG/FLYING       |  65|  65|  45|  95|  75|  45|VELOCIDADE  |OLHO FACETA |
+194|Wooper    |WATER/GROUND     |  55|  45|  45|  15|  25|  25|UMIDADE     |ABSORVE ÁGUA|TAMATO FRUTO (common)
+195|Quagsire  |WATER/GROUND     |  95|  85|  85|  35|  65|  65|UMIDADE     |ABSORVE ÁGUA|DIVE BOLA (common)
+196|Espeon    |PSYCHIC          |  65|  65|  60| 110| 130|  95|SINCRONISMO |-------     |
+197|Umbreon   |DARK             |  95|  65| 110|  65|  60| 130|SINCRONISMO |-------     |DRAGÄO FANG (common)
+198|Murkrow   |DARK/FLYING      |  60|  85|  42|  91|  85|  42|INSÔNIA     |-------     |
+199|Slowking  |WATER/PSYCHIC    |  95|  75|  80|  30| 100| 110|DISTRAÏDO   |TEM RITMO   |ELIXIR (common), UNHA RÁPIDA (rare)
+200|Misdreavus|GHOST            |  60|  60|  60|  85|  85|  85|LEVITAR     |-------     |
+201|Unown     |PSYCHIC          |  48|  72|  48|  48|  72|  48|LEVITAR     |-------     |TAMATO FRUTO (rare)
+202|Wobbuffet |PSYCHIC          | 190|  33|  58|  33|  33|  58|RABO SOMBRA |-------     |TM10 (rare)
+203|Girafarig |NORMAL/PSYCHIC   |  70|  80|  65|  85|  90|  65|FOCO SECRETO|AVE MATUTINA|
+204|Pineco    |BUG              |  50|  65|  90|  15|  35|  35|ROBUSTO     |-------     |
+205|Forretress|BUG/STEEL        |  75|  90| 140|  40|  60|  60|ROBUSTO     |-------     |ELIXIR MÁX. (rare)
+206|Dunsparce |NORMAL           | 100|  70|  70|  45|  65|  65|GRAÇA SERENA|CORRER      |TM33 (rare)
+207|Gligar    |GROUND/FLYING    |  65|  75| 105|  85|  35|  65|HIPER CORTE |VÉU DE AREIA|
+208|Steelix   |STEEL/GROUND     |  75|  85| 200|  30|  55|  65|CABEÇA PEDRA|ROBUSTO     |MAGO FRUTO (common)
+209|Snubbull  |NORMAL           |  60|  80|  50|  30|  40|  40|INTIMIDA    |CORRER      |SODA POP (common), MASTER BOLA (rare)
+210|Granbull  |NORMAL           |  90| 120|  75|  45|  60|  60|INTIMIDA    |INTIMIDA    |
+211|Qwilfish  |WATER/POISON     |  65|  95|  75|  85|  55|  55|VENENOSO    |VÔO RÁPIDO  |
+212|Scizor    |BUG/STEEL        |  70| 130| 100|  65|  55|  80|ENXAME      |-------     |
+213|Shuckle   |BUG/ROCK         |  20|  10| 230|   5|  10| 230|ROBUSTO     |-------     |CARTA ÏMAN (100%)
+214|Heracross |BUG/FIGHTING     |  80| 125|  75|  85|  40|  95|ENXAME      |VÏCERAS     |MÄE. AMULETO (rare)
+215|Sneasel   |DARK/ICE         |  55|  95|  55| 115|  35|  75|FOCO SECRETO|OLHO VIVO   |TM35 (rare)
+216|Teddiursa |NORMAL           |  60|  80|  50|  40|  50|  50|ACELERAÇÄO  |-------     |
+217|Ursaring  |NORMAL           |  90| 130|  75|  55|  75|  75|VÏCERAS     |-------     |TM02 (common)
+218|Slugma    |FIRE             |  40|  40|  40|  20|  70|  40|ESCUDO MAGMA|CORPO QUENTE|
+219|Magcargo  |FIRE/ROCK        |  50|  50| 120|  30|  80|  80|ESCUDO MAGMA|CORPO QUENTE|PEDRA SOL (rare)
+220|Swinub    |ICE/GROUND       |  50|  50|  40|  50|  30|  30|DISTRAÏDO   |-------     |
+221|Piloswine |ICE/GROUND       | 100| 100|  80|  50|  60|  60|DISTRAÏDO   |-------     |
+222|Corsola   |WATER/ROCK       |  55|  55|  85|  35|  65|  85|APRESSADO   |CURA NATURAL|
+223|Remoraid  |WATER            |  35|  65|  35|  65|  65|  35|APRESSADO   |-------     |ÁGUA MÍSTICA (common)
+224|Octillery |WATER            |  75| 105|  75|  45| 105|  75|VENTOSA     |-------     |FL. AMARELA (common), TM19 (rare)
+225|Delibird  |ICE/FLYING       |  45|  55|  45|  75|  65|  45|ALMA VITAL  |APRESSADO   |
+226|Mantine   |WATER/FLYING     |  65|  40|  70|  70|  80| 140|VÔO RÁPIDO  |ABSORVE ÁGUA|
+227|Skarmory  |STEEL/FLYING     |  65|  80| 140|  70|  40|  70|OLHO VIVO   |ROBUSTO     |
+228|Houndour  |DARK/FIRE        |  45|  60|  30|  65|  80|  50|AVE MATUTINA|LUZES FOGO  |
+229|Houndoom  |DARK/FIRE        |  75|  90|  50|  95| 110|  80|AVE MATUTINA|LUZES FOGO  |BANDANA (rare)
+230|Kingdra   |WATER/DRAGON     |  75|  95|  95|  85|  95|  95|VÔO RÁPIDO  |-------     |TM28 (common)
+231|Phanpy    |GROUND           |  90|  60|  60|  40|  40|  40|ACELERAÇÄO  |-------     |
+232|Donphan   |GROUND           |  90| 120| 120|  50|  60|  60|ROBUSTO     |-------     |
+233|Porygon2  |NORMAL           |  85|  80|  90|  60| 105|  95|PEGADA      |-------     |MAIS HP (common)
+234|Stantler  |NORMAL           |  73|  95|  62|  85|  85|  65|INTIMIDA    |-------     |
+235|Smeargle  |NORMAL           |  55|  20|  35|  75|  20|  45|TEM RITMO   |-------     |SAL FINO (common), ÉTER (rare)
+236|Tyrogue   |FIGHTING         |  35|  35|  35|  35|  35|  35|VÏCERAS     |-------     |MAGO FRUTO (common), ENIGMA FRUTO (rare)
+237|Hitmontop |FIGHTING         |  50|  95|  95|  70|  35| 110|INTIMIDA    |-------     |
+238|Smoochum  |ICE/PSYCHIC      |  45|  30|  15|  65|  85|  65|DISTRAÏDO   |-------     |PÉROLA G. (100%)
+239|Elekid    |ELECTRIC         |  45|  63|  37|  95|  65|  55|ESTÁTICA    |-------     |
+240|Magby     |FIRE             |  45|  75|  37|  83|  70|  55|CORPO QUENTE|-------     |CONCHA RASA (100%)
+241|Miltank   |NORMAL           |  95|  80| 105| 100|  40|  70|GORDURA     |-------     |PERSIM FRUTO (100%)
+242|Blissey   |NORMAL           | 255|  10|  10|  55|  75| 135|CURA NATURAL|GRAÇA SERENA|MAIS PP (common)
+243|Raikou    |ELECTRIC         |  90|  85|  75| 115| 115| 100|PRESSÄO     |-------     |AGUAV FRUTO (common)
+244|Entei     |FIRE             | 115| 115|  85| 100|  90|  75|PRESSÄO     |-------     |
+245|Suicune   |WATER            | 100|  75| 115|  85|  90| 115|PRESSÄO     |-------     |TM31 (rare)
+246|Larvitar  |ROCK/GROUND      |  50|  64|  50|  41|  45|  50|VÏCERAS     |-------     |BELUE FRUTO (common), MAGO FRUTO (rare)
+247|Pupitar   |ROCK/GROUND      |  70|  84|  70|  51|  65|  70|TROCA PELE  |-------     |
+248|Tyranitar |ROCK/DARK        | 100| 134| 110|  61|  95| 100|JATO AREIA  |-------     |HIPERPOÇÄO (rare)
+249|Lugia     |PSYCHIC/FLYING   | 106|  90| 130| 110|  90| 154|PRESSÄO     |-------     |
+250|Ho-Oh     |FIRE/FLYING      | 106| 130|  90|  90| 110| 154|PRESSÄO     |-------     |TM40 (100%)
+251|Celebi    |PSYCHIC/GRASS    | 100| 100| 100| 100| 100| 100|CURA NATURAL|-------     |ASPEAR FRUTO (100%)
+252|Treecko   |GRASS            |  40|  45|  35|  70|  65|  55|ENORME      |-------     |
+253|Grovyle   |GRASS            |  50|  65|  45|  95|  85|  65|ENORME      |-------     |
+254|Sceptile  |GRASS            |  70|  85|  65| 120| 105|  85|ENORME      |-------     |COGUMELO P. (common), CAUDA FELPUDA (rare)
+255|Torchic   |FIRE             |  45|  60|  40|  45|  70|  50|BRASA       |-------     |GREPA FRUTO (common), BOLA NINHO (rare)
+256|Combusken |FIRE/FIGHTING    |  60|  85|  60|  55|  85|  60|BRASA       |-------     |SPELON FRUTO (common), FR. AMARELO (rare)
+257|Blaziken  |FIRE/FIGHTING    |  80| 120|  70|  80| 110|  70|BRASA       |-------     |
+258|Mudkip    |WATER            |  50|  70|  50|  40|  50|  50|TEMPORAL    |-------     |FL. PRETA (rare)
+259|Marshtomp |WATER/GROUND     |  70|  85|  70|  50|  60|  70|TEMPORAL    |-------     |
+260|Swampert  |WATER/GROUND     | 100| 110|  90|  60|  85|  90|TEMPORAL    |-------     |FR. AMARELO (common)
+261|Poochyena |DARK             |  35|  55|  35|  35|  30|  30|CORRER      |-------     |
+262|Mightyena |DARK             |  70|  90|  70|  70|  60|  60|INTIMIDA    |-------     |LENÇO AMARELO (100%)
+263|Zigzagoon |NORMAL           |  38|  30|  41|  60|  30|  41|ACELERAÇÄO  |-------     |
+264|Linoone   |NORMAL           |  78|  70|  61| 100|  50|  61|ACELERAÇÄO  |-------     |TM35 (common), UNHA RÁPIDA (rare)
+265|Wurmple   |BUG              |  45|  45|  35|  20|  20|  30|ESCUDO DE PÓ|-------     |
+266|Silcoon   |BUG              |  50|  35|  55|  15|  25|  25|TROCA PELE  |-------     |TM49 (common)
+267|Beautifly |BUG/FLYING       |  60|  70|  50|  65|  90|  50|ENXAME      |-------     |
+268|Cascoon   |BUG              |  50|  35|  55|  15|  25|  25|TROCA PELE  |-------     |FEITIÇO (100%)
+269|Dustox    |BUG/POISON       |  60|  50|  70|  65|  50|  90|ESCUDO DE PÓ|-------     |
+270|Lotad     |WATER/GRASS      |  40|  30|  30|  30|  40|  50|VÔO RÁPIDO  |CHUVA CURTA |PÓ PRATEADO (common), MÁX. REVIVER (rare)
+271|Lombre    |WATER/GRASS      |  60|  50|  50|  50|  60|  70|VÔO RÁPIDO  |CHUVA CURTA |
+272|Ludicolo  |WATER/GRASS      |  80|  70|  70|  70|  90| 100|VÔO RÁPIDO  |CHUVA CURTA |RAWST FRUTO (rare)
+273|Seedot    |GRASS            |  40|  40|  50|  30|  30|  30|CLOROFILA   |AVE MATUTINA|ULTRA BOLA (100%)
+274|Nuzleaf   |GRASS/DARK       |  70|  70|  40|  60|  60|  40|CLOROFILA   |AVE MATUTINA|ÁQUA FRESCA (common), TM35 (rare)
+275|Shiftry   |GRASS/DARK       |  90| 100|  60|  80|  90|  60|CLOROFILA   |AVE MATUTINA|
+276|Taillow   |NORMAL/FLYING    |  40|  55|  30|  85|  30|  30|VÏCERAS     |-------     |PÉROLA G. (rare)
+277|Swellow   |NORMAL/FLYING    |  60|  85|  60| 125|  50|  50|VÏCERAS     |-------     |
+278|Wingull   |WATER/FLYING     |  40|  30|  30|  85|  55|  30|OLHO VIVO   |-------     |
+279|Pelipper  |WATER/FLYING     |  60|  50| 100|  65|  85|  70|OLHO VIVO   |-------     |MASTER BOLA (rare)
+280|Ralts     |PSYCHIC          |  28|  25|  25|  40|  45|  35|SINCRONISMO |PEGADA      |
+281|Kirlia    |PSYCHIC          |  38|  35|  35|  50|  65|  55|SINCRONISMO |PEGADA      |
+282|Gardevoir |PSYCHIC          |  68|  65|  65|  80| 125| 115|SINCRONISMO |PEGADA      |
+283|Surskit   |BUG/WATER        |  40|  30|  32|  65|  50|  52|VÔO RÁPIDO  |-------     |CASTANHOLA (common)
+284|Masquerain|BUG/FLYING       |  70|  60|  62|  60|  80|  82|INTIMIDA    |-------     |GREPA FRUTO (common), PROTEC. ESP. (rare)
+285|Shroomish |GRASS            |  60|  40|  60|  35|  40|  60|ESPOROS     |-------     |
+286|Breloom   |GRASS/FIGHTING   |  60| 130|  80|  70|  60|  60|ESPOROS     |-------     |CURA TUDO (common), AMULETO (rare)
+287|Slakoth   |NORMAL           |  60|  60|  60|  30|  35|  35|OCIOSIDADE  |-------     |LENÇO DE SEDA (common)
+288|Vigoroth  |NORMAL           |  80|  80|  80|  90|  55|  55|ALMA VITAL  |-------     |FL. PRETA (common)
+289|Slaking   |NORMAL           | 150| 160| 100| 100|  95|  65|OCIOSIDADE  |-------     |ORAN FRUTO (common)
+290|Nincada   |BUG/GROUND       |  31|  45|  90|  40|  30|  30|OLHO FACETA |-------     |
+291|Ninjask   |BUG/FLYING       |  61|  90|  45| 160|  50|  50|VELOCIDADE  |-------     |BICO AFIADO (rare)
+292|Shedinja  |BUG/GHOST        |   1|  90|  45|  40|  30|  30|SUPER GUARDA|-------     |BOLA LUXO (rare)
+293|Whismur   |NORMAL           |  64|  51|  23|  28|  51|  23|ACÚSTICA    |-------     |P. ESTRELAR (100%)
+294|Loudred   |NORMAL           |  84|  71|  43|  48|  71|  43|ACÚSTICA    |-------     |CARTA IMAGEN (rare)
+295|Exploud   |NORMAL           | 104|  91|  63|  68|  91|  63|ACÚSTICA    |-------     |TM10 (common)
+296|Makuhita  |FIGHTING         |  72|  60|  30|  25|  20|  30|GORDURA     |VÏCERAS     |
+297|Hariyama  |FIGHTING         | 144| 120|  60|  50|  40|  60|GORDURA     |VÏCERAS     |
+298|Azurill   |NORMAL           |  50|  20|  40|  20|  20|  40|GORDURA     |VASTO PODER |SITRUS FRUTO (common), LENÇO VERDE (rare)
+299|Nosepass  |ROCK             |  30|  45| 135|  30|  45|  90|ROBUSTO     |ATRAI IMÄ   |
+300|Skitty    |NORMAL           |  50|  45|  45|  50|  35|  35|CHARME      |-------     |
+301|Delcatty  |NORMAL           |  70|  65|  65|  70|  55|  55|CHARME      |-------     |
+302|Sableye   |DARK/GHOST       |  50|  75|  75|  50|  65|  65|OLHO VIVO   |-------     |
+303|Mawile    |STEEL            |  50|  85|  85|  50|  55|  55|HIPER CORTE |INTIMIDA    |PÓ ESTRELAR (100%)
+304|Aron      |STEEL/ROCK       |  50|  70| 100|  30|  40|  40|ROBUSTO     |CABEÇA PEDRA|
+305|Lairon    |STEEL/ROCK       |  60|  90| 140|  40|  50|  50|ROBUSTO     |CABEÇA PEDRA|DESPARALISA (common), ATAQUE X (rare)
+306|Aggron    |STEEL/ROCK       |  70| 110| 180|  50|  60|  60|ROBUSTO     |CABEÇA PEDRA|
+307|Meditite  |FIGHTING/PSYCHIC |  30|  40|  55|  60|  40|  55|PURA FORÇA  |-------     |
+308|Medicham  |FIGHTING/PSYCHIC |  60|  60|  75|  80|  60|  75|PURA FORÇA  |-------     |PÉROLA G. (rare)
+309|Electrike |ELECTRIC         |  40|  45|  40|  65|  65|  40|ESTÁTICA    |CLAREZA     |
+310|Manectric |ELECTRIC         |  70|  75|  60| 105| 105|  60|ESTÁTICA    |CLAREZA     |
+311|Plusle    |ELECTRIC         |  60|  50|  40|  95|  85|  75|POSITIVO    |-------     |
+312|Minun     |ELECTRIC         |  60|  40|  50|  95|  75|  85|NEGATIVO    |-------     |
+313|Volbeat   |BUG              |  65|  73|  55|  85|  47|  75|ILUMINADO   |ENXAME      |
+314|Illumise  |BUG              |  65|  47|  55|  85|  73|  75|DISTRAÏDO   |-------     |
+315|Roselia   |GRASS/POISON     |  50|  60|  45|  65| 100|  80|CURA NATURAL|VENENOSO    |
+316|Gulpin    |POISON           |  70|  43|  53|  40|  43|  53|LODO LÏQUIDO|PEGAJOSO    |LENÇO DE SEDA (common)
+317|Swalot    |POISON           | 100|  73|  83|  55|  73|  83|LODO LÏQUIDO|PEGAJOSO    |ELIXIR (common), CAUDA FELPUDA (rare)
+318|Carvanha  |WATER/DARK       |  45|  90|  20|  65|  65|  20|PELE ÁSPERA |-------     |
+319|Sharpedo  |WATER/DARK       |  70| 120|  40|  95|  95|  40|PELE ÁSPERA |-------     |
+320|Wailmer   |WATER            | 130|  70|  35|  60|  70|  35|VÉU D’ÁGUA  |DISTRAÏDO   |MAIS PP (common)
+321|Wailord   |WATER            | 170|  90|  45|  60|  90|  45|VÉU D’ÁGUA  |DISTRAÏDO   |
+322|Numel     |FIRE/GROUND      |  60|  60|  40|  35|  65|  45|DISTRAÏDO   |-------     |ULTRA BOLA (100%)
+323|Camerupt  |FIRE/GROUND      |  70| 100|  70|  40| 105|  75|ESCUDO MAGMA|-------     |TM45 (common), TM27 (rare)
+324|Torkoal   |FIRE             |  70|  85| 140|  20|  85|  70|NUVEM BRANCA|-------     |TM12 (common)
+325|Spoink    |PSYCHIC          |  60|  25|  35|  60|  70|  80|GORDURA     |TEM RITMO   |PEDRA ETERNA (100%)
+326|Grumpig   |PSYCHIC          |  80|  45|  65|  80|  90| 110|GORDURA     |TEM RITMO   |PÓ PRATEADO (rare)
+327|Spinda    |NORMAL           |  60|  60|  60|  60|  60|  60|TEM RITMO   |-------     |CARTA BRILHO (common), TM31 (rare)
+328|Trapinch  |GROUND           |  45| 100|  45|  10|  45|  45|HIPER CORTE |ARAPUCA     |
+329|Vibrava   |GROUND/DRAGON    |  50|  70|  50|  70|  50|  50|LEVITAR     |LEVITAR     |PÓ DE CURA (common), LENÇO VERM. (rare)
+330|Flygon    |GROUND/DRAGON    |  80| 100|  80| 100|  80|  80|LEVITAR     |LEVITAR     |HIPERPOÇÄO (rare)
+331|Cacnea    |GRASS            |  50|  85|  40|  35|  85|  40|VÉU DE AREIA|-------     |
+332|Cacturne  |GRASS/DARK       |  70| 115|  60|  55| 115|  60|VÉU DE AREIA|-------     |
+333|Swablu    |NORMAL/FLYING    |  45|  40|  60|  50|  40|  75|CURA NATURAL|-------     |PÉROLA G. (rare)
+334|Altaria   |DRAGON/FLYING    |  75|  70|  90|  80|  70| 105|CURA NATURAL|-------     |
+335|Zangoose  |NORMAL           |  73| 115|  60|  90|  60|  60|IMUNIDADE   |-------     |P. ESTRELAR (rare)
+336|Seviper   |POISON           |  73| 100|  60|  65| 100|  60|TROCA PELE  |-------     |PERSIM FRUTO (100%)
+337|Lunatone  |ROCK/PSYCHIC     |  70|  55|  65|  70|  95|  85|LEVITAR     |-------     |TM41 (common)
+338|Solrock   |ROCK/PSYCHIC     |  70|  95|  85|  70|  55|  65|LEVITAR     |-------     |
+339|Barboach  |WATER/GROUND     |  50|  48|  43|  60|  46|  41|DISTRAÏDO   |-------     |
+340|Whiscash  |WATER/GROUND     | 110|  78|  73|  60|  76|  71|DISTRAÏDO   |-------     |
+341|Corphish  |WATER            |  43|  80|  65|  35|  50|  35|HIPER CORTE |CARAPAÇA    |PERSIM FRUTO (common), BELUE FRUTO (rare)
+342|Crawdaunt |WATER/DARK       |  63| 120|  85|  55|  90|  55|HIPER CORTE |CARAPAÇA    |TM12 (common), BOLA FUMAÇA (rare)
+343|Baltoy    |GROUND/PSYCHIC   |  40|  40|  55|  55|  40|  70|LEVITAR     |-------     |BELUE FRUTO (common)
+344|Claydol   |GROUND/PSYCHIC   |  60|  70| 105|  75|  70| 120|LEVITAR     |-------     |
+345|Lileep    |ROCK/GRASS       |  66|  41|  77|  23|  61|  87|VENTOSA     |-------     |OVO DA SORTE (common), TM32 (rare)
+346|Cradily   |ROCK/GRASS       |  86|  81|  97|  43|  81| 107|VENTOSA     |-------     |BOLA FUMAÇA (common)
+347|Anorith   |ROCK/BUG         |  45|  95|  50|  75|  40|  50|ARMADURA    |-------     |
+348|Armaldo   |ROCK/BUG         |  75| 125| 100|  45|  70|  80|ARMADURA    |-------     |LENÇO AZUL (rare)
+349|Feebas    |WATER            |  20|  15|  20|  80|  10|  55|VÔO RÁPIDO  |-------     |TM48 (common)
+350|Milotic   |WATER            |  95|  60|  79|  81| 100| 125|ESCAMA LINDA|-------     |
+351|Castform  |NORMAL           |  70|  70|  70|  70|  70|  70|PROFECIA    |-------     |AMULETO (100%)
+352|Kecleon   |NORMAL           |  60|  90|  70|  40|  60| 120|CAMALEÄO    |-------     |CORDA DE FUGA (common)
+353|Shuppet   |GHOST            |  44|  75|  35|  45|  63|  33|INSÔNIA     |-------     |HONDEW FRUTO (rare)
+354|Banette   |GHOST            |  64| 115|  65|  65|  83|  63|INSÔNIA     |-------     |
+355|Duskull   |GHOST            |  20|  40|  90|  25|  30|  90|LEVITAR     |-------     |
+356|Dusclops  |GHOST            |  40|  70| 130|  25|  60| 130|PRESSÄO     |-------     |
+357|Tropius   |GRASS/FLYING     |  99|  68|  83|  51|  72|  87|CLOROFILA   |-------     |REVIVER (common)
+358|Chimecho  |PSYCHIC          |  65|  50|  70|  65|  95|  80|LEVITAR     |-------     |NOMEL FRUTO (rare)
+359|Absol     |DARK             |  65| 130|  60|  75|  75|  60|PRESSÄO     |-------     |TM37 (rare)
+360|Wynaut    |PSYCHIC          |  95|  23|  48|  23|  23|  48|RABO SOMBRA |-------     |
+361|Snorunt   |ICE              |  50|  50|  50|  50|  50|  50|FOCO SECRETO|-------     |
+362|Glalie    |ICE              |  80|  80|  80|  80|  80|  80|FOCO SECRETO|-------     |
+363|Spheal    |ICE/WATER        |  70|  40|  50|  25|  55|  50|GORDURA     |-------     |
+364|Sealeo    |ICE/WATER        |  90|  60|  70|  45|  75|  70|GORDURA     |-------     |PINAP FRUTO (common)
+365|Walrein   |ICE/WATER        | 110|  80|  90|  65|  95|  90|GORDURA     |-------     |
+366|Clamperl  |WATER            |  35|  64|  85|  32|  74|  55|CARAPAÇA    |-------     |
+367|Huntail   |WATER            |  55| 104| 105|  52|  94|  75|VÔO RÁPIDO  |-------     |
+368|Gorebyss  |WATER            |  55|  84| 105|  52| 114|  75|VÔO RÁPIDO  |-------     |DOCE RARO (100%)
+369|Relicanth |WATER/ROCK       | 100|  90| 130|  55|  45|  65|VÔO RÁPIDO  |CABEÇA PEDRA|
+370|Luvdisc   |WATER            |  43|  30|  55|  97|  40|  65|VÔO RÁPIDO  |-------     |CARTA MADEIRA (common), TELESCÓPIO (rare)
+371|Bagon     |DRAGON           |  45|  75|  60|  50|  40|  30|CABEÇA PEDRA|-------     |
+372|Shelgon   |DRAGON           |  65|  95| 100|  50|  60|  50|CABEÇA PEDRA|-------     |
+373|Salamence |DRAGON/FLYING    |  95| 135|  80| 100| 110|  80|INTIMIDA    |-------     |
+374|Beldum    |STEEL/PSYCHIC    |  40|  55|  80|  30|  35|  60|CORPO LIMPO |-------     |TM10 (common)
+375|Metang    |STEEL/PSYCHIC    |  60|  75| 100|  50|  55|  80|CORPO LIMPO |-------     |
+376|Metagross |STEEL/PSYCHIC    |  80| 135| 130|  70|  95|  90|CORPO LIMPO |-------     |
+377|Regirock  |ROCK             |  80| 100| 200|  50|  50| 100|CORPO LIMPO |-------     |TM19 (common)
+378|Regice    |ICE              |  80|  50| 100|  50| 100| 200|CORPO LIMPO |-------     |CONCHA RASA (common), ELIXIR MÁX. (rare)
+379|Registeel |STEEL            |  80|  75| 150|  50|  75| 150|CORPO LIMPO |-------     |IAPAPA FRUTO (common), CINTO PRETO (rare)
+380|Latias    |DRAGON/PSYCHIC   |  80|  80|  90| 110| 110| 130|LEVITAR     |-------     |UNHA RÁPIDA (rare)
+381|Latios    |DRAGON/PSYCHIC   |  80|  90|  80| 110| 130| 110|LEVITAR     |-------     |
+382|Kyogre    |WATER            | 100| 100|  90|  90| 150| 140|GAROA       |-------     |DIVE BOLA (rare)
+383|Groudon   |GROUND           | 100| 150| 140|  90| 100|  90|ESTIAGEM    |-------     |REPARA TUDO (100%)
+384|Rayquaza  |DRAGON/FLYING    | 105| 150|  90|  95| 150|  90|BLOQUEIA AR |-------     |
+385|Jirachi   |STEEL/PSYCHIC    | 100| 100| 100| 100| 100| 100|GRAÇA SERENA|-------     |TM34 (100%)
+386|Deoxys    |PSYCHIC          |  50| 150|  50| 150| 150|  50|PRESSÄO     |-------     |FL. VERMELHA (common)
+
+--Custom Starters--
+Set starter 1 to Pichu
+Set starter 2 to Charmander
+Set starter 3 to Totodile
+
+--Pokemon Movesets--
+001 Bulbasaur  : ATAQUE ASA at level 1, RAIO SOLAR at level 1, SEMENTE BALA at level 1, ABSORVER at level 1, POLUIÇÄO at level 4, BOMBA LODO at level 7, GÁS VENENOSO at level 10, PÓ SONÏFERO at level 15, SUPER PRESA at level 15, RABO VENENO at level 20, TÓXICO at level 25, PÓ VENENOSO at level 32, PINÇA at level 39, ÁCIDO at level 46
+002 Ivysaur    : DANÇA PENA at level 1, PÓ VENENOSO at level 1, GRAMA APITO at level 1, RAIO SOLAR at level 1, ABSORVER at level 4, ESPORO at level 7, TÓXICO at level 10, UIVAR at level 15, ERUPÇÄO at level 15, ENRAIZAR at level 22, ESPOROS at level 29, PLANTA FÚRIA at level 38, MEGA DRENO at level 47, P. VENENOSA at level 56
+003 Venusaur   : VENTO GILETE at level 1, DENTE VENENO at level 1, RABO VENENO at level 1, DANÇA PÉTALA at level 1, ÁCIDO at level 4, DOCE ODOR at level 7, PÓ VENENOSO at level 10, P. VENENOSA at level 15, GÁS VENENOSO at level 15, TRUQUE at level 22, ARMAD. ÁCIDA at level 29, RABO FERRO at level 41, LODO at level 53, ESPOROS at level 65
+004 Charmander : FOCA ENERGIA at level 1, LANÇA-CHAMAS at level 1, TROCA GOLPE at level 1, VEL. EXTREMA at level 1, ONDA CALOR at level 7, DANÇA CHUVA at level 13, FOGO SAGRADO at level 19, DESATIVAR at level 25, HIPER VOZ at level 31, DIA DE SOL at level 37, RUGIDO at level 43, SUPERAQUEÇER at level 49
+005 Charmeleon : ERUPÇÄO at level 1, SIGA-ME at level 1, GIRO FOGO at level 1, ONDA CALOR at level 1, DIA DE SOL at level 7, VENTO FOGO at level 13, ARRANHÄO at level 20, CANÇÄO at level 27, RODA DE FOGO at level 34, CHUTE FOGO at level 41, SUPER PRESA at level 48, SOCO FOGO at level 55
+006 Charizard  : ATQ. COVARDE at level 1, SUPERAQUEÇER at level 1, GOLPE AÉREO at level 1, CHUTE FOGO at level 1, VENTO FOGO at level 7, AGARRAMENTO at level 13, LANÇA-CHAMAS at level 20, ERUPÇÄO at level 27, VENTANIA at level 34, BICADA at level 36, MINI DESEJO at level 44, RODA DE FOGO at level 54, TELA CLARA at level 64
+007 Squirtle   : OCTAZUCA at level 1, ERUPÇÄO at level 1, REDEMOINHO at level 1, BOLHAS at level 1, DANÇA CHUVA at level 4, PRESENTE at level 7, OSSORANGUE at level 10, BEIJO AMÁVEL at level 13, PULSO ÁGUA at level 18, MAU HUMOR at level 23, BICA D’ÁGUA at level 28, ESPORTE ÁGUA at level 33, ESPANCAR at level 40, AVANÇO-DUPLO at level 47
+008 Wartortle  : GARRA APERTO at level 1, JATO D’ÁGUA at level 1, DANÇA CHUVA at level 1, PULSO ÁGUA at level 1, RAIO BOLHAS at level 4, BOLHAS at level 7, CABEÇADA at level 10, ARRANHÄO at level 13, AVANÇO-DUPLO at level 19, REDEMOINHO at level 25, OVO-BOMBA at level 31, PINÇA at level 37, INSULTAR at level 45, BICA D’ÁGUA at level 53
+009 Blastoise  : MIRAR at level 1, ESTOCAR at level 1, HIDRO BOMBA at level 1, COBIÇA at level 1, RAIO BOLHAS at level 4, OCTAZUCA at level 7, ESPORTE ÁGUA at level 10, PULSO ÁGUA at level 13, PEDRA TUMBA at level 19, HIPER VOZ at level 25, MAU HUMOR at level 31, ENROLAR at level 42, BICA D’ÁGUA at level 55, ELETROCANHÄO at level 68
+010 Caterpie   : AGULHA DUPLA at level 1, MÏSSIL PINO at level 1, AFIAR at level 1, TEIA ARANHA at level 1, CORTE FÚRIA at level 1, ATIRAR FIOS at level 1, VEL. EXTREMA at level 1, CONFUSÄO at level 10, PÓ VENENOSO at level 13, ESPORO at level 14, PÓ SONÏFERO at level 15, SUPERSÔNICO at level 18, FURACÄO at level 23, VENTANIA at level 28, RAIO MENTAL at level 34, SALVA GUARDA at level 40, VENTO PRATA at level 47
+011 Metapod    : TEIA ARANHA at level 1, CORTE FÚRIA at level 1, ATIRAR FIOS at level 1, VEL. EXTREMA at level 1, CONFUSÄO at level 10, PÓ VENENOSO at level 13, ESPORO at level 14, PÓ SONÏFERO at level 15, SUPERSÔNICO at level 18, FURACÄO at level 23, VENTANIA at level 28, RAIO MENTAL at level 34, SALVA GUARDA at level 40, VENTO PRATA at level 47
+012 Butterfree : BICADA at level 1, EQUIPE DUPLA at level 1, SALTAR at level 1, ATAQUE ASA at level 1, RAIO SINAL at level 10, CORTE AÉREO at level 13, CORTE FÚRIA at level 14, TEIA ARANHA at level 15, SAL CHEIROSO at level 18, COME SONHO at level 23, GOLPE AÉREO at level 28, BICADA BROCA at level 34, RABO BRILHO at level 40, ATIRAR FIOS at level 47
+013 Weedle     : MÏSSIL PINO at level 1, RABO VENENO at level 1, BOMBA LODO at level 1, AGULHA DUPLA at level 1, MEGACHIFRE at level 1, MÏSSIL PINO at level 1, RAIO SINAL at level 1, ATAQUE FÚRIA at level 10, FOCA ENERGIA at level 15, AGULHA DUPLA at level 20, FÚRIA at level 25, PERSEGUIÇÄO at level 30, MÏSSIL PINO at level 35, AGILIDADE at level 40, ESFORÇO at level 45
+014 Kakuna     : AGULHA DUPLA at level 1, MEGACHIFRE at level 1, MÏSSIL PINO at level 1, RAIO SINAL at level 1, ATAQUE FÚRIA at level 10, FOCA ENERGIA at level 15, AGULHA DUPLA at level 20, FÚRIA at level 25, PERSEGUIÇÄO at level 30, MÏSSIL PINO at level 35, AGILIDADE at level 40, ESFORÇO at level 45
+015 Beedrill   : AGULHA DUPLA at level 1, LODO at level 1, TEIA ARANHA at level 1, VENTO PRATA at level 1, TÓXICO at level 10, CORTE FÚRIA at level 15, ATIRAR FIOS at level 20, ÁCIDO at level 25, ARMAD. ÁCIDA at level 30, RABO BRILHO at level 35, PROTEÇÄO at level 40, RABO VENENO at level 45
+016 Pidgey     : ATAQUE ASA at level 1, BICADA BROCA at level 1, ENCARAR at level 1, ABATER at level 1, BICADA at level 5, HIPER PRESA at level 9, RAJADA VENTO at level 13, NEVASCA at level 19, CHIFRADA at level 25, PODER ANTIGO at level 31, MOV. ESPELHO at level 39, EST. CADENTE at level 47
+017 Pidgeotto  : SALTAR at level 1, LUAR at level 1, VENTANIA at level 1, CORTE AÉREO at level 1, FAÏSCA at level 5, BEIJO AMÁVEL at level 9, RAJADA VENTO at level 13, ATAQUE AÉREO at level 20, BICADA at level 27, MEGA SOCO at level 34, GOLPE AÉREO at level 43, METEORO at level 52
+018 Pidgeot    : VENTANIA at level 1, MOV. ESPELHO at level 1, SALTAR at level 1, TURBULÊNCIA at level 1, BICADA at level 5, RAJADA VENTO at level 9, BLOQUEIO at level 13, GOLPE AÉREO at level 20, ASSISTÊNCIA at level 27, UIVAR at level 34, CORTE AÉREO at level 48, RANCOR at level 62
+019 Rattata    : AGUARDAR at level 1, BATE CORPO at level 1, AVANÇO-DUPLO at level 1, ATAQUE FÚRIA at level 1, GOLPE FÚRIA at level 7, METRÔNOMO at level 13, PSÏQUICO at level 20, AÇOITAR at level 27, SALVA GUARDA at level 34, JATO D’ÁGUA at level 41
+020 Raticate   : BEIJO DOCE at level 1, QUEBRA TELA at level 1, RUGIDO at level 1, ARRANHÄO at level 1, RECICLAR at level 7, SOL MATUTINO at level 13, HIPER VOZ at level 20, UIVAR at level 30, AGARRAMENTO at level 40, ESPREGUISSAR at level 50
+021 Spearow    : GUILHOTINA at level 1, LER MENTE at level 1, RAJADA VENTO at level 1, ATAQUE AÉREO at level 1, ATAQUE ASA at level 7, GIGA DRENO at level 13, VENTANIA at level 19, MOV. ESPELHO at level 25, GOLPE AÉREO at level 31, CORTE AÉREO at level 37, SALVA GUARDA at level 43
+022 Fearow     : ATAQUE ASA at level 1, ESFORÇO at level 1, RETORNO at level 1, BICADA BROCA at level 1, FACHADA at level 7, HIPER VOZ at level 13, GIRO RÁPIDO at level 26, INSULTAR at level 32, RAJADA VENTO at level 40, HIPER PRESA at level 47
+023 Ekans      : OSSO RÁPIDO at level 1, MIMICA at level 1, CHARME at level 1, LODO at level 1, GRAMA APITO at level 8, GÁS VENENOSO at level 13, RABO CHICOTE at level 20, FÚRIA at level 25, OCTAZUCA at level 32, ARMAD. ÁCIDA at level 37, CABEÇADA at level 37, RABO VENENO at level 37, RESISTIR at level 44
+024 Arbok      : DENTE VENENO at level 1, GÁS VENENOSO at level 1, CÓCEGA at level 1, LODO at level 1, BOMBA LODO at level 8, GUILHOTINA at level 13, PÓ VENENOSO at level 20, CARGA at level 28, TÓXICO at level 38, CLAVA OSSO at level 46, ÁCIDO at level 46, POLUIÇÄO at level 46, SHOCK TROVÄO at level 56
+025 Pikachu    : PÓ SONÏFERO at level 1, CARGA at level 1, SOCO TROVÄO at level 1, FAÏSCA at level 1, RAIO GELO at level 6, SAL CHEIROSO at level 8, RONCAR at level 11, ATAQUE VOLT at level 15, ONDA TROVÄO at level 20, SHOCK TROVÄO at level 26, ATAQUE AÉREO at level 33, SOCO TONTO at level 41, TELA FUMAÇA at level 50
+026 Raichu     : ESPANCAR at level 1, CARGA at level 1, MÄOZINHA at level 1, MORDIDA at level 1
+027 Sandshrew  : CHARME at level 1, CLAVA OSSO at level 1, SIGA-ME at level 1, PAGAMENTO at level 1, ESPINHOS at level 6, OSSORANGUE at level 11, LAMA-BOFETÄO at level 17, ATAQUE AREIA at level 23, ATIRAR LAMA at level 30, LAMA ESPORTE at level 37, BRASAS at level 45, PSÏQUICO at level 53
+028 Sandslash  : CLAVA OSSO at level 1, FISSURA at level 1, OSSO RÁPIDO at level 1, CAVAR at level 1, MAGNITUDE at level 6, ROSNAR at level 11, LAMA ESPORTE at level 17, GIRO FOGO at level 24, ESPINHOS at level 33, TERREMOTO at level 42, ATAQUE AREIA at level 52, LAMA-BOFETÄO at level 62
+029 Nidoran♀   : ARMAD. ÁCIDA at level 1, PÓ VENENOSO at level 1, BATER at level 1, SEMENTE BALA at level 1, GÁS VENENOSO at level 8, ATAQUE FÚRIA at level 12, CARA FEIA at level 17, DENTE VENENO at level 20, HIPER RAIO at level 23, LODO at level 30, ENCARAR at level 38, AFIAR at level 47
+030 Nidorina   : PAGAMENTO at level 1, ASAS DE AÇO at level 1, DENTE VENENO at level 1, PINÇA at level 1, RABO VENENO at level 8, ARMAD. ÁCIDA at level 12, REFRESCAR at level 18, RAJADA VENTO at level 22, GÁS VENENOSO at level 26, PÓ VENENOSO at level 34, POLUIÇÄO at level 43, TÓXICO at level 53
+031 Nidoqueen  : ATAQUE AREIA at level 1, P. VENENOSA at level 1, MAGNITUDE at level 1, RAIO at level 1, ARMAD. ÁCIDA at level 23
+032 Nidoran♂   : GÁS VENENOSO at level 1, PÓ VENENOSO at level 1, RAIO MENTAL at level 1, HIPER VOZ at level 1, LODO at level 8, DANÇA at level 12, AUTODESTRUIR at level 17, BOMBA LODO at level 20, DENTE VENENO at level 23, PREVISÄO at level 30, RABO VENENO at level 38, P. VENENOSA at level 47
+033 Nidorino   : LODO at level 1, PÓ VENENOSO at level 1, POLUIÇÄO at level 1, DENTE VENENO at level 1, P. VENENOSA at level 8, TÓXICO at level 12, PANCADA at level 18, ASSISTÊNCIA at level 22, AGUARDAR at level 26, PSÏQUICO at level 34, BOMBA LODO at level 43, ÁCIDO at level 53
+034 Nidoking   : P. VENENOSA at level 1, PÓ VENENOSO at level 1, GÁS VENENOSO at level 1, RABO VENENO at level 1, REVERSÄO at level 23
+035 Clefairy   : SAL CHEIROSO at level 1, UIVAR at level 1, METEORO at level 1, CHUTE DUPLO at level 1, HIPER PRESA at level 5, CHARME at level 9, CANÇÄO at level 13, FÚRIA at level 17, CANHÄO PREGO at level 21, MÄOZINHA at level 25, TROCA GOLPE at level 29, GIRO RÁPIDO at level 33, ESPREGUISSAR at level 37, AÇOITAR at level 41, AUTODESTRUIR at level 45
+036 Clefable   : MINIMIZAR at level 1, GIRO RÁPIDO at level 1, PAGAMENTO at level 1, CHUTE TRIPLO at level 1
+037 Vulpix     : CORTE FALSO at level 1, FOGO SAGRADO at level 1, BRASAS at level 1, CHUTE FOGO at level 1, VENTO FOGO at level 5, GIRO FOGO at level 9, MINI DESEJO at level 13, SOCO FOGO at level 17, ENDURECER at level 21, BIS at level 25, DEFESA FERRO at level 29, ERUPÇÄO at level 33, LANÇA-CHAMAS at level 37, ASSISTÊNCIA at level 41
+038 Ninetales  : FRIO POLAR at level 1, AMARRAR at level 1, SOCO FOGO at level 1, VENTO FOGO at level 1, GIRO FOGO at level 45
+039 Jigglypuff : RUGIDO at level 1, ATRAÇÄO at level 1, PISOTEAR at level 1, CUSPIR at level 1, VEL. EXTREMA at level 4, GIRO RÁPIDO at level 9, BOLA DE GELO at level 14, TELA FUMAÇA at level 19, SUBSTITUTO at level 24, COBIÇA at level 29, ESPANCAR at level 34, ESPREGUISSAR at level 39, GUILHOTINA at level 44, RESISTIR at level 49
+040 Wigglytuff : AUTODESTRUIR at level 1, ESPREGUISSAR at level 1, CONVERSÄO at level 1, MASTIGAR at level 1
+041 Zubat      : DENTE VENENO at level 1, P. VENENOSA at level 1, RAJADA VENTO at level 1, LODO at level 1, POLUIÇÄO at level 6, CRESCIMENTO at level 11, PÓ VENENOSO at level 16, ATAQUE FÚRIA at level 21, RABO VENENO at level 26, BOMBA LODO at level 31, DANÇA PENA at level 36, MOV. ESPELHO at level 41, FOCA ENERGIA at level 46
+042 Golbat     : VENTANIA at level 1, CORTE AÉREO at level 1, AMNÉSIA at level 1, BICADA at level 1, ÁCIDO at level 6, P. VENENOSA at level 11, GÁS VENENOSO at level 16, MOV. ESPELHO at level 21, MALDIÇÄO at level 28, ARMAD. ÁCIDA at level 35, BICADA BROCA at level 42, ATAQUE ASA at level 49, DENTE VENENO at level 56
+043 Oddish     : P. VENENOSA at level 1, CHUTE GIRADO at level 1, ESPOROS at level 1, MÏSSIL PINO at level 1, ÁGUA LAMA at level 7, SOCO FOGO at level 14, ENDURECER at level 16, PÓ SONÏFERO at level 18, LODO at level 23, GRAMA APITO at level 32, PLANTA FÚRIA at level 39
+044 Gloom      : OLHAR MAU at level 1, CHUTE DUPLO at level 1, ÁCIDO at level 1, ABSORVER at level 1, BARRAGEM at level 7, ENRAIZAR at level 14, FOLHA MÁGICA at level 16, BRAÇO AGULHA at level 18, DIVIDIR DOR at level 24, DANÇA PÉTALA at level 35, AFANAR at level 44
+045 Vileplume  : INSULTAR at level 1, GIGA DRENO at level 1, ATAQUE VOLT at level 1, CHICOTE CIPÓ at level 1, ABSORVER at level 44
+046 Paras      : MÏSSIL PINO at level 1, RAIO BOLHAS at level 1, PLANTA FÚRIA at level 1, CORTE FÚRIA at level 1, RAIO SINAL at level 7, RAIO SOLAR at level 13, SANGUESSUGA at level 19, SÏNTESE at level 25, BEIJO DOCE at level 31, VENTO PRATA at level 37, MEGACHIFRE at level 43, P. VENENOSA at level 49
+047 Parasect   : RABO BRILHO at level 1, MEGA DRENO at level 1, SÏNTESE at level 1, FOLHA GILETE at level 1, CORTE FÚRIA at level 7, TEIA ARANHA at level 13, FOLHA MÁGICA at level 19, BOCEJO at level 27, MEGACHIFRE at level 35, MÏSSIL PINO at level 43, RAIO SOLAR at level 51, ABATER at level 59
+048 Venonat    : MÄOZINHA at level 1, AGULHA DUPLA at level 1, SANGUESSUGA at level 1, CORTE FÚRIA at level 1, PÓ VENENOSO at level 9, TÓXICO at level 17, BLOQUEIO at level 20, ATIRAR FIOS at level 25, P. VENENOSA at level 28, RAIO SINAL at level 33, VENTO PRATA at level 36, RABO VENENO at level 41
+049 Venomoth   : AGUARDAR at level 1, CORTE FÚRIA at level 1, MEGACHIFRE at level 1, AGARRAMENTO at level 1, DENTE VENENO at level 1, LODO at level 9, BARRAGEM at level 17, SIGA-ME at level 20, RABO BRILHO at level 25, ATIRAR FIOS at level 28, SANGUESSUGA at level 31, SOCO POTENTE at level 36, DANO SECRETO at level 42, VENTO PRATA at level 52
+050 Diglett    : CLAVA OSSO at level 1, ESPINHOS at level 1, LIMPA LUSTRE at level 1, TUMBA AREIA at level 1, LAMA-BOFETÄO at level 5, AVANÇO-DUPLO at level 9, CAVAR at level 17, ATAQUE AREIA at level 25, SOCO TROVÄO at level 33, TERREMOTO at level 41, BLOQUEIO at level 49
+051 Dugtrio    : TERREMOTO at level 1, OSSO RÁPIDO at level 1, CAVAR at level 1, LAMA-BOFETÄO at level 1, RANCOR at level 5, OSSORANGUE at level 9, CUSPIR at level 17, PRESENTE at level 25, FISSURA at level 26, LUAR at level 38, ENDURECER at level 51, GIRO RÁPIDO at level 64
+052 Meowth     : TROVÄO at level 1, CHIFRADA at level 1, OLHAR MAU at level 1, CABEÇADA at level 1, BEIJO AMÁVEL at level 11, CANHÄO PREGO at level 20, SAL CHEIROSO at level 28, HIPER PRESA at level 35, RONCAR at level 41, ENGOLIR at level 46, SUPERSÔNICO at level 50
+053 Persian    : RECICLAR at level 1, SINO DA CURA at level 1, GARRA APERTO at level 1, PAGAMENTO at level 1, MENTE CALMA at level 11, CHIFRE BROCA at level 20, AMARRAR at level 29, CHARME at level 38, RETORNO at level 46, SIGA-ME at level 53, ALVOROÇO at level 59
+054 Psyduck    : RAIO BOLHAS at level 1, JATO D’ÁGUA at level 1, SUBSTITUTO at level 1, REDEMOINHO at level 1, HIDRO BOMBA at level 5, DIVIDIR DOR at level 10, HIDRO CANHÄO at level 16, DANÇA CHUVA at level 23, PINÇA at level 31, BIS at level 40, BICA D’ÁGUA at level 50
+055 Golduck    : BERRO at level 1, ATIRAR LAMA at level 1, JATO D’ÁGUA at level 1, BICA D’ÁGUA at level 1, VENTO GILETE at level 5, SINO DA CURA at level 10, MAU HUMOR at level 16, BOLHAS at level 23, ATAQUE VOLT at level 31, FRUSTRAÇÄO at level 44, OCTAZUCA at level 58
+056 Mankey     : VINGANÇA at level 1, ASSISTÊNCIA at level 1, CONVERSÄO 2 at level 1, CHUTE TRIPLO at level 1, DIVIDIR DOR at level 9, FISSURA at level 15, MOV. SÏSMICO at level 21, GOLPE KARATE at level 27, AUMENTAR at level 33, SOCO POTENTE at level 39, INSULTAR at level 45, SUBMISSÄO at level 51
+057 Primeape   : LANCE VITAL at level 1, VOADORA ALTA at level 1, CÉU DIRETO at level 1, CABEÇADA at level 1, DETECTAR at level 9, CHUTE GIRADO at level 15, SUBMISSÄO at level 21, SINO DA CURA at level 27, PSÏQUICO at level 28, EMPURRÄO at level 36, QUEBRA TELA at level 45, SEMENTE BALA at level 54, BIS at level 63
+058 Growlithe  : SOCO FOGO at level 1, FOGO SAGRADO at level 1, ERUPÇÄO at level 1, ONDA CALOR at level 1, LANÇA-CHAMAS at level 7, LER MENTE at level 13, RETORNO at level 19, RAJADA FOGO at level 25, MINI DESEJO at level 31, DIA DE SOL at level 37, AMARRAR at level 43, CHUTE FOGO at level 49
+059 Arcanine   : LANÇA-CHAMAS at level 1, MIRAR at level 1, FOGO SAGRADO at level 1, SOCO COMETA at level 1, CORTE FÚRIA at level 49
+060 Poliwag    : BOLHAS at level 1, GARRA METAL at level 1, FAREJAR at level 1, BICA D’ÁGUA at level 1, HIDRO CANHÄO at level 7, OVO-BOMBA at level 13, JATO D’ÁGUA at level 19, RETIRADA at level 25, AMARRAR at level 31, OCTAZUCA at level 37, PINÇA at level 43
+061 Poliwhirl  : CORTE FALSO at level 1, PINÇA at level 1, SUPERAQUEÇER at level 1, TRI ATAQUE at level 1, BOLHAS at level 7, ESPORTE ÁGUA at level 13, ÁGUA LAMA at level 19, JATO D’ÁGUA at level 27, REDEMOINHO at level 35, LANÇA ARPÄO at level 43, CAMUFLAGEM at level 51
+062 Poliwrath  : DETECTAR at level 1, HIDRO BOMBA at level 1, OCTAZUCA at level 1, BICA D’ÁGUA at level 1, RETIRADA at level 35, CORTE FALSO at level 51
+063 Abra       : COME SONHO at level 1, LINCHAR at level 1, CONFUSÄO at level 1, TELEPORTE at level 1, TELECINÉTICA at level 1, CONFUSÄO at level 16, DESATIVAR at level 18, RAIO MENTAL at level 21, REFLEXÄO at level 23, RECUPERAÇÄO at level 25, VISÄO FUTURA at level 30, INTERPRETAR at level 33, PSÏQUICO at level 36, TRUQUE at level 43
+064 Kadabra    : REFLEXÄO at level 1, CAPA MÁGICA at level 1, VISÄO FUTURA at level 1, RACHA CRÂNIO at level 1, PSICOATAQUE at level 16, TELA FUMAÇA at level 18, LIMPA LUSTRE at level 21, TELEPORTE at level 23, GIRO FOGO at level 25, GOLPE KARATE at level 30, TRUQUE at level 33, BOLHAS at level 36, HIPNOSE at level 43
+065 Alakazam   : PSICOATAQUE at level 1, APRISIONAR at level 1, DESCANSO at level 1, CONFUSÄO at level 1, SENSORIAL at level 16, TELA CLARA at level 18, TELEPORTE at level 21, TRUQUE at level 23, VISÄO FUTURA at level 25, BIS at level 30, REFLEXÄO at level 33, MAR PSÏQUICO at level 36, CAPA MÁGICA at level 43
+066 Machop     : VINGANÇA at level 1, SOCO FOCUS at level 1, REVIDAR at level 1, GOLPE KARATE at level 1, CHUTE DUPLO at level 7, SUBSTITUTO at level 13, BOMBA LODO at level 19, DETECTAR at level 22, CÉU DIRETO at level 25, MAR PSÏQUICO at level 31, SUPERPODER at level 37, MOV. SÏSMICO at level 40, MINIMIZAR at level 43, HIPER PRESA at level 49
+067 Machoke    : CAVAR at level 1, RASTEIRA at level 1, FRUSTRAÇÄO at level 1, VOADORA at level 1, SUPERPODER at level 7, VINGANÇA at level 13, AT. RÁPIDO at level 19, SOCO POTENTE at level 22, PSÏQUICO at level 25, CHUTE GIRADO at level 33, SIGA-ME at level 41, CAMUFLAGEM at level 46, AUMENTAR at level 51, QUEBRA TELA at level 59
+068 Machamp    : EMPURRÄO at level 1, VOADORA at level 1, ESPIRAR at level 1, SUBMISSÄO at level 1, FOLHA MÁGICA at level 7, CAMUFLAGEM at level 13, SOCO POTENTE at level 19, GOLPE KARATE at level 22, ALVOROÇO at level 25, SEMENTE SUGA at level 33, TAPA DUPLO at level 41, RACHA CRÂNIO at level 46, CARA FEIA at level 51, CHUTE GIRADO at level 59
+069 Bellsprout : AROMATERAPIA at level 1, P. VENENOSA at level 1, GRAMA APITO at level 1, CORTE AÉREO at level 1, RAIO SOLAR at level 6, FOLHA GILETE at level 11, ESPINHOS at level 15, CRESCIMENTO at level 17, SÏNTESE at level 19, METEORO at level 23, CHICOTE CIPÓ at level 30, PÓ SONÏFERO at level 37, PODER OCULTO at level 45
+070 Weepinbell : PÓ SONÏFERO at level 1, BOMBA LODO at level 1, FAREJAR at level 1, CHICOTE CIPÓ at level 1, SEMENTE BALA at level 6, ESPOROS at level 11, ENRAIZAR at level 15, AROMATERAPIA at level 17, ARMAD. ÁCIDA at level 19, PÓ VENENOSO at level 24, RABO VENENO at level 33, SEMENTE SUGA at level 42, FOLHA MÁGICA at level 54
+071 Victreebel : DANÇA PÉTALA at level 1, AVANÇO-DUPLO at level 1, GÁS VENENOSO at level 1, METEORO at level 1
+072 Tentacool  : LINCHAR at level 1, BICA D’ÁGUA at level 1, BOLHAS at level 1, DENTE VENENO at level 1, RETIRADA at level 6, JATO D’ÁGUA at level 12, GIRO FOGO at level 19, RABO VENENO at level 25, CHUTE GIRADO at level 30, MIRAR at level 36, PULSO ÁGUA at level 43, REDEMOINHO at level 49
+073 Tentacruel : ÁGUA LAMA at level 1, GÁS VENENOSO at level 1, OCTAZUCA at level 1, PAGAMENTO at level 1, TÓXICO at level 6, RETIRADA at level 12, PINÇA at level 19, ERUPÇÄO at level 25, REDEMOINHO at level 30, BICA D’ÁGUA at level 38, ONDA CHOQUE at level 47, HIDRO BOMBA at level 55
+074 Geodude    : OSSO RÁPIDO at level 1, ROLO COMPR. at level 1, LAMA ESPORTE at level 1, ATIRAR LAMA at level 1, PEDRA TUMBA at level 6, TEMP.AREIA at level 11, DESABA PEDRA at level 16, BOLA TEMPO at level 21, GRAMA APITO at level 26, BATER at level 31, LANÇA PEDRA at level 36, SOPRO PEDRA at level 41, PODER ANTIGO at level 46
+075 Graveler   : JATO D’ÁGUA at level 1, TERREMOTO at level 1, TEMP.AREIA at level 1, PEDRA TUMBA at level 1, PODER ANTIGO at level 6, SOPRO PEDRA at level 11, LANÇA PEDRA at level 16, ROLO COMPR. at level 21, LAMA-BOFETÄO at level 29, CÓCEGA at level 37, DESABA PEDRA at level 45, FISSURA at level 53, MAGNITUDE at level 62
+076 Golem      : CLAVA OSSO at level 1, PODER ANTIGO at level 1, SOPRO PEDRA at level 1, LANÇA PEDRA at level 1, ROLO COMPR. at level 6, PEDRA TUMBA at level 11, LAMA-BOFETÄO at level 16, MIMICA at level 21, SUBSTITUTO at level 29, MAGNITUDE at level 37, OSSORANGUE at level 45, DESABA PEDRA at level 53, ESPINHOS at level 62
+077 Ponyta     : RODA DE FOGO at level 1, DIA DE SOL at level 1, ERUPÇÄO at level 1, BARRAGEM at level 1, VENTO FOGO at level 5, BERRO at level 9, BOMBA SÔNICA at level 14, PROTEÇÄO at level 19, CONVERSÄO 2 at level 25, FOGO SAGRADO at level 31, SUPERAQUEÇER at level 38, DANÇA ESPADA at level 45, ESPANCAR at level 53
+078 Rapidash   : ONDA CALOR at level 1, SUPER PRESA at level 1, RAJADA FOGO at level 1, VEL. EXTREMA at level 1, LANÇA-CHAMAS at level 5, ESPREGUISSAR at level 9, DANÇA at level 14, SOCO FOGO at level 19, SUPERAQUEÇER at level 25, BIS at level 31, RODA DE FOGO at level 38, MINI DESEJO at level 40, BRASAS at level 50, GIRO FOGO at level 63
+079 Slowpoke   : MAU HUMOR at level 1, BERRO at level 1, COME SONHO at level 1, PINÇA at level 1, RAIO BOLHAS at level 6, CONFUSÄO at level 15, HIDRO BOMBA at level 20, REFLEXÄO at level 29, TELECINÉTICA at level 34, BOLHAS at level 43, OCTAZUCA at level 48
+080 Slowbro    : BARREIRA at level 1, POLUIÇÄO at level 1, RETIRADA at level 1, PINÇA at level 1, ÁGUA LAMA at level 6, DANÇA CHUVA at level 15, ESPORTE ÁGUA at level 20, BOLA NÉVOA at level 29, BOLHAS at level 34, RAIO BOLHAS at level 37, REFLEXÄO at level 46, ASSISTÊNCIA at level 54
+081 Magnemite  : ELETROCANHÄO at level 1, DEFESA FERRO at level 1, CHIFRADA at level 1, FAÏSCA at level 1, ONDA CHOQUE at level 6, CARGA at level 11, SOCO TONTO at level 16, TROVÄO at level 21, ONDA TROVÄO at level 26, RABO FERRO at level 32, SOCO TROVÄO at level 38, ESPOROS at level 44, SHOCK TROVÄO at level 50
+082 Magneton   : DESEJA MORTE at level 1, DEFESA FERRO at level 1, METEORO at level 1, SHOCK TROVÄO at level 1, RECUPERAÇÄO at level 6, ATAQUE VOLT at level 11, SOM METAL at level 16, PASSA BATON at level 21, BARREIRA at level 26, RAIO at level 35, RABO FERRO at level 44, TROVÄO at level 53, ELETROCANHÄO at level 62
+083 Farfetch’D : GOLPE AÉREO at level 1, RAJADA VENTO at level 1, ATAQUE AÉREO at level 1, SOCO TONTO at level 1, ATAQUE ASA at level 6, MEGA CHUTE at level 11, BICADA at level 16, FAREJAR at level 21, LER MENTE at level 26, BICADA BROCA at level 31, SOM METAL at level 36, INVESTIDA at level 41, ESTOCAR at level 46
+084 Doduo      : ATAQUE AÉREO at level 1, GOLPE AÉREO at level 1, RECUPERAÇÄO at level 1, ATAQUE ASA at level 1, VENTANIA at level 9, RAJADA VENTO at level 13, BICADA BROCA at level 21, ALVOROÇO at level 25, CORTE AÉREO at level 33, EQUIPE DUPLA at level 37, MOV. ESPELHO at level 45
+085 Dodrio     : MOV. ESPELHO at level 1, BICADA at level 1, RAJADA VENTO at level 1, SALTAR at level 1, DIVIDIR DOR at level 9, VEL. EXTREMA at level 13, CANÇÄO MORTE at level 21, DESEJO at level 25, CORTE FALSO at level 38, OVO-BOMBA at level 47, LER MENTE at level 60
+086 Seel       : CUSPIR at level 1, ASSISTÊNCIA at level 1, MIMICA at level 1, ÁGUA LAMA at level 1, GOLPE CORTE at level 9, ESPORTE ÁGUA at level 17, P. VENENOSA at level 21, REDEMOINHO at level 29, OCTAZUCA at level 37, BRASAS at level 41, PULSO ÁGUA at level 49
+087 Dewgong    : NEBLINA at level 1, VENTO GELADO at level 1, DANÇA CHUVA at level 1, RAIO AURORA at level 1, ESPIRAR at level 9, MEGA CHUTE at level 17, SOCO POTENTE at level 21, ÁGUA LAMA at level 29, PINÇA at level 34, FRIO POLAR at level 42, REDEMOINHO at level 51, BICA D’ÁGUA at level 64
+088 Grimer     : P. VENENOSA at level 1, RAIO SINAL at level 1, GÁS VENENOSO at level 1, ÁCIDO at level 1, BOCEJO at level 4, RABO VENENO at level 8, SOCO TONTO at level 13, PÓ VENENOSO at level 19, AÇOITAR at level 26, PODER NATIVO at level 34, DENTE VENENO at level 43, SINO DA CURA at level 53
+089 Muk        : ÁCIDO at level 1, DENTE VENENO at level 1, SUPERSÔNICO at level 1, BOMBA LODO at level 1, ABATER at level 4, LODO at level 8, PÓ VENENOSO at level 13, RABO VENENO at level 19, FISSURA at level 26, PASSA BATON at level 34, BEIJO DOCE at level 47, GÁS VENENOSO at level 61
+090 Shellder   : RETIRADA at level 1, VISÄO FUTURA at level 1, CHUTE TRIPLO at level 1, BOMBA LODO at level 1, PINÇA at level 9, PULSO ÁGUA at level 17, ABSORVER at level 25, JATO D’ÁGUA at level 33, HIPER VOZ at level 41, OCTAZUCA at level 49
+091 Cloyster   : HIDRO BOMBA at level 1, BLOQUEIO at level 1, MOV. ESPELHO at level 1, PINÇA at level 1, RETIRADA at level 33, INSULTAR at level 41
+092 Gastly     : SUBMISSÄO at level 1, PÓ VENENOSO at level 1, RAIO CONFUSO at level 1, ÁCIDO at level 1, DANO SECRETO at level 8, BARRIGADA at level 13, EQUIPE DUPLA at level 16, DENTE VENENO at level 21, MALDIÇÄO at level 28, ASSUSTAR at level 33, TÓXICO at level 36
+093 Haunter    : ÁCIDO at level 1, PESADELO at level 1, CANÇÄO at level 1, DENTE VENENO at level 1, LAMBIDA at level 8, VEL. EXTREMA at level 13, SOL MATUTINO at level 16, SOCO SOMBRIO at level 21, ASSUSTAR at level 25, NEVASCA at level 31, RAIO CONFUSO at level 39, AMAR.DESTINO at level 48
+094 Gengar     : LODO at level 1, RANCOR at level 1, PESADELO at level 1, ASSUSTAR at level 1, SUPERPODER at level 8, BOLA SOMBRIA at level 13, RAIO SOLAR at level 16, BOMBA LODO at level 21, SAL CHEIROSO at level 25, ÁCIDO at level 31, GÁS VENENOSO at level 39, LÂMINA FOLHA at level 48
+095 Onix       : CLAVA OSSO at level 1, ROLO COMPR. at level 1, ARRANHÄO at level 1, LANÇA PEDRA at level 1, FISSURA at level 9, OSSORANGUE at level 13, ATIRAR LAMA at level 21, LAMA ESPORTE at level 25, SOPRO PEDRA at level 33, ESPREGUISSAR at level 37, PEDRA TUMBA at level 45, INTERPRETAR at level 49, RETORNO at level 57
+096 Drowzee    : RUGIDO at level 1, REFRESCAR at level 1, APRISIONAR at level 1, SENSORIAL at level 1, ESFORÇO at level 10, CAPA MÁGICA at level 18, PODER GRANDE at level 25, CUSPIR at level 31, VISÄO FUTURA at level 36, CRESCIMENTO at level 40, BARREIRA at level 43, TELA CLARA at level 45
+097 Hypno      : INTERPRETAR at level 1, TELA CLARA at level 1, ATQ. COVARDE at level 1, ABATER at level 1, ESPELHO at level 10, ATROCIDADE at level 18, RAIO MENTAL at level 25, BOLA NÉVOA at level 33, CARA FEIA at level 40, DESCANSO at level 49, REFLEXÄO at level 55, AGILIDADE at level 60
+098 Krabby     : MAU HUMOR at level 1, PINÇA at level 1, RETIRADA at level 1, TERREMOTO at level 1, BICA D’ÁGUA at level 5, BOLHAS at level 12, AÇOITAR at level 16, ALVOROÇO at level 23, DANÇA CHUVA at level 27, ENGANAR at level 34, ÁGUA LAMA at level 41, MÄOZINHA at level 45
+099 Kingler    : CAVAR at level 1, ESPORTE ÁGUA at level 1, RAIO BOLHAS at level 1, BICA D’ÁGUA at level 1, HIDRO BOMBA at level 5, JATO D’ÁGUA at level 12, FURACÄO at level 16, PINÇA at level 23, MAU HUMOR at level 27, FAREJAR at level 38, RETIRADA at level 49, PULSO ÁGUA at level 57
+100 Voltorb    : ONDA TROVÄO at level 1, PÓ DE NEVE at level 1, VOADORA ALTA at level 1, FAÏSCA at level 1, SOCO TROVÄO at level 8, TROVÄO at level 15, BOLA TEMPO at level 21, BARRAGEM at level 27, ONDA CHOQUE at level 32, SALVA GUARDA at level 37, ATAQUE VOLT at level 42, AGULHA DUPLA at level 46, CARGA at level 49
+101 Electrode  : RONCAR at level 1, CARA FEIA at level 1, ATAQUE VOLT at level 1, RAIO at level 1, PAGAMENTO at level 8, CONSTRIGIR at level 15, SOCO TROVÄO at level 21, ONDA TROVÄO at level 27, CARGA at level 34, TROVÄO at level 41, NEBLINA at level 48, FAÏSCA at level 54, HIPER PRESA at level 59
+102 Exeggcute  : RAIO SINAL at level 1, PÓ SONÏFERO at level 1, MAR PSÏQUICO at level 1, GIGA DRENO at level 1, CHICOTE CIPÓ at level 7, TROCA GOLPE at level 13, SOL MATUTINO at level 19, ESPOROS at level 25, PLANTA FÚRIA at level 31, AROMATERAPIA at level 37, SÏNTESE at level 43
+103 Exeggutor  : AGILIDADE at level 1, GIGA DRENO at level 1, ESPOROS at level 1, PSÏQUICO at level 1, GARRA DRAGÄO at level 19, TAPA DUPLO at level 31
+104 Cubone     : ELETROCANHÄO at level 1, TERREMOTO at level 1, OSSORANGUE at level 1, ATIRAR LAMA at level 1, CAVAR at level 5, DIA DE SOL at level 9, GIRO FOGO at level 13, CLAVA OSSO at level 17, EMPURRÄO at level 21, ATAQUE FÚRIA at level 25, OSSO RÁPIDO at level 29, FISSURA at level 33, SONAMBULO at level 37, TUMBA AREIA at level 41, INVESTIDA at level 45
+105 Marowak    : ATIRAR LAMA at level 1, LINCHAR at level 1, LAMA ESPORTE at level 1, AVANÇO-DUPLO at level 1, ATAQUE AREIA at level 5, ESPINHOS at level 9, CAVAR at level 13, BATE CORPO at level 17, CLAVA OSSO at level 21, OLHAR MAU at level 25, MAGNITUDE at level 32, ENCARAR at level 39, TERREMOTO at level 46, LAMA-BOFETÄO at level 53, REDEMOINHO at level 61
+106 Hitmonlee  : ESPOROS at level 1, CANHÄO PREGO at level 1, DANÇA at level 1, AVANÇO-DUPLO at level 1, GOLPE CORTE at level 6, CHUTE DUPLO at level 11, BATER at level 16, FÚRIA at level 20, AGUARDAR at level 21, SOCO FOCUS at level 26, ESPREGUISSAR at level 31, DETECTAR at level 36, LANCE VITAL at level 41, SUBMISSÄO at level 46, EMPURRÄO at level 51
+107 Hitmonchan : MOV. SÏSMICO at level 1, DETECTAR at level 1, MIRAR at level 1, SOCO VELOZ at level 1, RASTEIRA at level 7, TELA FUMAÇA at level 13, VOADORA ALTA at level 20, DANÇA ESPADA at level 26, SOCO POTENTE at level 26, GUILHOTINA at level 26, RABO CHICOTE at level 32, SUPERPODER at level 38, PSICOATAQUE at level 44, CHUTE FOGO at level 50
+108 Lickitung  : CANÇÄO at level 1, BLOQUEIO at level 1, ARRANHÄO at level 1, AGARRAMENTO at level 1, ESFORÇO at level 7, UIVAR at level 12, GOLPE FÚRIA at level 18, ATROCIDADE at level 23, ATAQUE FÚRIA at level 29, CHORO FALSO at level 34, RETORNO at level 40, SOCO COMETA at level 45, DANÇA ESPADA at level 51
+109 Koffing    : BOMBA LODO at level 1, PODER NATIVO at level 1, CANHÄO PREGO at level 1, LODO at level 1, DENTE VENENO at level 9, NOITE SOMBRA at level 17, P. VENENOSA at level 21, AGUARDAR at level 25, DEFESA ANEL at level 33, VINGANÇA at level 41, TÓXICO at level 45, POLUIÇÄO at level 49
+110 Weezing    : LANÇA ARPÄO at level 1, HIPER PRESA at level 1, SONAMBULO at level 1, P. VENENOSA at level 1, RABO VENENO at level 9, CORTE AÉREO at level 17, CABEÇADA at level 21, TÓXICO at level 25, RUGIDO at level 33, ÁCIDO at level 44, FOLHA MÁGICA at level 51, BEBER LEITE at level 58
+111 Rhyhorn    : TERREMOTO at level 1, AUTODESTRUIR at level 1, LAMA ESPORTE at level 1, CLAVA OSSO at level 1, ESPINHOS at level 10, ROLO COMPR. at level 15, OSSORANGUE at level 24, FISSURA at level 29, OSSO RÁPIDO at level 38, GARRA APERTO at level 43, PODER ANTIGO at level 52, ATIRAR LAMA at level 57
+112 Rhydon     : SONAMBULO at level 1, ATAQUE AREIA at level 1, PODER ANTIGO at level 1, LAMA-BOFETÄO at level 1, FISSURA at level 10, SOCO COMETA at level 15, FOCA ENERGIA at level 24, TEMP.AREIA at level 29, ESPINHOS at level 38, ROLO COMPR. at level 46, SOPRO PEDRA at level 58, LANÇA PEDRA at level 66
+113 Chansey    : DESEJO at level 1, CONVERSÄO at level 1, HIPER RAIO at level 1, TAPA DUPLO at level 1, DANÇA at level 5, BERRO at level 9, FRUSTRAÇÄO at level 13, NOITE SOMBRA at level 17, ROSNAR at level 23, BATER at level 29, ASAS DE AÇO at level 35, ESFORÇO at level 41, CONSTRIGIR at level 49, SOCO COMETA at level 57
+114 Tangela    : ENROLAR at level 1, AROMATERAPIA at level 1, RAIO SOLAR at level 1, MEGA DRENO at level 1, AVANÇO-DUPLO at level 4, ARRANHÄO at level 10, BRAÇO AGULHA at level 13, RECUPERAÇÄO at level 19, BOMBA SÔNICA at level 22, ENRAIZAR at level 28, ESPORO at level 31, DANÇA PÉTALA at level 37, PLANTA FÚRIA at level 40, FOLHA MÁGICA at level 46
+115 Kangaskhan : HIPER RAIO at level 1, GARRA APERTO at level 1, SONAMBULO at level 1, CUSPIR at level 1, SANGUESSUGA at level 7, RETORNO at level 13, PAGAMENTO at level 19, MEGA DRENO at level 25, GIRO RÁPIDO at level 31, TROCA GOLPE at level 37, AVANÇO-DUPLO at level 43, PASSA BATON at level 49
+116 Horsea     : BICA D’ÁGUA at level 1, VENTO GILETE at level 1, OCTAZUCA at level 1, ALVOROÇO at level 1, ESPORTE ÁGUA at level 8, GIRO FOGO at level 15, HIDRO CANHÄO at level 22, HIPNOSE at level 29, BEIJO DOCE at level 36, LUAR at level 43, JATO D’ÁGUA at level 50
+117 Seadra     : ENDURECER at level 1, DANÇA CHUVA at level 1, RAIO BOLHAS at level 1, ÁGUA LAMA at level 1, HIDRO CANHÄO at level 8, PINÇA at level 15, RETIRADA at level 22, HIDRO BOMBA at level 29, GOLPE FÚRIA at level 40, PULSO ÁGUA at level 51, BAJULAR at level 62
+118 Goldeen    : ÁGUA LAMA at level 1, CRESCIMENTO at level 1, HIDRO CANHÄO at level 1, RAIO BOLHAS at level 1, MINIMIZAR at level 10, REDEMOINHO at level 15, PINÇA at level 24, PÓ SONÏFERO at level 29, OCTAZUCA at level 38, BOLHAS at level 43, PROVOCAR at level 52
+119 Seaking    : ABATER at level 1, PINÇA at level 1, DANÇA CHUVA at level 1, REDEMOINHO at level 1, BERRO at level 10, BICA D’ÁGUA at level 15, BOLA TEMPO at level 24, TORMENTO at level 29, HIDRO BOMBA at level 41, OCTAZUCA at level 49, HIDRO CANHÄO at level 61
+120 Staryu     : DANÇA ESPADA at level 1, RAIO AURORA at level 1, REDEMOINHO at level 1, BOLA TEMPO at level 1, PINÇA at level 6, BARRAGEM at level 10, PULSO ÁGUA at level 15, HIDRO CANHÄO at level 19, HIPER VOZ at level 24, ÁGUA LAMA at level 28, TURBULÊNCIA at level 33, FAREJAR at level 37, RAIO BOLHAS at level 42, OCTAZUCA at level 46
+121 Starmie    : PSÏQUICO at level 1, DESCANSO at level 1, BOLA NÉVOA at level 1, RAIO MENTAL at level 1, BOLHAS at level 33
+122 Mr. Mime   : ENROLAR at level 1, TELEPORTE at level 1, ATRAÇÄO at level 1, PSICOATAQUE at level 1, HIDRO CANHÄO at level 5, FRIO POLAR at level 9, TELECINÉTICA at level 13, DESCANSO at level 17, REFLEXÄO at level 21, VISÄO FUTURA at level 21, APRISIONAR at level 25, VENTANIA at level 29, AÇOITAR at level 33, AGILIDADE at level 37, TRUQUE at level 41, CHIFRADA at level 45, HIPNOSE at level 49, PSÏQUICO at level 53
+123 Scyther    : ATAQUE ASA at level 1, SANGUESSUGA at level 1, CORTE FÚRIA at level 1, RAJADA VENTO at level 1, AGULHA DUPLA at level 6, RAIO SINAL at level 11, BOLA DE GELO at level 16, MEGACHIFRE at level 21, ATAQUE AÉREO at level 26, DANÇA PENA at level 31, VISÄO FUTURA at level 36, OLHAR MAU at level 41, BICADA at level 46
+124 Jynx       : BOLA DE GELO at level 1, RAIO MENTAL at level 1, GRANIZO at level 1, RAIO GELO at level 1, VENTO GELADO at level 9, CANHÄO PREGO at level 13, INTERPRETAR at level 21, PSICOATAQUE at level 25, BOLA NÉVOA at level 35, CAPA MÁGICA at level 41, TELECINÉTICA at level 51, RAIO AURORA at level 57, TELEPORTE at level 67
+125 Electabuzz : TROVÄO at level 1, RANCOR at level 1, RONCAR at level 1, ATAQUE VOLT at level 1, CHUTE DUPLO at level 9, CARGA at level 17, DIVIDIR DOR at level 25, CONSTRIGIR at level 36, RAIO at level 47, SOCO TROVÄO at level 58
+126 Magmar     : ENGOLIR at level 1, VENTO FOGO at level 1, DANÇA at level 1, TAPA DUPLO at level 1, RODA DE FOGO at level 7, ESFORÇO at level 13, FOGO SAGRADO at level 19, CHUTE FOGO at level 25, CONSTRIGIR at level 33, ONDA CALOR at level 41, BRASAS at level 49, LANÇA-CHAMAS at level 57
+127 Pinsir     : PANCADA at level 1, SANGUESSUGA at level 1, HIPER VOZ at level 1, CORTE FÚRIA at level 1, RETORNO at level 7, AGULHA DUPLA at level 13, CAMUFLAGEM at level 19, NOITE SOMBRA at level 25, RAIO SINAL at level 31, VENTO PRATA at level 37, SALVA GUARDA at level 43, BOLA TEMPO at level 49
+128 Tauros     : SIGA-ME at level 1, CUSPIR at level 1, BOMBA SÔNICA at level 1, TRI ATAQUE at level 1, GUILHOTINA at level 4, MEGA SOCO at level 8, METRÔNOMO at level 13, BOLA TEMPO at level 19, TURBULÊNCIA at level 26, SONAMBULO at level 34, ENROLAR at level 43, MÏSSIL PINO at level 53
+129 Magikarp   : ÁGUA LAMA at level 1, ESPORTE ÁGUA at level 1, GOLPE FÚRIA at level 1, REDEMOINHO at level 1, BOCEJO at level 15, BOMBA SÔNICA at level 30, FÚRIA DRAGÄO at level 25, ENCARAR at level 30, TORNADO at level 35, HIDRO BOMBA at level 40, DANÇA CHUVA at level 45, DANÇA DRAGÄO at level 50, HIPER RAIO at level 55
+130 Gyarados   : PLANTA FÚRIA at level 1, RETIRADA at level 1, ÁGUA LAMA at level 1, GARRA DRAGÄO at level 1, HIDRO CANHÄO at level 20, DANÇA PENA at level 25, MAU HUMOR at level 30, GRANIZO at level 35, PULSO ÁGUA at level 40, MOV. ESPELHO at level 45, BICADA at level 50, JATO D’ÁGUA at level 55
+131 Lapras     : ESPORTE ÁGUA at level 1, PINÇA at level 1, RAIO SINAL at level 1, BICA D’ÁGUA at level 1, VENTO GELADO at level 7, DANÇA CHUVA at level 13, NEVASCA at level 19, RETIRADA at level 25, LIMPA LUSTRE at level 31, BOLA DE GELO at level 37, MAU HUMOR at level 43, REDEMOINHO at level 49, RAIO AURORA at level 55
+132 Ditto      : PISOTEAR at level 1, BOMBA SÔNICA at level 1, INVESTIDA at level 1, RABO CHICOTE at level 1, MÄOZINHA at level 1, ATAQUE AREIA at level 8, ROSNAR at level 16, AT. RÁPIDO at level 23, MORDIDA at level 30, PASSA BATON at level 36, ABATER at level 42
+133 Eevee      : CANÇÄO at level 1, CUSPIR at level 1, VENTO GELADO at level 1, OSSO RÁPIDO at level 1, ATAQUE AREIA at level 8, SONAMBULO at level 16, OVO FERVIDO at level 23, MEGA SOCO at level 30, AT. RÁPIDO at level 36, ATAQUE FÚRIA at level 42
+134 Vaporeon   : BOLHAS at level 1, MAU HUMOR at level 1, JATO D’ÁGUA at level 1, ÁGUA LAMA at level 1, FACHADA at level 8, DANÇA CHUVA at level 16, AVANÇO-DUPLO at level 23, HIDRO CANHÄO at level 30, GIGA DRENO at level 36, ESPORTE ÁGUA at level 42, FURACÄO at level 47, RAIO BOLHAS at level 52
+135 Jolteon    : SOCO TROVÄO at level 1, CABEÇADA at level 1, TROVÄO at level 1, TURBULÊNCIA at level 1, ONDA CHOQUE at level 8, ATAQUE VOLT at level 16, ONDA TROVÄO at level 23, RAIO at level 30, DANÇA DRAGÄO at level 36, EST. CADENTE at level 42, HIDRO BOMBA at level 47, DIVIDIR DOR at level 52
+136 Flareon    : ONDA CALOR at level 1, BRASAS at level 1, CHUTE FOGO at level 1, SUPERAQUEÇER at level 1, ENGANAR at level 8, CORTE FÚRIA at level 16, BOLA DE GELO at level 23, RECUPERAÇÄO at level 30, SEMENTE SUGA at level 36, CANÇÄO at level 42, SOCO FOGO at level 47, RAJADA FOGO at level 52
+137 Porygon    : HIPER RAIO at level 1, METRÔNOMO at level 1, SUPERSÔNICO at level 1, FOLHA GILETE at level 1, ATAQUE FÚRIA at level 9, DESATIVAR at level 12, INVESTIDA at level 20, RETORNO at level 24, BERRO at level 32, CANÇÄO MORTE at level 36, BEBER LEITE at level 44, GÁS VENENOSO at level 48
+138 Omanyte    : VOADORA at level 1, PODER ANTIGO at level 1, MAU HUMOR at level 1, DESABA PEDRA at level 1, PEDRA TUMBA at level 13, ROLO COMPR. at level 19, CAVAR at level 25, MEGA DRENO at level 31, PULSO ÁGUA at level 37, OVO FERVIDO at level 43, LANÇA PEDRA at level 49, REDEMOINHO at level 55
+139 Omastar    : TEMP.AREIA at level 1, GÁS VENENOSO at level 1, PULSO ÁGUA at level 1, LANÇA PEDRA at level 1, HIDRO CANHÄO at level 13, BOLHAS at level 19, DESABA PEDRA at level 25, TELA FUMAÇA at level 31, SOPRO PEDRA at level 37, PODER ANTIGO at level 40, SOCO GELO at level 46, ROLO COMPR. at level 55, ÁGUA LAMA at level 65
+140 Kabuto     : SOPRO PEDRA at level 1, VENTO GELADO at level 1, ROLO COMPR. at level 1, BOLHAS at level 1, PEDRA TUMBA at level 13, TEMP.AREIA at level 19, RETIRADA at level 25, RASTEIRA at level 31, PODER OCULTO at level 37, PERSEGUIÇÄO at level 43, BATE CORPO at level 49, DESABA PEDRA at level 55
+141 Kabutops   : ROLO COMPR. at level 1, REDEMOINHO at level 1, PODER ANTIGO at level 1, BOLHAS at level 1, LANÇA PEDRA at level 13, JATO D’ÁGUA at level 19, TEMP.AREIA at level 25, DOCE ODOR at level 31, ESTOCAR at level 37, OCTAZUCA at level 40, SOPRO PEDRA at level 46, DESABA PEDRA at level 55, DANÇA CHUVA at level 65
+142 Aerodactyl : ROLO COMPR. at level 1, AMARRAR at level 1, SOPRO PEDRA at level 1, LANÇA PEDRA at level 1, DESABA PEDRA at level 8, ATAQUE ASA at level 15, BOLA TEMPO at level 22, TORMENTO at level 29, PEDRA TUMBA at level 36, VENTANIA at level 43, DANÇA DRAGÄO at level 50
+143 Snorlax    : DESEJO at level 1, TRI ATAQUE at level 1, CHIFRE BROCA at level 1, ATAQUE FÚRIA at level 1, CONVERSÄO 2 at level 6, PSÏQUICO at level 10, BARRAGEM at level 15, MEGACHIFRE at level 19, FÚRIA at level 24, AUTODESTRUIR at level 28, PAGAMENTO at level 28, ABATER at level 33, AT. RÁPIDO at level 37, AVANÇO-DUPLO at level 42, ENGOLIR at level 46, COBIÇA at level 51
+144 Articuno   : GRANIZO at level 1, RAIO AURORA at level 1, PÓ DE NEVE at level 1, VENTO GELADO at level 1, LANÇA ARPÄO at level 13, RAIO GELO at level 25, ATAQUE ASA at level 37, SOCO GELO at level 49, BRASAS at level 61, NEVASCA at level 73, CORTE AÉREO at level 85
+145 Zapdos     : AGULHA DUPLA at level 1, CARGA at level 1, TROVÄO at level 1, FAÏSCA at level 1, PANCADA at level 13, CORTE AÉREO at level 25, ATAQUE ASA at level 37, RAIO at level 49, BICADA at level 61, SOCO FOCUS at level 73, VENTANIA at level 85
+146 Moltres    : CORTE AÉREO at level 1, RODA DE FOGO at level 1, SIGA-ME at level 1, BICADA BROCA at level 1, VENTANIA at level 13, GOLPE AÉREO at level 25, LANÇA-CHAMAS at level 37, GIRO FOGO at level 49, RESISTIR at level 61, SONAMBULO at level 73, FOGO SAGRADO at level 85
+147 Dratini    : RACHA CRÂNIO at level 1, RUGIDO at level 1, ATROCIDADE at level 1, AÇOITAR at level 1, BLOQUEIO at level 8, ESPREGUISSAR at level 15, GARRA DRAGÄO at level 22, TORNADO at level 29, FÚRIA DRAGÄO at level 36, ROSNAR at level 43, INVESTIDA at level 50, DANÇA DRAGÄO at level 57
+148 Dragonair  : TORNADO at level 1, MIRAR at level 1, FÚRIA DRAGÄO at level 1, BAFO DRAGÄO at level 1, RAIO CONFUSO at level 8, RAJADA VENTO at level 15, RECICLAR at level 22, ATROCIDADE at level 29, DANÇA DRAGÄO at level 38, RECUPERAÇÄO at level 47, BOLA NÉVOA at level 56, PASSA BATON at level 65
+149 Dragonite  : GOLPE AÉREO at level 1, RAJADA VENTO at level 1, ATAQUE ASA at level 1, SALTAR at level 1, ATROCIDADE at level 8, TORNADO at level 15, DANÇA DRAGÄO at level 22, CHIFRE BROCA at level 29, BICADA BROCA at level 38, ATQ. COVARDE at level 47, GARRA DRAGÄO at level 55, METEORO at level 61, ENGOLIR at level 75
+150 Mewtwo     : BICA D’ÁGUA at level 1, CONFUSÄO at level 1, MENTE CALMA at level 1, BOLA NÉVOA at level 1, FACHADA at level 11, VISÄO FUTURA at level 22, BIS at level 33, AUTODESTRUIR at level 44, DESCANSO at level 55, HIPER VOZ at level 66, PODER GRANDE at level 77, REVERSÄO at level 88, RABO CHICOTE at level 99
+151 Mew        : FURACÄO at level 1, HIDRO CANHÄO at level 1, SENSORIAL at level 1, VENTO GILETE at level 1, TELEPORTE at level 10, AGARRAMENTO at level 20, ONDA TROVÄO at level 30, BARRIGADA at level 40, PSÏQUICO at level 50
+152 Chikorita  : ESPOROS at level 1, SEMENTE SUGA at level 1, ESPORO at level 1, GIGA DRENO at level 1, MIMICA at level 8, RAIO SOLAR at level 12, FOLHA MÁGICA at level 15, AROMATERAPIA at level 22, OFUSCAR at level 29, MEGA DRENO at level 36, TELEPORTE at level 43, PÓ SONÏFERO at level 50
+153 Bayleef    : ONDA CALOR at level 1, PLANTA FÚRIA at level 1, RAIO SOLAR at level 1, BRAÇO AGULHA at level 1, MEGA DRENO at level 8, GRAMA APITO at level 12, ESPOROS at level 15, ENRAIZAR at level 23, FOLHA GILETE at level 31, RAIO at level 39, DANÇA PÉTALA at level 47, ESPOROS at level 55
+154 Meganium   : ABSORVER at level 1, DESATIVAR at level 1, SÏNTESE at level 1, BRAÇO AGULHA at level 1, PÓ SONÏFERO at level 8, GIGA DRENO at level 12, TURBULÊNCIA at level 15, CHICOTE CIPÓ at level 23, SALVA GUARDA at level 31, BARRIGADA at level 41, FÚRIA at level 51, PREVISÄO at level 61
+155 Cyndaquil  : LANÇA-CHAMAS at level 1, CONFUSÄO at level 1, GIRO FOGO at level 1, RAJADA FOGO at level 1, MINI DESEJO at level 6, SUPERAQUEÇER at level 12, MIMICA at level 19, OVO FERVIDO at level 27, FOGO SAGRADO at level 36, BRASAS at level 46
+156 Quilava    : REVERSÄO at level 1, DIA DE SOL at level 1, RODA DE FOGO at level 1, BARRAGEM at level 1, VENTO FOGO at level 6, ESPIRAR at level 12, PRESENTE at level 21, LANÇA-CHAMAS at level 31, BRASAS at level 42, FOCA ENERGIA at level 54
+157 Typhlosion : LANÇA-CHAMAS at level 1, MÏSSIL PINO at level 1, CHIFRE BROCA at level 1, ONDA CALOR at level 1, SUPERAQUEÇER at level 6, BICADA BROCA at level 12, RODA DE FOGO at level 21, CHUTE FOGO at level 31, SOCO COMETA at level 45, CARA FEIA at level 60
+158 Totodile   : RAIO SINAL at level 1, MEGACHIFRE at level 1, AMARRAR at level 1, BOLHAS at level 1, HIPER RAIO at level 7, PODER NATIVO at level 13, MÄOZINHA at level 20, PISOTEAR at level 27, BICA D’ÁGUA at level 35, REDEMOINHO at level 43, MAU HUMOR at level 52
+159 Croconaw   : MAU HUMOR at level 1, PINÇA at level 1, RETORNO at level 1, RAIO BOLHAS at level 1, PULSO ÁGUA at level 7, RETIRADA at level 13, JATO D’ÁGUA at level 21, ESPORTE ÁGUA at level 28, HIDRO BOMBA at level 37, SUBSTITUTO at level 45, RAIO CONFUSO at level 55
+160 Feraligatr : ESPORTE ÁGUA at level 1, BOLHAS at level 1, RONCAR at level 1, OCTAZUCA at level 1, ESTOCAR at level 7, RETIRADA at level 13, ENGANAR at level 21, PINÇA at level 28, LAMA-BOFETÄO at level 38, BICA D’ÁGUA at level 47, REDEMOINHO at level 58
+161 Sentret    : GARRA APERTO at level 1, CARA FEIA at level 1, RECUPERAÇÄO at level 1, SANGUESSUGA at level 1, BEIJO AMÁVEL at level 4, ROSNAR at level 7, DESEJO at level 12, BRAÇO AGULHA at level 17, VOADORA ALTA at level 24, ENGOLIR at level 31, ENGANAR at level 40, SALVA GUARDA at level 49
+162 Furret     : SUPER PRESA at level 1, ESPREGUISSAR at level 1, DIVIDIR DOR at level 1, ATROCIDADE at level 1, BERRO at level 4, SINO DA CURA at level 7, OFUSCAR at level 12, CORTE FALSO at level 19, OVO FERVIDO at level 28, ALVOROÇO at level 37, PODER NATIVO at level 48, FÚRIA at level 59
+163 Hoothoot   : CORTE AÉREO at level 1, TELA CLARA at level 1, BICADA at level 1, RAJADA VENTO at level 1, ATAQUE AÉREO at level 6, GARRA DRAGÄO at level 11, SALTAR at level 16, ESPANCAR at level 22, ATAQUE ASA at level 28, AFIAR at level 34, ESPIRAR at level 48
+164 Noctowl    : RAJADA VENTO at level 1, VENTANIA at level 1, OLHAR MAU at level 1, TAPA DUPLO at level 1, MOV. ESPELHO at level 6, RONCAR at level 11, BICADA at level 16, CORTE AÉREO at level 25, GOLPE AÉREO at level 33, DANÇA PENA at level 41, DANÇA ESPADA at level 57
+165 Ledyba     : GOLPE AÉREO at level 1, BICADA at level 1, RAIO SINAL at level 1, MEGACHIFRE at level 1, PISOTEAR at level 8, RABO BRILHO at level 15, MÏSSIL PINO at level 22, CORTE AÉREO at level 22, AGULHA DUPLA at level 22, CAMUFLAGEM at level 29, TELECINÉTICA at level 36, ESPANCAR at level 43, CHIFRADA at level 50
+166 Ledian     : TEIA ARANHA at level 1, AGULHA DUPLA at level 1, VENTO FOGO at level 1, BICADA at level 1, ATAQUE AÉREO at level 8, BICADA BROCA at level 15, ATIRAR FIOS at level 24, MOV. ESPELHO at level 24, MEGACHIFRE at level 24, CORTE FÚRIA at level 33, ATAQUE VOLT at level 42, INVESTIDA at level 51, CORTE AÉREO at level 60
+167 Spinarak   : LIMPA LUSTRE at level 1, MEGACHIFRE at level 1, FÚRIA DRAGÄO at level 1, RABO VENENO at level 1, RABO BRILHO at level 6, AGULHA DUPLA at level 11, POLUIÇÄO at level 17, RAIO SINAL at level 23, BOMBA LODO at level 30, P. VENENOSA at level 37, ÁCIDO at level 45, CORTE FÚRIA at level 53
+168 Ariados    : MÏSSIL PINO at level 1, CORTE FÚRIA at level 1, MEGACHIFRE at level 1, RABO VENENO at level 1, CORTE AÉREO at level 6, BOLA SOMBRIA at level 11, CANHÄO PREGO at level 17, SANGUESSUGA at level 25, SUPERSÔNICO at level 34, AGULHA DUPLA at level 43, ATIRAR FIOS at level 53, RAIO SINAL at level 63
+169 Crobat     : DENTE VENENO at level 1, POLUIÇÄO at level 1, ÁCIDO at level 1, BOLHAS at level 1, ASSUSTAR at level 6, BICADA BROCA at level 11, LODO at level 16, GOLPE AÉREO at level 21, GÁS VENENOSO at level 28, TÓXICO at level 35, VENTANIA at level 42, RABO VENENO at level 49, RABO BRILHO at level 56
+170 Chinchou   : REDEMOINHO at level 1, PULSO ÁGUA at level 1, FAÏSCA at level 1, HIDRO BOMBA at level 1, EXPLOSÄO at level 5, ESPORTE ÁGUA at level 13, ONDA CHOQUE at level 17, MAU HUMOR at level 25, DANÇA CHUVA at level 29, BOLHAS at level 37, RAIO BOLHAS at level 41, BICA D’ÁGUA at level 49
+171 Lanturn    : ELETROCANHÄO at level 1, ONDA TROVÄO at level 1, ESPORTE ÁGUA at level 1, MAU HUMOR at level 1, CARGA at level 5, ÁGUA LAMA at level 13, HIDRO BOMBA at level 17, SUPERSÔNICO at level 25, PULSO ÁGUA at level 32, TROVÄO at level 43, BOLHAS at level 50, PINÇA at level 61
+172 Pichu      : ELETROCANHÄO at level 1, FURACÄO at level 1, FAÏSCA at level 1, TRI ATAQUE at level 1, CHUTE FOGO at level 6, DESATIVAR at level 8, CARGA at level 11
+173 Cleffa     : FRUSTRAÇÄO at level 1, SAL CHEIROSO at level 1, CARA FEIA at level 1, INVESTIDA at level 1, AT. RÁPIDO at level 4, FOCA ENERGIA at level 8, ROSNAR at level 13
+174 Igglybuff  : LADRÄO at level 1, EXPLOSÄO at level 1, ABATER at level 1, TURBULÊNCIA at level 1, FOGO SAGRADO at level 4, OFUSCAR at level 9, BEIJO AMÁVEL at level 14
+175 Togepi     : REFRESCAR at level 1, CORTE FÚRIA at level 1, DESATIVAR at level 1, ALVOROÇO at level 1, VENTO GILETE at level 6, VEL. EXTREMA at level 11, OVO-BOMBA at level 16, RACHA CRÂNIO at level 21, MASTIGAR at level 26, LUAR at level 31, OLHAR MAU at level 36, TAPA DUPLO at level 41
+176 Togetic    : CRESCIMENTO at level 1, DANÇA PENA at level 1, SOCO TONTO at level 1, AMARRAR at level 1, RESISTIR at level 6, CHUTE GIRADO at level 11, RECUPERAÇÄO at level 16, ATAQUE ASA at level 21, ESFORÇO at level 26, CORTE AÉREO at level 31, BICADA BROCA at level 36, VENTANIA at level 41
+177 Natu       : VOADORA ALTA at level 1, DANÇA ESPADA at level 1, REFLEXÄO at level 1, ENROLAR at level 1, TROCA GOLPE at level 10, SENSORIAL at level 20, PSICOATAQUE at level 30, COME SONHO at level 30, GOLPE AÉREO at level 40, MEDITAÇÄO at level 50
+178 Xatu       : ALVOROÇO at level 1, DESEJA MORTE at level 1, SENSORIAL at level 1, FACHADA at level 1, PODER GRANDE at level 10, AMARRAR at level 20, CHIFRE BROCA at level 35, TROCA GOLPE at level 35, MENTE CALMA at level 50, TELECINÉTICA at level 65
+179 Mareep     : ATAQUE VOLT at level 1, SOCO FOCUS at level 1, RAIO at level 1, SHOCK TROVÄO at level 1, SOCO TROVÄO at level 9, CARGA at level 16, ELETROCANHÄO at level 23, BOCEJO at level 30, ATAQUE FÚRIA at level 37
+180 Flaaffy    : TROVÄO at level 1, ONDA TROVÄO at level 1, ONDA CHOQUE at level 1, ATAQUE VOLT at level 1, ÁCIDO at level 9, SHOCK TROVÄO at level 18, ESPIRAR at level 27, AGARRAMENTO at level 36, ELETROCANHÄO at level 45
+181 Ampharos   : TROVÄO at level 1, ATAQUE VOLT at level 1, AÇOITAR at level 1, RAIO at level 1, FOLHA GILETE at level 9, ELETROCANHÄO at level 18, CARGA at level 27, BOLA SOMBRIA at level 30, MIMICA at level 42, SHOCK TROVÄO at level 57
+182 Bellossom  : LÂMINA FOLHA at level 1, EQUIPE DUPLA at level 1, GRAMA APITO at level 1, RAIO SOLAR at level 1, ABSORVER at level 44, FOLHA MÁGICA at level 55
+183 Marill     : REDEMOINHO at level 1, ESPORTE ÁGUA at level 1, AFIAR at level 1, PINÇA at level 1, SAL CHEIROSO at level 3, AMARRAR at level 6, RUGIDO at level 10, CÓCEGA at level 15, EMPURRÄO at level 21, RETIRADA at level 28, PULSO ÁGUA at level 36, DANÇA CHUVA at level 45
+184 Azumarill  : REDEMOINHO at level 1, HIDRO BOMBA at level 1, ONDA CHOQUE at level 1, P. VENENOSA at level 1, LER MENTE at level 3, FAÏSCA at level 6, DANÇA CHUVA at level 10, AMAR.DESTINO at level 15, OVO FERVIDO at level 24, BEBER LEITE at level 34, UIVAR at level 45, RAIO SINAL at level 57
+185 Sudowoodo  : DESABA PEDRA at level 1, TELECINÉTICA at level 1, ENROLAR at level 1, SOPRO PEDRA at level 1, PEDRA TUMBA at level 9, ROLO COMPR. at level 17, CABEÇADA at level 25, METRÔNOMO at level 33, GOLPE FÚRIA at level 41, PODER ANTIGO at level 49, LANÇA PEDRA at level 57
+186 Politoed   : MAU HUMOR at level 1, DOCE ODOR at level 1, RESISTIR at level 1, BICA D’ÁGUA at level 1, AFIAR at level 35, PULSO ÁGUA at level 51
+187 Hoppip     : ATAQUE AÉREO at level 1, CHICOTE CIPÓ at level 1, MOV. ESPELHO at level 1, HIPER RAIO at level 1, ESPORO at level 5, PÓ SONÏFERO at level 5, ABSORVER at level 10, ESPOROS at level 13, SÏNTESE at level 15, LÂMINA FOLHA at level 17, GOLPE AÉREO at level 20, SEMENTE BALA at level 25, SEMENTE SUGA at level 30
+188 Skiploom   : ESPOROS at level 1, FOLHA MÁGICA at level 1, PÓ SONÏFERO at level 1, SEMENTE BALA at level 1, MEGA DRENO at level 5, RAIO SOLAR at level 5, RAJADA VENTO at level 10, BICADA BROCA at level 13, VENTANIA at level 15, REFLEXÄO at level 17, SOCO SOMBRIO at level 22, SALTAR at level 29, GRAMA APITO at level 36
+189 Jumpluff   : GOLPE AÉREO at level 1, MOV. ESPELHO at level 1, BICADA at level 1, GIGA DRENO at level 1, OVO FERVIDO at level 5, RAIO SOLAR at level 5, SEMENTE BALA at level 10, SALTAR at level 13, ENRAIZAR at level 15, SÏNTESE at level 17, AROMATERAPIA at level 22, BRAÇO AGULHA at level 33, AGARRAMENTO at level 44
+190 Aipom      : BOLA TEMPO at level 1, CAVAR at level 1, PODER OCULTO at level 1, GOLPE FÚRIA at level 1, FAREJAR at level 6, PAGAMENTO at level 13, VENTO GILETE at level 18, CARA FEIA at level 25, HIPNOSE at level 31, TELEPORTE at level 38, RAIO SOLAR at level 43, VEL. EXTREMA at level 50
+191 Sunkern    : SÏNTESE at level 1, AROMATERAPIA at level 1, MÄOZINHA at level 1, MEGA DRENO at level 1, DESEJO at level 6, ENRAIZAR at level 13, ESPOROS at level 18, CHICOTE CIPÓ at level 25, BRAÇO AGULHA at level 30, RAIO SINAL at level 37, FOLHA GILETE at level 42
+192 Sunflora   : ENRAIZAR at level 1, ABSORVER at level 1, SEMENTE BALA at level 1, OCTAZUCA at level 1, ALVOROÇO at level 6, LAMA-BOFETÄO at level 13, ESPOROS at level 18, ESBOÇO at level 25, BRAÇO AGULHA at level 30, PLANTA FÚRIA at level 37, PÓ SONÏFERO at level 42
+193 Yanma      : MINI DESEJO at level 1, ATIRAR FIOS at level 1, VENTO PRATA at level 1, MÏSSIL PINO at level 1, CHARME at level 7, MEGACHIFRE at level 13, RACHA CRÂNIO at level 19, RABO BRILHO at level 25, ATAQUE ASA at level 31, RAIO SINAL at level 37, SOCO POTENTE at level 43, ATAQUE AÉREO at level 49
+194 Wooper     : PREVISÄO at level 1, BICA D’ÁGUA at level 1, ENCARAR at level 1, CLAVA OSSO at level 1, RETIRADA at level 11, OCTAZUCA at level 16, TERREMOTO at level 21, BOLHAS at level 31, DANÇA CHUVA at level 36, PULSO ÁGUA at level 41, PINÇA at level 51, JATO D’ÁGUA at level 51
+195 Quagsire   : FISSURA at level 1, HIDRO BOMBA at level 1, CAVAR at level 1, BICA D’ÁGUA at level 1, LAMA ESPORTE at level 11, LAMA-BOFETÄO at level 16, HIDRO CANHÄO at level 23, MAGNITUDE at level 35, ÁGUA LAMA at level 42, ESPINHOS at level 49, PULSO ÁGUA at level 61, RETIRADA at level 61
+196 Espeon     : COME SONHO at level 1, RAJADA VENTO at level 1, TROCA GOLPE at level 1, RAIO MENTAL at level 1, SUPERSÔNICO at level 8, ESPELHO at level 16, BOLA NÉVOA at level 23, DESCANSO at level 30, TRUQUE at level 36, BIS at level 42, PSICOATAQUE at level 47, AMNÉSIA at level 52
+197 Umbreon    : PERSEGUIÇÄO at level 1, OVO FERVIDO at level 1, SOCO TONTO at level 1, TURBULÊNCIA at level 1, ATQ. COVARDE at level 8, BRASAS at level 16, FISSURA at level 23, DERRUBAR at level 30, HIDRO CANHÄO at level 36, MENTE CALMA at level 42, MASTIGAR at level 47, SOCO FOCUS at level 52
+198 Murkrow    : LEMBRANÇA at level 1, LADRÄO at level 1, BICADA at level 1, ATAQUE ASA at level 1, MASTIGAR at level 9, TORMENTO at level 14, QUEBRA TELA at level 22, AFANAR at level 27, MORDIDA at level 35, CHORO FALSO at level 40, BOMBA SÔNICA at level 48
+199 Slowking   : PSÏQUICO at level 1, FURACÄO at level 1, INTERPRETAR at level 1, BICA D’ÁGUA at level 1, OCTAZUCA at level 6, BOLA NÉVOA at level 15, ENCARAR at level 20, VISÄO FUTURA at level 29, MENTE CALMA at level 34, ESPELHO at level 43, DANÇA PENA at level 48
+200 Misdreavus : NOITE SOMBRA at level 1, PISOTEAR at level 1, SOCO SOMBRIO at level 1, PEDRA TUMBA at level 1, BOLA SOMBRIA at level 6, BARRIGADA at level 11, DOCE ODOR at level 17, LAMBIDA at level 23, ESTOCAR at level 30, MALDIÇÄO at level 37, ASSUSTAR at level 45, MÄOZINHA at level 53
+201 Unown      : RAIO MENTAL at level 1, PODER GRANDE at level 1, REVIDAR at level 1, AMAR.DESTINO at level 1, SALVA GUARDA at level 1, ESPELHO at level 1
+202 Wobbuffet  : CUSPIR at level 1, TROCA GOLPE at level 1, PODER GRANDE at level 1, CONFUSÄO at level 1
+203 Girafarig  : PODER GRANDE at level 1, DETECTAR at level 1, APRISIONAR at level 1, SENSORIAL at level 1, COME SONHO at level 7, VISÄO FUTURA at level 13, AGILIDADE at level 19, AMNÉSIA at level 25, HIPER RAIO at level 31, TELA CLARA at level 37, MAR PSÏQUICO at level 43, PROTEÇÄO at level 49
+204 Pineco     : RABO BRILHO at level 1, MEGACHIFRE at level 1, TELA FUMAÇA at level 1, MÏSSIL PINO at level 1, RAIO SINAL at level 8, AGULHA DUPLA at level 15, VENTO PRATA at level 22, SANGUESSUGA at level 29, VENTANIA at level 36, CANÇÄO at level 43, LADRÄO at level 50
+205 Forretress : ATIRAR FIOS at level 1, DESEJA MORTE at level 1, MÏSSIL PINO at level 1, ASAS DE AÇO at level 1, METEORO at level 8, RAIO BOLHAS at level 15, ESPORO at level 22, SANGUESSUGA at level 29, RABO FERRO at level 39, TÓXICO at level 49, AGULHA DUPLA at level 59
+206 Dunsparce  : OLHAR MAU at level 1, BLOQUEIO at level 1, AFIAR at level 1, AÇOITAR at level 1, BARRIGADA at level 4, BOMBA SÔNICA at level 11, PASSA BATON at level 14, CUSPIR at level 21, LUAR at level 24, HIDRO BOMBA at level 31, RACHA CRÂNIO at level 34, SEMENTE BALA at level 41
+207 Gligar     : BRAÇO AGULHA at level 1, DANÇA DRAGÄO at level 1, TUMBA AREIA at level 1, CAVAR at level 1, MOV. ESPELHO at level 6, FISSURA at level 13, RAJADA VENTO at level 20, LAMA ESPORTE at level 28, METRÔNOMO at level 36, PROVOCAR at level 44, VENTANIA at level 52
+208 Steelix    : AUTODESTRUIR at level 1, ASAS DE AÇO at level 1, METEORO at level 1, GARRA METAL at level 1, BAJULAR at level 9, LAMA ESPORTE at level 13, RABO FERRO at level 21, DEFESA FERRO at level 25, ATAQUE AREIA at level 33, FISSURA at level 37, DESEJA MORTE at level 45, RONCAR at level 49, DANÇA ESPADA at level 57
+209 Snubbull   : QUEBRA TELA at level 1, CUSPIR at level 1, CANÇÄO at level 1, AÇOITAR at level 1, NEVOEIRO at level 4, DANÇA ESPADA at level 8, CABEÇADA at level 13, ENROLAR at level 19, ESTOCAR at level 26, PRESENTE at level 34, FOCA ENERGIA at level 43, CONVERSÄO at level 53
+210 Granbull   : PODER NATIVO at level 1, ENGANAR at level 1, TRI ATAQUE at level 1, BOLA TEMPO at level 1, GÁS VENENOSO at level 4, MEGA CHUTE at level 8, ALVOROÇO at level 13, MEGA SOCO at level 19, CAMUFLAGEM at level 28, ESFORÇO at level 38, AGUARDAR at level 49, HIPER PRESA at level 61
+211 Qwilfish   : ÁCIDO at level 1, FOCA ENERGIA at level 1, P. VENENOSA at level 1, CANHÄO PREGO at level 1, LODO at level 10, POLUIÇÄO at level 10, OCTAZUCA at level 19, BOLHAS at level 28, GÁS VENENOSO at level 37, RETIRADA at level 46
+212 Scizor     : AGULHA DUPLA at level 1, RABO BRILHO at level 1, SANGUESSUGA at level 1, RAIO SINAL at level 1, CORTE FÚRIA at level 6, ESPIRAR at level 11, MEGACHIFRE at level 16, RANCOR at level 21, RAIO BOLHAS at level 26, MÏSSIL PINO at level 31, MENTE CALMA at level 36, PODER OCULTO at level 41, RABO FERRO at level 46
+213 Shuckle    : TEMP.AREIA at level 1, SOPRO PEDRA at level 1, CORTE FÚRIA at level 1, VENTO PRATA at level 1, ROLO COMPR. at level 9, DESABA PEDRA at level 14, RAIO SINAL at level 23, RABO BRILHO at level 28, CONFUSÄO at level 37
+214 Heracross  : CORTE FÚRIA at level 1, ÁGUA LAMA at level 1, TEIA ARANHA at level 1, QUEBRA TELA at level 1, ESBOÇO at level 6, MÏSSIL PINO at level 11, BLOQUEIO at level 17, CONVERSÄO at level 23, SOCO VELOZ at level 30, AUMENTAR at level 37, RAIO SINAL at level 45, ATIRAR FIOS at level 53
+215 Sneasel    : NEBLINA at level 1, MEDITAÇÄO at level 1, PROVOCAR at level 1, MORDIDA at level 1, MASTIGAR at level 8, TRI ATAQUE at level 15, LANÇA ARPÄO at level 22, DANÇA CHUVA at level 29, AFANAR at level 36, LEMBRANÇA at level 43, CHORO FALSO at level 50, BAJULAR at level 57, RABO FERRO at level 64
+216 Teddiursa  : REFRESCAR at level 1, MINIMIZAR at level 1, BOLA TEMPO at level 1, ARRANHÄO at level 1, CHIFRADA at level 7, ATRAÇÄO at level 13, ROSNAR at level 19, HIPER RAIO at level 25, RASTEIRA at level 31, ESTOCAR at level 37, FURACÄO at level 43, ENGOLIR at level 49
+217 Ursaring   : PAGAMENTO at level 1, CONSTRIGIR at level 1, DESATIVAR at level 1, SOCO COMETA at level 1, ENGANAR at level 7, CÓCEGA at level 13, BIS at level 19, FAREJAR at level 25, SUPERSÔNICO at level 31, CHIFRADA at level 37, AUTODESTRUIR at level 43, CANÇÄO MORTE at level 49
+218 Slugma     : SUPERAQUEÇER at level 1, AMARRAR at level 1, LANÇA ARPÄO at level 1, SOCO FOGO at level 1, OVO FERVIDO at level 8, CHUTE FOGO at level 15, TRI ATAQUE at level 22, ERUPÇÄO at level 29, RAJADA FOGO at level 36, MINI DESEJO at level 43, AGUARDAR at level 50
+219 Magcargo   : SOM METAL at level 1, GIRO FOGO at level 1, BRASAS at level 1, SOCO FOGO at level 1, LANÇA-CHAMAS at level 8, SUBSTITUTO at level 15, CHUTE FOGO at level 22, RODA DE FOGO at level 29, FOGO SAGRADO at level 36, DIA DE SOL at level 48, CONVERSÄO 2 at level 60
+220 Swinub     : FISSURA at level 1, VENTO GELADO at level 1, MEDITAÇÄO at level 1, CAVAR at level 1, NEVASCA at level 10, OSSO RÁPIDO at level 19, SUPERAQUEÇER at level 28, NEVOEIRO at level 37, CLAVA OSSO at level 46, TERREMOTO at level 55
+221 Piloswine  : VENTO GELADO at level 1, LAMA ESPORTE at level 1, TUMBA AREIA at level 1, PÓ DE NEVE at level 1, LANÇA ARPÄO at level 10, NEBLINA at level 19, NEVOEIRO at level 28, RODA DE FOGO at level 33, GRANIZO at level 42, OSSO RÁPIDO at level 56, FRIO POLAR at level 70
+222 Corsola    : PULSO ÁGUA at level 1, JATO D’ÁGUA at level 1, BOLHAS at level 1, PODER ANTIGO at level 1, COBIÇA at level 6, MAU HUMOR at level 12, HIDRO CANHÄO at level 17, ROLO COMPR. at level 17, PEDRA TUMBA at level 23, REDEMOINHO at level 28, SOCO TONTO at level 34, TEMP.AREIA at level 39, RAIO BOLHAS at level 45
+223 Remoraid   : BLOQUEIO at level 1, PODER GRANDE at level 1, ARRANHÄO at level 1, VENTO GILETE at level 1, BAFO DRAGÄO at level 11, ESPORTE ÁGUA at level 22, INSULTAR at level 22, LINCHAR at level 22, PULSO ÁGUA at level 33, SAL CHEIROSO at level 44, SOL MATUTINO at level 55
+224 Octillery  : RETIRADA at level 1, DESEJA MORTE at level 1, JATO D’ÁGUA at level 1, BOLHAS at level 1, GOLPE FÚRIA at level 11, AVANÇO-DUPLO at level 22, ESPORTE ÁGUA at level 22, BARRAGEM at level 22, PINÇA at level 25, UIVAR at level 38, HIDRO BOMBA at level 54, RAIO BOLHAS at level 70
+225 Delibird   : FRIO POLAR at level 1, RAIO AURORA at level 1, INVESTIDA at level 1, BOLHAS at level 1, SUPERSÔNICO at level 8, RAIO BOLHAS at level 15, ABATER at level 22, AGILIDADE at level 29, ATAQUE ASA at level 36, PULSO ÁGUA at level 43, RAIO CONFUSO at level 50
+226 Mantine    : RAIO BOLHAS at level 1, GOLPE AÉREO at level 1, MAU HUMOR at level 1, SOCO TROVÄO at level 1, PINÇA at level 8, ATAQUE ASA at level 15, CORTE AÉREO at level 22, DANÇA PENA at level 29, RETIRADA at level 36, RETORNO at level 43, HIDRO CANHÄO at level 50
+227 Skarmory   : ATAQUE AÉREO at level 1, DESEJA MORTE at level 1, ATAQUE ASA at level 1, ASAS DE AÇO at level 1, CORTE AÉREO at level 10, DEFESA FERRO at level 13, BICADA at level 16, BICADA BROCA at level 26, GARRA METAL at level 29, SOM METAL at level 32, SALTAR at level 42, RABO FERRO at level 45
+228 Houndour   : PERSEGUIÇÄO at level 1, DERRUBAR at level 1, MORDIDA at level 1, TAPA DUPLO at level 1, LINCHAR at level 7, ARRANHÄO at level 13, FOGO SAGRADO at level 19, SUPERAQUEÇER at level 25, GIRO FOGO at level 31, ATQ. COVARDE at level 37, CHORO FALSO at level 43, AFANAR at level 49
+229 Houndoom   : LANÇA-CHAMAS at level 1, AFANAR at level 1, ALVOROÇO at level 1, FOGO SAGRADO at level 1, MASTIGAR at level 7, DERRUBAR at level 13, LADRÄO at level 19, TORMENTO at level 27, MORDIDA at level 35, GARRA DRAGÄO at level 43, PROVOCAR at level 51, DESATIVAR at level 59
+230 Kingdra    : BOLHAS at level 1, BAFO DRAGÄO at level 1, PRESENTE at level 1, HIDRO BOMBA at level 1, REDEMOINHO at level 8, ESTOCAR at level 15, RAIO BOLHAS at level 22, ESPORTE ÁGUA at level 29, ESPOROS at level 40, TORNADO at level 51, SOCO COMETA at level 62
+231 Phanpy     : LAMA ESPORTE at level 1, ESPINHOS at level 1, DESATIVAR at level 1, GARRA DRAGÄO at level 1, DANÇA PÉTALA at level 9, FISSURA at level 17, BLOQUEIO at level 25, AGUARDAR at level 33, ATIRAR LAMA at level 41, CHIFRADA at level 49
+232 Donphan    : CANHÄO PREGO at level 1, CLAVA OSSO at level 1, ABSORVER at level 1, TRI ATAQUE at level 1, GRAMA APITO at level 9, TAPA DUPLO at level 17, ESPINHOS at level 25, ATIRAR LAMA at level 33, ATAQUE AREIA at level 41, TORMENTO at level 49
+233 Porygon2   : ASAS DE AÇO at level 1, BICADA BROCA at level 1, ROSNAR at level 1, LANÇA-CHAMAS at level 1, OVO FERVIDO at level 9, ATIRAR LAMA at level 12, CONVERSÄO at level 20, BEIJO DOCE at level 24, BERRO at level 32, CARA FEIA at level 36, PODER ANTIGO at level 44, BEIJO AMÁVEL at level 48
+234 Stantler   : BIS at level 1, FURACÄO at level 1, LAMBIDA at level 1, PODER ANTIGO at level 1, CHIFRE BROCA at level 7, BARRAGEM at level 13, MÄOZINHA at level 19, AT. RÁPIDO at level 25, MIRAR at level 31, CRESCIMENTO at level 37, REFRESCAR at level 43, PODER GRANDE at level 49
+235 Smeargle   : SUPER PRESA at level 1, MAU HUMOR at level 1, TAPA DUPLO at level 1, INVESTIDA at level 1, SOL MATUTINO at level 11, EQUIPE DUPLA at level 21, DOCE ODOR at level 31, ENROLAR at level 41, DANÇA at level 51, ENGANAR at level 61, FAÏSCA at level 71, PISOTEAR at level 81, MEGA SOCO at level 91
+236 Tyrogue    : SUBMISSÄO at level 1, MOV. SÏSMICO at level 1, CHUTE GIRADO at level 1, VINGANÇA at level 1, FOCA ENERGIA at level 7, PERSEGUIÇÄO at level 13, AT. RÁPIDO at level 19, CHUTE TRIPLO at level 20, GIRO RÁPIDO at level 25, REVIDAR at level 31, AGILIDADE at level 37, DETECTAR at level 43, ESFORÇO at level 49
+237 Hitmontop  : CRESCIMENTO at level 1, CABEÇADA at level 1, AUMENTAR at level 1, LÂMINA FOLHA at level 1, MOV. SÏSMICO at level 7, ATAQUE AREIA at level 13, RASTEIRA at level 19, SOCO FOCUS at level 20, SUPERPODER at level 25, RECUPERAÇÄO at level 31, BARRAGEM at level 37, GOLPE KARATE at level 43, QUEBRA TELA at level 49
+238 Smoochum   : PÓ DE NEVE at level 1, PSÏQUICO at level 1, FRIO POLAR at level 1, RAIO MENTAL at level 1, NEVOEIRO at level 9, REFLEXÄO at level 13, DESEJO at level 21, BOLA DE GELO at level 25, TELECINÉTICA at level 33, TRUQUE at level 37, NEVASCA at level 45, LANÇA ARPÄO at level 49, GRANIZO at level 57
+239 Elekid     : CARGA at level 1, SHOCK TROVÄO at level 1, ABATER at level 1, PISOTEAR at level 1, ONDA TROVÄO at level 9, INTERPRETAR at level 17, RAIO at level 25, RUGIDO at level 33, DANÇA ESPADA at level 41, ELETROCANHÄO at level 49
+240 Magby      : ATAQUE AREIA at level 1, DIA DE SOL at level 1, BRASAS at level 1, TAPA DUPLO at level 1, ESBOÇO at level 7, METRÔNOMO at level 13, CHUTE FOGO at level 19, ONDA CALOR at level 25, RODA DE FOGO at level 31, AMARRAR at level 37, SOCO FOGO at level 43, VENTO FOGO at level 49
+241 Miltank    : HIPER RAIO at level 1, METEORO at level 1, RUGIDO at level 1, PAGAMENTO at level 1, BOLA TEMPO at level 4, AGARRAMENTO at level 8, ENCARAR at level 13, OLHAR MAU at level 19, MIMICA at level 26, PRESENTE at level 34, FÚRIA at level 43, CRESCIMENTO at level 53
+242 Blissey    : DANÇA at level 1, MIMICA at level 1, HIPER PRESA at level 1, VEL. EXTREMA at level 1, GOLPE FÚRIA at level 4, ESPIRAR at level 7, MEGA SOCO at level 10, TRI ATAQUE at level 13, ALVOROÇO at level 18, BOLA SOMBRIA at level 23, TELA FUMAÇA at level 28, RACHA CRÂNIO at level 33, TURBULÊNCIA at level 40, SÏNTESE at level 47
+243 Raikou     : ENGANAR at level 1, BARRAGEM at level 1, CONSTRIGIR at level 1, RAIO at level 1, ELETROCANHÄO at level 11, CARGA at level 21, ONDA CHOQUE at level 31, TRI ATAQUE at level 41, ONDA TROVÄO at level 51, BOMBA SÔNICA at level 61, TROVÄO at level 71, FAÏSCA at level 81
+244 Entei      : DIA DE SOL at level 1, DANÇA ESPADA at level 1, FOGO SAGRADO at level 1, RODA DE FOGO at level 1, GIRO FOGO at level 11, ALVOROÇO at level 21, MINI DESEJO at level 31, HIPER PRESA at level 41, SUPERAQUEÇER at level 51, SAL CHEIROSO at level 61, ONDA CALOR at level 71, SALVA GUARDA at level 81
+245 Suicune    : DANÇA CHUVA at level 1, RACHA CRÂNIO at level 1, PINÇA at level 1, RAIO BOLHAS at level 1, CANÇÄO at level 11, BOLA TEMPO at level 21, BICA D’ÁGUA at level 31, PULSO ÁGUA at level 41, HIDRO CANHÄO at level 51, ESPINHOS at level 61, DESEJO at level 71, JATO D’ÁGUA at level 81
+246 Larvitar   : LAMA-BOFETÄO at level 1, DESABA PEDRA at level 1, PEDRA TUMBA at level 1, PODER ANTIGO at level 1, TEMP.AREIA at level 8, CLAVA OSSO at level 15, MAGNITUDE at level 22, MEDITAÇÄO at level 29, CAVAR at level 36, LANÇA PEDRA at level 43, OSSO RÁPIDO at level 50, SEMENTE SUGA at level 57
+247 Pupitar    : TEMP.AREIA at level 1, ROLO COMPR. at level 1, SOPRO PEDRA at level 1, OSSORANGUE at level 1, LAMA ESPORTE at level 8, BOLA DE GELO at level 15, PEDRA TUMBA at level 22, ATAQUE AREIA at level 29, LANÇA PEDRA at level 38, PODER ANTIGO at level 47, LAMA-BOFETÄO at level 56, MAGNITUDE at level 65
+248 Tyranitar  : DESABA PEDRA at level 1, FURACÄO at level 1, AFANAR at level 1, PODER ANTIGO at level 1, SOPRO PEDRA at level 8, LANÇA PEDRA at level 15, MASTIGAR at level 22, ROLO COMPR. at level 29, BAJULAR at level 38, VENTO PRATA at level 47, ATQ. COVARDE at level 61, LADRÄO at level 75
+249 Lugia      : BICADA BROCA at level 1, MOV. ESPELHO at level 1, TELEPORTE at level 1, BICADA at level 1, VENTANIA at level 11, HIPNOSE at level 22, PSICOATAQUE at level 33, BOLA NÉVOA at level 44, DANÇA PENA at level 55, AMNÉSIA at level 66, ESPELHO at level 77, ÁCIDO at level 88, COME SONHO at level 99
+250 Ho-Oh      : SOCO FOGO at level 1, ERUPÇÄO at level 1, BICADA BROCA at level 1, FOGO SAGRADO at level 1, MIRAR at level 11, GIRO FOGO at level 22, RAJADA FOGO at level 33, ONDA CALOR at level 44, BRASAS at level 55, VENTO FOGO at level 66, DETECTAR at level 77, DIA DE SOL at level 88, CHUTE FOGO at level 99
+251 Celebi     : CAMUFLAGEM at level 1, PODER GRANDE at level 1, EQUIPE DUPLA at level 1, PSÏQUICO at level 1, DANÇA PÉTALA at level 10, REFLEXÄO at level 20, TELECINÉTICA at level 30, LUAR at level 40, TROCA GOLPE at level 50
+252 Treecko    : LÂMINA FOLHA at level 1, DANÇA PÉTALA at level 1, GRAMA APITO at level 1, CHICOTE CIPÓ at level 1, BRAÇO AGULHA at level 6, TRUQUE at level 11, VENTO GILETE at level 16, SEMENTE BALA at level 21, ESPOROS at level 26, DETECTAR at level 31, CANHÄO PREGO at level 36, CONSTRIGIR at level 41, ESPORO at level 46
+253 Grovyle    : BEIJO DOCE at level 1, BEBER LEITE at level 1, ESPORO at level 1, LÂMINA FOLHA at level 1, MEGA DRENO at level 6, ENRAIZAR at level 11, ABSORVER at level 16, CHARME at level 17, ENGOLIR at level 23, BARREIRA at level 29, RAIO AURORA at level 35, DANÇA PÉTALA at level 41, GRAMA APITO at level 47, ESPOROS at level 53
+254 Sceptile   : ESPORO at level 1, ESBOÇO at level 1, ESPOROS at level 1, FOLHA GILETE at level 1, SEMENTE SUGA at level 6, AVANÇO-DUPLO at level 11, MEGA SOCO at level 16, ESPOROS at level 17, RAIO SOLAR at level 23, SIGA-ME at level 29, GRAMA APITO at level 35, SÏNTESE at level 43, ABSORVER at level 51, BRAÇO AGULHA at level 59
+255 Torchic    : SUPERAQUEÇER at level 1, VENTO FOGO at level 1, BRASAS at level 1, HIPER PRESA at level 1, DIVIDIR DOR at level 7, FOGO SAGRADO at level 10, OLHAR MAU at level 16, ESPIRAR at level 19, CAMUFLAGEM at level 25, BATE CORPO at level 28, DIA DE SOL at level 34, RODA DE FOGO at level 37, ONDA CALOR at level 43
+256 Combusken  : SUBMISSÄO at level 1, CHUTE DUPLO at level 1, LANCE VITAL at level 1, BRASAS at level 1, LANÇA-CHAMAS at level 7, SONAMBULO at level 13, CHUTE FOGO at level 16, VOADORA at level 17, ERUPÇÄO at level 21, MINI DESEJO at level 28, VOADORA ALTA at level 32, RAJADA FOGO at level 39, RODA DE FOGO at level 43, GOLPE CORTE at level 50
+257 Blaziken   : SOCO FOCUS at level 1, ENROLAR at level 1, ASSISTÊNCIA at level 1, VOADORA at level 1, ERUPÇÄO at level 1, MINI DESEJO at level 7, EMPURRÄO at level 13, VINGANÇA at level 16, ESPOROS at level 17, RASTEIRA at level 21, RODA DE FOGO at level 28, VENTO FOGO at level 32, DIA DE SOL at level 36, TRI ATAQUE at level 42, SOCO FOGO at level 49, APRISIONAR at level 59
+258 Mudkip     : PULSO ÁGUA at level 1, ENGOLIR at level 1, PÓ SONÏFERO at level 1, HIDRO CANHÄO at level 1, ROSNAR at level 6, FURACÄO at level 10, ESPORTE ÁGUA at level 15, MAU HUMOR at level 19, ÁGUA LAMA at level 24, LANÇA ARPÄO at level 28, CHIFRE BROCA at level 33, OVO-BOMBA at level 37, BICA D’ÁGUA at level 42, PINÇA at level 46
+259 Marshtomp  : DANÇA ESPADA at level 1, RAIO BOLHAS at level 1, RAIO AURORA at level 1, LAMA-BOFETÄO at level 1, MAU HUMOR at level 6, RETIRADA at level 10, FOLHA MÁGICA at level 15, BOLHAS at level 16, LAMA ESPORTE at level 20, QUEBRA TELA at level 25, TUMBA AREIA at level 31, CAVAR at level 37, ATIRAR LAMA at level 42, ÁGUA LAMA at level 46, DIA DE SOL at level 53
+260 Swampert   : ESPINHOS at level 1, JATO D’ÁGUA at level 1, OCTAZUCA at level 1, OSSO RÁPIDO at level 1, BOLHAS at level 6, REDEMOINHO at level 10, RAIO BOLHAS at level 15, MAU HUMOR at level 16, MÄOZINHA at level 20, PULSO ÁGUA at level 25, CAVAR at level 31, TUMBA AREIA at level 39, FISSURA at level 46, AUTODESTRUIR at level 52, DOCE ODOR at level 61
+261 Poochyena  : CONVERSÄO at level 1, ATQ. COVARDE at level 1, TURBULÊNCIA at level 1, DERRUBAR at level 1, LER MENTE at level 5, CABEÇADA at level 9, AFANAR at level 13, LADRÄO at level 17, GIRO RÁPIDO at level 21, SOCO SOMBRIO at level 25, LINCHAR at level 29, PROVOCAR at level 33, MIMICA at level 37, CHICOTE CIPÓ at level 41, VEL. EXTREMA at level 45
+262 Mightyena  : AFANAR at level 1, ASSISTÊNCIA at level 1, INVESTIDA at level 1, PERSEGUIÇÄO at level 1, MORDIDA at level 5, ESBOÇO at level 9, BAJULAR at level 13, ESPOROS at level 17, DANÇA ESPADA at level 22, REFRESCAR at level 27, TRI ATAQUE at level 32, RETORNO at level 37, PROVOCAR at level 42, SOM METAL at level 47, DERRUBAR at level 52
+263 Zigzagoon  : CORTE FALSO at level 1, ENCARAR at level 1, SUBSTITUTO at level 1, COBIÇA at level 1, CANHÄO PREGO at level 5, RACHA CRÂNIO at level 9, CABEÇADA at level 13, PROTEÇÄO at level 17, INSULTAR at level 21, ABATER at level 25, SOCO FOCUS at level 29, ESPREGUISSAR at level 33, DANÇA ESPADA at level 37, RESISTIR at level 41
+264 Linoone    : MÄOZINHA at level 1, AGARRAMENTO at level 1, TROVÄO at level 1, TRI ATAQUE at level 1, EQUIPE DUPLA at level 5, AÇOITAR at level 9, FÚRIA at level 13, LANÇA PEDRA at level 17, ONDA CALOR at level 23, BARRIGADA at level 29, RAIO at level 35, GARRA APERTO at level 41, METRÔNOMO at level 47, AFIAR at level 53
+265 Wurmple    : ATIRAR FIOS at level 1, ESPIRAR at level 1, RAIO SINAL at level 1, LINCHAR at level 1, BATER at level 5
+266 Silcoon    : ESTOCAR at level 1, CORTE FÚRIA at level 1, AGULHA DUPLA at level 1, SANGUESSUGA at level 1, ABSORVER at level 10, VENTANIA at level 13, ESPORO at level 17, SOL MATUTINO at level 20, MEGA DRENO at level 24, FURACÄO at level 27, ATRAÇÄO at level 31, VENTO PRATA at level 34, GIGA DRENO at level 38
+267 Beautifly  : RAIO SINAL at level 1, MEGACHIFRE at level 1, BEIJO DOCE at level 1, VENTO PRATA at level 1, AGULHA DUPLA at level 10, TEIA ARANHA at level 13, CORTE AÉREO at level 17, ATIRAR FIOS at level 20, RAJADA VENTO at level 24, FÚRIA at level 27, CORTE FÚRIA at level 31, MÏSSIL PINO at level 34, BICADA at level 38
+268 Cascoon    : ATIRAR FIOS at level 1, ESPANCAR at level 1, CARA FEIA at level 1, CORTE FÚRIA at level 1, CONFUSÄO at level 10, VENTANIA at level 13, PROTEÇÄO at level 17, LUAR at level 20, RAIO MENTAL at level 24, FURACÄO at level 27, TELA CLARA at level 31, VENTO PRATA at level 34, TÓXICO at level 38
+269 Dustox     : ÁCIDO at level 1, RAIO SINAL at level 1, GÁS VENENOSO at level 1, CORTE FÚRIA at level 1, RUGIDO at level 10, SALTAR at level 13, RACHA CRÂNIO at level 17, LODO at level 20, ENGOLIR at level 24, MÏSSIL PINO at level 27, MEGACHIFRE at level 31, RABO BRILHO at level 34, ATIRAR FIOS at level 38
+270 Lotad      : ESPORO at level 1, DANÇA CHUVA at level 1, JATO D’ÁGUA at level 1, GOLPE FÚRIA at level 1, MAU HUMOR at level 3, DESEJO at level 7, DANÇA PÉTALA at level 13, RETIRADA at level 21, BOLHAS at level 31, MOV. ESPELHO at level 43
+271 Lombre     : GIGA DRENO at level 1, DANÇA CHUVA at level 1, CARGA at level 1, ÁCIDO at level 1, HIDRO CANHÄO at level 3, PÓ SONÏFERO at level 7, BICA D’ÁGUA at level 13, ENRAIZAR at level 19, SEMENTE SUGA at level 25, DANÇA PÉTALA at level 31, BOLHAS at level 37, ESPORTE ÁGUA at level 43, PULSO ÁGUA at level 49
+272 Ludicolo   : CHARME at level 1, SUPERAQUEÇER at level 1, CHICOTE CIPÓ at level 1, ÁGUA LAMA at level 1
+273 Seedot     : CABEÇADA at level 1, SEMENTE BALA at level 1, FOLHA MÁGICA at level 1, MEGA DRENO at level 1, ENRAIZAR at level 3, ABSORVER at level 7, ROSNAR at level 13, SÏNTESE at level 21, BRAÇO AGULHA at level 31, INSULTAR at level 43
+274 Nuzleaf    : GIGA DRENO at level 1, FOLHA MÁGICA at level 1, CHORO FALSO at level 1, ABSORVER at level 1, GIRO RÁPIDO at level 3, LADRÄO at level 7, ENGOLIR at level 13, GRAMA APITO at level 19, BAJULAR at level 25, MEGA DRENO at level 31, OLHAR MAU at level 37, CHICOTE CIPÓ at level 43, RABO CHICOTE at level 49
+275 Shiftry    : LEMBRANÇA at level 1, DERRUBAR at level 1, GIGA DRENO at level 1, SEMENTE BALA at level 1
+276 Taillow    : ARRANHÄO at level 1, ATAQUE AÉREO at level 1, ATAQUE ASA at level 1, VENTANIA at level 1, MOV. ESPELHO at level 4, SALTAR at level 8, GOLPE FÚRIA at level 13, RUGIDO at level 19, BICADA at level 26, DANÇA PENA at level 34, ENGOLIR at level 43
+277 Swellow    : DOCE ODOR at level 1, SALTAR at level 1, BICADA BROCA at level 1, ATAQUE AÉREO at level 1, GOLPE AÉREO at level 4, DIVIDIR DOR at level 8, DANÇA ESPADA at level 13, RAJADA VENTO at level 19, ATAQUE ASA at level 28, FURACÄO at level 38, OFUSCAR at level 49
+278 Wingull    : PULSO ÁGUA at level 1, FÚRIA at level 1, ATAQUE ASA at level 1, VENTANIA at level 1, RAIO BOLHAS at level 7, PINÇA at level 13, GOLPE AÉREO at level 21, BOLHAS at level 31, ATAQUE AÉREO at level 43, BICADA BROCA at level 55
+279 Pelipper   : ATAQUE ASA at level 1, RETORNO at level 1, RETIRADA at level 1, HIPER RAIO at level 1, OCTAZUCA at level 3, DANÇA PENA at level 7, REDEMOINHO at level 13, CONFUSÄO at level 21, ÁGUA LAMA at level 25, HIDRO CANHÄO at level 33, JATO D’ÁGUA at level 33, CORTE AÉREO at level 47, PULSO ÁGUA at level 61
+280 Ralts      : SAL CHEIROSO at level 1, TROCA GOLPE at level 1, INTERPRETAR at level 1, CONFUSÄO at level 1, SOCO TROVÄO at level 6, BARRAGEM at level 11, LÂMINA FOLHA at level 16, PODER GRANDE at level 21, TELEPORTE at level 26, RACHA CRÂNIO at level 31, MIMICA at level 36, BOLA NÉVOA at level 41, AMNÉSIA at level 46
+281 Kirlia     : BOLA NÉVOA at level 1, SOCO POTENTE at level 1, AGILIDADE at level 1, PSICOATAQUE at level 1, HIPNOSE at level 6, ESPIRAR at level 11, LIMPA LUSTRE at level 16, BARREIRA at level 21, ROSNAR at level 26, APRISIONAR at level 33, TELEPORTE at level 40, TELA FUMAÇA at level 47, LADRÄO at level 54
+282 Gardevoir  : REFLEXÄO at level 1, BOLA NÉVOA at level 1, TELEPORTE at level 1, GIRO RÁPIDO at level 1, DESEJO at level 6, ESPREGUISSAR at level 11, VENTO GILETE at level 16, RACHA CRÂNIO at level 21, TELA CLARA at level 26, GUILHOTINA at level 33, TROCA GOLPE at level 42, ESPIRAR at level 51, APRISIONAR at level 60
+283 Surskit    : PINÇA at level 1, RABO BRILHO at level 1, VENTO PRATA at level 1, CORTE FÚRIA at level 1, RAIO SINAL at level 7, NEVASCA at level 13, SOCO FOCUS at level 19, BICA D’ÁGUA at level 25, DANÇA CHUVA at level 31, TROCA GOLPE at level 37, RAIO BOLHAS at level 37
+284 Masquerain : DANÇA PENA at level 1, GOLPE AÉREO at level 1, ATIRAR FIOS at level 1, GIRO FOGO at level 1, AGULHA DUPLA at level 7, BICADA at level 13, TERREMOTO at level 19, MEGACHIFRE at level 26, MÏSSIL PINO at level 33, TEIA ARANHA at level 40, VENTO PRATA at level 47, ATQ. COVARDE at level 53
+285 Shroomish  : ENRAIZAR at level 1, ABSORVER at level 1, ESPOROS at level 1, SEMENTE BALA at level 1, AROMATERAPIA at level 4, VENTO GILETE at level 7, DANÇA PÉTALA at level 10, GARRA METAL at level 16, SALVA GUARDA at level 22, BOCEJO at level 28, OCTAZUCA at level 36, RAIO SOLAR at level 45, GIGA DRENO at level 54
+286 Breloom    : ABSORVER at level 1, RANCOR at level 1, SUBMISSÄO at level 1, EMPURRÄO at level 1, VINGANÇA at level 4, LÂMINA FOLHA at level 7, CONVERSÄO 2 at level 10, CHUTE DUPLO at level 16, CHICOTE CIPÓ at level 22, SEMENTE BALA at level 23, ESPOROS at level 28, SANGUESSUGA at level 36, MEGA DRENO at level 45, DANÇA PÉTALA at level 54
+287 Slakoth    : SOCO COMETA at level 1, MEGA SOCO at level 1, GUILHOTINA at level 1, GOLPE FÚRIA at level 1, ESPIRAR at level 7, TURBULÊNCIA at level 13, OVO FERVIDO at level 19, AMARRAR at level 25, SOL MATUTINO at level 31, RACHA CRÂNIO at level 37, BERRO at level 43
+288 Vigoroth   : FÚRIA at level 1, PSÏQUICO at level 1, RECUPERAÇÄO at level 1, SALTAR at level 1, AGILIDADE at level 7, BOMBA SÔNICA at level 13, MEGA CHUTE at level 19, SUPERPODER at level 25, ENRAIZAR at level 31, FOCA ENERGIA at level 37, DESATIVAR at level 43, LADRÄO at level 49
+289 Slaking    : ROSNAR at level 1, DANÇA at level 1, DANÇA ESPADA at level 1, BARRAGEM at level 1, PÓ VENENOSO at level 7, DEFESA FERRO at level 13, UIVAR at level 19, SUPER PRESA at level 25, INVESTIDA at level 31, MINIMIZAR at level 36, SEMENTE BALA at level 37, MAGNITUDE at level 43
+290 Nincada    : MEGACHIFRE at level 1, OSSORANGUE at level 1, ATIRAR FIOS at level 1, CHIFRADA at level 1, ATAQUE AREIA at level 5, CAPA MÁGICA at level 9, RAIO SINAL at level 14, MÏSSIL PINO at level 19, LAMA ESPORTE at level 25, AGULHA DUPLA at level 31, CORTE FÚRIA at level 38, LAMA-BOFETÄO at level 45
+291 Ninjask    : ENROLAR at level 1, ATAQUE ASA at level 1, CORTE FÚRIA at level 1, BICADA at level 1, BICADA BROCA at level 5, ATAQUE AÉREO at level 9, SANGUESSUGA at level 14, RABO BRILHO at level 19, RAJADA VENTO at level 20, TEIA ARANHA at level 20, DANÇA PENA at level 20, AFIAR at level 25, RAIO SINAL at level 31, INTERPRETAR at level 38, MOV. ESPELHO at level 45
+292 Shedinja   : ATIRAR FIOS at level 1, ASSUSTAR at level 1, TEIA ARANHA at level 1, VENTO PRATA at level 1, LAMBIDA at level 5, RABO BRILHO at level 9, SANGUESSUGA at level 14, AGULHA DUPLA at level 19, NOITE SOMBRA at level 25, RAIO SINAL at level 31, MÏSSIL PINO at level 38, MALDIÇÄO at level 45
+293 Whismur    : BEIJO DOCE at level 1, CANÇÄO at level 1, CONVERSÄO 2 at level 1, ABATER at level 1, HIPER VOZ at level 5, TRI ATAQUE at level 11, FAREJAR at level 15, CONVERSÄO at level 21, CORTE FALSO at level 25, RONCAR at level 31, SONAMBULO at level 35, PREVISÄO at level 41, ESBOÇO at level 41, CÉU DIRETO at level 45
+294 Loudred    : HIPER PRESA at level 1, AFIAR at level 1, COBIÇA at level 1, CHIFRADA at level 1, SUBSTITUTO at level 5, OLHAR MAU at level 11, MEGA CHUTE at level 15, RECUPERAÇÄO at level 23, AT. RÁPIDO at level 29, METRÔNOMO at level 37, VEL. EXTREMA at level 43, BOLA TEMPO at level 51, DIVIDIR DOR at level 51, RETORNO at level 57
+295 Exploud    : PRESENTE at level 1, CAMUFLAGEM at level 1, LADRÄO at level 1, CANHÄO PREGO at level 1, BEIJO DOCE at level 5, ENDURECER at level 11, EXPLOSÄO at level 15, CHUTE DUPLO at level 23, PANCADA at level 29, TAPA DUPLO at level 37, LANCE VITAL at level 40, TURBULÊNCIA at level 45, RAIO at level 55, ABATER at level 55, RECICLAR at level 63
+296 Makuhita   : CORTE FALSO at level 1, LANCE VITAL at level 1, HIPER RAIO at level 1, SOCO VELOZ at level 1, AUMENTAR at level 4, QUEBRA TELA at level 10, REVERSÄO at level 13, BOMBA SÔNICA at level 19, SUBMISSÄO at level 22, EST. CADENTE at level 28, VOADORA ALTA at level 31, PROTEÇÄO at level 37, CHARME at level 40, REVIDAR at level 46, RASTEIRA at level 49
+297 Hariyama   : SOL MATUTINO at level 1, SOCO POTENTE at level 1, ENGOLIR at level 1, RACHA CRÂNIO at level 1, EMPURRÄO at level 4, CÉU DIRETO at level 10, TUMBA AREIA at level 13, GOLPE KARATE at level 19, CORTE FALSO at level 22, CHUTE GIRADO at level 29, FACHADA at level 33, SUPERPODER at level 40, UIVAR at level 44, CHUTE DUPLO at level 51, TURBULÊNCIA at level 55
+298 Azurill    : CONVERSÄO 2 at level 1, COME SONHO at level 1, FACHADA at level 1, SAL CHEIROSO at level 1, LER MENTE at level 3, HIPER VOZ at level 6, ABATER at level 10, SIGA-ME at level 15, ALVOROÇO at level 21
+299 Nosepass   : LANÇA PEDRA at level 1, MIRAR at level 1, SOPRO PEDRA at level 1, RACHA CRÂNIO at level 1, TEMP.AREIA at level 7, CHARME at level 13, DESABA PEDRA at level 16, PODER ANTIGO at level 22, PEDRA TUMBA at level 28, PODER OCULTO at level 31, ARRANHÄO at level 37, ROLO COMPR. at level 43, RABO VENENO at level 46
+300 Skitty     : ENDURECER at level 1, MEGA DRENO at level 1, HIPER RAIO at level 1, AVANÇO-DUPLO at level 1, SEMENTE SUGA at level 3, PANCADA at level 7, LUAR at level 13, OFUSCAR at level 15, DIVIDIR DOR at level 19, EST. CADENTE at level 25, BEIJO DOCE at level 27, MIRAR at level 31, GARRA APERTO at level 37, SOCO TONTO at level 39
+301 Delcatty   : FAÏSCA at level 1, SAL CHEIROSO at level 1, OFUSCAR at level 1, TAPA DUPLO at level 1
+302 Sableye    : PESADELO at level 1, LAMBIDA at level 1, NOITE SOMBRA at level 1, MORDIDA at level 1, TORMENTO at level 5, PAGAMENTO at level 9, SOCO SOMBRIO at level 13, RAIO CONFUSO at level 17, CHORO FALSO at level 21, LADRÄO at level 25, ASSUSTAR at level 29, LINCHAR at level 33, PROVOCAR at level 37, AUTODESTRUIR at level 41, LEMBRANÇA at level 45
+303 Mawile     : PREVISÄO at level 1, SOM METAL at level 1, FOCA ENERGIA at level 1, GARRA METAL at level 1, RABO BRILHO at level 6, METEORO at level 11, CABEÇADA at level 16, CANÇÄO at level 21, REVERSÄO at level 26, CHIFRADA at level 31, DEFESA FERRO at level 36, RABO FERRO at level 41, RONCAR at level 46, ENGANAR at level 46, DESEJA MORTE at level 46
+304 Aron       : CAPA MÁGICA at level 1, SOPRO PEDRA at level 1, AUTODESTRUIR at level 1, METEORO at level 1, ASAS DE AÇO at level 4, RABO FERRO at level 7, GARRA METAL at level 10, SOM METAL at level 13, LANÇA PEDRA at level 17, DEFESA FERRO at level 21, AVANÇO-DUPLO at level 25, DESABA PEDRA at level 29, ROLO COMPR. at level 34, PEDRA TUMBA at level 39, REDEMOINHO at level 44
+305 Lairon     : GARRA METAL at level 1, PESADELO at level 1, METEORO at level 1, ASAS DE AÇO at level 1, PODER ANTIGO at level 4, PEDRA TUMBA at level 7, EST. CADENTE at level 10, TEMP.AREIA at level 13, SOM METAL at level 17, RABO FERRO at level 21, DESEJA MORTE at level 25, DEFESA FERRO at level 29, LANÇA PEDRA at level 37, ROLO COMPR. at level 45, DESABA PEDRA at level 53
+306 Aggron     : PODER OCULTO at level 1, GARRA METAL at level 1, ROLO COMPR. at level 1, SANGUESSUGA at level 1, OFUSCAR at level 4, DEFESA FERRO at level 7, DANO SECRETO at level 10, MÄOZINHA at level 13, DESEJA MORTE at level 17, CHICOTE CIPÓ at level 21, SOPRO PEDRA at level 25, CANÇÄO MORTE at level 29, METEORO at level 37, ESTOCAR at level 50, LANÇA PEDRA at level 63
+307 Meditite   : LANCE VITAL at level 1, CHUTE DUPLO at level 1, QUEBRA TELA at level 1, BOLA NÉVOA at level 1, DETECTAR at level 4, EMPURRÄO at level 9, CHUTE TRIPLO at level 12, DESCANSO at level 18, VINGANÇA at level 22, PSICOATAQUE at level 28, SUBMISSÄO at level 32, REVIDAR at level 38, TROCA GOLPE at level 42, HIPNOSE at level 48
+308 Medicham   : REVERSÄO at level 1, BEBER LEITE at level 1, CAPA MÁGICA at level 1, VOADORA at level 1, APRISIONAR at level 1, GOLPE KARATE at level 1, PINÇA at level 1, SOCO POTENTE at level 4, SOCO VELOZ at level 9, PODER GRANDE at level 12, QUEBRA TELA at level 18, GOLPE CORTE at level 22, PSÏQUICO at level 28, LANCE VITAL at level 32, CHUTE DUPLO at level 40, LODO at level 46, SOCO FOCUS at level 54
+309 Electrike  : DANO SECRETO at level 1, ONDA CHOQUE at level 1, LODO at level 1, SOCO TROVÄO at level 1, ESPANCAR at level 4, ELETROCANHÄO at level 9, ONDA TROVÄO at level 12, CARGA at level 17, SHOCK TROVÄO at level 20, ATAQUE VOLT at level 25, AMARRAR at level 28, RAJADA FOGO at level 33, TROVÄO at level 36, RAIO CONFUSO at level 41
+310 Manectric  : MEGA SOCO at level 1, CANÇÄO at level 1, SHOCK TROVÄO at level 1, CANHÄO PREGO at level 1, REFRESCAR at level 4, ESFORÇO at level 9, ONDA TROVÄO at level 12, SOCO TROVÄO at level 17, ONDA CHOQUE at level 20, CONVERSÄO at level 25, ELETROCANHÄO at level 31, FAÏSCA at level 39, QUEBRA TELA at level 45, CORTE FALSO at level 53
+311 Plusle     : PASSA BATON at level 1, SHOCK TROVÄO at level 1, RABO CHICOTE at level 1, AGULHA DUPLA at level 1, AGUARDAR at level 4, ELETROCANHÄO at level 10, CABEÇADA at level 13, TROVÄO at level 19, DESABA PEDRA at level 22, RAIO at level 28, FAÏSCA at level 31, DIVIDIR DOR at level 37, VEL. EXTREMA at level 40, RAIO SINAL at level 47
+312 Minun      : ONDA CHOQUE at level 1, MAR PSÏQUICO at level 1, TROVÄO at level 1, LANÇA-CHAMAS at level 1, ATIRAR FIOS at level 4, FAÏSCA at level 10, MENTE CALMA at level 13, PRESENTE at level 19, RAIO at level 22, BAJULAR at level 28, RETORNO at level 31, SOCO TROVÄO at level 37, SHOCK TROVÄO at level 40, CAPA MÁGICA at level 47
+313 Volbeat    : ATIRAR FIOS at level 1, DANÇA PÉTALA at level 1, ATRAÇÄO at level 1, VENTO PRATA at level 1, RAIO SINAL at level 5, RAJADA FOGO at level 9, BOMBA LODO at level 13, FACHADA at level 17, ARRANHÄO at level 21, MEGACHIFRE at level 25, CORTE FÚRIA at level 29, BERRO at level 33, MÏSSIL PINO at level 37
+314 Illumise   : MINIMIZAR at level 1, TEIA ARANHA at level 1, ATIRAR FIOS at level 1, VEL. EXTREMA at level 1, AGULHA DUPLA at level 5, RABO BRILHO at level 9, CORTE FÚRIA at level 13, SANGUESSUGA at level 17, MÏSSIL PINO at level 21, ROSNAR at level 25, RAIO SINAL at level 29, VENTANIA at level 33, EST. CADENTE at level 37
+315 Roselia    : ÁCIDO at level 1, RAIO SOLAR at level 1, SÏNTESE at level 1, BRAÇO AGULHA at level 1, DANÇA PÉTALA at level 5, RABO VENENO at level 9, DESABA PEDRA at level 13, GRAMA APITO at level 17, FOLHA GILETE at level 21, FOLHA MÁGICA at level 25, GIGA DRENO at level 29, LÂMINA FOLHA at level 33, DENTE VENENO at level 37, ESPOROS at level 41, MEGA DRENO at level 45, PLANTA FÚRIA at level 49, GÁS VENENOSO at level 53, CHUTE FOGO at level 57
+316 Gulpin     : INSULTAR at level 1, DENTE VENENO at level 1, RABO VENENO at level 1, P. VENENOSA at level 1, BARRIGADA at level 6, ARMAD. ÁCIDA at level 9, GÁS VENENOSO at level 14, ÁCIDO at level 17, POLUIÇÄO at level 23, TÓXICO at level 28, EST. CADENTE at level 34, RECICLAR at level 34, DANÇA at level 34, LODO at level 39
+317 Swalot     : DENTE VENENO at level 1, MINIMIZAR at level 1, ENRAIZAR at level 1, ÁCIDO at level 1, DEFESA FERRO at level 6, MIRAR at level 9, RABO VENENO at level 14, GÁS VENENOSO at level 17, BOMBA LODO at level 23, CRESCIMENTO at level 26, PRESENTE at level 31, AGUARDAR at level 40, PÓ VENENOSO at level 40, SOCO VELOZ at level 40, ESPIRAR at level 48
+318 Carvanha   : PROVOCAR at level 1, ESPORTE ÁGUA at level 1, ATQ. COVARDE at level 1, BOLHAS at level 1, HIDRO CANHÄO at level 7, AMARRAR at level 13, RETIRADA at level 16, PULSO ÁGUA at level 22, ÁGUA LAMA at level 28, HIDRO BOMBA at level 31, OCTAZUCA at level 37, LADRÄO at level 43
+319 Sharpedo   : PROVOCAR at level 1, DANÇA CHUVA at level 1, CHORO FALSO at level 1, PSÏQUICO at level 1, BAJULAR at level 7, RUGIDO at level 13, PULSO ÁGUA at level 16, BICA D’ÁGUA at level 22, MAU HUMOR at level 28, OCTAZUCA at level 33, MORDIDA at level 38, TORMENTO at level 43, RAIO BOLHAS at level 48, FRUSTRAÇÄO at level 53
+320 Wailmer    : MEGA CHUTE at level 1, FÚRIA at level 1, HIDRO BOMBA at level 1, PULSO ÁGUA at level 1, GUILHOTINA at level 5, RAIO BOLHAS at level 10, EXPLOSÄO at level 14, MAU HUMOR at level 19, DESEJO at level 23, PINÇA at level 28, DEFESA ANEL at level 32, JATO D’ÁGUA at level 37, ESPORTE ÁGUA at level 41, DANÇA CHUVA at level 46, ATROCIDADE at level 50
+321 Wailord    : DANÇA ESPADA at level 1, TEIA ARANHA at level 1, ESFORÇO at level 1, RAIO BOLHAS at level 1, ASSUSTAR at level 5, PULSO ÁGUA at level 10, RETIRADA at level 14, DANÇA CHUVA at level 19, ESPORTE ÁGUA at level 23, HIDRO BOMBA at level 28, PREVISÄO at level 32, HIDRO CANHÄO at level 37, DANO SECRETO at level 44, JATO D’ÁGUA at level 52, FOCA ENERGIA at level 59
+322 Numel      : LAMA-BOFETÄO at level 1, RODA DE FOGO at level 1, CLAVA OSSO at level 1, OSSORANGUE at level 1, CHUTE FOGO at level 11, BIS at level 19, TERREMOTO at level 25, VENTO FOGO at level 29, DIA DE SOL at level 31, FURACÄO at level 35, GARRA METAL at level 41, GIRO FOGO at level 49
+323 Camerupt   : LANÇA-CHAMAS at level 1, OSSO RÁPIDO at level 1, LIMPA LUSTRE at level 1, TERREMOTO at level 1, METRÔNOMO at level 11, SOCO FOGO at level 19, LAMA ESPORTE at level 25, CHUTE FOGO at level 29, VENTO FOGO at level 31, PODER NATIVO at level 33, ELETROCANHÄO at level 37, DIA DE SOL at level 45, FURACÄO at level 55
+324 Torkoal    : SINO DA CURA at level 1, SAL CHEIROSO at level 1, VENTO FOGO at level 1, CHUTE FOGO at level 1, BRASAS at level 4, GIRO FOGO at level 7, ONDA CALOR at level 14, INVESTIDA at level 17, ERUPÇÄO at level 20, SUPERSÔNICO at level 27, SUPERAQUEÇER at level 30, AGUARDAR at level 33, DIA DE SOL at level 40, LANÇA-CHAMAS at level 43, RABO CHICOTE at level 46
+325 Spoink     : MEDITAÇÄO at level 1, CARA FEIA at level 1, CONFUSÄO at level 1, RAIO MENTAL at level 1, BOLA NÉVOA at level 7, DESCANSO at level 10, BOMBA LODO at level 16, TROCA GOLPE at level 19, TELA CLARA at level 25, DANO SECRETO at level 28, PSICOATAQUE at level 34, AMNÉSIA at level 37, PODER GRANDE at level 37, MIRAR at level 43
+326 Grumpig    : HIPNOSE at level 1, TELEPORTE at level 1, HIPER RAIO at level 1, BOLA NÉVOA at level 1, DESCANSO at level 7, COME SONHO at level 10, MAR PSÏQUICO at level 16, CRESCIMENTO at level 19, VISÄO FUTURA at level 25, TROCA GOLPE at level 28, PASSA BATON at level 37, OLHAR MAU at level 43, PREVISÄO at level 43, MENTE CALMA at level 55
+327 Spinda     : SUPERSÔNICO at level 1, BEBER LEITE at level 1, DEFESA ANEL at level 1, LANÇA ARPÄO at level 1, AMNÉSIA at level 5, ESTOCAR at level 12, FAREJAR at level 16, AGUARDAR at level 23, CUSPIR at level 27, MORDIDA at level 34, TELA FUMAÇA at level 38, GUILHOTINA at level 45, CHIFRE BROCA at level 49, HIPER VOZ at level 56
+328 Trapinch   : MAGNITUDE at level 1, LAMA-BOFETÄO at level 1, TUMBA AREIA at level 1, CAVAR at level 1, TERREMOTO at level 9, BICADA at level 17, DERRUBAR at level 25, ATIRAR LAMA at level 33, SIGA-ME at level 41, ESPINHOS at level 49, OSSORANGUE at level 57
+329 Vibrava    : SOCO VELOZ at level 1, FISSURA at level 1, TORNADO at level 1, TERREMOTO at level 1, BLOQUEIO at level 9, LAMA-BOFETÄO at level 17, BAFO DRAGÄO at level 25, GIGA DRENO at level 33, ATIRAR LAMA at level 35, GARRA DRAGÄO at level 41, GOLPE KARATE at level 49, OSSO RÁPIDO at level 57
+330 Flygon     : GARRA DRAGÄO at level 1, OSSO RÁPIDO at level 1, ATROCIDADE at level 1, LAMA-BOFETÄO at level 1, BAFO DRAGÄO at level 9, TERREMOTO at level 17, CAVAR at level 25, SEMENTE SUGA at level 33, RUGIDO at level 35, FÚRIA DRAGÄO at level 41, DANÇA DRAGÄO at level 53, MÏSSIL PINO at level 65
+331 Cacnea     : SEMENTE SUGA at level 1, PLANTA FÚRIA at level 1, PÓ SONÏFERO at level 1, MEGA DRENO at level 1, LÂMINA FOLHA at level 5, GRAMA APITO at level 9, RUGIDO at level 13, RAIO SOLAR at level 17, CHICOTE CIPÓ at level 21, DANÇA PÉTALA at level 25, OVO-BOMBA at level 29, BRAÇO AGULHA at level 33, BATER at level 37, SEMENTE BALA at level 41, BEBER LEITE at level 45
+332 Cacturne   : MASTIGAR at level 1, PERSEGUIÇÄO at level 1, PROVOCAR at level 1, MORDIDA at level 1, BAJULAR at level 5, LADRÄO at level 9, EXPLOSÄO at level 13, ENRAIZAR at level 17, FOLHA MÁGICA at level 21, EMPURRÄO at level 25, BRAÇO AGULHA at level 29, METRÔNOMO at level 35, ABSORVER at level 41, PÓ SONÏFERO at level 47, FAÏSCA at level 53
+333 Swablu     : AMARRAR at level 1, PRESENTE at level 1, PODER ANTIGO at level 1, CUSPIR at level 1, BICADA at level 8, AÇOITAR at level 11, ATAQUE AÉREO at level 18, RESISTIR at level 21, ESPIRAR at level 28, SALTAR at level 31, RETORNO at level 38, CORTE AÉREO at level 41, GARRA APERTO at level 48
+334 Altaria    : BAFO DRAGÄO at level 1, OSSO RÁPIDO at level 1, FÚRIA DRAGÄO at level 1, GARRA DRAGÄO at level 1, RECUPERAÇÄO at level 8, TORNADO at level 11, ATROCIDADE at level 18, RAJADA VENTO at level 21, ATAQUE ASA at level 28, SALTAR at level 31, MINI DESEJO at level 35, SOCO COMETA at level 40, CONVERSÄO at level 45, DANÇA PENA at level 54, ATAQUE AÉREO at level 59
+335 Zangoose   : ROSNAR at level 1, SOL MATUTINO at level 1, ESPREGUISSAR at level 1, CUSPIR at level 1, BEIJO DOCE at level 4, MEGA CHUTE at level 7, PISOTEAR at level 10, ESPIRAR at level 13, MIRAR at level 19, ENDURECER at level 25, SAL CHEIROSO at level 31, CHIFRADA at level 37, BARRAGEM at level 46, DEFESA FERRO at level 55
+336 Seviper    : DENTE VENENO at level 1, RABO VENENO at level 1, CHUTE DUPLO at level 1, TURBULÊNCIA at level 1, PÓ VENENOSO at level 7, DANO SECRETO at level 10, LANÇA PEDRA at level 16, AUTODESTRUIR at level 19, P. VENENOSA at level 25, AMARRAR at level 28, ÁCIDO at level 34, PODER NATIVO at level 37, SEMENTE BALA at level 43
+337 Lunatone   : SENSORIAL at level 1, LANÇA PEDRA at level 1, APRISIONAR at level 1, PSICOATAQUE at level 1, AMNÉSIA at level 7, ROLO COMPR. at level 13, CAPA MÁGICA at level 19, SOPRO PEDRA at level 25, RAIO MENTAL at level 31, TRUQUE at level 37, PODER ANTIGO at level 43, AGILIDADE at level 49
+338 Solrock    : OVO-BOMBA at level 1, TEMP.AREIA at level 1, DESABA PEDRA at level 1, OSSO RÁPIDO at level 1, BARREIRA at level 7, MIMICA at level 13, REFLEXÄO at level 19, LANÇA PEDRA at level 25, SOPRO PEDRA at level 31, TELECINÉTICA at level 37, MENTE CALMA at level 43, SENSORIAL at level 49
+339 Barboach   : ESPOROS at level 1, HIDRO BOMBA at level 1, TERREMOTO at level 1, OSSORANGUE at level 1, ESPORTE ÁGUA at level 6, FISSURA at level 6, RETIRADA at level 11, DIA DE SOL at level 16, ATAQUE AREIA at level 21, OSSO RÁPIDO at level 26, BOLHAS at level 26, LAMA ESPORTE at level 31, PINÇA at level 36, JATO D’ÁGUA at level 41
+340 Whiscash   : PULSO ÁGUA at level 1, CAVAR at level 1, RAIO BOLHAS at level 1, BOLHAS at level 1, JATO D’ÁGUA at level 6, OSSORANGUE at level 6, REDEMOINHO at level 11, ESPORTE ÁGUA at level 16, ÁGUA LAMA at level 21, PINÇA at level 26, TUMBA AREIA at level 26, FOCA ENERGIA at level 36, OSSO RÁPIDO at level 46, LUAR at level 56
+341 Corphish   : CANÇÄO MORTE at level 1, ATQ. COVARDE at level 1, ESPORTE ÁGUA at level 1, BICA D’ÁGUA at level 1, BOLHAS at level 7, RAIO BOLHAS at level 10, HIDRO CANHÄO at level 13, TORMENTO at level 20, HIDRO BOMBA at level 23, RETIRADA at level 26, ÁGUA LAMA at level 32, PULSO ÁGUA at level 35, ESPIRAR at level 38, MAU HUMOR at level 44
+342 Crawdaunt  : PULSO ÁGUA at level 1, BICA D’ÁGUA at level 1, RAIO BOLHAS at level 1, LADRÄO at level 1, MAU HUMOR at level 7, GOLPE FÚRIA at level 10, SONAMBULO at level 13, OCTAZUCA at level 20, DESEJA MORTE at level 23, HIDRO BOMBA at level 26, PINÇA at level 34, MORDIDA at level 39, MASTIGAR at level 44, REDEMOINHO at level 52
+343 Baltoy     : CLAVA OSSO at level 1, TELA CLARA at level 1, LAMA ESPORTE at level 1, CAVAR at level 1, SENSORIAL at level 3, ESPINHOS at level 5, GRANIZO at level 7, COME SONHO at level 11, ATIRAR FIOS at level 15, OSSO RÁPIDO at level 19, TUMBA AREIA at level 25, MAR PSÏQUICO at level 31, TERREMOTO at level 37, ATAQUE AREIA at level 45
+344 Claydol    : ENGOLIR at level 1, RABO FERRO at level 1, DESCANSO at level 1, ALVOROÇO at level 1, CAVAR at level 3, MAGNITUDE at level 5, PODER GRANDE at level 7, MAR PSÏQUICO at level 11, ENROLAR at level 15, OSSO RÁPIDO at level 19, BATER at level 25, RAIO MENTAL at level 31, CAPA MÁGICA at level 36, LAMA-BOFETÄO at level 42, ATIRAR LAMA at level 55
+345 Lileep     : SEMENTE SUGA at level 1, PEDRA TUMBA at level 1, DANÇA PÉTALA at level 1, DESABA PEDRA at level 1, RAIO SOLAR at level 8, ENDURECER at level 15, ENRAIZAR at level 22, LÂMINA FOLHA at level 29, ESPOROS at level 36, GÁS VENENOSO at level 43, ABSORVER at level 50, ROLO COMPR. at level 50, PODER ANTIGO at level 50
+346 Cradily    : DESABA PEDRA at level 1, ROLO COMPR. at level 1, LANÇA PEDRA at level 1, ARRANHÄO at level 1, FOLHA MÁGICA at level 8, REDEMOINHO at level 15, CHIFRADA at level 22, SEMENTE SUGA at level 29, MEGA DRENO at level 36, RAIO SOLAR at level 48, PEDRA TUMBA at level 60, TEMP.AREIA at level 60, PODER ANTIGO at level 60
+347 Anorith    : LANÇA PEDRA at level 1, MEGACHIFRE at level 1, LODO at level 1, BOLA TEMPO at level 1, TEMP.AREIA at level 7, ROLO COMPR. at level 13, SUPER PRESA at level 19, SINO DA CURA at level 25, RACHA CRÂNIO at level 31, CORTE FÚRIA at level 37, PODER ANTIGO at level 43, PEDRA TUMBA at level 49, DESABA PEDRA at level 55
+348 Armaldo    : LINCHAR at level 1, CONSTRIGIR at level 1, TEMP.AREIA at level 1, PODER ANTIGO at level 1, MEGACHIFRE at level 7, DESABA PEDRA at level 13, LANÇA PEDRA at level 19, ROLO COMPR. at level 25, SOPRO PEDRA at level 31, PEDRA TUMBA at level 37, ATIRAR FIOS at level 46, BOLA NÉVOA at level 55, SANGUESSUGA at level 64
+349 Feebas     : MEDITAÇÄO at level 1, AGUARDAR at level 1, CANÇÄO MORTE at level 1, ARRANHÄO at level 1, ESPORTE ÁGUA at level 15, BOMBA SÔNICA at level 30, ESPORTE ÁGUA at level 10, REFRESCAR at level 15, PULSO ÁGUA at level 20, TORNADO at level 25, RECUPERAÇÄO at level 30, DANÇA CHUVA at level 35, HIDRO BOMBA at level 40, ATRAÇÄO at level 45, SALVA GUARDA at level 50
+350 Milotic    : MEDITAÇÄO at level 1, LER MENTE at level 1, OCTAZUCA at level 1, INVESTIDA at level 1, SINO DA CURA at level 5, BOLHAS at level 10, HIDRO CANHÄO at level 15, DANÇA CHUVA at level 20, RAIO BOLHAS at level 25, TAPA DUPLO at level 30, ESPIRAR at level 35, BOLA TEMPO at level 40, PINÇA at level 45, CAMUFLAGEM at level 50
+351 Castform   : INVESTIDA at level 1, LANÇA-CHAMAS at level 1, SUBSTITUTO at level 1, CABEÇADA at level 1, SUPER PRESA at level 10, AT. RÁPIDO at level 10, PSÏQUICO at level 10, RECICLAR at level 20, FISSURA at level 20, SUPERSÔNICO at level 20, BOCEJO at level 30
+352 Kecleon    : TROVÄO at level 1, SUPER PRESA at level 1, OVO-BOMBA at level 1, DANÇA ESPADA at level 1, BOLA TEMPO at level 1, TRI ATAQUE at level 4, CHARME at level 7, DANO SECRETO at level 12, MAR PSÏQUICO at level 17, METRÔNOMO at level 24, TEIA ARANHA at level 31, CONSTRIGIR at level 40, LER MENTE at level 49
+353 Shuppet    : BOLA SOMBRIA at level 1, NOITE SOMBRA at level 1, AVANÇO-DUPLO at level 1, VENTO GILETE at level 1, RANCOR at level 8, SUPERSÔNICO at level 13, RANCOR at level 20, CANHÄO PREGO at level 25, MIMICA at level 32, UIVAR at level 37, BATER at level 44, ASSUSTAR at level 49, PODER OCULTO at level 56
+354 Banette    : NOITE SOMBRA at level 1, AUTODESTRUIR at level 1, CARGA at level 1, ASSUSTAR at level 1, LAMBIDA at level 8, RANCOR at level 13, PISOTEAR at level 20, FAREJAR at level 25, PSÏQUICO at level 32, HIPER RAIO at level 39, RANCOR at level 48, HIDRO CANHÄO at level 55, MIMICA at level 64
+355 Duskull    : LANÇA ARPÄO at level 1, RAIO CONFUSO at level 1, RANCOR at level 1, ASSUSTAR at level 1, NOITE SOMBRA at level 5, PANCADA at level 12, BOLA SOMBRIA at level 16, ESPREGUISSAR at level 23, DANÇA PÉTALA at level 27, SINO DA CURA at level 34, AFIAR at level 38, ÁGUA LAMA at level 45, CAMUFLAGEM at level 49
+356 Dusclops   : MALDIÇÄO at level 1, RANCOR at level 1, PESADELO at level 1, DANÇA PÉTALA at level 1, ESPORO at level 5, OVO-BOMBA at level 12, PROTEÇÄO at level 16, FOLHA MÁGICA at level 23, PRESENTE at level 27, LAMBIDA at level 34, LANÇA-CHAMAS at level 37, BOLA SOMBRIA at level 41, CHIFRE BROCA at level 51, ASSUSTAR at level 58
+357 Tropius    : BRAÇO AGULHA at level 1, SÏNTESE at level 1, PODER OCULTO at level 1, BICADA BROCA at level 1, SUPERAQUEÇER at level 7, GRAMA APITO at level 11, SUPERSÔNICO at level 17, INVESTIDA at level 21, VENTANIA at level 27, AGILIDADE at level 31, MOV. ESPELHO at level 37, PÓ SONÏFERO at level 41, FOLHA MÁGICA at level 47
+358 Chimecho   : MENTE CALMA at level 1, SALVA GUARDA at level 1, GUILHOTINA at level 1, RACHA CRÂNIO at level 1, SUPER PRESA at level 6, COME SONHO at level 9, BOLA NÉVOA at level 14, PSÏQUICO at level 17, CONFUSÄO at level 22, RABO VENENO at level 25, HIPNOSE at level 30, LIMPA LUSTRE at level 33, PÓ DE NEVE at level 38, INTERPRETAR at level 41, PODER GRANDE at level 46
+359 Absol      : VINGANÇA at level 1, CLAVA OSSO at level 1, LEMBRANÇA at level 1, GIRO RÁPIDO at level 1, BAJULAR at level 5, CHORO FALSO at level 9, LADRÄO at level 13, DERRUBAR at level 17, TORMENTO at level 21, AFANAR at level 26, AGILIDADE at level 31, BEBER LEITE at level 36, LINCHAR at level 41, INTERPRETAR at level 46
+360 Wynaut     : FACHADA at level 1, PSICOATAQUE at level 1, INTERPRETAR at level 1, PSÏQUICO at level 1, TROCA GOLPE at level 15, VISÄO FUTURA at level 15, AFANAR at level 15, MEGA SOCO at level 15
+361 Snorunt    : NEVOEIRO at level 1, TAPA DUPLO at level 1, CÉU DIRETO at level 1, RAIO AURORA at level 1, NEVASCA at level 7, TERREMOTO at level 10, SALVA GUARDA at level 16, BOLA DE GELO at level 19, PÓ DE NEVE at level 25, VENTO GELADO at level 28, OVO FERVIDO at level 34, BOCEJO at level 37, HIPER RAIO at level 43
+362 Glalie     : FRIO POLAR at level 1, LANÇA ARPÄO at level 1, PODER NATIVO at level 1, GOLPE FÚRIA at level 1, NEVOEIRO at level 7, REFRESCAR at level 10, EMPURRÄO at level 16, PÓ DE NEVE at level 19, NEBLINA at level 25, PÓ SONÏFERO at level 28, BOLA DE GELO at level 34, ENROLAR at level 42, RAIO AURORA at level 53, FURACÄO at level 61
+363 Spheal     : NEVOEIRO at level 1, BOLA DE GELO at level 1, VENTO GELADO at level 1, RAIO GELO at level 1, NEBLINA at level 7, LANÇA ARPÄO at level 13, SOCO GELO at level 19, ESPOROS at level 25, FRIO POLAR at level 31, OCTAZUCA at level 37, ÁGUA LAMA at level 37, DANÇA CHUVA at level 43, REDEMOINHO at level 49
+364 Sealeo     : AUTODESTRUIR at level 1, MAU HUMOR at level 1, PEDRA TUMBA at level 1, HIDRO CANHÄO at level 1, NEBLINA at level 7, VENTO GELADO at level 13, RAIO GELO at level 19, PÓ DE NEVE at level 25, GARRA DRAGÄO at level 31, ABSORVER at level 39, DANÇA CHUVA at level 39, ESPOROS at level 47, ESPORTE ÁGUA at level 55
+365 Walrein    : RAIO AURORA at level 1, NEVASCA at level 1, LANÇA ARPÄO at level 1, BOLA NÉVOA at level 1, NEVOEIRO at level 7, REDEMOINHO at level 13, HIDRO CANHÄO at level 19, BOLA DE GELO at level 25, ESPORTE ÁGUA at level 31, SOCO GELO at level 39, RAIO GELO at level 39, DANÇA CHUVA at level 50, PULSO ÁGUA at level 61
+366 Clamperl   : FOGO SAGRADO at level 1, EST. CADENTE at level 1, PASSA BATON at level 1, REDEMOINHO at level 1
+367 Huntail    : PINÇA at level 1, MIMICA at level 1, RAIO BOLHAS at level 1, REDEMOINHO at level 1, EXPLOSÄO at level 8, FÚRIA at level 15, MAU HUMOR at level 22, FAÏSCA at level 29, ÁGUA LAMA at level 36, ESPORTE ÁGUA at level 43, OCTAZUCA at level 50
+368 Gorebyss   : REDEMOINHO at level 1, RETORNO at level 1, PINÇA at level 1, JATO D’ÁGUA at level 1, HIDRO CANHÄO at level 8, PULSO ÁGUA at level 15, HIDRO BOMBA at level 22, METRÔNOMO at level 29, SUBMISSÄO at level 36, GRAMA APITO at level 43, SOL MATUTINO at level 50
+369 Relicanth  : SOPRO PEDRA at level 1, PEDRA TUMBA at level 1, ESTOCAR at level 1, HIDRO BOMBA at level 1, TEMP.AREIA at level 8, PODER ANTIGO at level 15, ESPORTE ÁGUA at level 22, DESABA PEDRA at level 29, PINÇA at level 36, ÁGUA LAMA at level 43, LANÇA PEDRA at level 50, MAU HUMOR at level 57, BOLHAS at level 64
+370 Luvdisc    : RETIRADA at level 1, ESPANCAR at level 1, ÁGUA LAMA at level 1, HIDRO BOMBA at level 1, REDEMOINHO at level 4, ESPIRAR at level 12, HIDRO CANHÄO at level 16, ESPORTE ÁGUA at level 24, AUTODESTRUIR at level 28, RAIO AURORA at level 36, GUILHOTINA at level 40, RASTEIRA at level 48
+371 Bagon      : SUPERSÔNICO at level 1, GARRA DRAGÄO at level 1, AFANAR at level 1, ABATER at level 1, TORNADO at level 5, PROTEÇÄO at level 9, DANÇA DRAGÄO at level 17, DIA DE SOL at level 21, EST. CADENTE at level 25, BAFO DRAGÄO at level 33, SONAMBULO at level 37, REFLEXÄO at level 41, CAMUFLAGEM at level 49, FÚRIA DRAGÄO at level 53
+372 Shelgon    : PISOTEAR at level 1, ENRAIZAR at level 1, ATROCIDADE at level 1, CABEÇADA at level 1, TORNADO at level 5, FÚRIA DRAGÄO at level 9, GARRA DRAGÄO at level 17, BAFO DRAGÄO at level 21, MIRAR at level 25, MAU HUMOR at level 30, PERSEGUIÇÄO at level 38, GIRO RÁPIDO at level 47, DANÇA DRAGÄO at level 56, PÓ VENENOSO at level 69, SINO DA CURA at level 78
+373 Salamence  : ALVOROÇO at level 1, DANÇA PENA at level 1, BICADA at level 1, VENTANIA at level 1, PRESENTE at level 5, VOADORA at level 9, LUAR at level 17, DANÇA DRAGÄO at level 21, ATROCIDADE at level 25, LER MENTE at level 30, DETECTAR at level 38, BAFO DRAGÄO at level 47, METRÔNOMO at level 50, TORNADO at level 61, GARRA DRAGÄO at level 79, SALTAR at level 93
+374 Beldum     : PODER GRANDE at level 1, DEFESA FERRO at level 1, ABATER at level 1, CONFUSÄO at level 20, GARRA METAL at level 20, CARA FEIA at level 26, PERSEGUIÇÄO at level 32, PSÏQUICO at level 38, DEFESA FERRO at level 44, METEORO at level 50, AGILIDADE at level 56, HIPER RAIO at level 62
+375 Metang     : RABO FERRO at level 1, ATAQUE ASA at level 1, VISÄO FUTURA at level 1, METEORO at level 1, REDEMOINHO at level 20, SOM METAL at level 20, DEFESA FERRO at level 26, ASAS DE AÇO at level 32, MEDITAÇÄO at level 38, TROCA GOLPE at level 44, TELA CLARA at level 50, APRISIONAR at level 56, REFLEXÄO at level 62
+376 Metagross  : GARRA METAL at level 1, ESPELHO at level 1, DESEJA MORTE at level 1, PSICOATAQUE at level 1, LINCHAR at level 20, TROCA GOLPE at level 20, SOCO VELOZ at level 26, DANO SECRETO at level 32, LIMPA LUSTRE at level 38, DETECTAR at level 44, TRUQUE at level 55, RABO FERRO at level 66, SOM METAL at level 77
+377 Regirock   : LANÇA PEDRA at level 1, DESABA PEDRA at level 1, PODER ANTIGO at level 1, PEDRA TUMBA at level 1, ESPANCAR at level 9, SOPRO PEDRA at level 17, ESPOROS at level 25, MÄOZINHA at level 33, ENCARAR at level 41, TELEPORTE at level 49, PRESENTE at level 57, VENTO GELADO at level 65
+378 Regice     : FRIO POLAR at level 1, TROVÄO at level 1, SALVA GUARDA at level 1, AVANÇO-DUPLO at level 1, PSICOATAQUE at level 9, AFANAR at level 17, RAIO GELO at level 25, NEVOEIRO at level 33, SOCO GELO at level 41, NEBLINA at level 49, GRANIZO at level 57, RAIO AURORA at level 65
+379 Registeel  : FÚRIA at level 1, RABO FERRO at level 1, METEORO at level 1, AMARRAR at level 1, GARRA METAL at level 9, CONVERSÄO 2 at level 17, RABO CHICOTE at level 25, SOM METAL at level 33, DESEJA MORTE at level 41, ASAS DE AÇO at level 41, ENROLAR at level 49, ENCARAR at level 57, PREVISÄO at level 65
+380 Latias     : OSSO RÁPIDO at level 1, GARRA DRAGÄO at level 1, ESPIRAR at level 1, TORNADO at level 1, GOLPE KARATE at level 5, ATROCIDADE at level 10, CONFUSÄO at level 15, FÚRIA DRAGÄO at level 20, BAFO DRAGÄO at level 25, DANÇA PÉTALA at level 30, DESCANSO at level 35, DANÇA DRAGÄO at level 40, MENTE CALMA at level 45, LANÇA-CHAMAS at level 50
+381 Latios     : LAMA-BOFETÄO at level 1, ENCARAR at level 1, AMNÉSIA at level 1, BAFO DRAGÄO at level 1, TELA CLARA at level 5, COME SONHO at level 10, FÚRIA DRAGÄO at level 15, DANÇA DRAGÄO at level 20, MIMICA at level 25, BOMBA LODO at level 30, ATROCIDADE at level 35, INTERPRETAR at level 40, DANÇA CHUVA at level 45, PSÏQUICO at level 50
+382 Kyogre     : RESISTIR at level 1, ÁGUA LAMA at level 1, PINÇA at level 1, PAGAMENTO at level 1, BOLHAS at level 5, CAMUFLAGEM at level 15, PSÏQUICO at level 20, RETIRADA at level 30, PULSO ÁGUA at level 35, RAIO BOLHAS at level 45, ESPORTE ÁGUA at level 50, OVO-BOMBA at level 60, ENGOLIR at level 65, MEGA SOCO at level 75
+383 Groudon    : CLAVA OSSO at level 1, PROTEÇÄO at level 1, RACHA CRÂNIO at level 1, ENROLAR at level 1, CRESCIMENTO at level 5, OSSORANGUE at level 15, COME SONHO at level 20, LAMA-BOFETÄO at level 30, ENCARAR at level 35, FISSURA at level 45, MÄOZINHA at level 50, ATIRAR LAMA at level 60, HIPER PRESA at level 65, OSSO RÁPIDO at level 75
+384 Rayquaza   : GARRA DRAGÄO at level 1, MOV. ESPELHO at level 1, BICADA BROCA at level 1, BAFO DRAGÄO at level 1, OVO FERVIDO at level 5, CORTE AÉREO at level 15, TORNADO at level 20, DANÇA DRAGÄO at level 30, ATROCIDADE at level 35, RAJADA VENTO at level 45, RACHA CRÂNIO at level 50, BICADA at level 60, FAREJAR at level 65, AGULHA DUPLA at level 75
+385 Jirachi    : AGILIDADE at level 1, METEORO at level 1, DEFESA FERRO at level 1, LAMA-BOFETÄO at level 1, DESEJA MORTE at level 5, PODER GRANDE at level 10, DANÇA ESPADA at level 15, REFLEXÄO at level 20, RABO FERRO at level 25, GARRA METAL at level 30, MEDITAÇÄO at level 35, SOM METAL at level 40, PODER NATIVO at level 45, TELA FUMAÇA at level 50
+386 Deoxys     : PSÏQUICO at level 1, INTERPRETAR at level 1, ARRANHÄO at level 1, SENSORIAL at level 1, PODER NATIVO at level 5, SAL CHEIROSO at level 10, VISÄO FUTURA at level 15, PSICOATAQUE at level 20, MENTE CALMA at level 25, LIMPA LUSTRE at level 30, CUSPIR at level 35, TROCA GOLPE at level 40, DANÇA at level 45, PREVISÄO at level 50
+
+Trainers: Unchanged.
+
+--Wild Pokemon--
+Set #1 - ROTA 101 Grass/Cave (rate=20) - Slugma Lv2, Charmander Lv2, Entei Lv2, Houndoom Lv3, Charizard Lv3, Rapidash Lv3, Combusken Lv3, Camerupt Lv3, Charizard Lv2, Blaziken Lv2, Entei Lv3, Arcanine Lv3
+Set #2 - ROTA 102 Grass/Cave (rate=20) - Altaria Lv3, Bagon Lv3, Vibrava Lv4, Rayquaza Lv4, Dragonite Lv3, Flygon Lv4, Vibrava Lv3, Dratini Lv3, Salamence Lv4, Latias Lv4, Kingdra Lv4, Rayquaza Lv3
+Set #3 - ROTA 102 Surfing (rate=4) - Nosepass Lvs 20-30, Lileep Lvs 10-20, Nosepass Lvs 30-35, Rhydon Lvs 5-10, Rhyhorn Lvs 20-30
+Set #4 - ROTA 102 Fishing (rate=30) - Shedinja Lvs 5-10, Nincada Lvs 5-10, Volbeat Lvs 10-30, Scyther Lvs 10-30, Caterpie Lvs 10-30, Armaldo Lvs 25-30, Yanma Lvs 30-35, Armaldo Lvs 20-25, Forretress Lvs 35-40, Scyther Lvs 40-45
+Set #5 - ROTA 103 Grass/Cave (rate=20) - Raichu Lv2, Raikou Lv3, Elekid Lv3, Lanturn Lv4, Plusle Lv2, Zapdos Lv3, Raikou Lv3, Pichu Lv4, Pikachu Lv3, Pichu Lv3, Manectric Lv2, Magneton Lv4
+Set #6 - ROTA 103 Surfing (rate=4) - Barboach Lvs 5-35, Marowak Lvs 10-30, Swinub Lvs 15-25, Phanpy Lvs 25-30, Piloswine Lvs 25-30
+Set #7 - ROTA 103 Fishing (rate=30) - Marshtomp Lvs 5-10, Onix Lvs 5-10, Swampert Lvs 10-30, Geodude Lvs 10-30, Diglett Lvs 10-30, Phanpy Lvs 30-35, Marshtomp Lvs 30-35, Nidoqueen Lvs 25-30, Dugtrio Lvs 35-40, Vibrava Lvs 40-45
+Set #8 - ROTA 104 Grass/Cave (rate=20) - Skarmory Lv4, Lairon Lv4, Mawile Lv5, Beldum Lv5, Magnemite Lv4, Forretress Lv5, Aron Lv4, Mawile Lv5, Beldum Lv4, Jirachi Lv4, Skarmory Lv3, Aron Lv5
+Set #9 - ROTA 104 Surfing (rate=4) - Haunter Lvs 10-30, Gastly Lvs 15-25, Duskull Lvs 15-25, Dusclops Lvs 25-30, Gengar Lvs 25-30
+Set #10 - ROTA 104 Fishing (rate=30) - Swampert Lvs 5-10, Phanpy Lvs 5-10, Steelix Lvs 10-30, Numel Lvs 10-30, Whiscash Lvs 10-30, Nincada Lvs 25-30, Camerupt Lvs 30-35, Baltoy Lvs 20-25, Dugtrio Lvs 35-40, Camerupt Lvs 40-45
+Set #11 - ROTA 105 Surfing (rate=4) - Plusle Lvs 5-35, Manectric Lvs 10-30, Lanturn Lvs 15-25, Flaaffy Lvs 25-30, Electrike Lvs 25-30
+Set #12 - ROTA 105 Fishing (rate=30) - Pinsir Lvs 5-10, Shedinja Lvs 5-10, Shuckle Lvs 10-30, Armaldo Lvs 10-30, Butterfree Lvs 10-30, Caterpie Lvs 25-30, Spinarak Lvs 30-35, Metapod Lvs 20-25, Venomoth Lvs 35-40, Ariados Lvs 40-45
+Set #13 - ROTA 110 Grass/Cave (rate=20) - Kadabra Lv12, Wynaut Lv12, Beldum Lv12, Exeggutor Lv13, Spoink Lv13, Wobbuffet Lv13, Kadabra Lv13, Lunatone Lv13, Deoxys Lv12, Kirlia Lv12, Mr. Mime Lv12, Drowzee Lv13
+Set #14 - ROTA 110 Surfing (rate=4) - Sharpedo Lvs 5-35, Crawdaunt Lvs 10-30, Houndoom Lvs 15-25, Shiftry Lvs 25-30, Absol Lvs 25-30
+Set #15 - ROTA 110 Fishing (rate=30) - Umbreon Lvs 5-10, Mightyena Lvs 5-10, Murkrow Lvs 10-30, Sneasel Lvs 10-30, Nuzleaf Lvs 10-30, Houndour Lvs 25-30, Nuzleaf Lvs 30-35, Poochyena Lvs 20-25, Tyranitar Lvs 35-40, Murkrow Lvs 40-45
+Set #16 - ROTA 111 Grass/Cave (rate=10) - Pikachu Lv20, Chinchou Lv20, Electrode Lv21, Elekid Lv21, Magneton Lv19, Voltorb Lv21, Plusle Lv19, Magnemite Lv19, Voltorb Lv20, Pichu Lv20, Plusle Lv22, Magnemite Lv22
+Set #17 - ROTA 111 Surfing (rate=4) - Grumpig Lvs 20-30, Kadabra Lvs 10-20, Baltoy Lvs 30-35, Latios Lvs 5-10, Ralts Lvs 20-30
+Set #18 - ROTA 111 Rock Smash (rate=20) - Misdreavus Lvs 10-15, Misdreavus Lvs 5-10, Duskull Lvs 15-20, Sableye Lvs 15-20, Shuppet Lvs 15-20
+Set #19 - ROTA 111 Fishing (rate=30) - Sneasel Lvs 5-10, Articuno Lvs 5-10, Walrein Lvs 10-30, Walrein Lvs 10-30, Jynx Lvs 10-30, Snorunt Lvs 25-30, Swinub Lvs 30-35, Lapras Lvs 20-25, Snorunt Lvs 35-40, Cloyster Lvs 40-45
+Set #20 - ROTA 112 Grass/Cave (rate=20) - Gastly Lv15, Sableye Lv15, Gengar Lv15, Shuppet Lv14, Gengar Lv14, Sableye Lv14, Shuppet Lv16, Misdreavus Lv16, Gastly Lv16, Haunter Lv16, Dusclops Lv16, Shuppet Lv16
+Set #21 - ROTA 113 Grass/Cave (rate=20) - Hariyama Lv15, Machamp Lv15, Makuhita Lv15, Combusken Lv14, Machamp Lv14, Mankey Lv14, Poliwrath Lv16, Meditite Lv16, Machamp Lv16, Machamp Lv16, Hitmonchan Lv16, Machoke Lv16
+Set #22 - ROTA 114 Grass/Cave (rate=20) - Sneasel Lv16, Umbreon Lv16, Murkrow Lv17, Tyranitar Lv15, Murkrow Lv15, Shiftry Lv16, Mightyena Lv16, Mightyena Lv18, Tyranitar Lv17, Crawdaunt Lv15, Umbreon Lv17, Houndour Lv15
+Set #23 - ROTA 114 Surfing (rate=4) - Voltorb Lvs 20-30, Voltorb Lvs 10-20, Mareep Lvs 30-35, Ampharos Lvs 5-10, Raikou Lvs 20-30
+Set #24 - ROTA 114 Rock Smash (rate=20) - Sealeo Lvs 10-15, Jynx Lvs 5-10, Cloyster Lvs 15-20, Regice Lvs 15-20, Dewgong Lvs 15-20
+Set #25 - ROTA 114 Fishing (rate=30) - Sableye Lvs 5-10, Absol Lvs 5-10, Houndoom Lvs 10-30, Sharpedo Lvs 10-30, Houndoom Lvs 10-30, Houndoom Lvs 25-30, Mightyena Lvs 30-35, Murkrow Lvs 20-25, Sableye Lvs 35-40, Houndoom Lvs 40-45
+Set #26 - ROTA 116 Grass/Cave (rate=20) - Duskull Lv6, Gastly Lv6, Gastly Lv6, Gengar Lv7, Dusclops Lv7, Shedinja Lv6, Duskull Lv7, Haunter Lv8, Gastly Lv7, Misdreavus Lv8, Gastly Lv7, Haunter Lv8
+Set #27 - ROTA 117 Grass/Cave (rate=20) - Clamperl Lv13, Krabby Lv13, Chinchou Lv14, Huntail Lv14, Starmie Lv13, Squirtle Lv13, Feebas Lv13, Omastar Lv13, Sharpedo Lv14, Omanyte Lv14, Sharpedo Lv13, Omastar Lv13
+Set #28 - ROTA 117 Surfing (rate=4) - Graveler Lvs 20-30, Corsola Lvs 10-20, Corsola Lvs 30-35, Corsola Lvs 5-10, Solrock Lvs 20-30
+Set #29 - ROTA 117 Fishing (rate=30) - Scizor Lvs 5-10, Skarmory Lvs 5-10, Magneton Lvs 10-30, Magneton Lvs 10-30, Skarmory Lvs 10-30, Metang Lvs 25-30, Magneton Lvs 30-35, Metang Lvs 20-25, Steelix Lvs 35-40, Aggron Lvs 40-45
+Set #30 - ROTA 118 Grass/Cave (rate=20) - Houndoom Lv24, Nuzleaf Lv24, Nuzleaf Lv26, Sneasel Lv26, Tyranitar Lv26, Sableye Lv26, Mightyena Lv25, Absol Lv25, Carvanha Lv26, Houndour Lv26, Sneasel Lv27, Carvanha Lv25
+Set #31 - ROTA 118 Surfing (rate=4) - Sharpedo Lvs 5-35, Shiftry Lvs 10-30, Cacturne Lvs 15-25, Tyranitar Lvs 25-30, Houndoom Lvs 25-30
+Set #32 - ROTA 118 Fishing (rate=30) - Arcanine Lvs 5-10, Entei Lvs 5-10, Slugma Lvs 10-30, Blaziken Lvs 10-30, Torchic Lvs 10-30, Vulpix Lvs 30-35, Charizard Lvs 30-35, Quilava Lvs 20-25, Arcanine Lvs 35-40, Ho-Oh Lvs 40-45
+Set #33 - ROTA 124 Surfing (rate=4) - Entei Lvs 5-35, Cyndaquil Lvs 10-30, Combusken Lvs 15-25, Flareon Lvs 25-30, Cyndaquil Lvs 25-30
+Set #34 - ROTA 124 Fishing (rate=30) - Hoothoot Lvs 5-10, Articuno Lvs 5-10, Murkrow Lvs 10-30, Salamence Lvs 10-30, Ho-Oh Lvs 10-30, Beautifly Lvs 30-35, Dragonite Lvs 30-35, Wingull Lvs 25-30, Ledian Lvs 35-40, Skarmory Lvs 40-45
+Set #35 - BOSQUE PETALBURG Grass/Cave (rate=20) - Slowbro Lv5, Ludicolo Lv5, Slowpoke Lv5, Walrein Lv6, Kabutops Lv5, Horsea Lv5, Octillery Lv6, Golduck Lv6, Poliwhirl Lv5, Omanyte Lv5, Starmie Lv6, Swampert Lv6
+Set #36 - TÚNEL RUSTURF Grass/Cave (rate=10) - Venonat Lv6, Gastly Lv7, Haunter Lv6, Tentacruel Lv6, Ariados Lv7, Weepinbell Lv7, Nidoking Lv5, Haunter Lv8, Nidoran♂ Lv5, Spinarak Lv8, Ivysaur Lv5, Weepinbell Lv8
+Set #37 - CAVERNA GRANITO Grass/Cave (rate=10) - Delibird Lv7, Glalie Lv8, Articuno Lv7, Regice Lv8, Cloyster Lv9, Piloswine Lv8, Lapras Lv10, Sealeo Lv6, Sealeo Lv7, Snorunt Lv8, Sneasel Lv6, Walrein Lv9
+Set #38 - CAVERNA GRANITO Grass/Cave (rate=10) - Venomoth Lv9, Weedle Lv10, Seviper Lv9, Dustox Lv11, Qwilfish Lv10, Nidoking Lv9, Grimer Lv10, Venomoth Lv11, Bulbasaur Lv10, Swalot Lv10, Nidorina Lv9, Swalot Lv11
+Set #39 - MT. PIRA Grass/Cave (rate=10) - Murkrow Lv27, Nuzleaf Lv28, Houndoom Lv26, Sharpedo Lv25, Sneasel Lv29, Houndour Lv24, Sableye Lv23, Crawdaunt Lv22, Nuzleaf Lv29, Shiftry Lv24, Tyranitar Lv29, Murkrow Lv24
+Set #40 - ESTRADA VITÓRIA Grass/Cave (rate=10) - Sealeo Lv40, Sneasel Lv40, Regice Lv40, Smoochum Lv40, Delibird Lv36, Cloyster Lv36, Jynx Lv38, Smoochum Lv38, Glalie Lv36, Articuno Lv36, Swinub Lv36, Cloyster Lv36
+Set #41 - ZONA SAFARI Grass/Cave (rate=25) - Sneasel Lv25, Delibird Lv27, Snorunt Lv25, Regice Lv27, Smoochum Lv25, Regice Lv25, Piloswine Lv25, Delibird Lv27, Delibird Lv25, Cloyster Lv27, Dewgong Lv27, Cloyster Lv29
+Set #42 - FUNDO DO MAR Surfing (rate=4) - Machop Lvs 20-30, Hariyama Lvs 20-30, Heracross Lvs 30-35, Poliwrath Lvs 30-35, Hariyama Lvs 30-35
+Set #43 - NAVIO ABANDONADO Surfing (rate=4) - Tentacool Lvs 5-35, Spheal Lvs 5-35, Chinchou Lvs 5-35, Qwilfish Lvs 5-35, Kingler Lvs 30-35
+Set #44 - NAVIO ABANDONADO Fishing (rate=20) - Kingdra Lvs 5-10, Dratini Lvs 5-10, Latias Lvs 10-30, Salamence Lvs 10-30, Rayquaza Lvs 10-30, Salamence Lvs 25-30, Bagon Lvs 30-35, Shelgon Lvs 30-35, Vibrava Lvs 25-30, Latias Lvs 20-25
+Set #45 - CAVERNA GRANITO Grass/Cave (rate=10) - Nuzleaf Lv10, Sharpedo Lv11, Poochyena Lv10, Mightyena Lv11, Sableye Lv12, Absol Lv10, Carvanha Lv10, Cacturne Lv11, Sharpedo Lv12, Shiftry Lv10, Carvanha Lv12, Umbreon Lv10
+Set #46 - CAVERNA GRANITO Rock Smash (rate=20) - Mareep Lvs 10-15, Lanturn Lvs 10-20, Magnemite Lvs 5-10, Pichu Lvs 15-20, Raikou Lvs 15-20
+Set #47 - PASSAGEM Grass/Cave (rate=10) - Diglett Lv15, Barboach Lv15, Larvitar Lv16, Dugtrio Lv15, Cubone Lv15, Nincada Lv15, Wooper Lv16, Diglett Lv16, Donphan Lv14, Rhydon Lv16, Pupitar Lv14, Trapinch Lv14
+Set #48 - CASCATA METEORO Grass/Cave (rate=10) - Metang Lv33, Registeel Lv35, Beldum Lv30, Metagross Lv35, Magneton Lv35, Beldum Lv37, Skarmory Lv25, Metagross Lv39, Lairon Lv38, Metang Lv40, Magneton Lv38, Jirachi Lv40
+Set #49 - CASCATA METEORO Surfing (rate=4) - Steelix Lvs 30-35, Steelix Lvs 30-35, Registeel Lvs 25-35, Lairon Lvs 15-25, Magneton Lvs 5-15
+Set #50 - CASCATA METEORO Fishing (rate=30) - Zubat Lvs 5-10, Hoothoot Lvs 5-10, Butterfree Lvs 10-30, Hoppip Lvs 10-30, Ledian Lvs 10-30, Pelipper Lvs 25-30, Swellow Lvs 30-35, Golbat Lvs 30-35, Ho-Oh Lvs 35-40, Butterfree Lvs 40-45
+Set #51 - DESFILADEIRO Grass/Cave (rate=20) - Nidoqueen Lv21, Gengar Lv21, Gastly Lv21, Ariados Lv20, Qwilfish Lv20, Golbat Lv20, Weepinbell Lv21, Roselia Lv22, Qwilfish Lv22, Haunter Lv22, Nidoking Lv22, Bellsprout Lv22
+Set #52 - ROTA 106 Surfing (rate=4) - Kingdra Lvs 5-35, Rayquaza Lvs 10-30, Salamence Lvs 15-25, Salamence Lvs 25-30, Dragonite Lvs 25-30
+Set #53 - ROTA 106 Fishing (rate=30) - Abra Lvs 5-10, Medicham Lvs 5-10, Espeon Lvs 10-30, Slowking Lvs 10-30, Wynaut Lvs 10-30, Latios Lvs 25-30, Natu Lvs 30-35, Xatu Lvs 20-25, Jirachi Lvs 35-40, Starmie Lvs 40-45
+Set #54 - ROTA 107 Surfing (rate=4) - Noctowl Lvs 5-35, Dodrio Lvs 10-30, Stantler Lvs 15-25, Delcatty Lvs 25-30, Snorlax Lvs 25-30
+Set #55 - ROTA 107 Fishing (rate=30) - Vibrava Lvs 5-10, Kingdra Lvs 5-10, Latios Lvs 10-30, Dragonite Lvs 10-30, Latios Lvs 10-30, Latias Lvs 25-30, Latias Lvs 30-35, Shelgon Lvs 20-25, Dragonair Lvs 35-40, Latios Lvs 40-45
+Set #56 - ROTA 108 Surfing (rate=4) - Natu Lvs 5-35, Metang Lvs 10-30, Exeggutor Lvs 15-25, Mew Lvs 25-30, Drowzee Lvs 25-30
+Set #57 - ROTA 108 Fishing (rate=30) - Sneasel Lvs 5-10, Cacturne Lvs 5-10, Mightyena Lvs 10-30, Poochyena Lvs 10-30, Mightyena Lvs 10-30, Mightyena Lvs 25-30, Sharpedo Lvs 30-35, Houndour Lvs 20-25, Cacturne Lvs 35-40, Sneasel Lvs 40-45
+Set #58 - ROTA 109 Surfing (rate=4) - Beldum Lvs 5-35, Lairon Lvs 10-30, Steelix Lvs 15-25, Metagross Lvs 25-30, Skarmory Lvs 25-30
+Set #59 - ROTA 109 Fishing (rate=30) - Silcoon Lvs 5-10, Ledyba Lvs 5-10, Masquerain Lvs 10-30, Beedrill Lvs 10-30, Anorith Lvs 10-30, Metapod Lvs 25-30, Volbeat Lvs 30-35, Kakuna Lvs 20-25, Venomoth Lvs 35-40, Armaldo Lvs 40-45
+Set #60 - ROTA 115 Grass/Cave (rate=20) - Slakoth Lv23, Snubbull Lv23, Persian Lv25, Noctowl Lv24, Skitty Lv25, Pidgeot Lv25, Whismur Lv24, Eevee Lv25, Teddiursa Lv24, Exploud Lv24, Raticate Lv26, Aipom Lv25
+Set #61 - ROTA 115 Surfing (rate=4) - Aron Lvs 5-35, Aron Lvs 10-30, Magnemite Lvs 15-25, Aggron Lvs 25-30, Forretress Lvs 25-30
+Set #62 - ROTA 115 Fishing (rate=30) - Umbreon Lvs 5-10, Houndoom Lvs 5-10, Houndoom Lvs 10-30, Carvanha Lvs 10-30, Cacturne Lvs 10-30, Absol Lvs 25-30, Sneasel Lvs 30-35, Houndour Lvs 20-25, Houndoom Lvs 35-40, Houndour Lvs 40-45
+Set #63 - NEW MAUVILLE Grass/Cave (rate=10) - Haunter Lv24, Gengar Lv24, Shuppet Lv25, Gastly Lv25, Misdreavus Lv23, Haunter Lv23, Duskull Lv26, Haunter Lv26, Banette Lv22, Banette Lv22, Haunter Lv26, Shuppet Lv26
+Set #64 - ROTA 119 Grass/Cave (rate=15) - Luvdisc Lv25, Starmie Lv25, Dewgong Lv27, Wailmer Lv25, Squirtle Lv27, Politoed Lv26, Wailmer Lv27, Suicune Lv24, Slowbro Lv25, Luvdisc Lv26, Kingdra Lv27, Tentacool Lv25
+Set #65 - ROTA 119 Surfing (rate=4) - Altaria Lvs 5-35, Shelgon Lvs 10-30, Vibrava Lvs 15-25, Kingdra Lvs 25-30, Vibrava Lvs 25-30
+Set #66 - ROTA 119 Fishing (rate=30) - Ivysaur Lvs 5-10, Sunflora Lvs 5-10, Shroomish Lvs 10-30, Sunkern Lvs 10-30, Lotad Lvs 10-30, Hoppip Lvs 25-30, Gloom Lvs 30-35, Shroomish Lvs 20-25, Oddish Lvs 35-40, Victreebel Lvs 40-45
+Set #67 - ROTA 120 Grass/Cave (rate=20) - Hoppip Lv25, Articuno Lv25, Tropius Lv27, Xatu Lv25, Skarmory Lv25, Pidgeot Lv26, Hoothoot Lv27, Beautifly Lv27, Hoothoot Lv25, Taillow Lv27, Yanma Lv25, Dodrio Lv25
+Set #68 - ROTA 120 Surfing (rate=4) - Volbeat Lvs 20-30, Pinsir Lvs 10-20, Venomoth Lvs 30-35, Paras Lvs 5-10, Ariados Lvs 20-30
+Set #69 - ROTA 120 Fishing (rate=30) - Entei Lvs 5-10, Entei Lvs 5-10, Ponyta Lvs 10-30, Houndour Lvs 10-30, Growlithe Lvs 10-30, Slugma Lvs 25-30, Camerupt Lvs 30-35, Arcanine Lvs 20-25, Cyndaquil Lvs 35-40, Charizard Lvs 40-45
+Set #70 - ROTA 121 Grass/Cave (rate=20) - Pidgey Lv26, Cleffa Lv26, Zigzagoon Lv26, Blissey Lv28, Pidgeot Lv28, Fearow Lv26, Swablu Lv28, Dodrio Lv28, Aipom Lv26, Rattata Lv27, Doduo Lv28, Lickitung Lv25
+Set #71 - ROTA 121 Surfing (rate=4) - Bulbasaur Lvs 5-35, Venomoth Lvs 10-30, Nidorino Lvs 15-25, Bulbasaur Lvs 25-30, Weedle Lvs 25-30
+Set #72 - ROTA 121 Fishing (rate=30) - Shiftry Lvs 5-10, Poochyena Lvs 5-10, Murkrow Lvs 10-30, Crawdaunt Lvs 10-30, Absol Lvs 10-30, Crawdaunt Lvs 25-30, Murkrow Lvs 30-35, Absol Lvs 20-25, Nuzleaf Lvs 35-40, Sableye Lvs 40-45
+Set #73 - ROTA 122 Surfing (rate=4) - Rapidash Lvs 5-35, Blaziken Lvs 10-30, Quilava Lvs 15-25, Charizard Lvs 25-30, Rapidash Lvs 25-30
+Set #74 - ROTA 122 Fishing (rate=30) - Omanyte Lvs 5-10, Octillery Lvs 5-10, Tentacool Lvs 10-30, Politoed Lvs 10-30, Crawdaunt Lvs 10-30, Barboach Lvs 30-35, Lanturn Lvs 30-35, Huntail Lvs 25-30, Azumarill Lvs 35-40, Kabutops Lvs 40-45
+Set #75 - ROTA 123 Grass/Cave (rate=20) - Marowak Lv26, Quagsire Lv26, Donphan Lv26, Rhyhorn Lv28, Sandshrew Lv28, Graveler Lv26, Phanpy Lv28, Whiscash Lv28, Steelix Lv26, Dugtrio Lv27, Dugtrio Lv28, Pupitar Lv25
+Set #76 - ROTA 123 Surfing (rate=4) - Shuckle Lvs 5-35, Aggron Lvs 10-30, Aron Lvs 15-25, Sudowoodo Lvs 25-30, Larvitar Lvs 25-30
+Set #77 - ROTA 123 Fishing (rate=30) - Medicham Lvs 5-10, Makuhita Lvs 5-10, Machoke Lvs 10-30, Blaziken Lvs 10-30, Poliwrath Lvs 10-30, Medicham Lvs 25-30, Meditite Lvs 30-35, Primeape Lvs 20-25, Primeape Lvs 35-40, Combusken Lvs 40-45
+Set #78 - MT. PIRA Grass/Cave (rate=10) - Doduo Lv27, Spearow Lv28, Snubbull Lv26, Dunsparce Lv25, Pidgeotto Lv29, Dodrio Lv24, Kangaskhan Lv23, Pidgeot Lv22, Loudred Lv29, Lickitung Lv24, Ditto Lv29, Rattata Lv24
+Set #79 - MT. PIRA Grass/Cave (rate=10) - Flaaffy Lv27, Voltorb Lv28, Mareep Lv26, Chinchou Lv25, Plusle Lv29, Manectric Lv24, Zapdos Lv23, Chinchou Lv22, Manectric Lv29, Raikou Lv24, Electrike Lv29, Manectric Lv24
+Set #80 - MT. PIRA Grass/Cave (rate=10) - Mawile Lv27, Skarmory Lv28, Steelix Lv26, Lairon Lv25, Skarmory Lv29, Lairon Lv24, Registeel Lv23, Aron Lv22, Beldum Lv27, Metang Lv27, Forretress Lv25, Steelix Lv29
+Set #81 - MT. PIRA Grass/Cave (rate=10) - Shuppet Lv27, Misdreavus Lv28, Duskull Lv26, Sableye Lv25, Shuppet Lv29, Gengar Lv24, Duskull Lv23, Sableye Lv22, Gengar Lv27, Gengar Lv27, Shuppet Lv25, Misdreavus Lv29
+Set #82 - MT. PIRA Grass/Cave (rate=10) - Yanma Lv27, Togetic Lv28, Dragonite Lv26, Zapdos Lv25, Dragonite Lv29, Fearow Lv24, Charizard Lv23, Rayquaza Lv22, Aerodactyl Lv27, Hoppip Lv27, Pidgeot Lv25, Fearow Lv29
+Set #83 - MT. PIRA Grass/Cave (rate=10) - Crawdaunt Lv27, Houndoom Lv27, Sableye Lv28, Absol Lv29, Poochyena Lv29, Mightyena Lv27, Sneasel Lv29, Tyranitar Lv25, Poochyena Lv27, Sableye Lv27, Tyranitar Lv26, Sneasel Lv28
+Set #84 - MT. PIRA Grass/Cave (rate=10) - Cloyster Lv28, Sneasel Lv29, Walrein Lv27, Regice Lv26, Piloswine Lv30, Delibird Lv25, Smoochum Lv24, Jynx Lv28, Lapras Lv26, Jynx Lv30, Spheal Lv28, Delibird Lv28
+Set #85 - CAVERNA GRANITO Grass/Cave (rate=10) - Gastly Lv7, Shedinja Lv8, Duskull Lv7, Shedinja Lv8, Haunter Lv9, Misdreavus Lv8, Misdreavus Lv10, Dusclops Lv6, Shedinja Lv7, Misdreavus Lv8, Dusclops Lv7, Shuppet Lv8
+Set #86 - ROTA 125 Surfing (rate=4) - Misdreavus Lvs 5-35, Haunter Lvs 10-30, Misdreavus Lvs 15-25, Dusclops Lvs 25-30, Banette Lvs 25-30
+Set #87 - ROTA 125 Fishing (rate=30) - Bagon Lvs 5-10, Salamence Lvs 5-10, Latios Lvs 10-30, Dragonair Lvs 10-30, Vibrava Lvs 10-30, Dragonair Lvs 30-35, Bagon Lvs 30-35, Latias Lvs 25-30, Bagon Lvs 35-40, Dratini Lvs 40-45
+Set #88 - ROTA 126 Surfing (rate=4) - Beautifly Lvs 5-35, Beautifly Lvs 10-30, Nincada Lvs 15-25, Heracross Lvs 25-30, Beedrill Lvs 25-30
+Set #89 - ROTA 126 Fishing (rate=30) - Forretress Lvs 5-10, Mawile Lvs 5-10, Beldum Lvs 10-30, Forretress Lvs 10-30, Steelix Lvs 10-30, Mawile Lvs 30-35, Jirachi Lvs 30-35, Forretress Lvs 25-30, Scizor Lvs 35-40, Aggron Lvs 40-45
+Set #90 - ROTA 127 Surfing (rate=4) - Slowking Lvs 5-35, Poliwag Lvs 10-30, Marshtomp Lvs 15-25, Dewgong Lvs 25-30, Barboach Lvs 25-30
+Set #91 - ROTA 127 Fishing (rate=30) - Whiscash Lvs 5-10, Omanyte Lvs 5-10, Corphish Lvs 10-30, Blastoise Lvs 10-30, Huntail Lvs 10-30, Croconaw Lvs 30-35, Omanyte Lvs 30-35, Huntail Lvs 25-30, Gyarados Lvs 35-40, Kingdra Lvs 40-45
+Set #92 - ROTA 128 Surfing (rate=4) - Ho-Oh Lvs 5-35, Beautifly Lvs 10-30, Delibird Lvs 15-25, Masquerain Lvs 25-30, Murkrow Lvs 25-30
+Set #93 - ROTA 128 Fishing (rate=30) - Dunsparce Lvs 5-10, Skitty Lvs 5-10, Noctowl Lvs 10-30, Teddiursa Lvs 10-30, Persian Lvs 10-30, Linoone Lvs 30-35, Pidgey Lvs 30-35, Aipom Lvs 30-35, Swablu Lvs 35-40, Ursaring Lvs 40-45
+Set #94 - ROTA 129 Surfing (rate=4) - Cloyster Lvs 5-35, Delibird Lvs 10-30, Articuno Lvs 15-25, Jynx Lvs 25-30, Dewgong Lvs 25-30
+Set #95 - ROTA 129 Fishing (rate=30) - Wobbuffet Lvs 5-10, Deoxys Lvs 5-10, Mewtwo Lvs 10-30, Natu Lvs 10-30, Metagross Lvs 10-30, Metagross Lvs 30-35, Claydol Lvs 30-35, Grumpig Lvs 25-30, Slowking Lvs 35-40, Drowzee Lvs 40-45
+Set #96 - ROTA 130 Grass/Cave (rate=20) - Shuppet Lv30, Shedinja Lv35, Banette Lv25, Sableye Lv40, Gengar Lv20, Gastly Lv45, Misdreavus Lv15, Dusclops Lv50, Sableye Lv10, Banette Lv5, Dusclops Lv10, Sableye Lv5
+Set #97 - ROTA 130 Surfing (rate=4) - Spheal Lvs 5-35, Glalie Lvs 10-30, Piloswine Lvs 15-25, Delibird Lvs 25-30, Delibird Lvs 25-30
+Set #98 - ROTA 130 Fishing (rate=30) - Taillow Lvs 5-10, Charizard Lvs 5-10, Spearow Lvs 10-30, Altaria Lvs 10-30, Ho-Oh Lvs 10-30, Delibird Lvs 30-35, Altaria Lvs 30-35, Wingull Lvs 25-30, Ledian Lvs 35-40, Lugia Lvs 40-45
+Set #99 - ROTA 131 Surfing (rate=4) - Machop Lvs 5-35, Medicham Lvs 10-30, Meditite Lvs 15-25, Hitmontop Lvs 25-30, Mankey Lvs 25-30
+Set #100 - ROTA 131 Fishing (rate=30) - Beldum Lvs 5-10, Magnemite Lvs 5-10, Mawile Lvs 10-30, Steelix Lvs 10-30, Aggron Lvs 10-30, Jirachi Lvs 30-35, Skarmory Lvs 30-35, Lairon Lvs 25-30, Lairon Lvs 35-40, Mawile Lvs 40-45
+Set #101 - ROTA 132 Surfing (rate=4) - Meditite Lvs 5-35, Machamp Lvs 10-30, Makuhita Lvs 15-25, Breloom Lvs 25-30, Blaziken Lvs 25-30
+Set #102 - ROTA 132 Fishing (rate=30) - Swinub Lvs 5-10, Glalie Lvs 5-10, Piloswine Lvs 10-30, Sealeo Lvs 10-30, Walrein Lvs 10-30, Snorunt Lvs 30-35, Delibird Lvs 30-35, Swinub Lvs 25-30, Dewgong Lvs 35-40, Smoochum Lvs 40-45
+Set #103 - ROTA 133 Surfing (rate=4) - Metang Lvs 5-35, Forretress Lvs 10-30, Forretress Lvs 15-25, Aggron Lvs 25-30, Beldum Lvs 25-30
+Set #104 - ROTA 133 Fishing (rate=30) - Magnemite Lvs 5-10, Manectric Lvs 5-10, Raichu Lvs 10-30, Raikou Lvs 10-30, Magnemite Lvs 10-30, Magneton Lvs 30-35, Magneton Lvs 30-35, Raichu Lvs 25-30, Magnemite Lvs 35-40, Electabuzz Lvs 40-45
+Set #105 - ROTA 134 Surfing (rate=4) - Horsea Lvs 5-35, Starmie Lvs 10-30, Slowbro Lvs 15-25, Cloyster Lvs 25-30, Seadra Lvs 25-30
+Set #106 - ROTA 134 Fishing (rate=30) - Gloom Lvs 5-10, Bellossom Lvs 5-10, Venusaur Lvs 10-30, Skiploom Lvs 10-30, Cacturne Lvs 10-30, Venusaur Lvs 30-35, Chikorita Lvs 30-35, Shiftry Lvs 25-30, Bayleef Lvs 35-40, Ivysaur Lvs 40-45
+Set #107 - NAVIO ABANDONADO Surfing (rate=4) - Sableye Lvs 5-35, Banette Lvs 5-35, Misdreavus Lvs 5-35, Shedinja Lvs 5-35, Banette Lvs 30-35
+Set #108 - NAVIO ABANDONADO Fishing (rate=20) - Growlithe Lvs 5-10, Arcanine Lvs 5-10, Magcargo Lvs 10-30, Magby Lvs 10-30, Typhlosion Lvs 10-30, Vulpix Lvs 25-30, Growlithe Lvs 30-35, Vulpix Lvs 30-35, Moltres Lvs 25-30, Typhlosion Lvs 20-25
+Set #109 - CAVERNA CARDUME Grass/Cave (rate=4) - Machamp Lv30, Combusken Lv31, Blaziken Lv32, Machoke Lv33, Tyrogue Lv28, Machamp Lv29, Machop Lv34, Machamp Lv35, Heracross Lv34, Hitmontop Lv35, Hitmonchan Lv33, Meditite Lv36
+Set #110 - CAVERNA CARDUME Grass/Cave (rate=4) - Metagross Lv30, Exeggcute Lv31, Slowking Lv32, Baltoy Lv33, Medicham Lv28, Mr. Mime Lv29, Espeon Lv34, Drowzee Lv35, Medicham Lv34, Baltoy Lv35, Deoxys Lv33, Alakazam Lv36
+Set #111 - CAVERNA CARDUME Grass/Cave (rate=4) - Magneton Lv30, Scizor Lv31, Skarmory Lv32, Forretress Lv33, Mawile Lv28, Beldum Lv29, Beldum Lv34, Scizor Lv35, Beldum Lv34, Metagross Lv35, Jirachi Lv33, Skarmory Lv36
+Set #112 - CAVERNA CARDUME Grass/Cave (rate=4) - Mawile Lv30, Steelix Lv31, Aggron Lv32, Steelix Lv33, Metang Lv28, Aron Lv29, Aron Lv34, Scizor Lv35, Beldum Lv34, Registeel Lv35, Metang Lv33, Scizor Lv36
+Set #113 - CAVERNA CARDUME Grass/Cave (rate=4) - Bulbasaur Lv30, Tentacool Lv31, Seviper Lv32, Arbok Lv33, Roselia Lv28, Victreebel Lv29, Beedrill Lv34, Muk Lv35, Gulpin Lv34, Gloom Lv35, Beedrill Lv33, Crobat Lv36
+Set #114 - CAVERNA CARDUME Grass/Cave (rate=4) - Beldum Lv30, Forretress Lv31, Registeel Lv32, Aron Lv33, Lairon Lv28, Metang Lv29, Jirachi Lv34, Steelix Lv35, Registeel Lv34, Mawile Lv35, Registeel Lv33, Beldum Lv36
+Set #115 - CAVERNA CARDUME Surfing (rate=4) - Seviper Lvs 5-35, Gastly Lvs 5-35, Bellsprout Lvs 30-35, Roselia Lvs 30-35, Nidoking Lvs 30-35
+Set #116 - CAVERNA CARDUME Fishing (rate=10) - Shroomish Lvs 5-10, Bayleef Lvs 5-10, Treecko Lvs 10-30, Seedot Lvs 10-30, Lotad Lvs 10-30, Sunflora Lvs 25-30, Lotad Lvs 30-35, Bayleef Lvs 20-25, Roselia Lvs 35-40, Seedot Lvs 40-45
+Set #117 - CAVERNA CARDUME Grass/Cave (rate=4) - Grumpig Lv30, Spoink Lv31, Solrock Lv32, Lugia Lv33, Lunatone Lv28, Hypno Lv29, Abra Lv34, Slowking Lv35, Natu Lv34, Gardevoir Lv35, Lunatone Lv33, Slowking Lv36
+Set #118 - CAVERNA CARDUME Surfing (rate=4) - Cubone Lvs 5-35, Dugtrio Lvs 5-35, Rhydon Lvs 30-35, Golem Lvs 30-35, Swampert Lvs 30-35
+Set #119 - CAVERNA CARDUME Fishing (rate=10) - Tentacool Lvs 5-10, Blastoise Lvs 5-10, Walrein Lvs 10-30, Wailord Lvs 10-30, Politoed Lvs 10-30, Milotic Lvs 25-30, Omanyte Lvs 30-35, Mantine Lvs 20-25, Gorebyss Lvs 35-40, Wailord Lvs 40-45
+Set #120 - CAVERNA CARDUME Grass/Cave (rate=4) - Taillow Lv30, Stantler Lv31, Noctowl Lv32, Doduo Lv33, Kecleon Lv28, Aipom Lv29, Swablu Lv34, Slakoth Lv35, Exploud Lv34, Spearow Lv35, Fearow Lv33, Eevee Lv36
+Set #121 - CAVERNA CARDUME Surfing (rate=4) - Nidoking Lvs 5-35, Haunter Lvs 5-35, Beedrill Lvs 30-35, Roselia Lvs 30-35, Nidoran♀ Lvs 30-35
+Set #122 - CAVERNA CARDUME Fishing (rate=10) - Voltorb Lvs 5-10, Jolteon Lvs 5-10, Pichu Lvs 10-30, Zapdos Lvs 10-30, Electrode Lvs 10-30, Jolteon Lvs 25-30, Zapdos Lvs 30-35, Flaaffy Lvs 20-25, Electrode Lvs 35-40, Magnemite Lvs 40-45
+Set #123 - GRUTA ANCESTRAL Grass/Cave (rate=4) - Omastar Lv30, Crawdaunt Lv31, Croconaw Lv32, Quagsire Lv33, Walrein Lv28, Octillery Lv29, Luvdisc Lv34, Blastoise Lv35, Chinchou Lv34, Staryu Lv35, Poliwag Lv33, Omanyte Lv36
+Set #124 - GRUTA ANCESTRAL Grass/Cave (rate=4) - Kingdra Lv30, Wailmer Lv31, Poliwhirl Lv32, Clamperl Lv30, Kingler Lv32, Kingler Lv34, Kyogre Lv33, Octillery Lv34, Seadra Lv34, Staryu Lv35, Quagsire Lv33, Huntail Lv36
+Set #125 - GRUTA ANCESTRAL Grass/Cave (rate=4) - Blaziken Lv30, Makuhita Lv31, Hitmonlee Lv32, Hitmonlee Lv30, Mankey Lv32, Tyrogue Lv34, Makuhita Lv33, Poliwrath Lv34, Medicham Lv34, Machop Lv35, Hitmontop Lv33, Hitmonlee Lv36
+Set #126 - GRUTA ANCESTRAL Grass/Cave (rate=4) - Hariyama Lv30, Primeape Lv31, Hitmonlee Lv32, Poliwrath Lv30, Mankey Lv32, Meditite Lv34, Combusken Lv33, Machamp Lv34, Mankey Lv34, Machamp Lv35, Hitmonchan Lv33, Tyrogue Lv36
+Set #127 - GRUTA ANCESTRAL Grass/Cave (rate=4) - Houndour Lv30, Shiftry Lv31, Houndour Lv32, Tyranitar Lv30, Umbreon Lv32, Sharpedo Lv34, Cacturne Lv33, Houndour Lv34, Murkrow Lv34, Murkrow Lv35, Mightyena Lv33, Umbreon Lv36
+Set #128 - NEW MAUVILLE Grass/Cave (rate=10) - Pinsir Lv24, Cascoon Lv24, Illumise Lv25, Cascoon Lv25, Nincada Lv23, Silcoon Lv23, Yanma Lv26, Spinarak Lv26, Shedinja Lv22, Cascoon Lv22, Armaldo Lv22, Butterfree Lv22
+Set #129 - ZONA SAFARI Grass/Cave (rate=25) - Dragonite Lv25, Skarmory Lv27, Dragonite Lv25, Skiploom Lv27, Taillow Lv25, Doduo Lv27, Beautifly Lv25, Rayquaza Lv27, Dragonite Lv25, Rayquaza Lv27, Zapdos Lv27, Skarmory Lv29
+Set #130 - ZONA SAFARI Surfing (rate=9) - Poochyena Lvs 20-30, Shiftry Lvs 20-30, Sableye Lvs 30-35, Houndour Lvs 30-35, Carvanha Lvs 30-35
+Set #131 - ZONA SAFARI Fishing (rate=35) - Shedinja Lvs 5-10, Haunter Lvs 5-10, Gastly Lvs 10-30, Shedinja Lvs 10-25, Shuppet Lvs 10-30, Gastly Lvs 25-30, Duskull Lvs 30-35, Shuppet Lvs 30-35, Shuppet Lvs 35-40, Duskull Lvs 25-30
+Set #132 - ZONA SAFARI Grass/Cave (rate=25) - Weedle Lv27, Scizor Lv27, Pineco Lv29, Metapod Lv29, Forretress Lv27, Paras Lv29, Cascoon Lv31, Beedrill Lv29, Shuckle Lv29, Wurmple Lv27, Pineco Lv31, Armaldo Lv29
+Set #133 - ZONA SAFARI Rock Smash (rate=25) - Registeel Lvs 10-15, Forretress Lvs 5-10, Magnemite Lvs 15-20, Registeel Lvs 20-25, Magneton Lvs 25-30
+Set #134 - ZONA SAFARI Grass/Cave (rate=25) - Jynx Lv27, Swinub Lv27, Delibird Lv29, Jynx Lv29, Dewgong Lv27, Piloswine Lv29, Jynx Lv31, Snorunt Lv29, Sneasel Lv29, Swinub Lv27, Piloswine Lv31, Glalie Lv29
+Set #135 - ZONA SAFARI Surfing (rate=9) - Weedle Lvs 20-30, Kakuna Lvs 20-30, Wurmple Lvs 30-35, Scizor Lvs 30-35, Scizor Lvs 25-40
+Set #136 - ZONA SAFARI Fishing (rate=35) - Castform Lvs 5-10, Girafarig Lvs 5-10, Eevee Lvs 10-30, Teddiursa Lvs 10-25, Spinda Lvs 10-30, Taillow Lvs 25-30, Dunsparce Lvs 30-35, Vigoroth Lvs 30-35, Linoone Lvs 35-40, Pidgey Lvs 25-30
+Set #137 - ESTRADA VITÓRIA Grass/Cave (rate=10) - Jynx Lv40, Alakazam Lv40, Beldum Lv40, Slowpoke Lv40, Mewtwo Lv38, Gardevoir Lv38, Deoxys Lv42, Drowzee Lv42, Lugia Lv42, Wobbuffet Lv38, Baltoy Lv42, Natu Lv38
+Set #138 - ESTRADA VITÓRIA Rock Smash (rate=20) - Houndoom Lvs 30-40, Shiftry Lvs 30-40, Cacturne Lvs 35-40, Mightyena Lvs 35-40, Sharpedo Lvs 35-40
+Set #139 - ESTRADA VITÓRIA Grass/Cave (rate=10) - Jynx Lv40, Smoochum Lv40, Jynx Lv40, Articuno Lv40, Spheal Lv42, Glalie Lv42, Cloyster Lv44, Regice Lv44, Sneasel Lv42, Smoochum Lv42, Smoochum Lv44, Walrein Lv44
+Set #140 - ESTRADA VITÓRIA Surfing (rate=4) - Koffing Lvs 30-35, Grimer Lvs 25-30, Bellsprout Lvs 35-40, Muk Lvs 35-40, Grimer Lvs 35-40
+Set #141 - ESTRADA VITÓRIA Fishing (rate=30) - Haunter Lvs 5-10, Shuppet Lvs 5-10, Shuppet Lvs 10-30, Misdreavus Lvs 10-30, Shuppet Lvs 10-30, Sableye Lvs 25-30, Shedinja Lvs 30-35, Shedinja Lvs 30-35, Shuppet Lvs 35-40, Shedinja Lvs 40-45
+Set #142 - CASCATA METEORO Grass/Cave (rate=10) - Roselia Lv16, Victreebel Lv17, Nidorina Lv18, Vileplume Lv15, Nidoking Lv14, Weepinbell Lv16, Bulbasaur Lv18, Victreebel Lv14, Gulpin Lv19, Vileplume Lv20, Tentacruel Lv19, Koffing Lv20
+Set #143 - CASCATA METEORO Surfing (rate=4) - Bulbasaur Lvs 5-35, Nidoran♂ Lvs 30-35, Muk Lvs 25-35, Nidorino Lvs 15-25, Crobat Lvs 5-15
+Set #144 - CASCATA METEORO Fishing (rate=30) - Xatu Lvs 5-10, Charizard Lvs 5-10, Skiploom Lvs 10-30, Articuno Lvs 10-30, Dodrio Lvs 10-30, Aerodactyl Lvs 25-30, Ledyba Lvs 30-35, Dodrio Lvs 20-25, Delibird Lvs 35-40, Masquerain Lvs 40-45
+Set #145 - CASCATA METEORO Grass/Cave (rate=10) - Psyduck Lv33, Feraligatr Lv35, Slowbro Lv33, Surskit Lv35, Sealeo Lv33, Poliwrath Lv37, Totodile Lv35, Sharpedo Lv39, Swampert Lv38, Totodile Lv40, Slowking Lv38, Corphish Lv40
+Set #146 - CASCATA METEORO Surfing (rate=4) - Beedrill Lvs 30-35, Gulpin Lvs 30-35, Venonat Lvs 25-35, Venonat Lvs 15-25, Roselia Lvs 5-15
+Set #147 - CASCATA METEORO Fishing (rate=30) - Cacturne Lvs 5-10, Absol Lvs 5-10, Poochyena Lvs 10-30, Sableye Lvs 10-30, Sneasel Lvs 10-30, Sharpedo Lvs 25-30, Houndoom Lvs 30-35, Sableye Lvs 30-35, Sableye Lvs 35-40, Cacturne Lvs 40-45
+Set #148 - CASCATA METEORO Grass/Cave (rate=10) - Ariados Lv33, Forretress Lv35, Surskit Lv33, Volbeat Lv35, Yanma Lv33, Butterfree Lv37, Pineco Lv35, Beautifly Lv39, Wurmple Lv38, Nincada Lv40, Beautifly Lv38, Spinarak Lv40
+Set #149 - CASCATA METEORO Surfing (rate=4) - Zangoose Lvs 30-35, Sentret Lvs 30-35, Spinda Lvs 25-35, Porygon2 Lvs 15-25, Stantler Lvs 5-15
+Set #150 - CASCATA METEORO Fishing (rate=30) - Jumpluff Lvs 5-10, Meganium Lvs 5-10, Sunflora Lvs 10-30, Meganium Lvs 10-30, Exeggutor Lvs 10-30, Grovyle Lvs 25-30, Roselia Lvs 30-35, Gloom Lvs 30-35, Treecko Lvs 35-40, Cacturne Lvs 40-45
+Set #151 - CAVERNA ABISAL Grass/Cave (rate=10) - Exeggcute Lv26, Exeggcute Lv26, Venusaur Lv28, Skiploom Lv28, Meganium Lv30, Vileplume Lv30, Seedot Lv32, Sceptile Lv32, Lombre Lv32, Seedot Lv32, Bellossom Lv32, Grovyle Lv32
+Set #152 - CAVERNA ABISAL Grass/Cave (rate=10) - Teddiursa Lv26, Spearow Lv26, Azurill Lv28, Zigzagoon Lv28, Rattata Lv30, Noctowl Lv30, Doduo Lv32, Zangoose Lv32, Linoone Lv32, Castform Lv32, Clefable Lv32, Linoone Lv32
+Set #153 - CAVERNA ABISAL Grass/Cave (rate=10) - Kabutops Lv26, Omastar Lv26, Aerodactyl Lv28, Geodude Lv28, Regirock Lv30, Armaldo Lv30, Lunatone Lv32, Cradily Lv32, Tyranitar Lv32, Larvitar Lv32, Lairon Lv32, Graveler Lv32
+Set #154 - CAVERNA ABISAL Surfing (rate=4) - Xatu Lvs 5-35, Meditite Lvs 5-35, Mewtwo Lvs 25-30, Drowzee Lvs 25-30, Natu Lvs 25-35
+Set #155 - CAVERNA ABISAL Fishing (rate=10) - Haunter Lvs 5-10, Shuppet Lvs 5-10, Misdreavus Lvs 10-30, Sableye Lvs 10-30, Shedinja Lvs 10-30, Misdreavus Lvs 25-30, Misdreavus Lvs 30-35, Dusclops Lvs 20-25, Shuppet Lvs 35-40, Gengar Lvs 40-45
+Set #156 - CAVERNA ABISAL Grass/Cave (rate=10) - Voltorb Lv26, Voltorb Lv26, Mareep Lv28, Flaaffy Lv28, Flaaffy Lv30, Raichu Lv30, Raikou Lv32, Jolteon Lv32, Magneton Lv32, Plusle Lv32, Electrike Lv32, Jolteon Lv32
+Set #157 - CAVERNA ABISAL Surfing (rate=4) - Metagross Lvs 5-35, Jirachi Lvs 5-35, Jirachi Lvs 25-30, Steelix Lvs 25-30, Metagross Lvs 25-35
+Set #158 - CAVERNA ABISAL Fishing (rate=10) - Anorith Lvs 5-10, Dustox Lvs 5-10, Spinarak Lvs 10-30, Butterfree Lvs 10-30, Shedinja Lvs 10-30, Venonat Lvs 25-30, Caterpie Lvs 30-35, Weedle Lvs 20-25, Venonat Lvs 35-40, Shuckle Lvs 40-45
+Set #159 - LILYCOVE Surfing (rate=4) - Spheal Lvs 5-35, Kabuto Lvs 10-30, Kingdra Lvs 15-25, Lombre Lvs 25-30, Pelipper Lvs 25-30
+Set #160 - LILYCOVE Fishing (rate=10) - Lombre Lvs 5-10, Tangela Lvs 5-10, Seedot Lvs 10-30, Shroomish Lvs 10-30, Shiftry Lvs 10-30, Bellossom Lvs 25-30, Chikorita Lvs 30-35, Lombre Lvs 25-30, Bulbasaur Lvs 35-40, Breloom Lvs 40-45
+Set #161 - ILHA DEWFORD Surfing (rate=4) - Nidoran♂ Lvs 5-35, Nidorina Lvs 10-30, Ivysaur Lvs 15-25, Ekans Lvs 25-30, Gulpin Lvs 25-30
+Set #162 - ILHA DEWFORD Fishing (rate=10) - Zigzagoon Lvs 5-10, Skitty Lvs 5-10, Kangaskhan Lvs 10-30, Skitty Lvs 10-30, Togetic Lvs 10-30, Chansey Lvs 25-30, Aipom Lvs 30-35, Meowth Lvs 20-25, Wigglytuff Lvs 35-40, Lickitung Lvs 40-45
+Set #163 - SLATEPORT Surfing (rate=4) - Cloyster Lvs 5-35, Piloswine Lvs 10-30, Sneasel Lvs 15-25, Smoochum Lvs 25-30, Walrein Lvs 25-30
+Set #164 - SLATEPORT Fishing (rate=10) - Pidgey Lvs 5-10, Hoothoot Lvs 5-10, Mantine Lvs 10-30, Tropius Lvs 10-30, Mantine Lvs 10-30, Aerodactyl Lvs 25-30, Ninjask Lvs 30-35, Swablu Lvs 20-25, Ho-Oh Lvs 35-40, Rayquaza Lvs 40-45
+Set #165 - MOSSDEEP Surfing (rate=4) - Jumpluff Lvs 5-35, Lotad Lvs 10-30, Exeggcute Lvs 15-25, Lotad Lvs 25-30, Seedot Lvs 25-30
+Set #166 - MOSSDEEP Fishing (rate=10) - Mudkip Lvs 5-10, Milotic Lvs 5-10, Wingull Lvs 10-30, Gyarados Lvs 10-30, Dewgong Lvs 10-30, Slowking Lvs 30-35, Clamperl Lvs 30-35, Wailord Lvs 25-30, Totodile Lvs 35-40, Lapras Lvs 40-45
+Set #167 - PACIFIDLOG      Surfing (rate=4) - Hoppip Lvs 5-35, Sunkern Lvs 10-30, Lotad Lvs 15-25, Jumpluff Lvs 25-30, Treecko Lvs 25-30
+Set #168 - PACIFIDLOG      Fishing (rate=10) - Lombre Lvs 5-10, Luvdisc Lvs 5-10, Starmie Lvs 10-30, Barboach Lvs 10-30, Corphish Lvs 10-30, Magikarp Lvs 30-35, Tentacruel Lvs 30-35, Feraligatr Lvs 25-30, Relicanth Lvs 35-40, Pelipper Lvs 40-45
+Set #169 - ILHA COLOSSAL    Surfing (rate=4) - Haunter Lvs 5-35, Duskull Lvs 10-30, Shuppet Lvs 15-25, Misdreavus Lvs 25-30, Misdreavus Lvs 25-30
+Set #170 - ILHA COLOSSAL    Fishing (rate=10) - Marowak Lvs 5-10, Rhyhorn Lvs 5-10, Steelix Lvs 10-30, Golem Lvs 10-30, Nidoking Lvs 10-30, Rhydon Lvs 30-35, Claydol Lvs 30-35, Nincada Lvs 30-35, Donphan Lvs 35-40, Golem Lvs 40-45
+Set #171 - PETALBURG Surfing (rate=1) - Spinarak Lvs 20-30, Vileplume Lvs 10-20, Gengar Lvs 30-35, Kakuna Lvs 5-10, Gengar Lvs 5-10
+Set #172 - PETALBURG Fishing (rate=10) - Dragonair Lvs 5-10, Flygon Lvs 5-10, Altaria Lvs 10-30, Vibrava Lvs 10-30, Latios Lvs 10-30, Salamence Lvs 25-30, Salamence Lvs 30-35, Latios Lvs 20-25, Shelgon Lvs 35-40, Bagon Lvs 40-45
+Set #173 - FUNDO DO MAR Surfing (rate=4) - Smoochum Lvs 20-30, Articuno Lvs 20-30, Swinub Lvs 30-35, Articuno Lvs 30-35, Swinub Lvs 30-35
+Set #174 - CAVERNA ABISAL Grass/Cave (rate=10) - Glalie Lv26, Cloyster Lv26, Snorunt Lv28, Articuno Lv28, Sneasel Lv30, Lapras Lv30, Piloswine Lv26, Delibird Lv32, Jynx Lv30, Smoochum Lv28, Articuno Lv32, Piloswine Lv30
+Set #175 - PILAR CELESTE Grass/Cave (rate=10) - Lairon Lv33, Aggron Lv34, Mawile Lv35, Magneton Lv34, Beldum Lv36, Jirachi Lv37, Lairon Lv38, Registeel Lv36, Metang Lv37, Aron Lv38, Metagross Lv37, Magnemite Lv38
+Set #176 - SOOTOPOLIS Surfing (rate=1) - Cloyster Lvs 5-35, Mudkip Lvs 10-30, Omanyte Lvs 15-25, Totodile Lvs 25-30, Totodile Lvs 25-30
+Set #177 - SOOTOPOLIS Fishing (rate=10) - Farfetch’D Lvs 5-10, Pidgey Lvs 5-10, Vigoroth Lvs 10-30, Wigglytuff Lvs 10-30, Stantler Lvs 10-30, Raticate Lvs 30-35, Snubbull Lvs 30-35, Snorlax Lvs 35-40, Togepi Lvs 35-45, Igglybuff Lvs 5-45
+Set #178 - PILAR CELESTE Grass/Cave (rate=10) - Pichu Lv33, Voltorb Lv34, Mareep Lv35, Pikachu Lv34, Electrike Lv36, Electrode Lv37, Electrike Lv38, Electrike Lv36, Raikou Lv37, Minun Lv38, Ampharos Lv37, Electrike Lv38
+Set #179 - PILAR CELESTE Grass/Cave (rate=10) - Arcanine Lv33, Charmander Lv34, Moltres Lv35, Camerupt Lv34, Camerupt Lv36, Ninetales Lv37, Ho-Oh Lv38, Slugma Lv36, Camerupt Lv37, Houndoom Lv38, Magby Lv39, Houndoom Lv39
+Set #180 - ZONA SAFARI Grass/Cave (rate=25) - Bulbasaur Lv33, Vileplume Lv34, Muk Lv35, Nidoran♂ Lv36, Spinarak Lv34, Koffing Lv33, Oddish Lv35, Gengar Lv34, Nidoran♂ Lv36, Venomoth Lv37, Kakuna Lv39, Gloom Lv40
+Set #181 - ZONA SAFARI Surfing (rate=9) - Tyranitar Lvs 25-30, Crawdaunt Lvs 25-30, Poochyena Lvs 25-30, Houndour Lvs 30-35, Cacturne Lvs 35-40
+Set #182 - ZONA SAFARI Fishing (rate=35) - Articuno Lvs 25-30, Smoochum Lvs 25-30, Cloyster Lvs 25-30, Spheal Lvs 25-30, Sealeo Lvs 30-35, Articuno Lvs 25-30, Articuno Lvs 25-30, Jynx Lvs 30-35, Piloswine Lvs 30-35, Lapras Lvs 35-40
+Set #183 - ZONA SAFARI Grass/Cave (rate=25) - Whiscash Lv33, Wooper Lv34, Numel Lv35, Nincada Lv36, Dugtrio Lv34, Marshtomp Lv33, Nidoqueen Lv35, Golem Lv34, Phanpy Lv36, Barboach Lv37, Larvitar Lv39, Gligar Lv40
+Set #184 - ZONA SAFARI Rock Smash (rate=25) - Xatu Lvs 25-30, Slowbro Lvs 20-25, Meditite Lvs 30-35, Drowzee Lvs 30-35, Xatu Lvs 35-40
+Set #185 - MAGMA REFÚGIO Grass/Cave (rate=10) - Steelix Lv27, Beldum Lv28, Beldum Lv28, Beldum Lv30, Metagross Lv29, Scizor Lv30, Jirachi Lv30, Aggron Lv30, Magneton Lv30, Steelix Lv31, Magneton Lv32, Steelix Lv33
+Set #186 - MAGMA REFÚGIO Grass/Cave (rate=10) - Doduo Lv27, Skiploom Lv28, Golbat Lv28, Tropius Lv30, Crobat Lv29, Ledyba Lv30, Ho-Oh Lv30, Spearow Lv30, Skarmory Lv30, Tropius Lv31, Gyarados Lv32, Taillow Lv33
+Set #187 - MAGMA REFÚGIO Grass/Cave (rate=10) - Xatu Lv27, Salamence Lv28, Dodrio Lv28, Wingull Lv30, Ho-Oh Lv29, Ninjask Lv30, Togetic Lv30, Salamence Lv30, Wingull Lv30, Doduo Lv31, Pidgeotto Lv32, Tropius Lv33
+Set #188 - MAGMA REFÚGIO Grass/Cave (rate=10) - Kingdra Lv27, Rayquaza Lv28, Kingdra Lv28, Dragonair Lv30, Salamence Lv29, Altaria Lv30, Latias Lv30, Altaria Lv30, Dragonair Lv30, Flygon Lv31, Latias Lv32, Bagon Lv33
+Set #189 - MAGMA REFÚGIO Grass/Cave (rate=10) - Jirachi Lv27, Aron Lv28, Metagross Lv28, Scizor Lv30, Scizor Lv29, Beldum Lv30, Steelix Lv30, Steelix Lv30, Registeel Lv30, Magneton Lv31, Mawile Lv32, Metagross Lv33
+Set #190 - MAGMA REFÚGIO Grass/Cave (rate=10) - Squirtle Lv27, Wingull Lv28, Omastar Lv28, Totodile Lv30, Dewgong Lv29, Walrein Lv30, Lanturn Lv30, Dewgong Lv30, Mudkip Lv30, Poliwag Lv31, Corsola Lv32, Poliwag Lv33
+Set #191 - MAGMA REFÚGIO Grass/Cave (rate=10) - Granbull Lv27, Hoothoot Lv28, Zigzagoon Lv28, Ursaring Lv30, Blissey Lv29, Zangoose Lv30, Sentret Lv30, Kecleon Lv30, Ursaring Lv30, Stantler Lv31, Vigoroth Lv32, Dodrio Lv33
+Set #192 - MAGMA REFÚGIO Grass/Cave (rate=10) - Golbat Lv27, Bulbasaur Lv28, Nidoran♂ Lv28, Ariados Lv30, Tentacool Lv29, Muk Lv30, Nidoking Lv30, Tentacruel Lv30, Ariados Lv30, Weepinbell Lv31, Weepinbell Lv32, Muk Lv33
+Set #193 - TORRE MIRAGE Grass/Cave (rate=10) - Vulpix Lv21, Vulpix Lv21, Torchic Lv20, Arcanine Lv20, Torkoal Lv20, Houndoom Lv20, Magcargo Lv22, Torkoal Lv22, Entei Lv23, Numel Lv23, Vulpix Lv24, Moltres Lv24
+Set #194 - TORRE MIRAGE Grass/Cave (rate=10) - Houndour Lv21, Houndoom Lv21, Houndour Lv20, Houndour Lv20, Sneasel Lv20, Umbreon Lv20, Cacturne Lv22, Crawdaunt Lv22, Absol Lv23, Sneasel Lv23, Mightyena Lv24, Cacturne Lv24
+Set #195 - TORRE MIRAGE Grass/Cave (rate=10) - Beautifly Lv21, Swablu Lv21, Lugia Lv20, Tropius Lv20, Pidgeot Lv20, Lugia Lv20, Xatu Lv22, Hoppip Lv22, Mantine Lv23, Doduo Lv23, Jumpluff Lv24, Gligar Lv24
+Set #196 - TORRE MIRAGE Grass/Cave (rate=10) - Slowbro Lv21, Kingler Lv21, Seadra Lv20, Poliwrath Lv20, Kyogre Lv20, Tentacool Lv20, Milotic Lv22, Suicune Lv22, Lombre Lv23, Gorebyss Lv23, Mudkip Lv24, Marshtomp Lv24
+Set #197 - DESERTO SUBSOLO  Grass/Cave (rate=10) - Aggron Lv38, Aron Lv35, Aron Lv40, Metagross Lv40, Forretress Lv41, Steelix Lv36, Magneton Lv38, Skarmory Lv42, Metang Lv38, Mawile Lv43, Aggron Lv44, Metagross Lv45
+Set #198 - ARTISAN CAVE Grass/Cave (rate=10) - Shuppet Lv40, Shuppet Lv41, Dusclops Lv42, Shedinja Lv43, Haunter Lv44, Gengar Lv45, Gengar Lv46, Duskull Lv47, Gastly Lv48, Duskull Lv49, Banette Lv50, Sableye Lv50
+Set #199 - ARTISAN CAVE Grass/Cave (rate=10) - Salamence Lv40, Articuno Lv41, Ledyba Lv42, Xatu Lv43, Pidgeot Lv44, Charizard Lv45, Butterfree Lv46, Togetic Lv47, Masquerain Lv48, Skarmory Lv49, Doduo Lv50, Zubat Lv50
+Set #200 - ALTERING CAVE Grass/Cave (rate=7) - Dragonair Lv10, Dragonair Lv12, Salamence Lv8, Salamence Lv14, Shelgon Lv10, Flygon Lv12, Latios Lv16, Bagon Lv6, Salamence Lv8, Kingdra Lv14, Salamence Lv8, Shelgon Lv14
+Set #201 - ALTERING CAVE Grass/Cave (rate=7) - Primeape Lv7, Machoke Lv9, Meditite Lv5, Mankey Lv11, Blaziken Lv7, Meditite Lv9, Machamp Lv13, Combusken Lv3, Machamp Lv5, Machop Lv11, Poliwrath Lv5, Tyrogue Lv11
+Set #202 - ALTERING CAVE Grass/Cave (rate=7) - Skarmory Lv23, Metang Lv25, Magneton Lv22, Registeel Lv27, Skarmory Lv23, Metagross Lv25, Scizor Lv29, Mawile Lv19, Aron Lv21, Metang Lv27, Lairon Lv21, Beldum Lv27
+Set #203 - ALTERING CAVE Grass/Cave (rate=7) - Cyndaquil Lv16, Camerupt Lv18, Blaziken Lv14, Vulpix Lv20, Rapidash Lv16, Houndour Lv18, Slugma Lv22, Numel Lv12, Magcargo Lv14, Camerupt Lv20, Magcargo Lv14, Typhlosion Lv20
+Set #204 - ALTERING CAVE Grass/Cave (rate=7) - Lairon Lv10, Omanyte Lv12, Rhyhorn Lv8, Cradily Lv14, Aron Lv10, Aron Lv12, Pupitar Lv16, Omastar Lv6, Shuckle Lv8, Kabutops Lv14, Rhydon Lv8, Corsola Lv14
+Set #205 - ALTERING CAVE Grass/Cave (rate=7) - Torchic Lv22, Camerupt Lv24, Torchic Lv20, Magby Lv26, Vulpix Lv22, Blaziken Lv24, Houndoom Lv28, Magby Lv18, Combusken Lv20, Charizard Lv26, Torchic Lv20, Magby Lv26
+Set #206 - ALTERING CAVE Grass/Cave (rate=7) - Paras Lv22, Ivysaur Lv24, Bulbasaur Lv20, Nuzleaf Lv26, Shiftry Lv22, Cradily Lv24, Cacnea Lv28, Bayleef Lv18, Jumpluff Lv20, Cacnea Lv26, Exeggcute Lv20, Bayleef Lv26
+Set #207 - ALTERING CAVE Grass/Cave (rate=7) - Cyndaquil Lv22, Numel Lv24, Ho-Oh Lv20, Arcanine Lv26, Typhlosion Lv22, Blaziken Lv24, Magby Lv28, Vulpix Lv18, Numel Lv20, Magcargo Lv26, Flareon Lv20, Magmar Lv26
+Set #208 - ALTERING CAVE Grass/Cave (rate=7) - Vaporeon Lv22, Tentacool Lv24, Kyogre Lv20, Politoed Lv26, Mudkip Lv22, Remoraid Lv24, Goldeen Lv28, Dewgong Lv18, Milotic Lv20, Swampert Lv26, Totodile Lv20, Mantine Lv26
+Set #209 - CASCATA METEORO Grass/Cave (rate=10) - Dratini Lv33, Dratini Lv35, Vibrava Lv33, Dragonite Lv35, Bagon Lv33, Vibrava Lv37, Dratini Lv35, Bagon Lv39, Latios Lv38, Flygon Lv40, Vibrava Lv38, Salamence Lv40
+
+Static Pokemon: Unchanged.
+
+TM Moves: Unchanged.
+
+--Move Tutor Moves--
+MEGA SOCO => SOPRO PEDRA
+DANÇA ESPADA => REVERSÄO
+MEGA CHUTE => CORTE AÉREO
+BATE CORPO => ESPINHOS
+AVANÇO-DUPLO => CONVERSÄO 2
+REVIDAR => VENTANIA
+MOV. SÏSMICO => DANÇA
+MIMICA => ESPOROS
+METRÔNOMO => GOLPE FÚRIA
+OVO FERVIDO => LIMPA LUSTRE
+COME SONHO => TURBULÊNCIA
+ONDA TROVÄO => AMARRAR
+EXPLOSÄO => ENDURECER
+DESABA PEDRA => HIDRO CANHÄO
+SUBSTITUTO => VOADORA ALTA
+SOCO POTENTE => RETIRADA
+ROLO COMPR. => SINO DA CURA
+PSÏQUICO => EXPLOSÄO
+RONCAR => BAJULAR
+VENTO GELADO => VENTO GELADO
+RESISTIR => SUPERSÔNICO
+LAMA-BOFETÄO => PSICOATAQUE
+SOCO GELO => LANCE VITAL
+INSULTAR => SOCO COMETA
+SONAMBULO => NEVOEIRO
+EST. CADENTE => BRAÇO AGULHA
+DEFESA ANEL => OVO FERVIDO
+SOCO TROVÄO => GÁS VENENOSO
+SOCO FOGO => BEIJO AMÁVEL
+CORTE FÚRIA => ROLO COMPR.
+
+--In-Game Trades--
+Trading Ralts for DOTS the Seedot has become trading Ralts for Blue the Luvdisc
+Trading Volbeat for PLUSES the Plusle has become trading Volbeat for Smokey the Golduck
+Trading Bagon for SEASOR the Horsea has become trading Bagon for Shadow the Banette
+Trading Skitty for MEOWOW the Meowth has become trading Skitty for Scout the Mankey
+
+------------------------------------------------------------------
+Randomization of Emerald (U) completed.
+Time elapsed: 1023ms
+RNG Calls: 14157
+------------------------------------------------------------------

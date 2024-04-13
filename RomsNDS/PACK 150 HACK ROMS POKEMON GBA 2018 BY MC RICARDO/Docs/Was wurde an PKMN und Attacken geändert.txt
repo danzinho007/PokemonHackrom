@@ -1,0 +1,86 @@
+Pokémon Fähigkeiten:
+Bummelz -> Faulpelz
+Muntier -> Munterkeit
+Letarking -> Speckschicht
+
+
+Geänderte Pokemon:
+Larvitar:	Gestein Drache
+Pupitar:	Stahl 	Drache
+Despotar:	Boden 	Drache
+Garados:	Wasser 	Drache
+
+Geänderte Attacken: Rechts steht die Stärke.
+Aero-Ass: 	80
+Tripelte: 	120
+Antik-Kraft: 	100
+Silberhauch: 	100 
+Blitz: 		60 (Elektro)
+Wutanfall:	120
+Fuchtler:	120
+Duplexhieb:	30
+Komethieb:	35
+Donnerschlag:	100
+Eishieb:	100
+Feuerschlag:	100
+Klingensturm:	120
+Zerschneider:	60 (Gras)
+Windstoß:	60
+Klammergriff:	30
+Slam:		100
+Rankenhieb:	50
+Stampfer:	80
+Doppelkick:	60
+Hornattacke:	70
+Bodyslam:	110
+Biss:		75
+Flammenwurf:	100
+Bohrschnabel:	130
+Rasierblatt:	75
+Blättertanz:	120
+Donnerblitz:	100
+Eisstrahl:	100
+Erdbeben:	120
+Konfusion:	80
+Psychokinese:	120
+Kaskade:	100
+Turmkick:	130
+Himmelsfeger:	150
+Steinhagel:	90
+Schlitzer:	95
+Raub:		60
+Flammenrad:	100
+Schnarscher:	80
+Tempohieb:	80
+Finte:		80
+Matschbombe:	100
+Blitzkanone:	170
+Gigasauger:	80
+Megasauger:	40
+Absober:	20
+Walzer:		50
+Funkenspung:	75
+Zornklinge:	20
+Stahlflügel:	90
+Wuchtschlag:	170
+Vielender:	120
+Feuerodem:	80
+Verfolgung:	60
+Kreuzhieb:	120
+Knirscher:	100
+Turbotempo:	120
+Zertrümmerer:	50
+Aufruhr:	90
+Power-Punch:	180
+Durchbruch:	80
+Scheinwerfer:	200
+Nebelball:	200
+Drachenklaue:	100
+Zauberblatt:	80
+Laubklinge:	100
+Feuerfeger:	100
+Lehmbrühe:	100
+Aquawelle:	80
+Psyschub:	200
+
+Physisch und Speziell und Status aufteilung der Attacken.
