@@ -1,0 +1,1559 @@
+Hackmon (Type: Dragon/Steel. Ability: Adaptability)- Digivolves into Bao Hackmon at Level 30
+Hp: 56
+Atk: 71
+Def: 56
+Sp.Atk: 61
+Sp.Def: 56
+Spd: 65
+
+Bao Hackmon (Type: Dragon/Steel. Ability: Adaptability)- Digivolves into Savior Hackmon at Level 60
+Hp: 74
+Atk: 85
+Def: 74
+Sp.Atk: 80
+Sp.Def: 74
+Spd: 78
+
+Savior Hackmon (Type: Dragon/Steel. Ability: Adaptability)- Digivolves into Jesmon at Level 90
+Hp: 87
+Atk: 106
+Def: 87
+Sp.Atk: 100
+Sp.Def: 87
+Spd: 99
+
+Jesmon (Type:Dragon/Steel. Ability: Adaptability)
+Hp: 105
+Atk: 130
+Def: 105
+Sp.Atk: 120
+Sp.Def: 105
+Spd: 110
+
+Agumon (Normal/Fire. Ability: Blaze/Tough Claws)- Digivolves into Greymon at Level 30
+Hp: 52
+Atk: 70
+Def: 55
+Sp.Atk: 65
+Sp.Def: 50
+Spd: 65
+
+Greymon (Type: Fire. Ability: Blaze/Tough Claws)- Digivolves into Metal Greymon at Level 55
+Hp: 69
+Atk: 86
+Def: 72
+Sp.Atk: 82
+Sp.Def: 68
+Spd: 73
+
+Metal Greymon (Type:Fire/Steel. Ability: Blaze/Tough Claws)- Digivolves into War Greymon at Level 85
+Hp: 78
+Atk: 111
+Def: 92
+Sp.Atk: 88
+Sp.Def: 87
+Spd: 85
+
+Wargreymon (Type: Dragon/Steel. Ability: Blaze/Tough Claws)
+Hp: 95
+Atk: 130
+Def: 120
+Sp.Atk: 100
+Sp.Def: 95
+Spd: 100
+
+Gabumon (Type: Normal/Water. Ability: Torrent/Strong Jaw)- Digivolves into Garurumon at Level 30
+Hp: 52
+Atk: 70
+Def: 50
+Sp.Atk: 65
+Sp.Def: 55
+Spd: 65
+
+Garurumon (Type: Water. Ability: Torrent/Strong Jaw)- Digivolves into WerGarurumon at Level 55
+Hp: 52
+Atk: 86
+Def: 68
+Sp.Atk: 82
+Sp.Def :72
+Spd: 73
+
+WerGarurumon (Type: Water/Fighting. Ability: Torrent/Strong Jaw)- Digivolves into Metal Garurumon at Level 85
+Hp: 78
+Atk: 111
+Def: 87
+Sp.Atk: 88
+Sp.Def: 92
+Spd: 85
+
+Metal Garurumon (Type: Water/Steel. Ability: Torrent/Strong Jaw)
+Hp: 95
+Atk: 130
+Def: 95
+Sp.Atk: 100
+Sp.Def: 120
+Spd: 100
+
+Gotsumon (Type: Rock. Ability: Solid Rock/Rock Head)- Digivolves into Monochromon at Level 28
+Hp: 60
+Atk: 55
+Def: 80
+Sp.Atk: 42
+Sp.Def: 60
+Spd: 30
+
+Monochromon (Type: Rock. Ability: Solid Rock/Head)- Digivolves into Triceramon at Level 48
+Hp: 70
+Atk: 71
+Def: 95
+Sp.Atk: 65
+Sp.Def: 80
+Spd: 44
+
+Triceramon (Type: Rock. Ability: Solid Rock/Head)- Digivolves into Spinomon at Level 80
+Hp: 80
+Atk: 93
+Def: 120
+Sp.Atk: 70
+Sp.Def: 90
+Spd: 55
+
+Spinomon (Type: Rock. Ability: Solid Rock/Head)
+Hp: 90
+Atk: 118
+Def: 135
+Sp.Atk: 80
+Sp.Def: 100
+Spd: 66
+
+Gaomon (Type: Normal/Fighting. Ability: Scrappy/Technician)- Digivolves into Gaogamon at Level 24
+Hp: 46
+Atk: 80
+Def: 44
+Sp.Atk: 42
+Sp.Def: 42
+Spd: 66
+
+Gaogamon (Type: Normal/Fighting. Ability: Scrappy/Technician)- Digivolves into Mach Gaogamon at Level 54
+Hp: 53
+Atk: 98
+Def: 65
+Sp.Atk: 53
+Sp.Def: 53
+Spd: 78
+
+Mach Gaogamon (Type: Normal/Fighting. Ability: Scrappy/Technician)- Digivolves into Mirage Gaogamon at Level 85
+Hp: 66
+Atk: 123
+Def: 86
+Sp.Atk: 68
+Sp.Def: 68
+Spd: 104
+
+Mirage Gaogamon (Type: Steel/Fighting. Ability: Scrappy/Technician)
+Hp: 79
+Atk: 142
+Def: 100
+Sp.Atk: 79
+Sp.Def: 79
+Spd: 151
+
+Gigadramon (Type: Dragon/Dark. Ability: Levitate)- Digivolves into Machindramon at Level 80
+Hp: 80
+Atk: 88
+Def: 114
+Sp.Atk: 88
+Sp.Def: 114
+Spd: 80
+
+Megadramon (Type: Dragon/Dark. Ability: Levitate)- Digivolves into Machinedramon at Level 80
+Hp: 80
+Atk: 114
+Def: 88
+Sp.Atk: 114
+Sp.Def: 88
+Spd: 80
+
+Machinedramon (Type:Steel/Dragon. Ability: Mega Launcher)
+Hp: 90
+Atk: 130
+Def: 145
+Sp.Atk: 130
+Sp.Def: 110
+Spd: 90
+
+Vademon (Type: Psychic. Ability: Analytic)- Digivolves into Ebemon at Level 60
+Hp: 61
+Atk: 61
+Def: 71
+Sp.Atk: 122
+Sp.Def: 111
+Spd: 40
+
+Ebemon (Type: Psychic. Ability: Analytic)
+Hp: 75
+Atk: 75
+Def: 85
+Sp.Atk: 144
+Sp.Def: 122
+Spd: 50
+
+Frigimon (Type: Ice. Ability: Snow Warning/Snow Cloak)
+Hp: 100
+Atk: 80
+Def: 75
+Sp.Atk: 75
+Sp.Def: 75
+Spd: 50
+
+LadyDevimon (Type: Dark. Ability: Moxie)- Digivolves into Mervamon at Level 80
+Hp: 70
+Atk: 116
+Def: 79
+Sp.Atk: 95
+Sp.Def: 71
+Spd: 80
+
+Mervamon (Type: Dark/Fighting. Ability: Moxie)
+Hp: 80
+Atk: 154
+Def: 95
+Sp.Atk: 101
+Sp.Def: 85
+Spd: 94
+
+Ninjamon (Type: Fighting/Dark. Ability: Inflitrator)- Digivolves into Mamemon at Level 50 if Attack is higher than Defense. Digivolves into Metal Mamemon at Level 50 if Defense is higher than Attack
+Hp: 55
+Atk: 80
+Def: 80
+Sp.Atk: 55
+Sp.Def: 55
+Spd: 100
+
+Mamemon (Type: Normal/Fighting. Ability: Adaptability)- Digivolves into Prince Mamemon at Level 80
+Hp: 70
+Atk: 110
+Def: 95
+Sp.Atk: 75
+Sp.Def: 70
+Spd: 95
+
+Metal Mamemon (Type: Steel/Fighting. Ability: Adaptability)- Digivolves into Prince Mamemon at Level 80.
+Hp: 70
+Atk: 95
+Def: 110
+Sp.Atk: 70
+Sp.Def: 75
+Spd: 95
+
+Prince Mamemon (Type: Normal. Ability: Huge Power)
+Hp: 160
+Atk: 90
+Def: 100
+Sp.Atk: 90
+Sp.Def: 100
+Spd: 80
+
+Patamon (Type: Normal/Flying. Ability: Vital Spirit/Guts)- Digivolves into Angemon at Level 40
+Hp: 50
+Atk: 45
+Def: 45
+Sp.Atk: 50
+Sp.Def: 45
+Spd: 52
+
+Angemon (Type: Fairy/Flying. Ability: Serene Grace/Fairy Aura)- Digivolves into Magna Angemon at Level 65
+Hp: 66
+Atk: 65
+Def: 65
+Sp.Atk: 87
+Sp.Def: 68
+Spd: 77
+
+Magna Angemon (Type: Fairy/Flying. Ability: Serene Grace/Fairy Aura)- Digivolves into Seraphimon at Level 90
+Hp: 105
+Atk: 82
+Def: 82
+Sp.Atk: 122
+Sp.Def: 96
+Spd: 85
+
+Seraphimon (Type: Fairy. Ability: Serene Grace/Fairy Aura)
+Hp: 125
+Atk: 90
+Def: 102
+Sp.Atk: 143
+Sp.Def: 123
+Spd: 92
+
+Salamon (Type: Normal. Ability: Cute Charm/Vital Spirit)- Digivolves into Gatmon at Level 25
+Hp: 60
+Atk: 45
+Def: 45
+Sp.Atk: 43
+Sp.Def: 50
+Spd: 38
+
+Gatomon (Type: Normal. Ability: Prankster/Guts)- Digivolves into Angewomon at Level 55
+Hp: 68
+Atk: 76
+Def: 57
+Sp.Atk: 61
+Sp.Def: 70
+Spd: 65
+
+Angewomon (Type: Fairy/Flying. Ability: Serene Grace/Fairy Aura)- Digivolves into Ophanimon at Level 90
+Hp: 90
+Atk: 79
+Def: 76
+Sp.Atk: 104
+Sp.Def: 110
+Spd: 78
+
+Ophanimon (Type: Fairy. Ability: Fairy Aura)
+Hp: 120
+Atk: 95
+Def: 105
+Sp.Atk: 115
+Sp.Def: 150
+Spd: 90
+
+Hagurumon (Type: Steel. Ability: Analytic)- Digivolve into Guardromon at Level 30
+Hp: 33
+Atk: 60
+Def: 81
+Sp.Atk: 42
+Sp.Def: 73
+Spd: 25
+
+Guardomon (Type: Steel. Ability: Analytic)- Digivolves into Andromon at Level 55
+Hp: 51
+Atk: 72
+Def: 100
+Sp.Atk: 50
+Sp.Def: 90
+Spd: 40
+
+Andromon (Type: Steel/Normal. Ability: Download)- Digivolves into HiAndromon at 75
+Hp: 68
+Atk: 111
+Def: 116
+Sp.Atk: 63
+Sp.Def: 97
+Spd: 61
+
+HiAndromon (Type: Steel/Normal. Ability: Download)
+Hp: 78
+Atk: 125
+Def: 128
+Sp.Atk: 74
+Sp.Def: 119
+Spd: 75
+
+Nanimon (Type: Fighting/Normal. Ability: Pickup)- Digivolves into Digitamamon at Level 48
+Hp: 50
+Atk: 77
+Def: 85
+Sp.Atk: 46
+Sp.Def: 66
+Spd: 60
+
+Digitamamon (Type: Dark. Ability: Filter)- Digivolves into Devitamon at Level 78
+Hp: 75
+Atk: 90
+Def: 144
+Sp.Atk: 72
+Sp.Def: 92
+Spd: 65
+
+Devitamon (Type: Dark. Ability: Filter)
+Hp: 80
+Atk: 121
+Def: 182
+Sp.Atk: 80
+Sp.Def: 101
+Spd: 70
+
+Renamon (Type: Fighting/Psychic. Ability: Trace/Synchronize)- Digivolves into Kyubimon at Level 27
+Hp: 57
+Atk: 57
+Def: 43
+Sp.Atk: 70
+Sp.Def: 50
+Spd: 77
+
+Kyubimon (Type: Psychic. Ability: Trace/Synchronize)- Digivolves into Taomon at Level 54
+Hp: 66
+Atk: 66
+Def: 59
+Sp.Atk: 99
+Sp.Def: 70
+Spd: 88
+
+Taomon (Type: Psychic. Ability: Magic Guard/Magic Bounce)- Digivolves into Sakuyamon at Level 75
+Hp: 75
+Atk: 75
+Def: 68
+Sp.Atk: 120
+Sp.Def: 94
+Spd: 102
+
+Sakuyamon (Type: Psychic. Ability: Magic Guard/Magic Bounce)
+Hp: 84
+Atk: 84
+Def: 81
+Sp.Atk: 138
+Sp.Def: 106
+Spd:109
+
+Tentomon (Type: Bug/Flying. Ability: Compoundeyes/Tinted Lens)- Digivolves into Kabuterimon at Level 22
+Hp: 44
+Atk: 51
+Def: 66
+Sp.Atk 58
+Sp.Def: 51
+Spd: 49
+
+Kabuterimon (Type: Bug/Flying. Ability: Compoundeyes/Tinted Lens)- Digivolves into Mega Kabuterimon at Level 42
+Hp: 58
+Atk: 63
+Def: 68
+Sp.Atk: 83
+Sp.Def: 68
+Spd: 55
+
+Mega Kabuterimon (Type: Bug/Flying. Ability: Compoundeyes/Tinted Lens)- Digivolves into Hercules Kabuterimon at Level 62
+Hp: 69
+Atk: 75
+Def: 104
+Sp.Atk: 108
+Sp.Def: 85
+Spd: 68
+
+Hercules Kabuterimon (Type: Bug/Flying. Ability: Compoundeyes/Tinted Lens)
+Hp: 88
+Atk: 89
+Def: 124
+Sp.Atk: 130
+Sp.Def: 100
+Spd: 77
+
+Veemon (Type: Normal/Dragon. Ability: Victory Star)- Digivolves into Veedramon at Level 30. Digivolves into Flamedramon with Fire Stone. Digivolves into Raidramon with Thunder Stone.
+Hp: 65
+Atk: 63
+Def: 50
+Sp.Atk: 63
+Sp.Def: 50
+Spd: 62
+
+Veedramon (Type: Normal/Dragon. Ability: Victory Star)- Digivolves into Aero Veedramon at Level 60
+Hp: 88
+Atk: 85
+Def: 68
+Sp.Atk: 85
+Sp.Def: 68
+Spd: 74
+
+Aero Veedramon (Type: Dragon/Flying. Ability: Victory Star)- Digivolves into Ultra Force Veedramon at Level 90.
+Hp: 106
+Atk: 106
+Def: 84
+Sp.Atk: 106
+Sp.Def: 84
+Spd: 87
+
+Ultra Force Veedramon (Type: Dragon/Steel. Ability: Victory Star)
+Hp: 125
+Atk: 125
+Def: 90
+Sp.Atk: 125
+Sp.Def: 90
+Spd: 200
+
+Flamedramon (Type: Fire/Fighting. Ability: Flame Body)- Digivolves into Magnamon at Level 75
+Hp: 95
+Atk: 115
+Def: 70
+Sp.Atk: 90
+Sp.Def: 90
+Spd: 90
+
+Raidramon (Type: Electric/Dragon. Ability: Static)- Digivolves into Magnamon at Level 75
+Hp: 90
+Atk: 90
+Def: 90
+Sp.Atk: 115
+Sp.Def: 70
+Spd: 95
+
+Magnamon (Type: Normal/Steel. Ability: Filter)
+Hp: 110
+Atk: 110
+Def: 135
+Sp.Atk: 110
+Sp.Def: 135
+Spd: 101
+
+Vegiemon (Type: Grass/Ground. Ability: Chlrophyll/Sap Sipper)
+Hp: 73
+Atk: 93
+Def: 83
+Sp.Atk: 61
+Sp.Def: 72
+Spd: 65
+
+Betamon (Type: Bug/Water. Ability: Sap Sipper/Water Absorb)- Digivolves into Seadramon at Level 25
+Hp: 49
+Atk: 51
+Def: 51
+Sp.Atk: 61
+Sp.Def: 71
+Spd: 65
+
+Seadramon (Type: Water. Ability: Water Veil/Water Absorb)- Digivolves into Mega Seadramon at Level 50
+Hp: 70
+Atk: 68
+Def: 68
+Sp.Atk: 75
+Sp.Def: 95
+Spd: 85
+
+Mega Seadramon (Type: Water. Ability: Water Veil/Water Absorb)- Digivolves into Metal Seadramon at Level 75
+Hp: 91
+Atk: 89
+Def: 89
+Sp.Atk 95
+Sp.Def: 112
+Spd: 105
+
+Metal Seadramon (Type: Water/Steel. Ability: Mega Launcher/Swift Swim)
+Hp: 102
+Atk: 100
+Def: 100
+Sp.Atk: 105
+Sp.Def: 132
+Spd: 120
+
+Pichimon (Type: Normal. Ability: Healer)- Digivolves into Marine Angemon at Level 50
+Hp: 30
+Atk: 30
+Def: 30
+Sp.Atk: 30
+Sp.Def: 30
+Spd: 30
+
+Marine Angemon (Type: Fairy/Water. Ability: Healer)
+Hp: 170
+Atk: 50
+Def: 60
+Sp.Atk: 125
+Sp.Def: 125
+Spd: 80
+
+Biyomon (Type: Normal/Flying. Ability: Gale Wings/Big Pecks)- Digivolves into Birdramon at Level 26
+Hp: 39
+Atk: 52
+Def: 46
+Sp.Atk: 52
+Sp.Def: 45
+Spd: 62
+
+Birdramon (Type: Fire/Flying. Ability: Gale Wings/Flame Body)- Digivolves into Garudamon at Level 42
+Hp: 54
+Atk: 78
+Def: 65
+Sp.Atk: 78
+Sp.Def: 58
+Spd: 86
+
+Garudamon (Type: Fire/Flying. Ability: Gale Wings/Flame Body)- Digivolves into Phoenixmon at Level 70
+Hp: 69
+Atk: 93
+Def: 80
+Sp.Atk: 93
+Sp.Def: 70
+Spd: 117
+
+Phoenixmon (Type: Fire/Flying. Ability: Gale Wings/Flame Body)
+Hp: 83
+Atk: 114
+Def: 94
+Sp.Atk: 114
+Sp.Def: 84
+Spd: 132
+
+Terriermon (Type: Normal. Ability: Quick Feet) - Digivolve into Gargomon at Level 24
+Hp: 60
+Atk: 51
+Def: 42
+Sp.Atk: 51
+Sp.Def: 66
+Spd: 70
+
+Gargomon (Type: Normal/Fighting. Ability: No Guard)- Digivolves into Rapidmon at Level 45
+Hp: 80
+Atk: 79
+Def: 60
+Sp.Atk: 66
+Sp.Def: 75
+Spd: 73
+
+Rapidmon (Type: Normal/Steel. Ability: Sniper)- Digivolves into Mega Gargomon at Level 75
+Hp: 90
+Atk: 90
+Def: 76
+Sp.Atk: 80
+Sp.Def: 90
+Spd: 115
+
+Mega Gargomon (Type: Steel. Ability: Bulletproof)
+Hp: 110
+Atk: 105
+Def: 125
+Sp.Atk: 95
+Sp.Def: 105
+Spd: 60
+
+Demi Devimon (Type: Dark/Flying. Ability: Prankster/Inflitrator)- Digivolves into Devimon at Level 30
+Hp: 43
+Atk: 62
+Def: 45
+Sp.Atk: 60
+Sp.Def: 45
+Spd: 55
+
+Devimon (Type: Dark. Ability: Intimidate/Dark Aura)- Digivolves into Myotismon at Level 60
+Hp: 70
+Atk: 100
+Def: 66
+Sp.Atk: 90
+Sp.Def: 66
+Spd: 78
+
+Myotismon (Type: Ghost/Dark. Ability: Levitate/Dark Aura)- Digivolves into Venom Myotismon at Level 80
+Hp: 82
+Atk: 125
+Def: 79
+Sp.Atk: 120
+Sp.Def: 79
+Spd: 85
+
+Venom Myotismon (Type: Ghost/Dark. Ability: Intimidate/Dark Aura)
+Hp: 115
+Atk: 155
+Def: 100
+Sp.Atk: 150
+Sp.Def: 100
+Spd: 50
+
+Gomamon (Type: Water/Ice. Ability: Swift Swim/Hydration)- Digivolves into Ikkakumon at Level 28
+Hp: 68
+Atk: 54
+Def: 62
+Sp.Atk: 50
+Sp.Def: 50
+Spd: 42
+
+Ikkakumon (Type: Water/Ice. Ability: Swift Swim/Snow Warning)- Digivolves into Zudomon at Level 44
+Hp: 90
+Atk: 68
+Def: 88
+Sp.Atk: 64
+Sp.Def: 64
+Spd: 54
+
+Zudomon (Type: Water/Ice. Ability: Swift Swim/Snow Warning)- Digivolves into Vikemon at Level 60
+Hp: 98
+Atk: 89
+Def: 118
+Sp.Atk: 74
+Sp.Def: 74
+Spd: 66
+
+Vikemon (Type: Water/Ice. Ability: Swift Swim/Snow Warning)
+Hp: 114
+Atk: 112
+Def: 139
+Sp.Atk: 88
+Sp.Def: 88
+Spd: 78
+
+Palmon (Type: Grass/Poison. Ability: Poison Point/Sap Sipper)- Digivolve into Togemon at Level 22
+Hp: 49
+Atk: 64
+Def: 52
+Sp.Atk: 62
+Sp.Def: 48
+Spd: 50
+
+Togemon (Type: Grass/Fighting. Ability: Iron Fist/Sap Sipper)- Digivolves into Lillymon at Level 42
+Hp: 57
+Atk: 89
+Def: 60
+Sp.Atk: 82
+Sp.Def: 55
+Spd: 58
+
+Lillymon (Type: Fairy/Grass. Ability: Healer/Sap Sipper) - Digivolves into Rosemon at Level 70
+Hp: 64
+Atk: 77
+Def: 68
+Sp.Atk: 114
+Sp.Def: 91
+Spd: 74
+
+Rosemon (Type: Fairy/Poison. Ability: Regenerator/Rivalry)
+Hp: 83
+Atk: 126
+Def: 83
+Sp.Atk: 123
+Sp.Def: 101
+Spd: 86
+
+Monodramon (Type: Dragon/Flying. Ability: Moxie/Strong Jaw)- Digivolves into Strikedramon at Level 30
+Hp: 57
+Atk: 85
+Def: 69
+Sp.Atk: 25
+Sp.Def: 31
+Spd: 67
+
+Strikedramon (Type: Dragon/Fighting. Ability: Moxie/Strong Jaw)- Digivolves into Cyberdramon at Level 54
+Hp: 69
+Atk: 103
+Def: 84
+Sp.Atk: 40
+Sp.Def: 51
+Spd: 79
+
+Cyberdramon (Type: Dragon/Steel. Ability: Moxie/Strong Jaw)- Digivolves into Justimon at Level 75
+Hp: 82
+Atk: 128
+Def: 98
+Sp.Atk: 63
+Sp.Def: 73
+Spd: 92
+
+Justimon (Type: Steel/Fighting. Ability: Moxie/Iron Fist)
+Hp: 97
+Atk: 139
+Def: 109
+Sp.Atk: 76
+Sp.Def: 86
+Spd: 110
+
+Kotemon (Type: Fighting/Dark. Ability: Hyper Cutter/Super Luck)- Digivolves into Musyamon at Level 32
+Hp: 42
+Atk: 79
+Def: 62
+Sp.Atk: 41
+Sp.Def: 43
+Spd: 56
+
+Musyamon (Type: Fighting/Dark. Ability: Hyper Cutter/Super Luck)- Digivolves into Asuramon at Level 54
+Hp: 54
+Atk: 110
+Def: 79
+Sp.Atk: 58
+Sp.Def: 60
+Spd: 65
+
+Asuramon (Type: Fighting/Fire. Ability: Flame Body/Super Luck)- Digivolves into Zanbamon at Level 78
+Hp: 65
+Atk: 138
+Def: 90
+Sp.Atk: 72
+Sp.Def: 74
+Spd: 80
+
+Zanbamon (Type: Fighting/Dark. Ability: Sniper/Super Luck)
+Hp: 75
+Atk: 185
+Def: 106
+Sp.Atk: 84
+Sp.Def: 86
+Spd: 93
+
+Elecmon (Type: Electric. Ability: Static/Volt Absorb)- Digivolves into Leomon at Level 25
+Hp: 43
+Atk: 67
+Def: 49
+Sp.Atk: 63
+Sp.Def: 53
+Spd: 69
+
+Leomon (Type: Normal/Fighting. Ability: Guts/Scrappy)- Digivolves into Saber Leomon at 45
+Hp: 54
+Atk: 98
+Def: 56
+Sp.Atk: 75
+Sp.Def: 59
+Spd: 80
+
+Saber Leomon (Type: Normal/Fighting. Ability: Guts/Scrappy)- Digivolves into Bancho Leomon at Level 65
+Hp: 69
+Atk: 115
+Def: 75
+Sp.Atk: 85
+Sp.Def: 78
+Spd: 100
+
+Bancho Leomon (Type: Normal/Fighting. Ability: Guts/Scrappy)
+Hp: 80
+Atk: 157
+Def: 84
+Sp.Atk: 110
+Sp.Def: 86
+Spd: 113
+
+Tsukaimon (Type: Dark/Flying. Ability: Keen Eye/Pickup)- Digivolves into Bakemon at Level 20
+Hp: 42
+Atk: 48
+Def: 44
+Sp.Atk: 48
+Sp.Def: 44
+Spd: 45
+
+Bakemon (Type: Ghost. Ability: Aftermath/Cursed Body)- Digivolves into Phantomon at Level 40
+Hp: 62
+Atk: 74
+Def: 62
+Sp.Atk: 74
+Sp.Def: 62
+Spd: 62
+
+Phantomon (Type: Ghost. Ability: Aftermath/Cursed Body)- Digivolves into Piedmon at Level 85
+Hp: 82
+Atk: 101
+Def: 77
+Sp.Atk: 101
+Sp.Def: 77
+Spd: 77
+
+Piedmon (Type:Dark. Ability: Sniper/Cursed Body)
+Hp: 102
+Atk: 140
+Def: 85
+Sp.Atk: 140
+Sp.Def: 85
+Spd: 119
+
+Candlemon (Type: Fire/Psychic. Ability: Flash Fire/Flame Body)- Digivolves into Wizardmon at Level 20
+Hp: 42
+Atk: 30
+Def: 49
+Sp.Atk: 70
+Sp.Def: 55
+Spd: 31
+
+Wizardmon (Type: Psychic. Ability: Magic Guard)- Digivolves into Wisemon at Level 50
+Hp: 56
+Atk: 53
+Def: 60
+Sp.Atk: 103
+Sp.Def: 90
+Spd: 54
+
+Wisemon (Type: Psychic. Ability: Magic Guard)- Digivolves into Ancient Wisemon at Level 80
+Hp: 68
+Atk: 65
+Def: 74
+Sp.Atk: 148
+Sp.Def: 120
+Spd: 66
+
+Ancient Wisemon (Type: Psychic. Ability: Magic Guard)
+Hp: 79
+Atk: 74
+Def: 84
+Sp.Atk: 190
+Sp.Def: 142
+Spd: 75
+
+Goblimon (Type: Dark/Fighting. Ability: Reckless/Sheer Force)- Digivolves into Ogremon at Level 30
+Hp: 36
+Atk: 75
+Def: 65
+Sp.Atk: 32
+Sp.Def: 46
+Spd: 49
+
+Ogremon (Type: Dark/Fighting. Ability: Reckless/Sheer Force)- Digivolves into Titamon at Level 80
+Hp: 58
+Atk: 108
+Def: 82
+Sp.Atk: 43
+Sp.Def: 61
+Spd: 64
+
+Titamon (Type: Dark/Fighting. Ability: Reckless/Sheer Force)
+Hp: 80
+Atk: 200
+Def: 92
+Sp.Atk: 66
+Sp.Def: 78
+Spd: 75
+
+Piximon (Type: Fairy/Flying. Ability: Pixilate/Magic Guard)
+Hp: 90
+Atk: 85
+Def: 80
+Sp.Atk: 120
+Sp.Def: 90
+Spd: 125
+
+Numemon (Type: Poison/Dark. Ability: Stench)- Digivolves into Monzaemon at Level 40
+Hp: 75
+Atk: 65
+Def: 89
+Sp.Atk: 55
+Sp.Def: 78
+Spd: 28
+
+Monzaemon (Type: Normal/Fairy. Ability: Cute Charm)- Digivolve into Waru Monzaemon at Level 62
+Hp: 105
+Atk: 74
+Def: 102
+Sp.Atk: 65
+Sp.Def: 92
+Spd: 50
+
+Waru Monzaemon (Type: Dark. Ability: Moody)
+Hp: 128
+Atk: 100
+Def: 113
+Sp.Atk: 75
+Sp.Def: 103
+Spd: 63
+
+Sukamon (Type: Poison/Dark. Ability: Gooey)- Digivolves into Etemon at Level 50
+Hp: 92
+Atk: 75
+Def: 78
+Sp.Atk: 55
+Sp.Def: 75
+Spd: 45
+
+Etemon (Type: Dark/Fighting. Ability: Iron Fist)- Digivolves into Metal Etemon at Level 75
+Hp: 108
+Atk: 104
+Def: 88
+Sp.Atk: 68
+Sp.Def: 84
+Spd: 75
+
+Metal Etemon (Type: Steel/Dark. Ability: Iron Fist)
+Hp: 135
+Atk: 142
+Def: 102
+Sp.Atk: 78
+Sp.Def: 90
+Spd: 89
+
+Meramon (Type: Fire. Ability: Drought/Flame Body)- Digivolves into Skull Meramon at Level 54
+Hp: 70
+Atk: 90
+Def: 60
+Sp.Atk: 82
+Sp.Def: 73
+Spd: 65
+
+Skull Meramon (Type: Fire/Steel. Ability: Drought/Flame Body)- Digivolves into Boltmon at 72
+Hp: 81
+Atk: 114
+Def: 80
+Sp.Atk: 107
+Sp.Def: 99
+Spd: 76
+
+Boltmon (Type: Steel/Electric. Ability: Motor Drive/Download)
+Hp: 92
+Atk: 139
+Def: 90
+Sp.Atk: 118
+Sp.Def: 104
+Spd: 84
+
+Kunemon (Type: Bug/Electric. Ability: Compoundeyes/Shield Dust)- Digivolves into Kuwagamon at Level 20
+Hp: 36
+Atk: 54
+Def: 35
+Sp.Atk: 54
+Sp.Def: 41
+Spd: 35
+
+Kuwagamon (Type: Bug/Poison. Ability: Moxie/Hyper Cutter)- Digivolves into Okuwamon at Level 40
+Hp: 55
+Atk: 78
+Def: 59
+Sp.Atk: 78
+Sp.Def: 65
+Spd: 48
+
+Okuwamon (Type: Bug/Poison. Ability: Moxie/Hyper Cutter)- Digiviolve into Grandis Kuwagamon at 65
+Hp: 68
+Atk: 106
+Def: 80
+Sp.Atk: 106
+Sp.Def: 84
+Spd: 59
+
+Grandis Kuwagamon (Type: Bug/Poison. Ability: Moxie/Hyper Cutter)
+Hp: 77
+Atk: 130
+Def: 91
+Sp.Atk: 130
+Sp.Def: 96
+Spd: 66
+
+Kokatorimon (Type: Flying. Ability: Run Away)- Digivolves into Sinduramon at Level 60
+Hp: 83
+Atk: 85
+Def: 68
+Sp.Atk: 75
+Sp.Def: 68
+Spd: 69
+
+Sinduramon (Type: Flying. Ability: Battle Armor)- Digivolves into Valdurmon at Level 90
+Hp: 105
+Atk: 103
+Def: 102
+Sp.Atk: 88
+Sp.Def: 102
+Spd: 72
+
+Valdurmon (Type: Flying. Ability: Aerilate)
+Hp: 135
+Atk: 129
+Def: 108
+Sp.Atk: 115
+Sp.Def: 108
+Spd: 100
+
+Lalamon (Type:Grass/Fairy. Ability: Storm Drain/Chlorophyll)- Digivolve into Sunflomon at Level 20
+Hp: 43
+Atk: 42
+Def: 43
+Sp.Atk: 65
+Sp.Def: 62
+Spd: 45
+
+Sunflomon (Type: Grass/Fairy. Ability: Storm Drain/Solar Power)- Digivolves into Lilamon at Level 50
+Hp: 56
+Atk: 54
+Def: 56
+Sp.Atk: 87
+Sp.Def: 82
+Spd: 62
+
+Lilamon (Type: Grass/Fairy. Ability: Storm Drain/Chlorophyll)- Digivolve into Lotusmon at Level 80
+Hp: 70
+Atk: 68
+Def: 70
+Sp.Atk: 104
+Sp.Def: 102
+Spd: 73
+
+Lotusmon (Type: Fairy/Psychic. Ability: Magic Guard/Magic Bounce)
+Hp: 80
+Atk: 78
+Def: 80
+Sp.Atk: 152
+Sp.Def: 127
+Spd: 84
+
+Tyrannomon (Type: Fire. Ability: Intimidate/Tough Claws)- Digivolves into Metal Tyrannomon at Level 48
+Hp: 67
+Atk: 108
+Def: 76
+Sp.Atk: 75
+Sp.Def: 60
+Spd: 60
+
+Metal Tyrannomon (Type: Fire/Steel. Ability: Intimidate/Tough Claws)- Rust Tyrannomon at Level 70
+Hp: 75
+Atk: 128
+Def: 94
+Sp.Atk: 88
+Sp.Def: 70
+Spd: 70
+
+Rust Tyrannomon (Type: Fire/Steel. Ability: Intimidate/Tough Claws)
+Hp: 86
+Atk: 155
+Def: 115
+Sp.Atk: 95
+Sp.Def: 88
+Spd: 88
+
+Keramon (Type: Dark/Bug. Ability: Inflitrator)- Digivolves into Chrysalimon at Level 30
+Hp: 50
+Atk: 74
+Def: 55
+Sp.Atk: 85
+Sp.Def: 60
+Spd: 71
+
+Chrysalimon (Type: Dark/Bug. Ability: Inflitrator)- Digivolves into Infermon at Level 65
+Hp: 60
+Atk: 96
+Def: 66
+Sp.Atk: 105
+Sp.Def: 74
+Spd: 80
+
+Infermon (Type: Dark/Bug. Ability: Inflitrator)- Digivolves into Diaboromon at Level 90
+Hp: 70
+Atk: 118
+Def: 81
+Sp.Atk: 125
+Sp.Def: 87
+Spd: 91
+
+Diaboromon (Type: Dark/Bug. Ability: Intimidate)
+Hp: 80
+Atk: 150
+Def: 95
+Sp.Atk: 160
+Sp.Def: 100
+Spd: 110
+
+Datamon (Type: Steel. Ability: Download)
+Hp: 79
+Atk: 115
+Def: 97
+Sp.Atk: 115
+Sp.Def: 97
+Spd: 79
+
+Mushroomon (Type: Grass/Poison. Ability: Effect Spore/Poison Heal)- Digivolves into Woodmon at Level 25
+Hp: 47
+Atk: 66
+Def: 57
+Sp.Atk: 47
+Sp.Def: 47
+Spd: 50
+
+Woodmon (Type: Ground/Grass. Ability: Sturdy/Solid Rock)- Digivolves into Cherrymon at Level 50
+Hp: 55
+Atk: 75
+Def: 85
+Sp.Atk: 58
+Sp.Def: 58
+Spd: 55
+
+Cherrymon (Type: Grass/Ghost. Ability: Nature Cure/Aftermath)- Digivolves into Puppetmon at Level 75
+Hp: 105
+Atk: 90
+Def: 120
+Sp.Atk: 69
+Sp.Def: 69
+Spd: 63
+
+Puppetmon (Type: Rock/Ghost. Ability: Prankster/Cursed Body)
+Hp: 112
+Atk: 126
+Def: 134
+Sp.Atk: 80
+Sp.Def: 80
+Spd: 82
+
+Lopmon (Type: Normal/Fairy. Ability: Quick Feet/Vital Spirit)- Digivolves into Wendigomon at Level 35
+Hp: 71
+Atk: 57
+Def: 34
+Sp.Atk: 65
+Sp.Def: 38
+Spd: 63
+
+Wendigomon (Type: Dark/Fairy. Ability: Intimidate/Moxie)- Digivolves into Antylamon at Level 60
+Hp: 94
+Atk: 90
+Def: 70
+Sp.Atk: 73
+Sp.Def: 64
+Spd: 71
+
+Antylamon (Type: Fairy. Ability: Regenerator/Speed Boost)- Digivolves into Cherubimon at Level 90
+Hp: 115
+Atk: 95
+Def: 108
+Sp.Atk: 85
+Sp.Def: 100
+Spd: 85
+
+Cherubimon (Type: Fairy. Ability: Serene Grace/Fairy Aura)
+Hp: 154
+Atk: 103
+Def: 120
+Sp.Atk: 98
+Sp.Def: 110
+Spd: 90
+
+Otamamon (Type: Water/Poison. Ability: Soundproof/Swift Swim)- Digivolves into Gekomon at Level 23
+Hp: 70
+Atk: 42
+Def: 52
+Sp.Atk: 40
+Sp.Def: 46
+Spd: 42
+
+Gekomon (Type: Water/Poison. Ability: Soundproof/Swift Swim)- Digivolves into Shogun Gekomon at Level 45
+Hp: 85
+Atk: 53
+Def: 65
+Sp.Atk: 48
+Sp.Def: 61
+Spd: 52
+
+Shogun Gekomon (Type: Water/Poison. Ability: Soundproof/Swift Swim)- Digivolves into Pukumon at Level 60
+Hp: 130
+Atk: 80
+Def: 104
+Sp.Atk: 70
+Sp.Def: 91
+Spd: 65
+
+Pukumon (Type: Water/Poison. Ability: Soundprood/Swift Swim)
+Hp: 145
+Atk: 99
+Def: 117
+Sp.Atk: 87
+Sp.Def: 102
+Spd: 75
+
+Drimogemon (Type: Ground. Ablity: Sand Rush) - Digivolves into Giromon at Level 45
+Hp: 102
+Atk: 89
+Def: 78
+Sp.Atk: 45
+Sp.Def: 67
+Spd: 39
+
+Giromon (Type: Steel/Dark. Ability: Skill Link)
+Hp: 109
+Atk: 119
+Def: 109
+Sp.Atk: 60
+Sp.Def: 82
+Spd: 90
+
+Falcomon (Type: Flying/Dark. Ability: Big Pecks/Early Bird)- Digivolves into Peckmon at Level 20
+Hp: 41
+Atk: 67
+Def: 44
+Sp.Atk: 56
+Sp.Def: 52
+Spd: 71
+
+Peckmon (Type: Flying/Dark. Ability: Big Pecks/Early Bird)- DIgivolves into Yatagaramon at Level 45
+Hp: 54
+Atk: 81
+Def: 53
+Sp.Atk: 70
+Sp.Def: 65
+Spd: 85
+
+Yatagaramon (Type: Flying/Dark. Ability: Big Pecks/Early Bird) - Digivolves into Ravmon at Level 70
+Hp: 67
+Atk: 100
+Def: 70
+Sp.Atk: 90
+Sp.Def: 78
+Spd: 110
+
+Ravmon (Type:Flying/Dark. Ability: Inflitrator/Moxie)-
+Hp: 73
+Atk: 119
+Def: 79
+Sp.Atk: 114
+Sp.Def: 87
+Spd: 145
+
+Crabmon (Type: Water. Ability: Hyper Cutter/Shell Armor)- Digivolves into Coelamon at Level 24
+Hp: 55
+Atk: 53
+Def: 51
+Sp.Atk: 45
+Sp.Def: 48
+Spd: 48
+
+Coelamon (Type: Water. Ability: Drizzle/Swift Swim) - Digivolves into Whamon at Level 44
+Hp: 75
+Atk: 69
+Def: 67
+Sp.Atk: 60
+Sp.Def: 65
+Spd: 65
+
+Whamon (Type: Water. Ability: Drizzle/Hydration)- Digivolves into Neptunemon at Level 80
+Hp: 121
+Atk: 98
+Def: 88
+Sp.Atk: 70
+Sp.Def: 85
+Spd: 75
+
+Neptunemon (Type: Water. Ability: Drizzle/Hydration)
+Hp: 140
+Atk: 121
+Def: 110
+Sp.Atk: 104
+Sp.Def: 100
+Spd: 90
+
+Wormmon (Type: Bug. Ability: Swarm/Shield Dust)- Digivolves into Stingmon at Level 27
+Hp: 52
+Atk: 50
+Def: 47
+Sp.Atk: 42
+Sp.Def: 66
+Spd: 39
+
+Stingmon (Type: Bug/Fighting. Ability: Swarm/Technician) - Digivolves into Jewelbeemon at Level 50
+Hp: 64
+Atk: 84
+Def: 60
+Sp.Atk: 54
+Sp.Def: 93
+Spd: 72
+
+Jewelbeemon (Type: Bug/Fighting. Ability: Swarm/Technician)- Digivolves into Bancho Stingmon at Level 80
+Hp: 76
+Atk: 105
+Def: 72
+Sp.Atk: 70
+Sp.Def: 123
+Spd: 85
+
+Bancho Stingmon (Type: Bug/Fighting. Ability: Swarm/Technician)
+Hp: 88
+Atk: 127
+Def: 89
+Sp.Atk: 80
+Sp.Def: 141
+Spd: 107
+
+Dianamon (Type: Ice/Water. Ability: Refrigerate)
+Hp: 92
+Atk: 105
+Def: 85
+Sp.Atk: 150
+Sp.Def: 100
+Spd: 103
+
+Guilmon (Type: Fire/Dragon. Ability: Blaze)- Digivolves into Growlmon at Level 30
+Hp: 50
+Atk: 71
+Def: 51
+Sp.Atk: 61
+Sp.Def: 51
+Spd: 68
+
+Growlmon (Type: Fire/Dragon. Ability: Blaze)- Digivolves into War Growlmon at Level 60
+Hp: 65
+Atk: 90
+Def: 69
+Sp.Atk: 80
+Sp.Def: 69
+Spd: 76
+
+War Growlmon (Type: Fire/Steel. Ability: Blaze)- Digivolves into Gallantmon at Level 90
+Hp: 80
+Atk: 114
+Def: 89
+Sp.Atk: 93
+Sp.Def: 89
+Spd: 84
+
+Gallantmon (Type: Fire/Steel. Ability: No Guard)
+Hp: 100
+Atk: 135
+Def: 115
+Sp.Atk: 120
+Sp.Def: 115
+Spd: 110
+
+Dorumon (Type: Dragon. Ability: Sheer Force/Intimidate)- Digivolves into Dorugamon at Level 35
+Hp: 58
+Atk: 66
+Def: 59
+Sp.Atk: 70
+Sp.Def: 59
+Spd: 60
+
+Dorugamon (Type: Dragon/Flying. Ability: Sheer Force/Intimidate)- Digivolves into Dorugreymon at Level 65
+Hp: 70
+Atk: 82
+Def: 78
+Sp.Atk: 95
+Sp.Def: 78
+Spd: 70
+
+Dorugreymon (Type: Dragon/Flying. Ability: Sheer Force/Intimidate) - Digivolves into Examon at Level 90
+Hp: 80
+Atk: 110
+Def: 87
+Sp.Atk: 160
+Sp.Def: 87
+Spd: 80
+
+Examon (Type: Dragon/Flying. Ability: Sheer Force/Intimidate)
+Hp: 90
+Atk: 125
+Def: 96
+Sp.Atk: 205
+Sp.Def: 96
+Spd: 90
+
+Kudamon (Type: Psychic/Normal. Ability: Synchronize)- Digivolves into Reppamon at Level 30
+Hp: 40
+Atk: 65
+Def: 55
+Sp.Atk: 65
+Sp.Def: 55
+Spd: 70
+
+Reppamon (Type: Normal. Ability: Normalize)- Digivolves into Tyilinmon at Level 60
+Hp: 50
+Atk: 85
+Def: 65
+Sp.Atk: 85
+Sp.Def: 65
+Spd: 90
+
+Tyilinmon (Type: Normal/Flying. Ability: Aerilate)- Digivolves into Sleipmon at Level 90
+Hp: 70
+Atk: 100
+Def: 85
+Sp.Atk: 100
+Sp.Def: 85
+Spd: 120
+
+Sleipmon (Type: Steel/Flying. Ability: Sniper)
+Hp: 90
+Atk: 110
+Def: 110
+Sp.Atk: 110
+Sp.Def: 110
+Spd: 170
+
+Centarumon (Type: Rock. Ability: Mega Launcher)- Digivolves into Knightmon at Level 70
+Hp: 70
+Atk: 75
+Def: 110
+Sp.Atk: 80
+Sp.Def: 80
+Spd: 75
+
+Knightmon (Type: Steel. Ability: No Guard)- Digivolves into Lord Knightmon at Level 90
+Hp: 80
+Atk: 110
+Def: 143
+Sp.Atk: 90
+Sp.Def: 90
+Spd: 80
+
+Lord Knightmon (Type: Steel/Fighting. Ability: No Guard)
+Hp: 100
+Atk: 120
+Def: 188
+Sp.Atk: 105
+Sp.Def: 105
+Spd: 90
+
+Mistymon (Type: Fire/Psychic. Ability: Magic Guard)- Digivolves into Dynasmon at Level 90
+Hp: 95
+Atk: 127
+Def: 90
+Sp.Atk: 117
+Sp.Def: 90
+Spd: 90
+
+Dynasmon (Type: Dragon/Steel. Ability: Marvel Scale)
+Hp: 110
+Atk: 141
+Def: 105
+Sp.Atk: 131
+Sp.Def: 105
+Spd: 105
+
+Shaujinmon (Type: Water/Fighting. Ability: Torrent)- Digivolves into Craniummon
+Hp: 91
+Atk: 113
+Def: 79
+Sp.Atk: 117
+Sp.Def: 80
+Spd: 105
+
+Craniummon (Type: Steel/Fighting. Ability: Magic Guard)
+Hp: 101
+Atk: 120
+Def: 105
+Sp.Atk: 160
+Sp.Def: 106
+Spd: 110
+
+Grapleomon (Type: Steel/Fighting. Ability: Iron Fist)- Digivolves into Duftmon at Level 90
+Hp: 83
+Atk: 122
+Def: 85
+Sp.Atk: 90
+Sp.Def: 81
+Spd: 109
+
+Duftmon (Type: Flying/Fighting. Ability: Inflitrator) 
+Hp: 95
+Atk: 160
+Def: 96
+Sp.Atk: 121
+Sp.Def: 96
+Spd: 126
+
+Gankoomon (Type: Fighting/Fire. Ability: Iron Fist)
+Hp: 102
+Atk: 197
+Def: 97
+Sp.Atk: 117
+Sp.Def: 93
+Spd: 115
+
+Beelzemon (Type: Dark. Ability: Mega Launcher)
+Hp: 150
+Atk: 180
+Def: 20
+Sp. Atk: 180
+Sp. Def: 20
+Spd: 150
+
+Alphamon (Type: Steel. Ability: Aura Break)
+Hp: 150
+Atk: 130
+Def: 150
+Sp.Atk: 130
+Sp.Def: 150
+Spd: 120
+
+Omegamon (Type: Normal. Ability: Aura Break)
+Hp: 150
+Atk: 150
+Def: 130
+Sp.Atk: 150
+Sp.Def: 130
+Spd: 120
+
+
+The following are NOT Digimon, but Pokemon who had their evolution method changed:
+Pichu- Evolves into Pikachu at Level 13.
+Azurill- Evolves into Marill at Level 13.
+Happiny- Evolves into Chansey at Level 13.
+Riolu- Evolves into Lucario at Level 25.
+Smoochum- Evolves into Jynx at Level 30.
+Kirlia- Evolves into Gallade at Level 30 if Attack is higher than Defense.
+Haunter- Evolves into Gengar at Level 40.
+Feebas- Evolves into Milotic at Level 40.
+Scyther- Evolves into Scizor at Level 40.
+Onix- Evolves into Steelix at Level 40.
+Kadabra- Evolves into Alakazam at Level 40.
+Slowpoke- Evolves into Slowking with Water Stone.
+Snorunt- Evolves into Froslass with Water Stone.

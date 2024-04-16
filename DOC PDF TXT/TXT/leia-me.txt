@@ -1,0 +1,21 @@
+Versão da rom: v4
+Versão da tradução: 8.0
+Autores: Luciano Fire e Gustavo Neves
+
+Novidades:
+
+- Foi corrigido o bug na animação de vários sprites como Lucario,Greninja, Ash greninja etc
+
+- Agora é possível encontrar a hippodown fêmea no deserto
+
+- moveset atualizados de acordo com a 8 geração salvo alguns pokémon que não foram possíveis editar por incompatibilidade do PGE.
+
+- Chespin pode ser encontrado na rota 110 ao norte de Slateport a caminho De mauville
+
+- sigiliphy pode ser encontrado na rota 111
+
+- Corrigido na shoal cave que estavam aparecendo Vulpix e Sandsrew de kanto ao invés das Alola forms 
+
+
+
+É possível continuar seu sav nessa versão só renomear ele ou a Room para o nome antigo.
