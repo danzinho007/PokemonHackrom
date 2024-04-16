@@ -1,0 +1,318 @@
+Template
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+Pokemon   lvl 16 @ Item.jpeg	    Ability		Move1/Move2/Move3/Move4
+
+
+=================================================================================================================================================
+
+PKMN Trainer Bianca	(Rotation Battle)
+
+If you chose Torchic:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Feraligatr lvl 100 @ Choice Band    Intimidate		Ice Fang/Aqua Tail/Superpower/Crunch
+
+Rampardos  lvl 100 @ Focus Sash     Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Tyranitar  lvl 100 @ Chople Berry   Battle Armor	Dragon Dance/Crunch/Rock Slide/Fire Punch
+
+Magcargo   lvl 100 @ Fire Gem	    Water Absorb	Blast Burn/Recover/Scald/Will-o-Wisp
+
+Serperior  lvl 100 @ Life Orb       Contrary		Thunderbolt/Leaf Storm/Synthesis/Knock Off
+
+
+If you chose Mudkip:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Meganium   lvl 100 @ Leftovers	    Filter		Synthesis/Giga Drain/Psychic/Ancientpower
+
+Rampardos  lvl 100 @ Focus Sash	    Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Salamence  lvl 100 @ Yache Berry    Intimidate		Fly/Dragon Claw/Hydro Pump/Fire Fang
+
+Magnezone  lvl 100 @ Grass Gem	    Levitate		Energy Ball/Zap Cannon/Flash Cannon/Protect
+
+Emboar     lvl 100 @ Life Orb       Rock Head		Flare Blitz/Head Smash/Wild Charge/Night Daze
+
+
+If you chose Treecko:
+
+Banette    lvl 100 @ Ghost Gem	    Prankster		Night Slash/Shadow Sneak/Shadow Force/Will-o-Wisp
+
+Typhlosion lvl 100 @ Choice Specs   Adaptability	Blast Burn/Extrasensory/Earth Power/Ancientpower
+
+Rampardos  lvl 100 @ Focus Sash	    Rock Head		Head Smash/Dragon Rush/Crunch/Superpower
+
+Metagross  lvl 100 @ Shuca Berry    Iron Fist		Zen Headbutt/Meteor Mash/Earthquake/Ice Punch
+
+Froslass   lvl 100 @ Ice Gem	    Levitate		Ice Beam/Shadow Ball/Earth Power/Power Gem
+
+Samurott   lvl 100 @ Life Orb       Defiant		Aqua Tail/Megahorn/Sacred Sword/Stone Edge
+
+=================================================================================================================================================
+
+PKMN Trainer Cheren	(Triple Battle)
+
+If you chose Torchic:
+
+Manectric lvl 100 @ Choice Specs    Intimidate		Thunderbolt/Flamethrower/Energy Ball/Volt Switch
+
+Vaporeon  lvl 100 @ Rindo Berry	    Drizzle		Scald/Acid Armor/Recover/Ice Beam
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Curse/Crunch/Body Slam/Slack Off
+
+Crobat    lvl 100 @ Scope Lens	    Sniper		Cross Poison/Aura Sphere/Giga Drain/Wing Attack
+
+Metagross lvl 100 @ Life Orb	    Iron Fist		Zen Headbutt/Meteor Mash/Hammer Arm/Ice Punch
+
+Samurott  lvl 100 @ Water Gem	    Defiant		Aqua Tail/Sacred Sword/Megahorn/Stone Edge
+
+
+If you chose Mudkip:
+
+Houndoom  lvl 100 @ Choice Specs    Intimidate		Dark Pulse/Shadow Ball/Flamethrower/Energy Ball
+
+Jolteon   lvl 100 @ Shuca Berry	    Speed Boost		Thunderbolt/Extrasensory/Energy Ball/Bug Buzz
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Curse/Crunch/Body Slam/Slack Off
+
+Unfezant  lvl 100 @ Scope Lens	    Super Luck		Aura Sphere/Heat Wave/Air Slash/Dark Pulse
+
+Tyranitar lvl 100 @ Life Orb	    Battle Armor	Dragon Dance/Crunch/Stone Edge/Aqua Tail
+
+Serperior lvl 100 @ Grass Gem	    Contrary		Leaf Storm/Thunderbolt/Synthesis/Knock Off
+
+
+If you chose Treecko:
+
+Glalie    lvl 100 @ Choice Band	    Rock Head		Head Smash/Icicle Crash/Double-Edge/Explosion
+
+Flareon   lvl 100 @ Shuca Berry     Drought		Flare Blitz/Earthquake/Wild Charge/Gunk Shot
+
+Snorlax   lvl 100 @ Leftovers	    Thick Fat		Curse/Crunch/Body Slam/Slack Off
+
+Pidgeot   lvl 100 @ Choice Specs    No Guard		Thunder/Heat Wave/Hurricane/Focus Blast
+
+Salamence lvl 100 @ Life Orb	    Intimidate		Wing Attack/Dragon Rush/Dragon Dance/Iron Head
+
+Emboar    lvl 100 @ Fire Gem	    Rock Head		Flare Blitz/Head Smash/Night Daze/Wild Charge
+
+=================================================================================================================================================
+
+Ace Trainer Wolfey	(Double Battle)
+
+Cofagrigus lvl 100 @ Mental Herb    Magic Guard		Trick Room/Will-o-Wisp/Shadow Ball/Flash Cannon
+
+Scrafty    lvl 100 @ Leftovers	    Intimidate		Fake Out/Crunch/Drain Punch/Ice Punch
+
+Reuniclus  lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Thunderbolt/Energy Ball/Focus Blast
+
+Conkeldurr lvl 100 @ Flame Orb	    Guts		Mach Punch/Detect/Drain Punch/Rock Slide
+
+Thundurus  lvl 100 @ Sitrus Berry   Prankster		Swagger/Thunder Wave/Thunderbolt/Taunt
+
+Emboar     lvl 100 @ Lum Berry	    Rock Head		Flare Blitz/Head Smash/Superpower/Night Daze
+
+=================================================================================================================================================
+
+Benefactor Buhrito
+
+Illumise   lvl 100 @ Focus Sash	    Tinted Lens		Psycho Boost/Bug Buzz/Shadow Ball/Quiver Dance
+
+Steelix    lvl 100 @ Quick Claw	    Sand Stream		Stone Edge/Earthquake/Thunder Fang/Explosion
+
+Cacturne   lvl 100 @ BrightPowder   Sand Veil		Gunk Shot/Dark Pulse/Leaf Blade/Superpower
+
+Glalie     lvl 100 @ Focus Band	    Moody		Protect/Icicle Crash/Stone Edge/Zen Headbutt
+
+Flygon     lvl 100 @ Yache Berry    Levitate		Earth Power/Draco Meteor/Giga Drain/Flamethrower
+
+Aerodactyl lvl 100 @ Life Orb	    Rock Head		Head Smash/Brave Bird/Earthquake/Iron Head
+
+=================================================================================================================================================
+
+Benefactor Safetyman
+
+Durant     lvl 100 @ Wide Lens	    Hustle		Superpower/X-Scissor/Iron Head/Stone Edge
+
+Sceptile   lvl 100 @ Yache Berry    Technician		Fake Out/Draco Meteor/Leaf Storm/Nasty Plot
+
+Medicham   lvl 100 @ Life Orb	    Pure Power		Superpower/Ice Punch/Zen Headbutt/Meditate
+
+Staraptor  lvl 100 @ Choice Band    Intimidate		Close Combat/Brave Bird/Crush Claw/U-Turn
+
+Darmanitan lvl 100 @ Life Orb	    Sheer Force		Flare Blitz/Superpower/Earthquake/Rock Slide
+
+Aggron     lvl 100 @ Focus Sash	    Rock Head		Superpower/Head Smash/Double-Edge/Iron Head
+
+=================================================================================================================================================
+
+Benefactor Drxx
+
+Skarmory   lvl 100 @ Lum Berry	    Clear Body		Toxic/Cosmic Power/Flash Cannon/Roost
+
+Sableye    lvl 100 @ Lum Berry	    Prankster		Will-o-Wisp/Recover/Knock Off/Fake Out
+
+Ferrothorn lvl 100 @ Leftovers	    Shell Armor		Curse/Power Whip/Iron Head/Leech Seed
+
+Raticate   lvl 100 @ Flame Orb	    Guts		Crush Claw/Swords Dance/Crunch/Super Fang
+
+Spoink     lvl 100 @ Focus Sash	    Magic Guard		Counter/Mirror Coat
+
+Sawk       lvl 100 @ Salac Berry    Sturdy		Close Combat/Ice Punch/Fire Punch/Reversal
+
+=================================================================================================================================================
+
+Benefactor Joferr
+
+Sceptile   lvl 100 @ Life Orb	    Technician		Fake Out/Dual Chop/Cut/Low Sweep
+
+Metagross  lvl 100 @ Shuca Berry    Iron Fist		Meteor Mash/Bullet Punch/Zen Headbutt/Earthquake
+
+Salamence  lvl 100 @ Yache Berry    Intimidate		Dragon Rush/Wing Attack/Earthquake/Dragon Dance
+
+Scizor     lvl 100 @ Choice Band    Technician		Superpower/Bug Bite/Bullet Punch/Iron Head
+
+Swampert   lvl 100 @ Rindo Berry    Swift Swim		Earthquake/Ice Punch/Aqua Tail/Hammer Arm
+
+Breloom    lvl 100 @ Toxic Orb	    Poison Heal		Spore/Substitute/Drain Punch/Seed Bomb
+
+=================================================================================================================================================
+
+Benefactor Vaugsy
+
+Krookodile lvl 100 @ White Herb	    Moxie		Earthquake/Crunch/Rock Slide/Dragon Claw
+
+Jolteon    lvl 100 @ Life Orb	    Speed Boost		Zap Cannon/Energy Ball/Bug Buzz/Earth Power
+
+Kingdra    lvl 100 @ Scope Lens	    Sniper		Yawn/Octazooka/Draco Meteor/Flash Cannon
+
+Weavile    lvl 100 @ Techician	    Focus Sash		Faint Attack/Ice Punch/Low Sweep/Ice Shard
+
+Jellicent  lvl 100 @ Leftovers	    Cursed Body		Hydro Cannon/Shadow Ball/Giga Drain/Recover
+
+Garchomp   lvl 100 @ Yache Berry    Sand Veil		Swords Dance/Dragon Rush/Earthquake/Extremespeed
+
+=================================================================================================================================================
+
+Creator Suicuu
+
+Walrein   lvl 100 @ Leftovers	    Thick Fat		Ice Beam/Scald/Slack Off/Yawn
+
+Jumpluff  lvl 100 @ Leftovers	    Prankster		Substitute/Leech Seed/Air Slash/Synthesis
+
+Venusaur  lvl 100 @ Black Sludge    Thick Fat		Synthesis/Leaf Storm/Earth Power/Sleep Powder
+
+Reuniclus lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Trick Room/Recover/Thunderbolt
+
+Dusclops  lvl 100 @ Eviolite	    Pressure		Recover/Will-o-Wisp/Night Daze/Brick Break
+
+Emboar    lvl 100 @ Life Orb	    Rock Head		Superpower/Flare Blitz/Head Smash/Sucker Punch
+
+=================================================================================================================================================
+
+PKMN Trainer Cynthia
+
+Spritomb  lvl 100 @ Power Herb	    Pressure		Shadow Force/Will-o-Wisp/Dark Pulse/Recover
+
+Venusaur  lvl 100 @ Black Sludge    Thick Fat		Earth Power/Weather Ball/Sleep Powder/Leaf Storm
+
+Regigigas lvl 100 @ Chople Berry    No Guard		Crush Claw/DynamicPunch/Earthquake/Knock Off
+
+Milotic   lvl 100 @ Leftovers	    Multiscale		Recover/Coil/Ice Beam/Scald
+
+Infernape lvl 100 @ Focus Sash	    Iron Fist		Close Combat/Fire Punch/Stone Edge/Mach Punch
+
+Garchomp  lvl 100 @ Life Orb	    Sand Veil		Earthquake/Dragon Rush/Dragon Dance/Extremespeed
+
+=================================================================================================================================================
+
+Elite Four Shauntal	(Double Battle)
+
+Sableye    lvl 100 @ Toxic Orb	    Magic Guard		Toxic/Recover/Protect/Knock Off
+
+Kecleon    lvl 100 @ Lum Berry	    Adaptability	Crush Claw/Shadow Force/Brick Break/Shadow Sneak
+
+Dusclops   lvl 100 @ Eviolite	    Pressure		Will-o-Wisp/Night Shade/Pain Split/Brick Break
+
+Jellicent  lvl 100 @ Water Gem	    Cursed Body		Hydro Cannon/Shadow Ball/Energy Ball/Trick Room
+
+Giratina   lvl 100 @ Leftovers	    Pressure		Draco Meteor/Pain Split/Will-o-Wisp/Calm Mind
+
+Chandelure lvl 100 @ Life Orb	    Levitate		Flamethrower/Shadow Ball/Energy Ball/Psychic
+
+=================================================================================================================================================
+
+Elite Four Grimsley	(Double Battle)
+
+Houndoom   lvl 100 @ Choice Specs   Intimidate		Flamethrower/Dark Pulse/Energy Ball/Sludge Bomb
+
+Crobat     lvl 100 @ Scope Lens	    Sniper		Brave Bird/Cross Poison/Aura Sphere/Heat Wave
+
+Honchkrow  lvl 100 @ Choice Band    Super Luck		Drill Peck/Sucker Punch/Night Slash/Superpower
+
+Darkrai    lvl 100 @ Wide Lens	    Bad Dreams		Dark Void/Nasty Plot/Dark Pulse/Double Team
+
+Krookodile lvl 100 @ Expert Belt    Intimidate		Drill Run/Night Slash/Dragon Dance/Rock Slide
+
+Hydreigon  lvl 100 @ Life Orb	    Levitate		Draco Meteor/Dark Pulse/Focus Blast/Muddy Water
+
+=================================================================================================================================================
+
+Elite Four Caitlin	(Double Battle)
+
+Alakazam   lvl 100 @ Focus Sash	    Magic Guard		Psychic/Aura Sphere/Energy Ball/Thunderbolt
+
+Gallade    lvl 100 @ Scope Lens	    Justified		Superpower/Psycho Cut/Leaf Blade/Night Slash
+
+Sigilyph   lvl 100 @ Life Orb	    Magic Guard		Psycho Boost/Air Slash/Energy Ball/Heat Wave
+
+Reuniclus  lvl 100 @ Expert Belt    Overcoat		Psychic/Focus Blast/Calm Mind/Thunderbolt
+
+Cresselia  lvl 100 @ Mental Herb    Levitate		Helping Hand/Thunder Wave/Mist Ball/Trick Room
+
+Gothitelle lvl 100 @ Tanga Berry    Shadow Tag		Trick Room/Psychic/Dark Pulse/Thunderbolt
+
+=================================================================================================================================================
+
+Elite Four Marshal	(Double Battle)
+
+Medicham   lvl 100 @ Choice Scarf   Pure Power		Superpower/Psycho Cut/ThunderPunch/Fire Punch
+
+Conkeldurr lvl 100 @ Flame Orb	    Guts		Drain Punch/Mach Punch/Protect/Stone Edge
+
+Ninjask    lvl 100 @ Coba Berry     Speed Boost		Superpower/Leech Life/Substitute/Swords Dance
+
+Cobalion   lvl 100 @ Life Orb	    Justified		Sacred Sword/Iron Head/Swords Dance/Rock Slide
+
+Samurott   lvl 100 @ Wacan Berry    Defiant		Aqua Tail/Sacred Sword/Stone Edge/Megahorn
+
+Sawk       lvl 100 @ Expert Belt    Sturdy		Close Combat/ThunderPunch/Ice Punch/Reversal
+
+=================================================================================================================================================
+
+Champion Alder
+
+Volcarona  lvl 100 @ Focus Sash	    Drought		Fiery Dance/Giga Drain/Bug Buzz/Quiver Dance
+
+Unfezant   lvl 100 @ Scope Lens	    Super Luck		Air Slash/Heat Wave/Aura Sphere/Dark Pulse
+
+Zoroark    lvl 100 @ Dark Gem	    Illusion		Flamethrower/Dark Pulse/Sludge Bomb/Aura Sphere
+
+Archeops   lvl 100 @ Life Orb	    Intimidate		Stone Edge/Wing Attack/Earthquake/Knock Off
+
+Cofagrigus lvl 100 @ Leftovers	    Magic Guard		Will-o-Wisp/Flash Cannon/Shadow Ball/Protect
+
+Zekrom     lvl 100 @ Shuca Berry    Teravolt		Bolt Strike/Dragon Rush/Dragon Dance/Earthquake

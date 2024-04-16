@@ -1,0 +1,7 @@
+Tipos de Hackrom :
+
+Dex Hacks = Completar a Pokedex numa jogada só
+Full Hacks = Mudam tudo ( História, Região, Pokemon, etc )
+Hard Mode = Versão mais Difícil
+Language Hacks = Traduzir Hackrom
+Roms Bases = Alterar os jogos ( Ex: Novos tipos )
