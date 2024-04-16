@@ -1,0 +1,23 @@
+1 = 8 pokémon no time
+2 = 9° Geração
+3 = Competitivo = Foco em ganhar batalhas pra comprar pokémon 
+4 = Conquistas
+5 = Dexnav
+6 = Diálogo mostrando o personagem = 2 opções
+7 =Em batalha : Mostrar Tipo de Golpe, quanto de dano ele dá, porcentagem de acerto e o PP
+8 = Emulador não suportado
+9 = Escolher em qual cidade vai começar
+10 =Expansão da Box
+11 = Informações sobre o save
+12 = Inserção de caracteres chineses
+13 = Inserção de outras franquias ( Digimon Maple Story ) no jogo
+14 = Lançar pokémon sem precisar clicar no Inventário
+15 = Missões Principais e Secundárias
+16 = Mistery Gift
+17 = Modo de Dificuldade
+18 = Modos de Jogo
+19 = Música : Escolher qual quer escutar
+20 = Pokémon com cores modificadas = 2 opções
+21 = Pokémon Gigante	
+22 = Pokémon seguindo
+23 = Rebatalhar com os treinadores quantas vezes quiser

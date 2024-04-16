@@ -1,0 +1,28 @@
+Pokemon HeartGold VX: Vanilla Expanded is a romhack of Pokemon HeartGold Version for the Nintendo DS.
+It is made for Pokemon HeartGold fans who want more out of the game but don't want to play a hack that transforms it into a completely different game.
+
+HeartGold VX expands the playable roster by making many postgame-only Pokemon catchable during the main game. Pokemon exclusive to SoulSilver version are included as well.
+NPC opponents also use new Pokemon, so the player is not the only trainer with expanded options.
+
+Pokemon with trade or Sinnoh-only evolutions can be evolved by alternate means in HeartGold VX.
+
+There are many other small changes as well, which you can read about in the database provided.
+
+
+Credits
+
+Original game:
+Game Freak
+The Pokemon Company
+Nintendo
+
+Hack creator:
+Lord Pent
+
+Hack tools:
+JackHack96
+Nomura
+AdAstra (LD3005)
+cory1492
+FAST6191
+Maёl Hörz

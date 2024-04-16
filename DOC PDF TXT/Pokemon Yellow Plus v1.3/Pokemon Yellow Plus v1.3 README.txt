@@ -1,0 +1,50 @@
+Pokemon Yellow Plus is something I threw together so I could try to complete the Pokedex like I never got to as a kid. I had tried to find one already made but all the ones I found added too much new content for my taste, I just wanted a simple 151 hack for Yellow and here it is :)
+
+FEATURES:
+
+Crit rate fixed (1/16 chance and Focus Energy/Dire Hits work properly)
+Type effectiveness updated (ghost is now super effective against psychic, poison normally effective against bug, ice not very effective against fire, bug not very effective against poison and ghost)
+
+There are two patches, one that changes the TM Brock gives you into SURF so you can teach it to Pikachu, and the other does not.
+
+Changed Impossible Evo's:
+Kadabra evolves into Alakazam at Level 37
+Graveler evolves into Golem at Level 37
+Machoke evolves into Machamp at Level 37
+Haunter evolves into Gengar at Level 37
+
+Missing pokemon added:
+Weedle
+	Route 2, Viridian Forest
+Kakuna
+	Route 2, Viridian Forest
+Ekans
+	Route 4
+Raichu
+	Power Plant
+Meowth
+	Route 5
+Hitmonlee
+	Victory Road (floor with Moltres)
+Hitmonchan
+	Victory Road (floor with Moltres)
+Koffing
+	Pokemon Mansion Floor 1 and 2
+Weezing
+	Pokemon Mansion Floor 2
+Jynx
+	Bottom Level of Seafoam Islands (walking)
+Electabuzz
+	Power Plant
+Magmar
+	Pokemon Mansion Floor 3 and Basment Floor One
+Eevee
+	Route 16
+Omanyte	
+	Bottom floor of Seafoam Islands (water)
+Kabuto
+	Bottom floor of Seafoam Islands (water)
+Mew
+	Wild in the last floor of Unknown Dungeon 
+	
+All other wild pokemon are same as Vanilla Yellow.
