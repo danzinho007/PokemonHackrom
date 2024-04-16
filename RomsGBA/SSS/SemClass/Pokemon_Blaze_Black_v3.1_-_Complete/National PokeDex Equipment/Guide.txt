@@ -1,5 +1,0 @@
-You are perfectly able to get the National Dex early if you so desire. To do this is simple enough. You will need your .sav file; if you are using a flashcard or DeSmuME then you can easily load your .sav/.dsv file, but anyone using no$ will have to run their .sav file (located in the BATTERY folder of wherever the no$.exe is) through the savegames converter, found easily via Google.
-
-Once the save is opened with PokeGen, simply go into Tools --> PokeDex, go on the dropdown next to features and choose National. It'll gain a tick. (I recommend doing this only after you initially receive the PokeDex from Juniper.) Afterwards, just do File --> Save [Save file] to save it and voila, you have the National Dex!
-
-no$ users can simply put their .sav into the BATTERY folder and no$ will convert it back to its own format.
