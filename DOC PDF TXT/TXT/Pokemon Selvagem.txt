@@ -1,0 +1,872 @@
+WILD POKEMON LIST (Optional Locations In The Game Are Near The Bottom Of This List)
+
+
+ARKAIOS ROUTE
+
+Lv 5-7 Fletchling 20%
+Lv 5-7 Rattata 20%
+Lv 6-8 Sewaddle 10%
+Lv 6-8 Weedle 10%
+Lv 6-8 Kricketot 10%
+Lv 6-8 Petilil 10%
+Lv 6-8 Bunerary 5%
+Lv 6-8 Bunerary 5%
+Lv 6-8 Spearow 4%
+Lv 6-8 Spearow 4%
+Lv 9-9 Skiddo 1%
+Lv 9-9 Skiddo 1%
+
+TABULA RASA
+
+Lv 5-5 Cleffa 20%
+Lv 5-5 Igglybuff 20%
+Lv 5-5 Pichu 10%
+Lv 5-5 Bonsly 10%
+Lv 5-5 Mime Jr 10%
+Lv 5-5 Smoochum 10%
+Lv 5-5 Elekid 5%
+Lv 5-5 Magby 5%
+Lv 5-5 Tyrogue 4%
+Lv 5-5 Munchlax 4%
+Lv 5-5 Happiny 1%
+Lv 5-5 Togepi 1%
+
+CITADEL FOREST
+
+Lv 10-12 Sewaddle 20%
+Lv 10-12 Weedle 20%
+Lv 12-14 Hoothoot 10%
+Lv 12-14 Foongus 10%
+Lv 12-14 Petilil 10%
+Lv 12-14 Shroomish 10%
+Lv 10-12 Kricketune 5%
+Lv 10-12 Ledyba 5%
+Lv 15-15 Tropius 4%
+Lv 15-15 Carnivine 4%
+Lv 10-10 Turtwig 1%
+Lv 10-10 Turtwig 1%
+
+EDEN PATH
+
+Lv 16-18 Lillipup 20%
+Lv 16-18 Bunerary 20%
+Lv 14-16 Spearow 20%
+Lv 17-19 Skiddo 10%
+Lv 14-16 Fletchling 10%
+Lv 16-18 Deerling 10%
+Lv 17-19 Foongus 5%
+Lv 17-19 Combee 5%
+Lv 15-15 Nidoran{F} 4%
+Lv 15-15 Nidoran {M} 4%
+Lv 20-20 Nidorina 1%
+Lv 20-20 Nidorino 1%
+(OLD ROD)
+Lv 16-18 Clauncher 70%
+Lv 15-15 Magikarp 30%
+
+LUNAR CAVE (Floor 1)
+
+Lv 19-21 Woobat 20%
+Lv 19-21 Woobat 20%
+Lv 20-22 Geodude 10%
+Lv 19-21 Drilbur 10%
+Lv 19-21 Sandshrew 10%
+Lv 20-22 Diglett 10%
+Lv 19-21 Cubone 5%
+Lv 19-21 Cubone 5%
+Lv 20-22 Solrock 4%
+Lv 20-22 Lunatone 4%
+Lv 10-10 Totodile 1%
+Lv 10-10 Totodile 1%
+(OLD ROD)
+Lv 19-21 Tympole 70%
+Lv 18-18 Wooper 30%
+
+LUNAR CAVE (Floor 2)
+
+Lv 19-21 Woobat 20%
+Lv 19-21 Woobat 20%
+Lv 20-22 Geodude 10%
+Lv 19-21 Drilbur 10%
+Lv 20-22 Diglett 10%
+Lv 19-21 Sandshrew 10%
+Lv 20-22 Solrock 5%
+Lv 20-22 Lunatone 5%
+Lv 19-21 Cubone 4%
+Lv 19-21 Cubone 4%
+Lv 10-10 Totodile 1%
+Lv 10-10 Totodile 1%
+(OLD ROD)
+Lv 19-21 Tympole 70%
+Lv 18-18 Wooper 30%
+
+VOLTON PATH
+
+Lv 24-27 Shinx 20%
+Lv 24-27 Mareep 20%
+Lv 27-29 Trubbish 10%
+Lv 27-29 Pachirisu 10%
+Lv 27-29 Emolga 10%
+Lv 27-29 Grimer 10%
+Lv 30-30 Emolga 5%
+Lv 24-27 Helioptile 5%
+Lv 30-30 Stunfisk 4%
+Lv 24-27 Helioptile 4%
+Lv 30-30 Vespiquen 1%
+Lv 30-30 Vespiquen 1%
+(OLD ROD)
+Lv 25-25 Tynamo 70%
+Lv 25-25 Shellos 30%
+
+VOLTON FACTORY
+
+Lv 30-32 Trubbish 20%
+Lv 30-32 Grimer 20%
+Lv 30-30 Voltorb 10%
+Lv 30-30 Voltorb 10%
+Lv 30-30 Bronzor 10%
+Lv 30-30 Klink 10%
+Lv 30-32 Luxio 5%
+Lv 30-32 Luxio 5%
+Lv 30-30 Bronzor 4%
+Lv 30-30 Klink 4%
+Lv 25-25 Rotom 1%
+Lv 25-25 Rotom 1%
+
+HELIOS CANYON
+
+Lv 29-31 Herdier 20%
+Lv 29-31 Fletchinder 20%
+Lv 30-32 Raticate 10%
+Lv 26-28 Natu 10%
+Lv 30-32 Fearow 10%
+Lv 26-28 Helioptile 10%
+Lv 30-30 Karrablast 5%
+Lv 30-30 Shelmet 5%
+Lv 34-36 Girafarig 4%
+Lv 26-28 Mankey 4%
+Lv 40-40 Heliolisk 1%
+Lv 40-40 Heliolisk 1%
+
+HELIOS CAVERN (Floor 1)
+
+Lv 33-35 Houndour 20%
+Lv 33-35 Vulpix 20%
+Lv 33-35 Slugma 10%
+Lv 33-35 Numel 10%
+Lv 34-36 Gligar 10%
+Lv 34-36 Larvesta 10%
+Lv 36-38 Rhyhorn 5%
+Lv 36-38 Graveler 5%
+Lv 36-38 Heatmor 4%
+Lv 36-38 Heatmor 4%
+Lv 10-10 Tepig 1%
+Lv 10-10 Tepig 1%
+
+HELIOS CAVERN (Floor 2)
+
+Lv 33-35 Houndour 20%
+Lv 33-35 Vulpix 20%
+Lv 33-35 Slugma 10%
+Lv 33-35 Numel 10%
+Lv 33-35 Gligar 10%
+Lv 34-36 Larvesta 10%
+Lv 36-38 Heatmor 5%
+Lv 36-38 Heatmor 5%
+Lv 36-38 Graveler 4%
+Lv 36-38 Rhyhorn 4%
+Lv 10-10 Tepig 1%
+Lv 10-10 Tepig 1%
+
+GEMSTONE RIDGE
+
+Lv 35-37 Wingull 20%
+Lv 37-39 Sawbuck 20%
+Lv 34-36 Psyduck 10%
+Lv 37-39 Spinda 10%
+Lv 32-34 Swablu 10%
+Lv 35-37 Natu 10%
+Lv 36-36 Scyther 5%
+Lv 28-28 Pancham 5%
+Lv 30-30 Riolu 4%
+Lv 30-30 Riolu 4%
+Lv 40-40 Nidoking 1%
+Lv 40-40 Nidoqueen 1%
+(OLD ROD)
+Lv 35-37 Krabby 70%
+Lv 35-37 Poliwag 30%
+
+GEMSTONE RIVER
+
+Lv 35-37 Wingull 20%
+Lv 37-39 Sawbuck 20%
+Lv 34-36 Psyduck 10%
+Lv 37-39 Spinda 10%
+Lv 32-34 Swablu 10%
+Lv 35-37 Natu 10%
+Lv 28-28 Pancham 5%
+Lv 36-36 Scyther 5%
+Lv 30-30 Riolu 4%
+Lv 30-30 Riolu 4%
+Lv 40-40 Nidoqueen 1%
+Lv 40-40 Nidoking 1%
+(OLD ROD)
+Lv 35-37 Barboach 70%
+Lv 35-37 Poliwag 30%
+
+VERDANT FIELDS
+
+Lv 36-39 Vespiquen 20%
+Lv 36-39 Ledian 20%
+Lv 36-39 Lilligant 10%
+Lv 35-35 Shelmet 10%
+Lv 35-35 Karrablast 10%
+Lv 36-39 Gligar 10%
+Lv 41-41 Serviper 5%
+Lv 41-41 Zangoose 5%
+Lv 40-40 Pangoro 4%
+Lv 40-40 Gogoat 4%
+Lv 40-40 Leafeon 1%
+Lv 40-40 Leafeon 1%
+
+KEIR ROUTE
+
+Lv 33-35 Glameow 20%
+Lv 30-32 Stunky 20%
+Lv 18-18 Purrloin 10%
+Lv 18-18 Purrloin 10%
+Lv 35-37 Pelipper 10%
+Lv 35-37 Raticate 10%
+Lv 37-39 Stunfisk 5%
+Lv 37-39 Stunfisk 5%
+Lv 40-40 Fearow 4%
+Lv 40-40 Talonflame 4%
+Lv 32-32 Trapinch 1%
+Lv 32-31 Trapinch 1%
+(OLD ROD)
+Lv 35-35 Remoraid 70%
+Lv 35-35 Feebas 30%
+
+KEIR STEPPE
+
+Lv 40-42 Fearow 20%
+Lv 40-42 Talonflame 20%
+Lv 40-42 Emolga 10%
+Lv 35-37 Pelipper 10%
+Lv 35-37 Pelipper 10%
+Lv 40-42 Lopunny 10%
+Lv 40-40 Tropius 5%
+Lv 40-40 Gogoat 5%
+Lv 33-35 Glameow 4%
+Lv 30-32 Stunky 4%
+Lv 45-45 Altaria 1%
+Lv 45-45 Altaria 1%
+(OLD ROD)
+Lv 35-35 Remoraid 70%
+Lv 35-35 Feebas 30%
+
+MISTY TREES
+
+Lv 41-43 Vullaby 20%
+Lv 41-43 Noctowl 20%
+Lv 38-38 Ferroseed 10%
+Lv 34-34 Shuppet 10%
+Lv 40-42 Misdreavus 10%
+Lv 40-42 Murkrow 10%
+Lv 38-38 Phantump 5%
+Lv 38-38 Phantump 5%
+Lv 45-45 Carnivine 4%
+Lv 45-45 Shedinja 4%
+Lv 10-10 Treecko 1%
+Lv 10-10 Snivy 1%
+
+HOLLOWS ROUTE
+
+Lv 44-46 Liepard 20%
+Lv 44-46 Stoutland 20%
+Lv 44-46 Gogoat 10%
+Lv 40-42 Tangela 10%
+Lv 44-46 Pangoro 10%
+Lv 44-46 Amoongus 10%
+Lv 38-38 Scraggy 5%
+Lv 38-38 Scraggy 5%
+Lv 48-48 Escaviler 4%
+Lv 48-48 Accellgor 4%
+Lv 30-30 Yamask 1%
+Lv 30-30 Yamask 1%
+(OLD ROD)
+Lv 37-39 Palpitoad 70%
+Lv 37-39 Gastrodon 30%
+(GOOD ROD)
+Lv 37-39 Frillish 60%
+Lv 44-46 Qwilfish 20%
+Lv 50-50 Gyarados 20%
+
+
+ASTER PRAIRIE
+
+Lv 50-52 Vespiquen 20%
+Lv 50-52 Beedrill 20%
+Lv 47-49 Pachirisu 10%
+Lv 50-52 Lilligant 10%
+Lv 50-52 Sawbuck 10%
+Lv 50-52 Amoongus 10%
+Lv 50-50 Chatot 5%
+Lv 50-50 Chatot 5%
+Lv 54-54 Kecleon 4%
+Lv 54-54 Kecleon 4%
+Lv 55-55 Nidoqueen 1%
+Lv 55-55 Nidoking 1%
+(OLD ROD)
+Lv 30-30 Horsea 70%
+Lv 42-45 Quagsire 30%
+(GOOD ROD)
+Lv 44-47 Kingler 60%
+Lv 45-48 Whiscash 20%
+Lv 50-50 Milotic 20%
+
+OMEGA GATE
+
+Lv 51-53 Houndoom 20%
+Lv 51-53 Liepard 20%
+Lv 51-53 Raticate 10%
+Lv 51-53 Scrafty 10%
+Lv 51-53 Purugly 10%
+Lv 50-50 Skarmory 5%
+Lv 50-50 Carnivine 5%
+Lv 20-20 Goomy 4%
+Lv 20-20 Goomy 4%
+Lv 25-25 Zorua 1%
+Lv 25-25 Zorua 1%
+
+UTOPIA BASEMENT (Floor 1)
+
+Lv 51-53 Garbodor 20%
+Lv 51-53 Muk 20%
+Lv 51-53 Garbodor 10%
+Lv 51-53 Muk 10%
+Lv 48-50 Trubbish 10%
+Lv 48-50 Grimer 10%
+Lv 51-53 Houndoom 5%
+Lv 51-53 Liepard 5%
+Lv 20-20 Goomy 4%
+Lv 20-20 Goomy 4%
+Lv 25-25 Zorua 1%
+Lv 25-25 Zorua 1%
+
+UTOPIA BASEMENT (Floor 2)
+
+Lv 51-53 Garbodor 20%
+Lv 51-53 Muk 20%
+Lv 51-53 Garbodor 10%
+Lv 51-53 Muk 10%
+Lv 48-50 Trubbish 10%
+Lv 48-50 Grimer 10%
+Lv 51-53 Houndoom 5%
+Lv 51-53 Liepard 5%
+Lv 20-20 Goomy 4%
+Lv 20-20 Goomy 4%
+Lv 25-25 Zorua 1%
+Lv 25-25 Zorua 1%
+
+MEADOW OF KARMA
+
+Lv 56-58 Carnivine 20%
+Lv 56-58 Noctowl 20%
+Lv 54-57 Trevenant 10%
+Lv 54-57 Gogoat 10%
+Lv 54-57 Fearow 10%
+Lv 54-57 Liepard 10%
+Lv 58-58 Pangoro 5%
+Lv 58-58 Weavile 5%
+Lv 53-53 Zoroark 4%
+Lv 53-53 Zoroark 4%
+Lv 50-50 Ditto 1%
+Lv 50-50 Ditto 1%
+(OLD ROD)
+Lv 54-57 Gastrodon 70%
+Lv 54-57 Jellicent 30%
+(GOOD ROD)
+Lv 54-57 Qwilfish 60%
+Lv 45-45 Skelp 20%
+Lv 54-57 Golduck 20%
+
+ARTIC MIRAGE
+
+Lv 58-60 Trevenant 20%
+Lv 58-60 Weavile 20%
+Lv 60-60 Skarmory 10%
+Lv 58-60 Ferrothorn 10%
+Lv 56-58 Zoroark 10%
+Lv 58-60 Probopass 10%
+Lv 46-46 Vanillish 5%
+Lv 60-60 Sigilpyh 5%
+Lv 36-36 Bergmite 4%
+Lv 34-34 Vanillite 4%
+Lv 60-60 Glaceon 1%
+Lv 60-60 Glaceon 1%
+(OLD ROD)
+Lv 32-35 Seel 70%
+Lv 57-59 Dewgong 30%
+(GOOD ROD)
+Lv 32-35 Seel 60%
+Lv 57-59 Jellicent 20%
+Lv 57-59 Dewgong 20%
+
+
+ARTIC CAVE (Floor 1)
+
+Lv 60-63 Cryogonal 20%
+Lv 60-63 Cryogonal 20%
+Lv 59-62 Vanilluxe 10%
+Lv 59-62 Vanilluxe 10%
+Lv 62-64 Avalugg 10%
+Lv 62-64 Avalugg 10%
+Lv 60-63 Weavile 5%
+Lv 60-63 Swoobat 5%
+Lv 60-63 Weavile 4%
+Lv 60-63 Swoobat 4%
+Lv 10-10 Piplup 1%
+Lv 10-10 Oshawott 1%
+
+
+ARTIC CAVE (Floor 2)
+
+Lv 60-63 Cryogonal 20%
+Lv 60-63 Cryogonal 20%
+Lv 62-64 Avalugg 10%
+Lv 59-62 Vanilluxe 10%
+Lv 59-62 Golduck 10%
+Lv 60-63 Weavile 10%
+Lv 60-63 Swoobat 5%
+Lv 60-63 Swoobat 5%
+Lv 61-63 Dewgong 4%
+Lv 61-63 Dewgong 4%
+Lv 10-10 Piplup 1%
+Lv 10-10 Oshawott 1%
+
+
+ARTIC CAVE (Floor 3)
+
+LV 64-64 Avalugg 20%
+Lv 64-64 Avalugg 20%
+Lv 60-63 Vanilluxe 10%
+Lv 60-63 Weavile 10%
+Lv 64-64 Avalugg 10%
+Lv 60-63 Golduck 10%
+Lv 61-63 Dewgong 5%
+Lv 61-63 Dewgong 5%
+Lv 60-63 Swoobat 4%
+Lv 60-63 Swoobat 4%
+Lv 10-10 Piplup 1%
+Lv 10-10 Oshawott 1%
+
+
+ARTIC CAVE (Floor 4)
+
+Lv 60-63 Dewgong 20%
+Lv 60-63 Cryogonal 20%
+Lv 60-63 Vanilluxe 10%
+Lv 60-63 Swoobat 10%
+Lv 59-62 Golduck 10%
+Lv 63-63 Vanilluxe 10%
+Lv 64-64 Avalugg 5%
+Lv 64-64 Avalugg 5%
+Lv 62-62 Weavile 4%
+Lv 62-62 Weavile 4%
+Lv 10-10 Piplup 1%
+Lv 10-10 Oshawott 1%
+(OLD ROD)
+Lv 64-64 Dewgong 70%
+Lv 64-64 Kingler 30%
+(GOOD ROD)
+Lv 64-64 Dewgong 60%
+Lv 64-64 Clawitzer 20%
+Lv 64-64 Kingler 20%
+
+
+ARTIC CAVE (Floor 5)
+
+Lv 64-64 Golduck 20%
+Lv 64-64 Dewgong 20&
+Lv 60-63 Weavile 10%
+Lv 60-63 Vanilluxe 10%
+Lv 64-64 Golduck 10%
+Lv 64-64 Dewgong 10%
+Lv 64-64 Vanilluxe 5%
+Lv 64-64 Vanilluxe 5%
+Lv 60-63 Avalugg 4%
+Lv 60-63 Avalugg 4%
+Lv 10-10 Piplup 1%
+Lv 10-10 Oshawott 1%
+(OLD ROD)
+Lv 64-64 Dewgong 70%
+Lv 64-64 Kingler 30%
+(GOOD ROD)
+Lv 64-64 Dewgong 60%
+Lv 64-64 Clawitzer 20%
+Lv 64-64 Kingler 20%
+
+CONTRA ROUTE
+
+(OLD ROD)
+Lv 64-66 Dewgong 70%
+Lv 65-67 Kingler 30%
+(GOOD ROD)
+Lv 50-50 Skelp 60%
+Lv 65-67 Golduck 20%
+Lv 66-68 Gyarados 20%
+
+BOSCAGE TRAIL
+
+Lv 70-72 Fearow 20%
+Lv 70-72 Talonflame 20%
+Lv 72-74 Furfrou 10%
+Lv 70-72 Sawsbuck 10%
+Lv 72-74 Stoutland 10%
+Lv 70-72 Pelipper 10%
+Lv 75-75 Zangoose 5%
+Lv 75-75 Seviper 5%
+Lv 76-78 Accellgor 4%
+Lv 76-78 Escaviler 4%
+Lv 80-80 Ninetails 1%
+Lv 80-80 Politoed 1%
+
+CANYON PATHWAY
+
+Lv 70-72 Talonflame 20%
+Lv 70-72 Fearow 20%
+Lv 72-74 Furfrou 10%
+Lv 72-74 Sawsbuck 10%
+Lv Stoutland 10%
+Lv 70-72 Pelipper 10%
+Lv 76-78 Gogoat 5%
+Lv 76-78 Gogoat 5%
+Lv 75-75 Seviper 4%
+Lv 75-75 Zangoose 4%
+Lv 80-80 Politoed 1%
+Lv 80-80 Ninetails 1%
+
+VULCAN CANYON (INSIDE)
+
+Lv 76-78 Magcargo 20%
+Lv 76-78 Camerupt 20%
+Lv 80-80 Golem 10%
+Lv 80-80 Heatmor 10%
+Lv 76-78 Sandslash 10%
+Lv 76-78 Dugtrio 10%
+Lv 80-80 Chandelure 5%
+Lv 80-80 Volcorona 5%
+Lv 80-80 Magmortar 4%
+Lv 80-80 Rhyperior 4%
+Lv 10-10 Charmander 1%
+Lv 10-10 Cyndaquil 1%
+
+VULCAN CANYON (OUTSIDE)
+
+Lv 76-78 Ninetails 20%
+Lv 76-78 Houndoom 20%
+Lv 80-80 Heatmor 10%
+Lv 76-78 Talonflame 10%
+Lv 76-78 Talonflame 10%
+Lv 80-80 Golem 10%
+Lv 80-80 Magmortat 5%
+Lv 80-80 Volcorona 5%
+Lv 80-80 Chandelure 4%
+Lv 80-80 Rhyperior 4%
+Lv 10-10 Cyndaquil 1%
+Lv 10-10 Charmander 1%
+
+NOBLE PATHWAY
+
+Lv 81-83 Stoutland 20%
+Lv 81-83 Luxray 20%
+Lv 80-82 Liepard 10%
+Lv 80-82 Amoonguss 10%
+Lv 80-82 Heliolisk 10%
+Lv 81-83 Hariyama 10%
+Lv 83-83 Purugly 5%
+Lv 83-83 Skuntank 5%
+Lv 84-84 Furfrou 4%
+Lv 84-84 Girafarig 4%
+Lv 85-85 Flygon 1%
+Lv 85-85 Flygon 1%
+(SURFING)
+Lv 80-82 Quagsire 60%
+Lv 80-82 Kingler 30%
+Lv 81-83 Seismitoad 5%
+Lv 84-84 Clawitzer 4%
+Lv 85-85 Dragalge 1%
+
+HOIA-BACIU
+
+Lv 83-85 Noctowl 20%
+Lv 83-85 Mandibuzz 20%
+Lv 83-85 Trevenant 10%
+Lv 83-85 Trevenant 10%
+Lv 84-86 Hypno 10%
+Lv 84-86 Honchkrow 10%
+Lv 85-85 Xatu 5%
+Lv 85-85 Sigilpyh 5%
+Lv 86-86 Tangrowth 4%
+Lv 86-86 Ferrothorn 4%
+Lv 90-90 Gengar 1%
+Lv 90-90 Gengar 1%
+
+PATH TO HARMONY
+
+Lv 84-86 Wigglytuff 20%
+Lv 84-86 Clefable 20%
+Lv 80-82 Pachirisu 10%
+Lv 80-82 Kricketune 10%
+Lv 80-82 Ledian 10%
+Lv 80-82 Lopunny 10%
+Lv 87-87 Luxray 5%
+Lv 87-87 Stoutland 5%
+Lv 85-85 Audino 4%
+Lv 85-85 Audino 4%
+Lv 90-90 Blissey 1%
+Lv 90-90 Blissey 1%
+
+AQUATIC SERENE
+
+(SURFING)
+Lv 81-83 Gastrodon 60%
+Lv 82-84 Starmie 30%
+Lv 83-85 Clawitzer 5%
+Lv 83-85 Poliwrath 4%
+Lv 90-90 Milotic 1%
+(Pre-Evolutions can be captured by using Rods)
+
+DARK WATERS
+
+(SURFING)
+Lv 81-83 Jellicent 60%
+Lv 82-84 Octillery 30%
+Lv 83-85 Dragalge 5%
+Lv 83-85 Politoed 4%
+Lv 90-90 Gyarados 1%
+(Pre-Evolutions can be captured by using Rods)
+
+TWIN PATH
+
+Lv 86-88 Tropius 20%
+Lv 86-88 Talonflame 20%
+Lv 86-86 Ninetails 10%
+Lv 86-86 Politoed 10%
+Lv 86-86 Carnivine 10%
+Lv 86-86 Maractus 10%
+Lv 90-90 Volcorona 5%
+Lv 90-90 Scizor 5%
+Lv 90-90 Druddigon 4%
+Lv 90-90 Altaria 4%
+Lv 90-90 Goodra 1%
+Lv 90-90 Goodra 1%
+(SURFING)
+Lv 85-87 Golduck 60%
+Lv 86-88 Gastrodon 30%
+Lv 89-89 Relicanth 5%
+Lv 86-88 Jellicent 4%
+Lv 90-90 Seismitoad 1%
+(OLD ROD)
+Lv 84-86 Starmie 70%
+Lv 85-87 Quagsire 30%
+(GOOD ROD)
+Lv 85-87 Kingler 60%
+Lv 86-88 Octillery 20%
+Lv 86-88 Seismitoad 20%
+(SUPER ROD)
+Lv 85-87 Kingdra 40%
+Lv 85-87 Qwilfish 40%
+Lv 86-88 Jellicent 15%
+Lv 87-89 Wailord 4%
+Lv 90-90 Relicanth 1%
+
+TOWER OF DEMISE
+
+Lv 90-92 Gengar 20%
+Lv 90-92 Banette 20%
+Lv 90-92 Chandelure 10%
+Lv 90-92 Jellicent 10%
+Lv 90-92 Spiritomb 10%
+Lv 90-92 Dusknoir 10%
+Lv 92-92 Mismagius 5%
+Lv 92-92 Cofagrigus 5%
+Lv 90-90 Unknown 4%
+Lv 90-90 Unknown 4%
+Lv 95-95 Shedinja 1%
+Lv 95-95 Shedinja 1%
+
+
+
+""""OPTIONAL LOCATIONS""""
+
+GEMSTONE MINES
+
+Lv 32-35 Kabuto 20%
+Lv 32-35 Omanyte 20%
+Lv 32-35 Lileep 10%
+Lv 32-35 Lileep 10%
+Lv 32-35 Anorith 10%
+Lv 32-35 Anorith 10%
+Lv 15-15 Beldum 5%
+Lv 25-25 Larvitar 5%
+Lv 40-40 Aerodactyl 4%
+Lv 40-40 Aerodactyl 4%
+Lv 20-20 Tyrunt 1%
+Lv 20-20 Amarua 1%
+
+FIGHT DOME
+
+Lv 46-48 Breloom 20%
+Lv 46-48 Primeape
+Lv 46-48 Hariyama 10%
+Lv 46-48 Marowak 10%
+Lv 46-48 Pangoro 10%
+Lv 46-48 Scrafty 10%
+Lv 34-36 Meditite 5%
+Lv 34-36 Sneasel 5%
+Lv 34-36 Meditite 4%
+Lv 34-36 Sneasel 4%
+Lv 50-50 Lucario 1%
+Lv 50-50 Scizor 1%
+
+ASTRAEUS GARDEN
+
+Lv 47-49 Fearow 20%
+Lv 47-49 Lopunny 20%
+Lv 50-52 Girafarig 10%
+Lv 50-52 Lilligant 10%
+Lv 47-49 Ledian 10%
+Lv 47-49 Talonflame 10%
+Lv 44-47 Lickitung 5%
+Lv 44-47 Gogoat 5%
+Lv 44-47 Lickitung 4%
+Lv 44-47 Heliolisk 4%
+Lv 10-10 Bulbasaur 1%
+Lv 10-10 Chikorita 1%
+(OLD ROD)
+Lv 30-30 Horsea 70%
+Lv 40-40 Clawitzer 30%
+(GOOD ROD)
+Lv 43-45 Staryu 60%
+Lv 46-48 Kingler 20%
+Lv 46-48 Politoed 20%
+
+LUNAR CAVE (Secret Floor)
+
+Lv 72-74 Lunatone 20%
+Lv 72-74 Solrock 20%
+Lv 70-72 Marowak 10%
+Lv 70-72 Swoobat 10%
+Lv 70-72 Sandslash 10%
+Lv 72-74 Probopass 10%
+Lv 77-77 Heatmor 5%
+Lv 77-77 Heatmor 5%
+Lv 77-77 Durant 4%
+Lv 77-77 Durant 4%
+Lv 10-10 Totodile 1%
+Lv 10-10 Totodile 1%
+
+SEA LABYRINTH/PRINCE'S RESORT
+
+(SURFING)
+Lv 5-40 Phione 100%
+
+ENDLESS GARDEN
+
+Lv 70-72 Tropius 20%
+Lv 70-72 Sawsbuck 20%
+Lv 72-74 Amoonguss 10%
+Lv 75-75 Scyther 10%
+Lv 72-74 Gogoat 10%
+Lv 75-75 Audino 10%
+Lv 75-75 Carnivine 5%
+Lv 75-75 Maractus 5%
+Lv 75-75 Altaria 4%
+Lv 75-75 Ferrothorn 4%
+Lv 35-35 Eevee 1%
+Lv 35-35 Eevee 1%
+(SURFING)
+Lv 35-35 Goomy 60%
+Lv 35-35 Goomy 30%
+Lv 45-45 Sliggoo 5%
+Lv 45-45 Sliggoo 4%
+Lv 60-60 Goodra 1%
+
+NOBLE CAVE
+
+Lv 78-80 Dugtrio 20%
+Lv 78-80 Sandslash 20%
+Lv 78-80 Marowak 10%
+Lv 78-80 Scrafty 10%
+Lv 78-80 Excadrill 10%
+Lv 78-80 Hariyama 10%
+Lv 80-80 Nidoking 5%
+Lv 80-80 Nidoqueen 5%
+Lv 80-80 Probopass 4%
+Lv 80-80 Probopass 4%
+Lv 10-10 Torchic 1%
+Lv 10-10 Chimchar 1%
+
+GLACIER CAVE
+
+Lv 85-87 Dewgong 20%
+Lv 85-87 Swoobat 20%
+Lv 85-87 Golduck 10%
+Lv 84-86 Jynx 10%
+Lv 84-86 Weavile 10%
+Lv 84-86 Avalugg 10%
+Lv 87-87 Vanilluxe 5%
+Lv 87-87 Cryogonal 5%
+Lv 88-88 Glaceon 4%
+Lv 88-88 Glaceon 4%
+Lv 10-10 Squirtle 1%
+Lv 10-10 Mudkip 1%
+
+DIMENSION CASTLE
+
+Lv 84-86 Swoobat 20%
+Lv 84-86 Liepard 20%
+Lv 84-86 Muk 10%
+Lv 84-86 Garbodor 10%
+Lv 86-88 Sigilpyh 10%
+Lv 80-80 Rotom 10%
+Lv 86-88 Purugly 5%
+Lv 86-88 Skuntank 5%
+Lv 86-88 Zoroark 4%
+Lv 86-88 Chandelure 4%
+Lv 90-90 Gardevoir 1%
+Lv 90-90 Gallade 1%
+
+
+
+LEGENDARY POKEMON (Spoilers)
+
+Victini- After you defeat Sydney in the DR HQ, talk to Pete in the next room. He will give you Victini.
+
+Heatran- You must find the "Gold Ring" item in Gemstone City's Pokemon Gym. After finding it, bring it to the miner
+in the Gemstone Mines. He will give you HM Strength. Go to Astraeus City and talk to the Black Belt, he will give you
+HM Rock Smash. With both HMs, go to Helios Cavern. You can now catch Heatran.
+
+Cresselia- After defeating Battle Frontier Leader Brandon on Snowflake Route, return to Volton City. The guard is gone and
+you can now enter the dark section of Lunar Cave (Flash may be required). You can catch Cresselia at the end of the cave.
+
+Latios/Latias- You can catch both Latios & Latias at the end of the Endless Garden.
+
+Terrakion- You can catch Terrakion at the top of Vulcan Canyon (Outside).
+
+Cobalion- After receiving HM03 Surf from Gary Oak, return to the Artic Cave. You can now surf upwards on the last floor
+to catch Cobalion.
+
+Manaphy- After defeating Florina at the Canyon Pathway, return to the Artic Mirage. Zale is gone and you can now enter the
+building (Cut is required to reach this area). Once you enter the Sea Labyrinth (HM03 Surf is required), Surf to the
+Prince's Resort and enter the cave. Arceus Follower Paul will give you Manaphy.
+
+Virizion- You can catch Virizion in the Forest Cave hidden within Hoia-Baciu.
+
+Arceus- You can catch Arceus in the Sealed Chamber.
+
+Keldeo- After defeating Benga, you can catch Keldeo in Glacier Cave.
+
+Dialga/Palkia- You can catch both Dialga & Palkia in Dimension Castle.

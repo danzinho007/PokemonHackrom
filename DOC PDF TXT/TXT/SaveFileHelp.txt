@@ -1,0 +1,9 @@
+To use your save file from a previous version, you can do the following:
+
+1. Rename your save file the exact name of the Rom. For example, if the Beta 2 Rom you downloaded is titled "WorldsCollideBeta2", you would go to your save file and rename it "WorldsCollideBeta2" (make sure to keep the .sav as the end of the file name). Afterward, re-load your save file and it should start up with the new added content.
+
+
+2. If you're using Visual Boy Advance, select "Load" (not load game), and find your save file's location on your Laptop/PC. Click it, and your saved data from a previous version should start up with the new added content. Afterward, save as your normally would to create a save file. 
+
+
+Side Note: Always create multiple save stats.

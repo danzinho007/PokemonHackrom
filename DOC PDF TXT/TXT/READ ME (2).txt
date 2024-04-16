@@ -1,0 +1,36 @@
+**************BY YOGURCOMICS**************
+
+Support by following at @yogurcomics (Instagram)
+
+In this game you will encounter gen1 pokemon only.
+
+***TRADE EVOLUTIONS***
+LVL 40
+
+***VOLTORB EVOLUTIONS***
+
+GENERAL:
+ELECTRODE DUSK - MOONSTONE
+ELECTRODE GREAT - LVL 30 if ATK > DEF
+ELECTRODE MASTER - LVL 30 if ATK = DEF
+
+EXCLUSIVE:
+
+VOLTORB:
+ELECTRODE ULTRA -  - LVL 30 if ATK < DEF
+ELECTRODE LOVE - FIRE STONE
+
+VOLTORB-:
+ELECTRODE QUICK - THUNDERSTONE
+ELECTRODE DIVE - WATER STONE
+
+
+
+Credits:
+
+pokemon redesigns: pkmnreboot (IG)
+most gym leader redesigns: kei.os (IG)
+pokeball redesign: nachtbeirmann (DeviantArt)
+overworld tiles: Ikarus (Pokemon HhackRom Community)
+game making and sprites: yogur.comics (IG)
+fondos de batalla: Omega (Pokemon HhackRom Community)
