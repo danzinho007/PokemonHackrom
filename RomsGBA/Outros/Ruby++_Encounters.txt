@@ -1,0 +1,929 @@
+Ruby++ Wild Encounter List:
+
+*** Rock Smash Mons: are Geodude everywhere except safari zone northeast where
+there is a chance to find cubone and granite cave where you can find nosepass ***
+
+Route 101:
+Wurmple
+Zigzagoon
+Rattata
+Sentret
+Poochyena
+
+Route 102 (Land):
+Zigzagoon
+Wurmple
+Lotad
+Ledyba
+Seedot
+Poochyena
+Ralts
+
+Route 102 (Water):
+Marill
+Surskit
+
+Route 102 (Fishing):
+Magikarp
+Goldeen
+Corphish
+
+Route 103 (Land):
+Zigzagoon
+Buneary
+Paras
+Poochyena
+Mareep
+Wingull
+
+Route 103 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 103 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 104 (Land):
+Zigzagoon
+Wurmple
+Pidgey
+Spearow
+Taillow
+Wingull
+Pidgeotto
+
+Route 104 (Water):
+Wingull
+Pelipper
+
+Route 104 (Fishing):
+Magikarp
+
+Route 105 (Water):
+Tentacool
+Wingull
+Shellder
+
+Route 105 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 106 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 106 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 107 (Water):
+Krabby
+Wingull
+Pelipper
+
+Route 107 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 108 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 108 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 109 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 109 (Fishing):
+Magikarp
+Slowpoke
+Tentacool
+Wailmer
+
+Route 110 (Land):
+Zigzagoon
+Electrike
+Gulpin
+Tangela
+Minun
+Oddish
+Spinarak
+Plusle
+
+Route 110 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 110 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 111 (Land):
+Sandshrew
+Trapinch
+Ponyta
+Gligar
+Cacnea
+Baltoy
+
+Route 111 (Water):
+Marill
+Poliwag
+Poliwhirl
+Surskit
+
+Route 111 (Fishing):
+Magikarp
+Goldeen
+Barboach
+
+Route 112:
+Numel
+Machop
+Magmar
+Houndour
+
+Route 113:
+Spinda
+Venonat
+Sandshrew
+Cyndaquil
+Skarmory
+
+Route 114 (Land):
+Swablu
+Seedot
+Zangoose
+Meowth
+Seviper
+
+Route 114 (Water):
+Marill
+Surskit
+
+Route 114 (Fishing):
+Magikarp
+Goldeen
+Barboach
+
+Route 115 (Land):
+Swablu
+Taillow
+Weepinbell
+Jigglypuff
+Wingull
+
+Route 115 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 115 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 116:
+Zigzagoon
+Pineco
+Nincada
+Whismur
+Taillow
+Skitty
+
+Route 117 (Land):
+Nidoran (M)
+Nidoran (F)
+Roselia
+Farfetch'd
+Marill
+Oddish
+Illumise
+Volbeat
+Surskit
+
+Route 117 (Water):
+Marill
+Surskit
+
+Route 117 (Fishing):
+Magikarp
+Goldeen
+Corphish
+
+Route 118 (Land):
+Zigzagoon
+Electrike
+Linoone
+Manectric
+Wingull
+Kecleon
+
+Route 118 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 118 (Fishing):
+Magikarp
+Tentacool
+Carvanha
+Sharpedo
+
+Route 119 (Land):
+Combee
+Linoone
+Exeggcute
+Tropius
+Oddish
+Scyther
+Kecleon
+
+Route 119 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 119 (Fishing):
+Magikarp
+Tentacool
+Carvanha
+Feebas (Not part of regular encounter table)
+
+Route 120 (Land):
+Ekans
+Linoone
+Oddish
+Marill
+Absol
+Kecleon
+Surskit
+
+Route 120 (Water):
+Marill
+Surskit
+
+Route 120 (Fishing):
+Magikarp
+Goldeen
+Barboach
+
+Route 121 (Land):
+Linoone
+Hoothoot
+Duskull
+Bayleef
+Oddish
+Gloom
+Kecleon
+
+Route 121 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 121 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 122 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 122 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 123 (Land):
+Hoppip
+Duskull
+Linoone
+Teddiursa
+Oddish
+Gloom
+Wingull
+Kecleon
+
+Route 123 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 123 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Route 124 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 124 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 125 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 125 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 126 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 126 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 127 (Water):
+Tentacool
+Wingull
+Pelipper
+Mantine
+
+Route 127 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 128 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 128 (Fishing):
+Magikarp
+Tentacool
+Luvdisc
+Wailmer
+Corsola
+
+Route 129 (Water):
+Tentacool
+Wingull
+Pelipper
+Wailord
+
+Route 129 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 130 (Land):
+Wynaut
+
+Route 130 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 130 (Fishing):
+Magikarp
+Tentacool
+Remoraid
+Wailmer
+Sharpedo
+
+Route 131 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 131 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Route 132 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 132 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Horsea
+Croconaw
+
+Route 133 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 133 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+Horsea
+
+Route 134 (Water):
+Tentacool
+Wingull
+Pelipper
+
+Route 134 (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+Horsea
+
+Safari Zone Northwest (Land):
+Rhyhorn
+Oddish
+Aipom
+Doduo
+Sunkern
+Gloom
+Chansey
+Pinsir
+
+Safari Zone Northwest (Water):
+Psyduck
+Golduck
+
+Safari Zone Northwest (Fishing):
+Magikarp
+Goldeen
+Seel
+
+Safari Zone Northeast (Land):
+Phanphy
+Oddish
+Stantler
+Natu
+Gloom
+Dunsparce
+Kangaskhan
+Heracross
+
+Safari Zone Southwest (Land):
+Oddish
+Natu
+Girafarig
+Miltank
+Doduo
+Gloom
+Wobbuffet
+Pikachu
+Lickitung
+
+Safari Zone Southwest (Water):
+Psyduck
+
+Safari Zone Southwest (Fishing):
+Magikarp
+Goldeen
+Seaking
+
+Safari Zone Southeast (Land):
+Oddish
+Girafarig
+Natu
+Doduo
+Gloom
+Larvitar
+Pikachu
+Wobbuffet
+
+Petalburg City (Water):
+Marill
+Wooper
+
+Petalburg City (Fishing):
+Magikarp
+Goldeen
+Squirtle
+Corphish
+
+Slateport City (Water):
+Tentacool
+Wingull
+Pelipper
+
+Slateport City (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Lilycove City (Water):
+Tentacool
+Wingull
+Pelipper
+
+Lilycove City (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Staryu
+
+Mossdeep City (Water):
+Tentacool
+Wingull
+Pelipper
+
+Mossdeep City (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+Corsola
+
+Sootopolis City (Water):
+Magikarp
+
+Sootopolis City (Fishing):
+Magikarp
+Gyarados
+Lapras
+
+Ever Grande City (Water):
+Tentacool
+Wingull
+Pelipper
+
+Ever Grande City (Fishing):
+Magikarp
+Tentacool
+Luvdisc
+Wailmer
+Corsola
+
+Dewford Town (Water):
+Tentacool
+Wingull
+Pelipper
+
+Dewford Town (Fishing):
+Magikarp
+Tentacool
+Qwilfish
+Wailmer
+
+Pacifidlog Town (Water):
+Tentacool
+Wingull
+Pelipper
+
+Pacifidlog Town (Fishing):
+Magikarp
+Tentacool
+Wailmer
+Sharpedo
+
+Underwater:
+Clamperl
+Chinchou
+Relicanth
+
+Meteor Falls 1F (Land):
+Solrock
+Lunatone
+Zubat
+Onix
+Golbat
+Gible
+
+Meteor Falls 1F (Water):
+Zubat
+Solrock
+Golbat
+
+Meteor Falls 1F (Fishing):
+Magikarp
+Goldeen
+Barboach
+Whiscash
+
+Meteor Falls B1F (Land):
+Golbat
+Solrock
+Bagon
+
+Meteor Falls B1F (Water):
+Golbat
+Solrock
+
+Meteor Falls B1F (Fishing):
+Magikarp
+Goldeen
+Barboach
+Whiscash
+Dratini
+
+Rusturf Tunnel:
+Whismur
+Ditto
+Swinub
+Clefairy
+
+Granite Cave 1F:
+Zubat
+Makuhita
+Mankey
+Geodude
+Abra
+Riolu
+
+Granite Cave B1F:
+Zubat
+Aron
+Abra
+Makuhita
+Mawile
+
+Granite Cave B2F:
+Abra
+Aron
+Zubat
+Mawile
+Sableye
+
+Granite Cave (Steven's Room):
+Zubat
+Makuhita
+Abra
+Tyrogue
+Aron
+
+Petalburg Woods:
+Caterpie
+Weedle
+Wurmple
+Silcoon
+Cascoon
+Shroomish
+Bulbasaur
+Slakoth
+
+Jagged Pass:
+Numel
+Machop
+Spoink
+
+Fiery Path:
+Numel
+Koffing
+Machop
+Torkoal
+Slugma
+Growlithe
+Charmander
+
+Mt. Pyre (1F):
+Duskull
+Gastly
+Drowzee
+Haunter
+
+Mt. Pyre (2F):
+Duskull
+Gastly
+Mr. Mime
+
+Mt. Pyre (3F):
+Duskull
+Drifloon
+
+Mt. Pyre (4F):
+Duskull
+Bronzor
+Gastly
+Shuppet
+
+Mt. Pyre (5F):
+Duskull
+Gastly
+Haunter
+Shuppet
+Spiritomb
+
+Mt. Pyre (6F):
+Duskull
+Gastly
+Haunter
+Misdreavus
+Shuppet
+
+Mt. Pyre (Exterior):
+Duskull
+Meditite
+Vulpix
+Yanma
+
+Mt. Pyre (Summit):
+Duskull
+Murkrow
+Shuppet
+Chimecho
+
+Seafloor Cavern (Entrance) (Water):
+Tentacool
+Zubat
+Golbat
+
+Seafloor Cavern (Entrance) (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Seafloor Cavern (Land):
+Zubat
+Golbat
+
+Seafloor Cavern (Water):
+Tentacool
+Zubat
+Golbat
+
+Seafloor Cavern (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Cave Of Origin (Entrance):
+Zubat
+Tauros
+Golbat
+
+Cave Of Origin (1F):
+Zubat
+Mawile
+Golbat
+
+Cave Of Origin (B1F):
+Zubat
+Mawile
+Golbat
+
+Cave Of Origin (B2F):
+Zubat
+Mawile
+Golbat
+
+Cave Of Origin (B3F):
+Zubat
+Mawile
+Golbat
+Unown
+
+Victory Road 1F:
+Dugtrio
+Hariyama
+Lairon
+Loudred
+Zubat
+Makuhita
+Golbat
+Aron
+Whismur
+
+Victory Road B1F:
+Golbat
+Hariyama
+Lairon
+Medicham
+Meditite
+
+Victory Road B2F (Land):
+Golbat
+Mawile
+Lairon
+Medicham
+Muk
+
+Victory Road B2F (Water):
+Golbat
+
+Victory Road B2F (Fishing):
+Magikarp
+Goldeen
+Barboach
+Whiscash
+
+Shoal Cave Low Tide (Entrance) (Land):
+Zubat
+Spheal
+Sneasel
+
+Shoal Cave Low Tide (Entrance) (Water):
+Tentacool
+Zubat
+Spheal
+
+Shoal Cave Low Tide (Entrance) (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Shoal Cave Low Tide (Inner) (Land):
+Snover
+Spheal
+Jynx
+Zubat
+Golbat
+
+Shoal Cave Low Tide (Inner) (Water):
+Tentacool
+Zubat
+Seel
+Spheal
+
+Shoal Cave Low Tide (Inner) (Fishing):
+Magikarp
+Tentacool
+Wailmer
+
+Shoal Cave Low Tide (Stairs):
+Zubat
+Spheal
+Golbat
+
+Shoal Cave Low Tide (Lower):
+Zubat
+Spheal
+Golbat
+
+Shoal Cave Low Tide (Ice):
+Zubat
+Spheal
+Snorunt
+Golbat
+
+New Mauville (Entrance):
+Voltorb
+Magnemite
+Shinx
+Pachirisu
+
+New Mauville (Inside):
+Voltorb
+Magnemite
+Electabuzz
+Pachirisu
+Electrode
+Magneton
+
+Abandoned Ship B1F (Water):
+Tentacool
+Tentacruel
+
+Abandoned Ship B1F (Fishing):
+Magikarp
+Tentacool
+Tentacruel
+
+Abandoned Ship Corridors (Water):
+Tentacool
+Tentacruel
+
+Abandoned Ship Corridors (Fishing):
+Magikarp
+Tentacool
+Tentacruel
+
+Sky Pillar All Floors:
+Mawile
+Golbat
+Claydol
+Dusclops
+
+Sky Pillar 5F:
+Altaria
