@@ -1,0 +1,11 @@
+BUGFIXES FROM BETA 2 TO BETA 2.1
+
+· Corrected minor mistakes such as trainers with wrong pics and movement permission mistakes
+· Downed wild frequency in Wistwoods and wist castle for anti-annoy effects
+· Hacked the back door of vanilla museum
+· Magiken no longer has shadow tag, so you can't get stuck if you find a magiken GHOST at wist castle.
+· Hacked four pokemon trades
+· Finally adjusted door management in the script where you meet Baro and he takes you to the lab.
+· Edited belly dance script; now you have to repeat the full puzzle if you fail, but the dancer does the steps slower. Also, waist move is shorter. All of this is done to eliminate bugs
+· Corrected some pokemon gender data: frigopter and clabell are now always female.
+· Set a new overworld sprite for swimmers, whose sprite was used for female touaregs

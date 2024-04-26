@@ -1,0 +1,2124 @@
+
+Moémon Mega Fire Red 1.4 Encounter Guide.
+
+__________________________________
+
+Pallet Town Surfing: 
+- Tentacool 100% 
+
+Pallet Town Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 40% 
+- Shellder 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Route 1: 
+- Pidgey 30% 
+- Rattata 20%
+- Scatterbug 20%
+- Zigzagoon 10% 
+- Poochyena 5% 
+- Sentret 5% 
+- Bidoof 5% 
+- Taillow 4% 
+- Pichu 1% 
+
+Viridian City Surfing: 
+- Psyduck 100% 
+
+Viridian City Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 4% 
+- Quagsire 1% 
+
+Route 22: 
+- Poochyena 24% 
+- Rattata 20% 
+- Mankey 20% 
+- Sunkern 10% 
+- Hoppip 10% 
+- Spearow 5% 
+- Starly 5% 
+- Ralts 5% 
+- Chingling 1% 
+
+Route 22 Surfing: 
+- Surskit 60% 
+- Remoraid 31% 
+- Psyduck 9%
+
+Route 22 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Surskit 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Surskit 4% 
+- Magikarp 1% 
+
+Route 2:
+- Patrat 20% 
+- Sentret 20% 
+- Pidgey 20%
+- Rattata 10% 
+- Buneary 10% 
+- Poochyena 5% 
+- Hoothoot 5% 
+- Mime Jr. 4%
+- Bonsly 4% 
+- Shuckle 2% 
+
+Viridian Forest: 
+- Caterpie 20% 
+- Weedle 20%
+- Burmy 20% 
+- Surskit 10% 
+- Wurmple 10% 
+- Metapod 5% 
+- Spinarak 5% 
+- Budew 4% 
+- Pikachu 4% 
+- Nincada 1% 
+- Pineco 1% 
+
+Route 3: 
+- Spearow 20% 
+- Starly 20% 
+- Nidoran F 10% 
+- Mankey 10% 
+- Spoink 10% 
+- Yanma 10% 
+- Nidoran M 10% 
+- Buneary 5% 
+- Jigglypuff 4% 
+- Igglybuff 1% 
+
+Mt. Moon 1F: 
+- Zubat 20% 
+- Geodude 25%
+- Noibat 20%
+- Roggenrola 20% 
+- Paras 5% 
+- Aron 4% 
+- Amaura 4% 
+- Beldum 1% 
+- Clefairy 1% 
+
+Mt. Moon BF1: 
+- Paras 40% 
+- Sandshrew 20%
+- Drilbur 20%
+- Trapinch 9% 
+- Woobat 5% 
+- Amaura 4% 
+- Beldum 1% 
+- Cleffa 1% 
+
+Mt. Moon BF2: 
+- Zubat 30% 
+- Geodude 20% 
+- Sandshrew 10% 
+- Gulpin 10% 
+- Mawile 10% 
+- Tyrunt 5%
+- Amaura 5% 
+- Clefairy 5% 
+- Trapinch 4% 
+- Cleffa 1% 
+
+Mt. Moon BF3: (Starglint Path)
+- Carbink 20%
+- Ferroseed 20%
+- Excadrill 20%
+- Lairon 20%
+- Tyrantrum 5%
+- Noivern 5%
+- Aurorus 5%
+- Swoobat 5%
+- ??? (Only One)
+
+Route 4: 
+- Pidove 20% 
+- Bidoof 20% 
+- Azurill 10% 
+- Nincada 10% 
+- Medidite 10% 
+- Spinda 10% 
+- Totodile 10% 
+- Cyndaquil 5% 
+- Chikorita 5%
+
+Route 4 Surfing: 
+- Tentacool 65%
+- Frillish-F 30%
+- Qwilfish 5% 
+
+Route 4 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 84% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Cerulean City Surfing: 
+- Tentacool 65%
+- Frillish-F 30% 
+- Qwilfish 5% 
+
+Cerulean City Fishing: 
+(Old Rod) 
+- Goldeen 70% 
+- Poliwag 30% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 84% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Route 24: 
+- Sewaddle 20% 
+- Marill 20% 
+- Abra 14% 
+- Treecko 10% 
+- Oddish 10% 
+- Pidgey 5% 
+- Torchic 5% 
+- Mudkip 5% 
+- Marshtomp 1% 
+
+Route 24 Surfing: 
+- Surskit 60%
+- Frillish-F 30%
+- Tentacool 6% 
+- Qwilfish 4% 
+
+Route 24 Fishing: 
+(Old Rod) 
+- Goldeen 70% 
+- Poliwag 30% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 84% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Route 25: 
+- Sewaddle 20% 
+- Skorupi 20% 
+- Marill 15% 
+- Abra 11% 
+- Teddiursa 10% 
+- Oddish 10% 
+- Torchic 9% 
+- Sunkern 5% 
+
+Route 25 Surfing: 
+- Psyduck 90% 
+- Piplup 9% 
+- Carvanha 1% 
+
+Route 25 Fishing: 
+(Old Rod) 
+- Barboach 70% 
+- Psyduck 30% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Lover's Cay: 
+- Volbeat 30% 
+- Illumise 30% 
+- Teddiursa 10% 
+- Chimecho 10% 
+- Wingull 10% 
+- Audino 5% 
+- Smoochum 4% 
+- Elekid 1%
+- ??? (Only One)
+
+Lover's Cay Surfing: 
+- Corsola 60% 
+- Wingull 30% 
+- Staryu 5% 
+- Chimecho 5% 
+
+Lover's Cay Fishing: 
+(Old Rod) 
+- Luvdisc 70% 
+- Corsola 30% 
+(Good Rod) 
+- Corsola 80% 
+- Clamperl 20% 
+(Super Rod) 
+- Clamperl 40% 
+- Qwilfish 40% 
+- Luvdisc 15% 
+- Mantine 4% 
+- Mantyke 1% 
+
+Lover's Cay (East) Surfing:
+- Frillish-F 60%
+- Corsola 30%
+- Clauncher 10%
+
+Lover's Cay (East) Fishing: 
+(Old Rod) 
+- Luvdisc 70% 
+- Corsola 30% 
+(Good Rod) 
+- Corsola 80% 
+- Clamperl 20% 
+(Super Rod) 
+- Clamperl 40% 
+- Clauncher 40% 
+- Luvdisc 15% 
+- Mantine 4% 
+- Mantyke 1%
+
+Lover's Cay: (Devotion Stream)
+- Cherrim 20%
+- Tranquill 20%
+- Swirlix 20%
+- Carnivine 20%
+- Vivillon 10%
+- Togetic 10%
+- ??? (Only One)
+
+Lover's Cay Surfing: (Devotion Stream)
+- Seaking 60%
+- Swanna 30%
+- Lapras 10%
+
+Lover's Cay Fishing: (Devotion Stream)
+(Old Rod) 
+- Feebas 70%
+- Totodile 30%
+(Good Rod) 
+- Basculin 80% 
+- Croconaw 20% 
+(Super Rod) 
+- Slowpoke 40% 
+- Milotic 40%
+- Slowbro 15% 
+- Slowking 5%
+
+Route 5: 
+- Meowth 30% 
+- Bellsprout 20% 
+- Slakoth 10% 
+- Oddish 10% 
+- Pidgey 10% 
+- Glameow 5% 
+- Snivy 5% 
+- Furfrou 5% 
+- Electrike 4% 
+- Sneasel 1% 
+
+Lost Murk A West side: 
+- Sandile 20% 
+- Stunfisk 20% 
+- Tynamo 15% 
+- Marshtomp 10% 
+- Lileep 10% 
+- Solrock 10% 
+- Wooper 5% 
+- Gulpin 5% 
+- Nosepass 4% 
+- Relicanth 1% 
+
+Lost Murk A East side: 
+- Sandile 20% 
+- Tympole 20% 
+- Tynamo 15% 
+- Hippopotas 10% 
+- Anorith 10% 
+- Lunatone 10% 
+- Wooper 5% 
+- Grimer 5% 
+- Turtwig 4% 
+- Relicanth 1% 
+
+Lost Murk B: 
+- Solrock 30% 
+- Lunatone 30% 
+- Baltoy 20% 
+- Meditite 9% 
+- Sableye 5% 
+- Larvitar 5% 
+- Druddigon 1%
+
+Lost Murk C: 
+- Bronzor 30% 
+- Sigilyph 30% 
+- Baltoy 20% 
+- Archen 9% 
+- Sableye 5% 
+- Larvitar 5% 
+- Druddigon 1% 
+
+Route 6: 
+- Meowth 20% 
+- Taillow 20% 
+- Oddish 10% 
+- Mareep 10% 
+- Karrablast 15% 
+- Castform 10% 
+- Buizel 9% 
+- Skitty 5%
+- Smeargle 1% 
+
+Route 6 Surfing: 
+- Buizel 60% 
+- Swablu 30% 
+- Psyduck 9% 
+- Floatzel 1% 
+
+Route 6 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Buizel 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Buizel 4% 
+- Psyduck 1% 
+
+Vermilion City Surfing: 
+- Tentacool 66% 
+- Carvanha 30% 
+- Sharpedo 4% 
+
+Vermilion City Fishing: 
+(Old Rod) 
+- Chinchou 70% 
+- Magikarp 30% 
+(Good Rod) 
+- Chinchou 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 44% 
+- Shellder 40% 
+- Gyarados 15% 
+- Chinchou 1% 
+
+Route 11: 
+- Ekans 20% 
+- Shelmet 20% 
+- Vulpix 14% 
+- Shroomish 10% 
+- Drowzee 10% 
+- Lillipup 10% 
+- Makuhita 9% 
+- Absol 5% 
+- Maractus 2% 
+
+Route 11 Surfing: 
+- Remoraid 60% 
+- Tentacool 40% 
+
+Route 11 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Clamperl 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Remoraid 40% 
+- Horsea 44% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Diglett's Cave: 
+- Diglett 90% 
+- Dugtrio 5% 
+- Durant 4% 
+- Slugma 1% 
+
+Route 9: 
+- Rattata 20% 
+- Hoothoot 20% 
+- Ekans 20% 
+- Wingull 15% 
+- Riolu 10%
+- Stantler 6% 
+- Murkrow 4% 
+- Girafarig 4% 
+- Gothita 1% 
+
+Route 10: 
+- Spearow 25% 
+- Voltorb 20% 
+- Shinx 14% 
+- Tepig 10% 
+- Oshawott 10% 
+- Ekans 10% 
+- Magnemite 4% 
+- Wynaut 6% 
+- Luxio 1% 
+
+Route 10 Surfing: 
+- Clamperl 60% 
+- Wingull 30% 
+- Tentacool 10% 
+
+Route 10 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 44% 
+- Clamperl 40% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Rock Tunnel 1F: 
+- Woobat 30% 
+- Geodude 20% 
+- Torkoal 14% 
+- Swinub 10% 
+- Scraggy 10%
+- Mankey 5% 
+- Machop 5% 
+- Onix 4% 
+- Anorith 2% 
+
+Rock Tunnel BF1: 
+- Woobat 20% 
+- Geodude 20% 
+- Scraggy 10% 
+- Chimchar 10%
+- Archen 10% 
+- Golbat 10% 
+- Onix 10% 
+- Swinub 5% 
+- Gible 4% 
+- Dunsparce 1% 
+
+Rock Tunnel BF1 Rock Smash:
+- Yamask 61% 
+- Nosepass 30% 
+- Geodude 5% 
+- Graveler 4% 
+
+Pokémon Tower 3F: 
+- Gastly 70% 
+- Sableye 10% 
+- Cubone 9% 
+- Shuppet 5% 
+- Misdreavus 4% 
+- Noctowl 1% 
+- Haunter 1%
+ 
+Pokémon Tower 4F: 
+- Gastly 70% 
+- Duskull 10% 
+- Cubone 9% 
+- Haunter 5% 
+- Sableye 4% 
+- Ariados 1% 
+- Shedinja 1% 
+
+Pokémon Tower 5F: 
+- Gastly 74% 
+- Shuppet 11% 
+- Cubone 9% 
+- Haunter 5% 
+- Misdreavus 1% 
+
+Pokémon Tower 6F: 
+- Gastly 74% 
+- Duskull 10% 
+- Cubone 9% 
+- Haunter 5% 
+- Misdreavus 2% 
+
+Pokémon Tower 7F: 
+- Litwick 44% 
+- Shuppet 20% 
+- Misdreavus 16% 
+- Haunter 11% 
+- Cubone 5% 
+- Lampent 4% 
+
+Route 8: 
+- Growlithe 20% 
+- Meowth 20% 
+- Drifloon 20% 
+- Whismur 15% 
+- Flabébé 15%
+- Deerling 5% 
+- Gothita 4% 
+- Porygon 1% 
+
+Route 7: 
+- Taillow 20% 
+- Purrloin 20% 
+- Oddish 20% 
+- Murkrow 10%
+- Flabébé 10% 
+- Growlithe 5% 
+- Houndour 5% 
+- Eevee 5% 
+- Sneasel 4% 
+- Whismur 1% 
+
+Celadon City Surfing: 
+- Psyduck 65% 
+- Trubbish 30% 
+- Koffing 4% 
+- Mantine 1% 
+
+Celadon City Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Magikarp 100% 
+(Super Rod) 
+- Magikarp 99% 
+- Grimer 1% 
+
+Route 16: 
+- Doduo 25% 
+- Pawniard 20% 
+- Stunky 14% 
+- Emolga 10% 
+- Herdier 10% 
+- Ponyta 10% 
+- Sneasel 5% 
+- Blitzle 5% 
+- Solosis 1% 
+
+Route 17: 
+- Skiddo 20% 
+- Doduo 20% 
+- Solosis 10% 
+- Aipom 10%
+- Croagunk 10%
+- Ponyta 10% 
+- Emolga 5% 
+- Blitzle 5% 
+- Numel 4% 
+- Fearow 4% 
+- Zebstrika 1% 
+- Girafarig 1% 
+
+Route 18: 
+- Doduo 30%
+- Tranquill 20%
+- Smeargle 14%
+- Chatot 10% 
+- Fearow 10% 
+- Skarmory 5% 
+- Numel 9%
+- Shuckle 1% 
+- Togepi 1% 
+
+Fuchsia City Surfing: 
+- Psyduck 100% 
+
+Fuchsia City Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Seel 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seel 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Safari Zone S: 
+- Rhyhorn 20% 
+- Nidoran M 20% 
+- Exeggcute 10% 
+- Stantler 10% 
+- Blitzle 10% 
+- Pinsir 10% 
+- Nidorina 5% 
+- Munna 5% 
+- Venonat 4% 
+- Scyther 4% 
+- Swablu 1% 
+- Chansey 1% 
+
+Safari Zone S Surfing: 
+- Surskit 60% 
+- Chinchou 30% 
+- Ducklett 5% 
+- Psyduck 5% 
+
+Safari Zone S Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Goldeen 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seaking 40% 
+- Dratini 15% 
+- Psyduck 4% 
+- Dragonair 1% 
+
+Safari Zone E: 
+- Nidoran M 20% 
+- Doduo 20% 
+- Cacnea 10% 
+- Exeggcute 10% 
+- Snorunt 10% 
+- Lickitung 10% 
+- Seviper 5% 
+- Parasect 5% 
+- Pinsir 4% 
+- Kangaskhan 4% 
+- Heracross 1% 
+- Scyther 1% 
+
+Safari Zone E Surfing: 
+- Surskit 60% 
+- Slowpoke 30% 
+- Chinchou 5% 
+- Psyduck 5% 
+
+Safari Zone E Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Goldeen 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seaking 40% 
+- Dratini 15% 
+- Psyduck 4% 
+- Dragonair 1% 
+
+Safari Zone N: 
+- Carnivine 20% 
+- Baltoy 20% 
+- Shroomish 10% 
+- Heracross 10% 
+- Swablu 10% 
+- Pinsir 10% 
+- Pachirisu 5% 
+- Snover 5% 
+- Trapinch 4% 
+- Chansey 4% 
+- Miltank 1% 
+- Tauros 1% 
+
+Safari Zone N Surfing: 
+- Psyduck 61% 
+- Ducklett 30% 
+- Surskit 9% 
+
+Safari Zone N Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Goldeen 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seaking 40% 
+- Dratini 15% 
+- Psyduck 4% 
+- Feebas 1% 
+
+Safari Zone W: 
+- Doduo 20% 
+- Nidoran M 20% 
+- Shroomish 10% 
+- Houndour 10% 
+- Turtwig 10% 
+- Lickitung 10% 
+- Audino 5% 
+- Gligar 5% 
+- Miltank 5% 
+- Tauros 4% 
+- Kangaskhan 1% 
+
+Safari Zone W Surfing: 
+- Ducklett 69% 
+- Chinchou 30% 
+- Swanna 1% 
+
+Safari Zone W Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Goldeen 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seaking 40% 
+- Dratini 15% 
+- Psyduck 4% 
+- Dragonair 1% 
+
+Route 15: 
+- Happiny 20% 
+- Trubbish 20% 
+- Pinsir 14% 
+- Stantler 10% 
+- Staravia 10% 
+- Venonat 10% 
+- Ditto 9% 
+- Banette 6% 
+- Swablu 1% 
+
+Clear Forest S: 
+- Lotad 25% 
+- Seedot 25%
+- Vivillon 20% 
+- Sentret 10%
+- Bonsly 10% 
+- Gloom 5% 
+- Swablu 5% 
+
+Clear Forest S Surfing: 
+- Lotad 60% 
+- Surskit 30% 
+- Ducklett 5% 
+- Azurill 4% 
+- Masquerain 1% 
+
+Clear Forest S Fishing: 
+(Old Rod) 
+- Magikarp 70% 
+- Goldeen 30% 
+(Good Rod) 
+- Magikarp 60% 
+- Poliwag 20% 
+- Poliwhirl 20% 
+(Super Rod) 
+- Poliwag 55% 
+- Magikarp 40% 
+- Wooper 4% 
+- Lileep 1% 
+
+Clear Forest E: 
+- Phantump 20% 
+- Nincada 20% 
+- Petilil 10% 
+- Spinarak 10% 
+- Tangela 10% 
+- Gligar 10% 
+- Shedinja 5% 
+- Skorupi 5% 
+- Aipom 5% 
+- Nuzleaf 4% 
+- Spiritomb 1%
+- ??? (Only One)
+
+Clear Forest E Rock Smash:
+- Yamask 60% 
+- Durant 30% 
+- Axew 5% 
+- Bagon 4% 
+- Spiritomb 1% 
+
+Clear Forest N:
+- Venipede 20% 
+- Stantler 20% 
+- Lotad 10% 
+- Snubbull 10% 
+- Chespin 10% 
+- Murkrow 10% 
+- Tropius 5% 
+- Roselia 5% 
+- Exeggcute 5% 
+- Shuckle 4% 
+- Aipom 1% 
+
+Clear Forest N Surfing: 
+- Lotad 60% 
+- Froakie 30% 
+- Wooper 5% 
+- Azurill 4% 
+- Lombre 1% 
+
+Clear Forest N Fishing: 
+(Old Rod) 
+- Barboach 70% 
+- Corphish 30% 
+(Good Rod) 
+- Barboach 60% 
+- Corphish 20% 
+- Wooper 20% 
+(Super Rod) 
+- Barboach 40% 
+- Wooper 40% 
+- Corphish 15% 
+- Goldeen 4% 
+- Whiscash 1% 
+
+Route 14: 
+- Blitzle 20% 
+- Venonat 20%
+- Ditto 14% 
+- Stantler 10% 
+- Seviper 10% 
+- Zangoose 10% 
+- Blitzle 5% 
+- Ursaring 5% 
+- Pinsir 4% 
+- Audino 1% 
+- Grotle 1% 
+
+Route 13: 
+- Gloom 20%
+- Swirlix 20%
+- Pineco 20%
+- Kecleon 10%
+- Cacnea 5% 
+- Ditto 5% 
+- Pidgeotto 4% 
+- Kirlia 4% 
+- Zangoose 1% 
+- Ivysaur 1% 
+
+Route 13 Surfing: 
+- Barboach 60% 
+- Slowpoke 30% 
+- Staryu 5% 
+- Tentacool 4% 
+- Marshtomp 1% 
+
+Route 13 Fishing: 
+(Old Rod) 
+- Magikarp 70%
+- Basculin 30%
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 84% 
+- Gyarados 15% 
+- Wartortle 1% 
+
+Route 12: 
+- Venonat 20% 
+- Pidgeotto 24% 
+- Combee 10%
+- Oddish 20% 
+- Cacnea 15% 
+- Plusle 5% 
+- Minum 5% 
+- Seviper 1% 
+
+Route 12 Surfing: 
+- Tentacool 64% 
+- Slowpoke 30% 
+- Staryu 5% 
+- Mantine 1% 
+
+Route 12 Fishing: 
+(Old Rod) 
+- Magikarp 70% 
+- Basculin 30%
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 44% 
+- Remoraid 40% 
+- Gyarados 15% 
+- Psyduck 1% 
+
+Power Plant: 
+- Joltik 20%
+- Shinx 20% 
+- Pikachu 20%
+- Magnemite 10% 
+- Voltorb 10% 
+- Magneton 10% 
+- Electabuzz 5% 
+- Klink 4% 
+- Pichu 1% 
+
+Route 19 Surfing: 
+- Carvanha 65% 
+- Tentacool 35% 
+
+Route 19 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Clauncher 40% 
+- Finneon 40%
+- Gyarados 15% 
+- Seadra 4% 
+- Mantine 1% 
+
+Route 20 Surfing: 
+- Wingull 60% 
+- Barboach 30% 
+- Tentacool 6% 
+- Sharpedo 4% 
+
+Route 20 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Squirtle 20% 
+- Krabby 20% 
+(Super Rod) 
+- Chinchou 40% 
+- Skrelp 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Relicanth 1% 
+
+Seafoam Islands 1F: 
+- Staryu 20% 
+- Psyduck 20% 
+- Vanillite 10% 
+- Piloswine 10% 
+- Delibird 10% 
+- Prinplup 10% 
+- Golbat 5% 
+- Cryogonal 5% 
+- Poliwrath 4% 
+- Zubat 4% 
+- Altaria 2% 
+
+Seafoam Islands BF1: 
+- Staryu 20% 
+- Bergmite 20% 
+- Seel 10% 
+- Huntail 10% 
+- Vanillite 10% 
+- Delibird 10% 
+- Golbat 9% 
+- Cryogonal 5% 
+- Golduck 4% 
+- Azumarill 2% 
+
+Seafoam Islands BF2: 
+- Psyduck 20% 
+- Bergmite 20% 
+- Wailmer 10% 
+- Seel 10% 
+- Woobat 10% 
+- Delibird 10%
+- Prinplup 6%
+- Swoobat 5% 
+- Golduck 5% 
+- Cryogonal 4%
+
+Seafoam Islands BF3: 
+- Wailmer 20% 
+- Seel 20% 
+- Golduck 15% 
+- Wailord 10% 
+- Psyduck 10% 
+- Woobat 10% 
+- Cryogonal 5% 
+- Dewgong 5% 
+- A-Vulpix 5%
+
+Seafoam Islands BF3 Surfing: 
+- Seel 60% 
+- Horsea 30% 
+- Spheal 5% 
+- Wailmer 4% 
+- Golduck 1% 
+
+Seafoam Islands BF3 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Clamperl 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 80% 
+- Phione 15%
+- Psyduck 4% 
+- Gyarados 1% 
+
+Seafoam Islands BF4: 
+- Seel 40% 
+- Golduck 15% 
+- Psyduck 10% 
+- Piloswine 10% 
+- A-Vulpix 10%
+- Dewgong 5% 
+- Cryogonal 4% 
+- Vanillish 5% 
+- Empoleon 1%
+
+Seafoam Islands BF4 Surfing: 
+- Tirtouga 60% 
+- Relicanth 30% 
+- Spheal 5% 
+- Psyduck 4% 
+- Golduck 1% 
+
+Seafoam Islands BF4 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Clamperl 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Horsea 80% 
+- Gyarados 16% 
+- Psyduck 4% 
+
+Cinnabar Island Surfing: 
+- Tentacool 100% 
+
+Cinnabar Island Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Skrelp 40% 
+- Shellder 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Moémon Mansion 1F: 
+- Koffing 20% 
+- Slugma 20% 
+- Growlithe 11% 
+- Trubbish 10% 
+- Garbordor 10% 
+- Munna 10% 
+- Muk 5% 
+- Weezing 5%
+- Axew 5% 
+- Porygon 4% 
+
+Moémon Mansion 2F: 
+- Klefki 20%
+- Trubbish 20% 
+- Growlithe 14% 
+- Raticate 10% 
+- Slugma 10%
+- Koffing 10% 
+- Ponyta 5% 
+- Weezing 5% 
+- Porygon 4% 
+- Deino 1% 
+- Magcargo 1% 
+
+Moémon Mansion 3F: 
+- Croagunk 20% 
+- Raticate 20% 
+- Trubbish 20% 
+- Growlithe 14% 
+- Munna 10% 
+- Grimer 5% 
+- Weezing 5% 
+- Ponyta 4% 
+- Axew 1% 
+- Porygon 1% 
+
+Moémon Mansion BF1: 
+- Magmar 31% 
+- Koffing 20%
+- Munna 10% 
+- Ditto 10% 
+- Slugma 10% 
+- Grimer 5% 
+- Weezing 5% 
+- Growlithe 4% 
+- Zorua 4% 
+- Deino 1% 
+
+One Island Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+One Island Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Clauncher 40% 
+- Shellder 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Treasure Beach: 
+- Tangela 30% 
+- Sunkern 20% 
+- Vullaby 10% 
+- Sudowoodo 10% 
+- Meowth 10% 
+- Elgyem 10% 
+- Psyduck 5% 
+- Persian 4% 
+- G-Rapidash 1% 
+- ??? (Only One)
+
+Treasure Beach Surfing: 
+- Tentacool 95% 
+- Tentacruel 4% 
+- Octillery 1% 
+
+Treasure Beach Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Remoraid 20% 
+(Super Rod) 
+- Clauncher 40% 
+- Remoraid 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Relicanth 1% 
+
+Kindle Road: 
+- Fearow 20% 
+- Ponyta 20% 
+- Persian 15% 
+- Grumpig 10% 
+- Throh 10% 
+- Sawk 10%
+- Swellow 5% 
+- Golduck 5% 
+- Rapidash 5% 
+
+Kindle Road Rock Smash: 
+- Nosepass 90% 
+- Geodude 5% 
+- Graveler 5% 
+
+Kindle Road Surfing: 
+- Frillish-F 60%
+- Tentacool 30%
+- Jellicent-F 5% 
+- Tentacruel 5% 
+
+Kindle Road Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20%
+(Super Rod) 
+- Horsea 80% 
+- Gyarados 15% 
+- Seadra 4% 
+- Relicanth 1% 
+
+Mt. Ember A:
+- Vullaby 20%
+- Fearow 5% 
+- Charmeleon 20% 
+- Ponyta 10% 
+- Torkoal 10% 
+- Golett 20% 
+- Rapidash 10% 
+- Timburr 5% 
+
+Mt. Ember A Rock Smash: 
+- Nosepass 60% 
+- Geodude 35% 
+- Graveler 5% 
+
+Mt. Ember 1F: 
+- Scraggy 20%
+- Numel 20% 
+- Graveler 15% 
+- Geodude 20% 
+- Durant 10% 
+- Machoke 5%
+- Golem 4% 
+- Torkoal 1% 
+- Deino 5% 
+
+Mt. Ember 2F: 
+- Graveler 20% 
+- Camerupt 20%
+- Darumaka 15%
+- Charmeleon 10% 
+- Shieldon 10%
+- Cranidos 10%
+- Medicham 5%
+- Machoke 5%
+- Machamp 4% 
+- Charizard 1% 
+- Torkoal 1% 
+
+Mt. Ember 2F Rock Smash: 
+- Geodude 95% 
+- Graveler 5% 
+
+Mt. Ember 3F: 
+- Cranidos 20% 
+- Meditite 20% 
+- Medicham 20% 
+- Graveler 9% 
+- Machoke 5% 
+- Camerupt 4%
+- Golem 1% 
+- Blaziken 1% 
+
+Mt. Ember B: 
+- Graveler 30%
+- Camerupt 20%
+- Machoke 19% 
+- Houndour 10% 
+- Houndoom 10% 
+- Durant 5% 
+- Marowak 5% 
+- Golem 1% 
+
+Mt. Ember B Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Mt. Ember BF1: 
+- Slugma 29% 
+- Camerupt 25% 
+- Graveler 24% 
+- Lampent 20% 
+- Golem 1% 
+- Magcargo 1% 
+
+Mt. Ember BF1 Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Mt. Ember BF2: 
+- Slugma 39% 
+- Camerupt 20% 
+- Litwick 20% 
+- Graveler 19% 
+- Golem 1% 
+- Chandelure 1% 
+
+Mt. Ember BF2 Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Mt. Ember BF3: 
+- Slugma 54%
+- Camerupt 30%
+- Quilava 10% 
+- Charmeleon 4% 
+- Typhlosion 1% 
+- Magcargo 1% 
+
+Mt. Ember BF3 Rock Smash: 
+- Slugma 90% 
+- Magcargo 10%
+
+Mt. Ember BF3: (Labyrinth)
+- Darmanitan 20%
+- Camerupt 20%
+- Magmortar 20%
+- Heatmor 20%
+- Houndoom 10%
+- Larvesta 8% 
+- Typhlosion 1% 
+- Magcargo 1%
+- ??? (Only One)
+
+Mt. Ember BF2*: 
+- Slugma 44% 
+- Geodude 20% 
+- Graveler 19% 
+- Vulpix 15% 
+- Golem 1% 
+- Ninetales 1% 
+
+Mt. Ember BF2* Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Mt. Ember BF1*: 
+- Geodude 25% 
+- Slugma 25% 
+- Charmander 20% 
+- Growlithe 15% 
+- Graveler 10% 
+- Charmeleon 4% 
+- Arcanine 1% 
+
+Mt. Ember BF1* Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Cape Brink: 
+- Spearow 20% 
+- Petilil 20% 
+- Snubbull 10% 
+- Gloom 10% 
+- Fearow 10% 
+- Meowth 10% 
+- G-Ponyta 10%
+- Granbull 6% 
+- Persian 4%
+
+Cape Brink Surfing: 
+- Psyduck 95% 
+- Golduck 5% 
+
+Cape Brink Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Three Isle Port: 
+- Dunsparce 99%
+- Klefki 1% 
+
+Bond Bridge: 
+- Volbeat 30% 
+- Aipom 20% 
+- Illumise 20% 
+- Gloom 10% 
+- Venonat 5% 
+- Psyduck 5% 
+- Pidgeotto 5% 
+- Persian 5% 
+
+Bond Bridge Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Bond Bridge Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 80% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Berry Forest: 
+- Cherubi 20% 
+- Gloom 20% 
+- Venomoth 11% 
+- Swellow 10% 
+- Vileplume 10% 
+- Timburr 10% 
+- Exeggutor 5% 
+- Munchlax 5% 
+- Dustox 4% 
+- Beautifly 4% 
+- Farfetch'd 1%
+- ??? (Only One)
+
+Berry Forest Surfing: 
+- Psyduck 95% 
+- Golduck 5% 
+
+Berry Forest Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Goldeen 60% 
+- Magikarp 20% 
+- Poliwag 20% 
+(Super Rod) 
+- Goldeen 40% 
+- Seaking 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Route 21: 
+- Tangela 55% 
+- Goomy 20%
+- Wingull 10% 
+- Bellossom 5% 
+- Ariados 4% 
+- Lileep 4% 
+- Yanma 1% 
+- Forretress 1% 
+
+Route 21 Surfing: 
+- Carvanha 60% 
+- Wailmer 30% 
+- Wingull 5% 
+- Tentacool 5% 
+
+Route 21 (North) Fishing: 
+(Old Rod) 
+- Magikarp 100%
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Wailmer 40% 
+- Horsea 40% 
+- Gyarados 15% 
+- Seadra 5% 
+
+Route 21 (South) Fishing: 
+(Old Rod) 
+- Magikarp 70% 
+- Binacle 30%
+(Good Rod) 
+- Horsea 60% 
+- Magikarp 20% 
+- Krabby 20% 
+(Super Rod) 
+- Binacle  40% 
+- Horsea 40% 
+- Gyarados 15% 
+- Seadra 5% 
+
+Route 23: 
+- Dugtrio 20% 
+- Fearow 20% 
+- Pelipper 10% 
+- Metang 10% 
+- Sneasel 10% 
+- Absol 10% 
+- Primeape 5% 
+- Arbok 5% 
+- Miltank 4% 
+- Breloom 4% 
+- Audino 2% 
+
+Route 23 Surfing: 
+- Psyduck 60% 
+- Masquerain 30% 
+- Huntail 5% 
+- Lanturn 4% 
+- Octillery 1% 
+
+Route 23 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Wailmer 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Remoraid 40% 
+- Poliwhirl 40% 
+- Wailord 15% 
+- Psyduck 4% 
+- Octillery 1% 
+
+Victory Road 1F: 
+- Durant 31% 
+- Machop 20% 
+- Onix 10% 
+- Gurdurr 10% 
+- Zubat 10% 
+- Arbok 5% 
+- Golbat 5% 
+- Marowak 5% 
+- Machoke 4% 
+
+Victory Road 2F: 
+- Durant 31% 
+- Klang 25% 
+- Onix 20% 
+- Primeape 10% 
+- Golbat 5% 
+- Marowak 4% 
+- Machoke 4% 
+- Aurorus 1% 
+
+Victory Road 3F: 
+- Durant 31% 
+- Rhydon 20% 
+- Onix 10% 
+- Gurdurr 10% 
+- Piloswine 10% 
+- Arbok 5% 
+- Druddigon 5% 
+- Marowak 4% 
+- Machoke 4% 
+- Scizor 1% 
+
+Four Island Surfing: 
+- Wooper 70% 
+- Psyduck 30% 
+
+Four Island Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Icefall Cave A: 
+- Seel 40% 
+- Golbat 25% 
+- Dewgong 20% 
+- Zubat 10% 
+- Psyduck 5% 
+
+Icefall Cave A Surfing: 
+- Seel 60% 
+- Psyduck 30% 
+- Dewgong 5% 
+- Wooper 5% 
+
+Icefall Cave A Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Icefall Cave B: 
+- Swinub 50% 
+- Golbat 25% 
+- Seel 10% 
+- Zubat 10% 
+- Delibird 5% 
+
+Icefall Cave BF1: 
+- Swinub 50% 
+- Golbat 25% 
+- Seel 10% 
+- A-Vulpix 10% 
+- Delibird 5% 
+
+Icefall Cave C: 
+- Seel 40% 
+- Golbat 25% 
+- Dewgong 20% 
+- Zubat 10% 
+- Psyduck 5% 
+
+Icefall Cave C Surfing: 
+- Tirtouga 60%
+- Tentacool 35% 
+- Tentacruel 4% 
+- Lapras 1% 
+
+Icefall Cave C Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Shellder 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1%
+
+Icefall Cave D-E:
+- A-Vulpix 20%
+- Sneasel 20%
+- Swinub 20%
+- Spheal 20%
+- Snorunt 20%
+
+Icefall Cave F:
+- ??? (Only One)
+
+Five Island Surfing: 
+- Tentacool 65% 
+- Hoppip 30% 
+- Tentacruel 5% 
+
+Five Island Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Shellder 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Five Isle Meadow: 
+- Sentret 30% 
+- Pidgey 20% 
+- Pidgeotto 15% 
+- Hoppip 15% 
+- Meowth 10% 
+- Psyduck 5% 
+- Persian 5%
+- ??? (Only One)
+
+Five Isle Meadow Surfing: 
+- Tentacool 65% 
+- Hoppip 30% 
+- Tentacruel 5% 
+
+Five Isle Meadow Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Memorial Pillar: 
+- Hoppip 100% 
+
+Memorial Pillar Surfing: 
+- Tentacool 65% 
+- Hoppip 30% 
+- Tentacruel 5% 
+
+Memorial Pillar Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1%
+
+Memorial Pillar: (Mirage Islands)
+- Vivillon 20%
+- Cherubi 20%
+- Petilil 20%
+- Solosis 20%
+- Bagon 10%
+- Zorua 10%
+- ??? (Only One)
+- ??? (Only One)
+
+Memorial Pillar Surfing: (Mirage Islands)
+- Marill 60%
+- Froakie 30%
+- Dratini 10%
+
+Memorial Pillar Fishing: (Mirage Islands)
+(Old Rod) 
+- Magikarp 70%
+- Feebas 30%
+(Good Rod) 
+- Feebas 60% 
+- Squirtle 40% 
+(Super Rod) 
+- Wartortle 40% 
+- Dratini 40% 
+- Milotic 15% 
+- Slowking 4% 
+- Blastoise 1%
+
+Water Labyrinth Surfing: 
+- Tentacool 65% 
+- Hoppip 30% 
+- Tentacruel 5% 
+
+Water Labyrinth Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Skrelp 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Resort Gorgeous Surfing: 
+- Tentacool 65% 
+- Hoppip 30% 
+- Tentacruel 5% 
+
+Resort Gorgeous Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Lost Cave 1-10: 
+- Haunter 30% 
+- Gastly 25% 
+- Zubat 20% 
+- Golbat 20% 
+- Murkrow 5% 
+
+Lost Cave 11-14: 
+- Haunter 30% 
+- Gastly 20% 
+- Zubat 20% 
+- Murkrow 20% 
+- Golbat 10% 
+
+Water Path: 
+- Sentret 30% 
+- Spearow 20% 
+- Fearow 15% 
+- Oddish 10% 
+- Meowth 10% 
+- Gloom 5% 
+- Psyduck 5% 
+- Persian 5% 
+
+Water Path Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Water Path Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Ruin Valley: 
+- Natu 25% 
+- Sigilyph 20% 
+- Yanma 10% 
+- Wooper 10% 
+- Beheeyem 10% 
+- Meowth 10% 
+- Wobbuffet 5% 
+- Psyduck 5% 
+- Persian 5% 
+
+Ruin Valley Surfing: 
+- Wooper 100% 
+
+Ruin Valley Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5%
+
+Dotted Hole:
+- ??? (Only One)
+
+Green Path Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Green Path Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Pattern Bush: 
+- Spinarak 30% 
+- Bulbasaur 20% 
+- Heracross 20% 
+- Caterpie 10% 
+- Weedle 10% 
+- Metapod 5% 
+- Ledyba 5% 
+
+Outcast Island Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Outcast Island Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Altering Cave: 
+- Zubat 100% 
+
+Trainer Tower Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Trainer Tower Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Canyon Entrance: 
+- Tyrogue 20%
+- Spearow 20% 
+- Phanpy 15% 
+- Fearow 15%
+- Sentret 10%
+- Meowth 10% 
+- Psyduck 5% 
+- Persian 5% 
+
+Sevault Canyon: 
+- Golurk 20% 
+- Phanpy 20% 
+- Cubone 10% 
+- Fearow 10% 
+- Marowak 10% 
+- Meowth 10% 
+- Onix 5% 
+- Skarmory 5% 
+- Larvitar 5% 
+- Persian 5% 
+
+Sevault Canyon Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Tanoby Ruins Surfing: 
+- Tentacool 95% 
+- Tentacruel 5% 
+
+Tanoby Ruins Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Horsea 80% 
+- Magikarp 20% 
+(Super Rod) 
+- Horsea 40% 
+- Qwilfish 40% 
+- Gyarados 15% 
+- Seadra 4% 
+- Psyduck 1% 
+
+Monean Chamber: 
+- Unown 100%
+- ??? (Only One)
+
+Liptoo Chamber: 
+- Unown 100% 
+
+Weepth Chamber: 
+- Unown 100% 
+
+Dilford Chamber: 
+- Unown 100% 
+
+Scufib Chamber: 
+- Unown 100% 
+
+Rixy Chamber: 
+- Unown 100% 
+
+Viapois Chamber: 
+- Unown 100% 
+
+Cerulean Cave 1F: 
+- Magneton 20% 
+- Parasect 20% 
+- Golbat 10% 
+- Machoke 10% 
+- Musharna 10% 
+- Ditto 10% 
+- Electrode 5% 
+- Garchomp 5% 
+- Aggron 4% 
+- Wobbuffet 4% 
+- Primeape 1% 
+- Spiritomb 1% 
+
+Cerulean Cave 1F Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Cerulean Cave 1F Surfing: 
+- Psyduck 65% 
+- Golduck 35% 
+
+Cerulean Cave 1F Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 15% 
+- Psyduck 5% 
+
+Cerulean Cave 2F: 
+- Golbat 25% 
+- Machoke 20% 
+- Ditto 11% 
+- Magneton 10% 
+- Musharna 10% 
+- Kadabra 10% 
+- Wobbuffet 5% 
+- Electrode 4% 
+- Parasect 4% 
+- Rotom 1% 
+
+Cerulean Cave 2F Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Cerulean Cave BF1: 
+- Kadabra 25% 
+- Ditto 25% 
+- Golbat 11% 
+- Magneton 10% 
+- Parasect 10% 
+- Machoke 10% 
+- Electrode 4% 
+- Rotom 4% 
+- Wobbuffet 1% 
+
+Cerulean Cave BF1 Rock Smash: 
+- Geodude 65% 
+- Graveler 35% 
+
+Cerulean Cave BF1 Surfing: 
+- Psyduck 65% 
+- Golduck 35% 
+
+Cerulean Cave BF1 Fishing: 
+(Old Rod) 
+- Magikarp 100% 
+(Good Rod) 
+- Poliwag 60% 
+- Magikarp 20% 
+- Goldeen 20% 
+(Super Rod) 
+- Poliwag 40% 
+- Poliwhirl 40% 
+- Gyarados 16% 
+- Psyduck 4% 
+

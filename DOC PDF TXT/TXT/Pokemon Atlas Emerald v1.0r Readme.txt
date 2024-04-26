@@ -1,0 +1,197 @@
+---------
+* Legal *
+---------
+
+To avoid legal issues involved with providing the full game, use the IPS patch on unmodified Pokemon Emerald ROM.
+In order to play this hack, you must obtain a Pokemon Emerald ROM.
+
+-----------
+* Read Me *
+-----------
+
+Basic Instructions:
+
+1) Apply the patch on a clean Emerald Rom (Trashman)
+2) Set RTC and Save Type to Flash 128K on your emulator (all the test are done on mGBA)
+3) Support original mod Emerald Final by dearman4
+
+-----------------
+* About the Mod *
+-----------------
+
+The first attempt of this mod was expanded modification from Emerald Final Deluxe (Version 7.41) from dearman4.
+
+But due some problems adding the new maps without breaking the music and music data, I did a fresh start from a clean Rom with the decaptalization patch
+made by Verloren5. Maybe I try again modding Emerald Final(when the new update comes)
+
+It's a simple mod to achieve something I always wanted in a gen3 Pokemon rom hack.
+
+The major change in this mod is the addition of Kanto, Johto and Sevii Island Regions as explorable areas (The new maps use the Tileset already in Emerald).
+
+The Wild encounters in Hoenn changed to acommodate better the split to other Regions inclusion.
+
+The Pokenav Trainers in Match Calls are modified to be notable characters, gym leaders, protagonists, elite four members, champions and villains.
+
+The new regions are acessible from:
+
+1) Kanto - Boat in Oldale Port to Pallet Town - Acessible after getting the Pokénav
+2) Johto - Boat in Petalburg Port to New Bark Town - Acessible after getting the Pokénav
+3) Sevii - Boats in Cianwood Port
+
+Obs:
+
+-Kanto and Johto are kind of Semi-Open World (Added sidequests to Tea; Silph Scope; Pokeflute in Kanto)
+-You need Surf to access Sevii Islands
+-Fly is only usable in Hoenn Region.
+-There's a fast travel between Saffron City (Kanto) and Goldenrod City (Johto) (Added Power Plant side quest to activate)
+-There's a fast travel between Vermilion City (Kanto) and Olivine City (Johto)
+-The game is still incomplete and WIP.
+
+
+NOTICE: This mod is still unfinished. This build is for beta testing. Mostly to verify if all the changes I did broke something.
+
+----------------
+* Features *
+----------------
+
+-Hoenn Region
+-Kanto Region
+-Johto Region 
+-Sevii Islands
+
+-------
+* WIP *
+-------
+
+-Add/move trainers in new Regions (Kanto, Johto and Sevii)
+-Add Rocket Grunts trainers (Kanto, Johto and Sevii)
+-Improve overall quality
+-Add more NPCs in overworld (Sevii)
+-Add items in the new Overworld Pickup System in more maps.
+-Improve inside areas (and maybe add more sidequests).
+-Update Pokenav Trainers with custom Moves
+
+-------------------------
+* Important Information *
+-------------------------
+
+-------------------
+1) Legendary Events
+-------------------
+
+Legendary Encounters:
+
+Articuno - Seafom Island - No special requirements
+Zapdos - Power Plant - No special requirements
+Moltres - Mt. Ember - No special requirements
+Mewtwo - Cerulean Cave - Acessible after beating the Hoenn League
+
+Raikou - Dotted Hold - Acessible after Eusine Event
+Entei - Monean Chamber - Acessible after Eusine Event
+Suicune - Icefall Cave - Acessible after Eusine Event
+Celebi - Ilex Forest - Acessible after beating the Hoenn League and doing GS Ball event
+
+Jirachi	- Artisan Cave - Acessible after beating the Hoenn League
+
+
+Event Items:
+
+Mew - Old Sea Map - Pokemon Mansion - Acessible after beating the Hoenn League
+Ho-oh/Lugia - MysticTicket - Tin Tower - Acessible after beating the Hoenn League
+Latios/Latias - Eon Ticket - Mirage Island - Acessible after beating the Hoenn League
+Deoxys - AuroraTicket - Artisan Cave Exit/Battle Frontier - Acessible after beating the Hoenn League
+
+
+---------------------------------------------
+2) Features
+---------------------------------------------
+
+National Pokedex enabled from the start (change it National Mode with the search menu)
+
+All 386 Pokemon are available through catching/breeding and in-game events. (WIP)
+
+Evolutions changed to simpler methods instead of Trading. All evolution stones available at Lilycove mart (WIP)
+
+HM moves are eraseable.
+
+Running allowed indoors.
+
+All caves are dark.
+
+Both the Mach and Acro bikes purchaseable. (50,000 each Cerulean and Goldenrod).
+
+EVs are capped at 252.
+
+FR/LG Style Fishing.
+
+Mirage Island spawns after The Elite Four. 
+
+The summary screen has stats affected by natures color coded (Red for increased stat, Blue for decreased stat).
+
+Black and White's repel system (asks you if you want to use another when one expires).
+
+Maximum money is 9,999,999.
+
+Visual Day / Night Cycle.
+
+Level Cap.
+
+Physical/Special Split.
+
+Decapitalized.
+
+Normal overworld poison.
+
+Wild Pokemon have been changed around.
+
+Small merchants added to Dewford and Pacifidlog's Pokecenter with simple inventories.
+
+Gen5-Style Sprite Replacement
+
+Pokeball Replacer in Contest Hall. Pay a fee to swap the type of Ball your Pokemon is in.
+
+Minor story modification and expanded dialogue to important characters.
+
+Expanded Hoenn Maps (WIP)
+
+-------------
+* Changelog *
+-------------
+
+v1.0rq          Added NPCs in Sevii Islands overworld. Fixed Pattern Bush encounter rate. Added Hercross in Johto areas (loosely around National Park, National Park, Johto Safari Zone and Ilex Forest)
+
+v1.0rp          Kanto and Johto only accessible after getting Pokenav (this was needed because bugs and sequence breaks related to Match Calls registrations).
+
+v1.0ro          Added Kanto and Johto "Pokémon Leagues". Elite Four and Champions added. Rocket Quest added in Sevii Island; GS Ball Event added; Eusine Legendary Dogs Event added. Certain places are only acessible after winning the Hoenn League (Pokémon Mansion, Tin Tower, Rocket Hideaway in Lake of Rage, Rocket Warehouse, Trainer Tower, Indigo Plateau and Amber Plateau). Giovanni, Ariana, Archer, Kamon, Proton, Cass&Butch, Ethan, Yellow, Lyra, Daisy, Bill, Aya-Kimono Girl
+
+v1.0rn          Added 7th and 8th Gym to Kanto and Johto. Added Petrel in Pokemon Mansion. Gym Leaders levels adjusted. Misc fixes.
+
+v1.0rm          Weather system in Kanto and Johto. Red added in Mt. Silver. NPCs Overworld in Kanto and Johto.
+                Added 6th Gym to Kanto and Johto. Fighting Dojo Training added. Misc fixes.
+
+v1.0rj~l        Added Kanto Traversal Progress Events: Saffron-Guards Tea (Saffron Gates opened); Lavender-Marowak Silph Scope (Necessary for Pokeflute);
+                Power Plant-Generator (needed to use Magnetic Train) Steven Rematch on Battle Frontier after winning in Meteor Falls.
+
+v1.0ri          Item revamp.
+
+v1.0rh          Added Sudowoodo and Snorlax fixed encounters, Regi Dolls and other misc.
+
+v1.0rg          Added 5th Gym to Kanto and Johto.
+
+v1.0re~f        Modified a lot of maps, Steven gives Exp. Share and Mr. Stone a Lucky Egg.
+
+v1.0rc~d        Misc fixes.
+
+v1.0ra~b        Added 4th Gym to Kanto and Johto, new overworld item system and other fixes.
+
+v1.0r           Added Event Key Items and Legendary Encounters.
+
+v1.0~1.0q       Test Version
+
+-----------
+* Credits *
+-----------
+
+Thank you to Dearman4 and Verloren5 for the amazing mod and others creating amazing romhacks that gave me inspiration.
+
+CAulin

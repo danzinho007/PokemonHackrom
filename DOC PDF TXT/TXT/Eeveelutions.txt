@@ -1,0 +1,23 @@
+Flareon, Vaporeon, Jolteon, and Leafeon's evolution methods remain unchanged from previous versions.
+
+=============================================================================================
+
+                             Updated evolution methods of Eevee.
+---------------------------------------------------------------------------------------------
+
+• Umbreon evolves with a Moon stone.
+
+• Espeon evolves with a Sun stone.
+
+• Sylveon evolves when leveling up while knowing a Fairy type move.
+
+• Glaceon evolves with an Ice Stone.
+
+• Leafeon evolves with a Leaf Stone.
+
+---------------------------------------------------------------------------------------------
+
+Glaceon method was edited from previous version. Added Leafeon's to the list for informative
+purposes.
+
+=============================================================================================

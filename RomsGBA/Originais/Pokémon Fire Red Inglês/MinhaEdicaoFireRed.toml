@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''726F00'''
+FreeSpaceSearch = '''727180'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -6939,8 +6939,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/3/maps/0/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank3.pallet town.3-0'''
+Image = '''data.maps.banks/3/maps/1/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank3.VIRIDIAN CITY.3-1'''
 
 #################################
 [[TableGroup]]

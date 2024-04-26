@@ -1,0 +1,912 @@
+---------------------------------------
+Mega Moémon Fire Red Ver. 1.4c Changelog
+---------------------------------------
+
+Fixes:
+- Fixed an issue with Victini, Virizion and Raikou not spawning.
+- Problem with Mega Kangaskhan not Mega-Evolving.
+- Mega Aggron having an incorrect typing.
+
+---------------------------------------
+
+Pokémon Changes:
+- Surf Compatibility:
+     - Pichu.
+     - Wingull.
+     - Zangoose.
+     - Axew.
+     - Fraxure.
+
+---------------------------------------
+Mega Moémon Fire Red Ver. 1.4b Changelog
+---------------------------------------
+
+Fixes:
+- Five Island glitching the game.
+- Celebi dialogue.
+- Dotted Hole's last dungeon's warps.
+- Tyrunt's backsprite having leftlover pixels.
+- Tyrunt's evolution method.
+- Petilil, Castform, Altaria, and Mismagius sprite positions.
+- New Moémon species without abilities.
+- New Moémon dex entries.
+- Raichu and Emboar cries.
+- Magnezone, Misdreavus, Lotad, Teddiursa, Ursaring, Qwilfish, Sneasel, Corsola, and Stantler icons.
+- Added an NPC in the Indigo Plateau to fix the saves affected by the Five Island glitch.
+
+---------------------------------------
+
+Pokémon Changes:
+
+- Archen & Archeops Ability:
+     - Truant > Hustle.
+- Sigilyph:
+     - Tailwind removed.
+- Noibat & Noivern:
+     - Tailwind removed.
+
+
+---------------------------------------
+Mega Moémon Fire Red Ver. 1.4 Changelog
+---------------------------------------
+
+Changes:
+- Changed Start Screen logo and artwork.
+- Changed Intro Pikachu to Moémon Pichu.
+- Changed Poké Doll icon.
+- Fixed several broken cries.
+- Added custom graphics to the adventure introduction screen.
+- Hall of Fame fix.
+- New maps added.
+- Added the TM10 to the game.
+- Removed TM10 from the pickup table and changed to Max Revive instead.
+- Added NPC for Mystery Gifts.
+- Added Running Shoes since the start.
+- Oak aide gives Exp. Share instead of Running Shoes.
+- Extra Exp. Share obtainable in a new map and also sold at the Trainer Tower.
+- Oak aide in Fuchsia City gives Lucky Egg instead of Exp. Share.
+- All Moémon species in the dex have habitats.
+- Vitamin cap changed from 100 to 252 EVs.
+- Changed EV cap from 255 to 252.
+- Roamer Beast Trio changed to Mew regardless of the starter.
+- Mew Dex entry added to the Moémon  Mansion for roamer tracking.
+
+---------------------------------------
+
+Added Moémon species:
+- Tyrunt
+- Tyrantrum
+- Darumaka
+- Darmanitan
+- Scatterbug
+- Spewpa
+- Vivillon
+- Swirlix
+- Slurpuff
+- Noibat
+- Noivern
+- Pawniard
+- Bisharp
+- Shelmet
+- Accelgor
+- Elgyem
+- Behyeem
+- Frillish-F
+- Jellicent-F
+- Karrablast
+- Escavalier
+- Ferroseed
+- Ferrothorn
+- Zorua
+- Zoroark
+- Tirtouga
+- Carracosta
+- Archen
+- Archeops
+- Sigilyph
+- Petilil
+- Liligant
+- Drilbur
+- Excadrill
+- Victini
+- Regice
+- Registeel
+- Regigigas
+- Croagunk
+- Toxicroak
+- Carnivine
+- Cherubi
+- Cherrim
+- Jirachi
+- Celebi
+- Vullaby
+- Mandibuzz
+- Heatmor
+- Pidove
+- Tranquill
+- Unfezant
+- Larvesta
+- Volcarona
+- Bronzor
+- Bronzong
+- Stunfisk
+- Carbink
+- Klefki
+- Clauncher
+- Clawitzer
+- Chespin
+- Quilladin
+- Chesnaught
+
+Added Megas:
+- Beedrill
+- Kangaskhan
+- Scizor
+- Tyranitar
+- Aggron
+
+---------------------------------------
+
+Sprite updates and fixes:
+- Ivysaur
+- Mega Venusaur (New)
+- Charmander
+- Charmeleon
+- Charizard
+- Mega Charizard Y (New)
+- Mega Charizard X
+- Squirtle
+- Wartortle
+- Blastoise
+- Mega Blastoise (New)
+- Butterfree
+- Fearow
+- Raichu
+- Oddish (New)
+- Venonat (New)
+- Venomoth (New)
+- Poliwrath
+- Tentacool
+- Tentacruel (New)
+- Farfetch'd (New)
+- Muk (New)
+- Rhydon (New)
+- Tangela
+- Kangaskhan (New)
+- Horsea (New)
+- Seadra (New)
+- Seaking (New)
+- Scyther (New)
+- Magmar (New)
+- Pinsir (New)
+- Vaporeon (New)
+- Jolteon (New)
+- Porygon (New)
+- Aerodactyl (New)
+- Mega Aerodactyl (New)
+- Mewtwo (New)
+- Mew (New)
+- Crobat (New)
+- Togetic (New)
+- Azumarill
+- Yanma (New)
+- Quagsire (New)
+- Murkrow (New)
+- Misdreavus
+- Unown-L (New)
+- Unown-Q (New)
+- Unown-U (New)
+- Gligar (New)
+- Slugma (New)
+- Magcargo (New)
+- Remoraid (New)
+- Octillery (New)
+- Houndoom (New)
+- Kingdra (New)
+- Donphan (New)
+- Porygon-2 (New)
+- Tyranitar
+- Wurmple
+- Lotad (New)
+- Lombre
+- Ludicolo (New)
+- Ralts
+- Kirlia
+- Gardevoir
+- Mega Gardevoir
+- Surskit (New)
+- Masquerain (New)
+- Nincada (New)
+- Ninjask (New)
+- Shedinja (New)
+- Skitty
+- Aron (New)
+- Lairon (New)
+- Aggron (New)
+- Plusle (New)
+- Minun (New)
+- Trapinch (New)
+- Vibrava (New)
+- Flygon (New)
+- Cacnea (New)
+- Cacturne (New)
+- Swablu (New)
+- Altaria (New)
+- Feebas (New)
+- Milotic (New)
+- Castform (New)
+- Castform-Sunny (New)
+- Castform-Rainy (New)
+- Castform-Snowy (New)
+- Tropius (New)
+- Huntail (New)
+- Salamence (New)
+- Metagross
+- Regirock (New)
+- Deoxys-Attack (New)
+- Turwig (New)
+- Grotle (New)
+- Torterra
+- Starly
+- Staravia
+- Staraptor
+- Cranidos
+- Rampardos
+- Shieldon
+- Bastiodon
+- Buizel
+- Floatzel
+- Drifloon
+- Mismagius (New)
+- Honchkrow (New)
+- Stunky
+- Skuntank
+- Spiritomb
+- Gible (New)
+- Gabite (New)
+- Garchomp (New)
+- Mega Lucario
+- Drapion (New)
+- Snover (New)
+- Abomasnow (New)
+- Magnezone (New)
+- Tangrowth (New)
+- Electivire (New)
+- Magmortar (New)
+- Togekiss
+- Yanmega (New)
+- Gliscor (New)
+- Porygon-Z (New)
+- Dusknoir
+- Froslass
+- Rotom (New)
+- Phione (New)
+- Manaphy (New)
+- Snivy
+- Servine
+- Serperior
+- Blitzle (New)
+- Zebstrika (New)
+- Throh
+- Sawk
+- Maractus (New)
+- Solosis (New)
+- Duosion (New)
+- Reuniclus (New)
+- Deerling
+- Sawsbuck
+- Klink
+- Klang
+- Klinklang
+- Chandelure
+- Cryogonal
+- Druddigon
+- Golurk
+- Durant (New)
+- Keldeo (New)
+- Binacle (New)
+- Barbaracle (New)
+- Glaceon
+- Amaura (New)
+- Aurorus (New)
+- Scizor (New)
+- Sableye (New)
+- Mega Mawile
+- Lapras (New)
+
+---------------------------------------
+
+Pokémon Changes:
+
+- Dratini, Dragonair and Dragonite Learnset:
+     - Dragon  Tail (Lv. 31/33/33) > Dragon Breath (Lv. 31/33/33)
+- Milotic Learnset:
+     - Dragon  Tail (Lv. 25) > Dragon Breath (Lv. 25)
+- Garchomp Learnset:
+     - Dragon  Tail (Lv. 55) > Dual Chop (Lv. 55)
+- Druddigon Learnset:
+     - Dragon  Tail (Lv. 45) > Iron Head (Lv. 45)
+- Tyrunt and Tyrantrum Learnset:
+     - Dragon  Tail (Lv. 30) > Rock Slide (Lv. 30)
+- Tyrantrum Learnset:
+     - Rock Slide (Lv. 68) > Dragon Dance (Lv. 68)
+     - Poison Fang (Lv. 1)
+     - Fire Fang (Lv. 1)
+     - Thunder Fang (Lv. 1)
+     - Ice Fang (Lv. 1)
+- Delibird Learnset:
+     - Drill Peck (Lv. 25)
+- Slurpuff Learnset:
+     - Belly Drum (Lv. 1)
+- Bisharp Learnset:
+     - Sucker Punch (Lv. 1)
+     - Revenge (Lv. 1)
+- Ferrothorn Learnset:
+     - Seed Bomb (Lv. 1)
+- Liligant Learnset:
+     - Giga Drain (Lv. 1)
+     - Energy Ball (Lv. 1)
+     - Sleep Powder (Lv. 1)
+     - Stun Spore (Lv. 1)
+- Excadrill Learnset:
+     - Iron Head (Lv. 1)
+- Toxicroak Learnset:
+     - Drain Punch (Lv. 1)
+- Carnivine Learnset:
+     - Seed Bomb (Lv. 47)
+     - Power Whip (Lv. 50)
+- Cherrim Learnset:
+     - Draining Kiss (Lv. 25)
+     - Energy Ball (Lv. 30)
+- Unfezant Learnset:
+     - Night Slash (Lv. 38)
+- Ninetales' Ability 1:
+     - Flash Fire > Drought.
+- Keldeo Learnset:
+     - Air Slash (Lv. 1)
+     - Helping Hand (Lv. 25) > Aura Sphere (Lv. 25)
+- Scolipede Learnset:
+     - X-Scissor (Lv. 1)
+     - Cross Poison (Lv. 1)
+- Beldum Learnset:
+     - Tackle (Lv. 1)
+---------------------------------------
+
+Move Changes:
+- Uproar: 50 BP to 90 BP.
+- Fly: 70 BP to 90 BP.
+
+---------------------------------------
+
+Trainer Changes:
+- Lass Sally: Pidove added.
+- Bird Keeper Wilton: Tranquill and Unfezant added.
+- Biker Jaren: Croagunk added.
+- Team Rocket Grunt: Machop changed to Croagunk.
+- Team Rocket Grunt: Glameow changed to Noibat.
+- Team Rocket Grunt: Noibat added.
+- Gym Leader Koga: Jumpluff and Masquerain changed.
+- Gym Leader Blaine: Mega Charizard Y and Victreebel changed.
+- Elite Four Lance: Mega Latias changed.
+- Rival: Mega Charizard X changed to Mega Charizard Y.
+- Biker Hideo: Pawniard added.
+- Team Rocket Admin: Bisharp added.
+- Camper Justin: Zorua added.
+- Swimmer Matthew: Poliwrath changed to Tirtouga.
+- Bird Keeper Donald: Archen added.
+- Youngster Dillon: Swirlix added.
+- Lass Janice: Pidove added.
+- Lass Robin: Swirlix added.
+- Beauty Sheila: Slurpuff added.
+- Hiker Brice: Tyrunt added.
+- Hiker Earl: Tyrantrum added.
+- Gamer Rich: Darumaka added.
+- Bug Catcher Anthony: Scatterbug added.
+- Bug Catcher Elijah: Vivillon added.
+- Bug Catcher Rick: Karrablast and Shellmet added.
+- Bug Catcher Garret: Escavalier and Accelgor added.
+- Gentleman Brooks: Escavalier added.
+- Bulglar Lewis: Accelgor added.
+- Psychic Cameron: Munna changed to Elgyem.
+- Scientist Braydon: Beheeyem added.
+- Fisherman Dale: Frillish added.
+- Swimmer Maria: Seadra changed to Jellicent.
+- Picnicket Tina: Ferroseed added.
+- Scientist Rodney: Ferrothorn added.
+- Channeler Stacy: Bronzong added.
+- Scientist Ed: Bronzor added.
+- Psychic Preston:  Sigilyph added.
+- Bird Keeper Ramiro: Archeops added.
+- Aroma Lady Nikki: Cherrim added.
+- Lass Dawn: Petilil added.
+- Lass Crissy: Liligant added.
+- Hiker Clark: Drilbur added.
+- Scientist Joshua: Excadrill added.
+- Burglar Ramon: Heatmor added.
+- Scientist Jerry: Stunfisk added.
+- Hiker Allen: Carbink added.
+- Picnicker Nancy: Cherubi added.
+- Beauty Olivia: Carnivine added.
+- Team Rocket Grunt: Vullaby added.
+- Fisherman Hank: Clauncher added.
+- Fisherman Claude: Clawitzer added.
+- Lass Iris: Klefki added.
+- Bug Catcher Vance: Larvesta added.
+- Team Rocket Grunt: Volcarona added.
+- Picknicker Caitlin: Chespin added.
+- Black Belt Aaron: Chesnaught added.
+
+
+---------------------------------------
+Mega Moémon Fire Red Ver. 1.3c Changelog
+---------------------------------------
+
+Changes:
+- Reduced the levels of Moémon appearing in Route 1 for balance purposes.
+- Added a warning sign at the entrance of Tanoby Ruins.
+- Added more Mega Stones in the Cerulean Mart.
+- Changed the wild distribution of some Pokémon.
+
+
+---------------------------------------
+
+Added Moémon species:
+- Starly
+- Staravia
+- Staraptor
+- Burmy
+- Wormadam
+- Mothim
+- Joltik
+- Galvantula
+- Scraggy
+- Scrafty
+- Basculin
+- Froakie
+- Frogadier
+- Greninja
+- Skrelp
+- Dragalge
+- Goomy
+- Sligoo
+- Goodra
+- Golett
+- Golurk
+- Cranidos
+- Rampardos
+- Shieldon
+- Bastiodon
+- Purrloin
+- Liepard
+- Virizion
+
+Added Megas:
+- Lucario
+- Pidgeot
+- Gyarados
+- Glalie
+- Sharpedo
+- Ampharos
+- Manectric
+- Slowbro
+- Houndoom
+- Camerupt
+
+---------------------------------------
+
+Fixes:
+- Fixed Jynx's gender ratio.
+- Fixed Gallade not having abilities in Ability 2.
+- Moémon having Magic Bounce had their abilities changed due to the same ability's code being broken.
+    - Natu and Xatu's Ability 2 changed back to Early Bird.
+    - Espeon changed back to having only Synchronize as ability.
+- Fixed the evolution methods of: Seadra (Dragon Scale), Clamperl (Deep Sea Tooth and Scale), Dusclops (Link Cable), Bonsly (Lv. 15).
+- Removed some grass near water in Route 21, Safari Zone, Five Isle Meadow and Berry Forest.
+- Shieldon, Samurott, Thundorus and Reshiram cries. (The latter two are not available in the game)
+- Fixed Brock, Oak and other NPC dialogues.
+- Link Cable's name changed to Linking Cord (It's name in official games).
+- Breeding and some evolutions have been fixed.
+
+---------------------------------------
+
+Sprite updates and fixes:
+- Weedle.
+- Kakuna.
+- Beedrill.
+- Raichu.
+- Oddish.
+- Gloom. (New)
+- Vileplume. (New)
+- Tentacruel.
+- Slowpoke.
+- Slowbro.
+- Grimer.
+- Muk. (New)
+- Cubone.
+- Marowak.
+- Chansey.
+- Goldeen. (New)
+- Starmie.
+- Scyther. (New)
+- Jynx. (New)
+- Electabuzz.
+- Magmar. (New)
+- Vaporeon. (New)
+- Jolteon. (New)
+- Flareon. (New)
+- Omanyte.
+- Omastar.
+- Dratini. (New)
+- Dragonair. (New)
+- Dragonite. (New)
+- Mew. (New)
+- Chikorita.
+- Bayleef. (New)
+- Meganium.
+- Totodile. (New)
+- Croconaw. (New)
+- Feraligar. (New)
+- Togepi. (New)
+- Togetic.
+- Bellossom.
+- Marill. (New)
+- Azumarill. (New)
+- Espeon. (New)
+- Slowking.
+- Misdreavus.
+- Unown-A.
+- Unown-B.
+- Unown-C.
+- Unown-D.
+- Snubbull.
+- Granbull.
+- Scizor.
+- Heracross. (New)
+- Sneasel. (New)
+- Corsola.
+- Delibird. (New)
+- Stantler.
+- Smeargle. (New)
+- Smoochum. (New)
+- Elekid. (New)
+- Magby. (New)
+- Blissey. (New)
+- Poochyena. (New)
+- Zigzagoon.
+- Linoone. (New)
+- Silcoon.
+- Beautifly.
+- Cascoon.
+- Dustox. (New)
+- Taillow. (New)
+- Swellow. (New)
+- Gardevoir.
+- Mega Gardevoir. (New)
+- Breloom. (New)
+- Nincada. (New)
+- Makuhita.
+- Hariyama. (New)
+- Azurill. (New)
+- Skitty.
+- Electrike. (New)
+- Manectric. (New)
+- Numel. (New)
+- Camerupt. (New)
+- Grumpig. (New)
+- Swablu. (New)
+- Lileep. (New)
+- Cradily. (New)
+- Anorith.
+- Armaldo. (New)
+- Duskull.
+- Dusclops.
+- Chimecho. (New)
+- Gorebyss.
+- Deoxys.
+- Torterra.
+- Piplup.
+- Prinplup.
+- Empoleon.
+- Shinx.
+- Budew. (New)
+- Buneary.
+- Lopunny.
+- Mega Lopunny.
+- Chingling. (New)
+- Mime Jr. (New)
+- Happiny. (New)
+- Spiritomb. (New)
+- Weavile. (New)
+- Togekiss. (New)
+- Porygon-Z.
+- Dusknoir.
+- Phione.
+- Manaphy.
+- Watchog.
+- Yamask. (New)
+- Cofragrigus. (New)
+- Solosis.
+- Duosion.
+- Reuniclus.
+- Emolga. (New)
+- Eelektross.
+- Axew.
+- Fraxure.
+- Haxorus.
+- Cryogonal. (New)
+- Deino. (New)
+- Zweilous. (New)
+- Hydreigon. (New)
+- Flabébé.
+- Floette.
+
+
+---------------------------------------
+
+Evolution Changes:
+- Sliggoo > Goodra (Lv. 50) [Due the lack of rainy areas]
+
+---------------------------------------
+
+Pokémon Changes:
+
+- Ninetales Learnset:
+     - Extrasensory (Lv. 1)
+     - Dark Pulse (Lv. 1)
+- Deino Learnset:
+     - Dragon Tail (Lv. 20) > Dragonbreath (Lv. 20)
+- Azurill, Marill and Azumarill Ability 1.
+     - Thick Fat > Sap Sipper.
+- Surskit and Masquerain Learnset:
+     - Surf (HM)
+- Pichu Learnset:
+     - Volt Tackle (Lv. 20)
+- Wigglytuff Learnset:
+     - Nasty Plot (Lv. 1)
+     - Draining Kiss (Lv. 1)
+- Golduck Learnset:
+     - Nasty Plot (Lv. 1)
+     - Power Gem (Lv. 1)
+- Dugtrio Learset:
+     - Swords Dance (Tutor)
+- Ampharos Learnset:
+     - Dazzling Gleam (Tutor)
+- Flareon, Jolteon, Vaporeon, Umbreon, Leafeon and Glaceon Learnsets:
+     - Calm Mind (TM)
+- Breloom Learnset:
+     - Charm > Close Combat (Lv. 1)
+- Grumpig Learnset:
+     - Nasty Plot (Lv. 1)
+     - Dazzling Gleam (Tutor)
+- Banette Learnset:
+     - Swords Dance (Tutor)
+- Drifblim Learnset:
+     - Air Slash (Lv. 1)
+- Eelektross Learnset:
+     - Superpower > Close Combat (Lv. 1)
+- Avalugg Learnset:
+     - Blizzard > Icicle Crash (Lv. 46) (Still can learn the TM)
+
+---------------------------------------
+
+Trainer Changes:
+- Bug Catcher Anthony: Pineco changed to Burmy.
+- Lass Janice: Nidoran (Male) changed to Starly.
+- Lass Janice (Rematch 2): Nidorino changed to Staraptor.
+- Bug Catcher Greg: Metapod changed to Joltik.
+- Team Rocket Grunt: Rattata changed to Scraggy.
+- Team Rocket Grunt: Glameow changed to Purrloin.
+- Team Rocket Grunt: Glameow changed to Liepard.
+- Team Rocket Grunt: Purugly changed to Liepard.
+- Team Rocket Grunt: Raticate changed to Scrafty.
+- Fisherman Hank: Got a Basculin.
+- Channeler Laurel: Gastly changed to Golett.
+- Channeler Angelica: Shuppet changed to Golett.
+- Camper Ricky: Got a Goomy.
+- Camper Ricky (Rematch 3): Got a Goodra.
+- Team Rocket Admin (Ariana): Got a Dragalge.
+- Team Rocket Admin (Archer): Got a Hydreigon.
+- Team Rocket Admin (Archer): Houndoom changed to Mega Houndoom.
+- Biker Alex: Grimer changed to Skrelp.
+- Fisherman Kenneth: Ludicolo changed to Froakie.
+- Bug Catcher James: Kakuna changed to Combee.
+- Lass Ann: Deerling changed to Pachirisu.
+- Lass Robin: Got a Pachirisu.
+- Camper Justin: Clefairy changed to Binacle.
+- Fisherman Nolan: Got a Binacle.
+- Fisherman Wade (Rematch): Gyarados changed to Mega Gyarados.
+- Swimmer Mymo: Got a Barbaracle.
+- Aroma Lady Miah: Bellosom changed to Florges.
+- Ruin Maniac Stanly: Graveler changed to Golurk.
+- Hiker Eric: Onix changed to Cranidos.
+- Hiker Lenny: Geodude changed to Shieldon.
+- Lorelei (Rematch): Abomasnow changed to Mega Glalie.
+- Bruno (Rematch): Steelix changed to Lucario.
+- Lance: Aerodactyl changed to Goodra.
+
+---------------------------------------
+Ver. 1.3a fixes
+---------------------------------------
+
+Changes:
+- Added the game's version in the save file selection screen.
+- Revamped the blue screen intro text.
+- Fixed Lance's team order.
+- Fixed a trainer dialogue.
+- Protean description.
+
+---------------------------------------
+
+Sprite updates and fixes:
+- Torterra.
+- Linoone.
+- Starly.
+- Altaria (New)
+- Swablu (New)
+- Torkoal (New)
+- Umbreon (New)
+- Mega Pidgeot.
+- Mega Slowbro.
+- Scyther.
+- Magmar.
+- Mew.
+- Marill.
+- Mega Houndoom.
+- Taillow.
+- Swellow.
+- Camerupt.
+- Cradily.
+- Shuppet.
+- Banette.
+- Staravia.
+- Staraptor.
+- Shieldon.
+- Bastiodon.
+- Mothim.
+- Spiritomb.
+- Togekiss.
+- Dusknoir.
+- Liepard.
+- Cryogonal.
+
+---------------------------------------
+
+Fixed sprite positions:
+- Breloom.
+- Dragonite.
+- Nincada.
+- Shieldon.
+- Bastiodon.
+- Rampardos.
+
+---------------------------------------
+
+Trainer Changes:
+- Aroma Lady Violet: Servine changed to Bayleef, Serperior changed to Torterra.
+- Pokémon Ranger Jackson: Serperior changed to Breloom. 
+
+---------------------------------------
+
+Pokémon Changes:
+
+- Thief (TM):
+     - Phanpy & Donphan.
+     - Tauros. 
+     - Chansey & Blissey. 
+     - Hoppip, Skiploom & Jumpluff.
+     - Slakoth, Vigoroth & Slaking. 
+     - Makuhita & Hariyama.
+     - Meditite & Medicham. 
+     - Gulpin & Swalot.
+     - Cacnea & Cacturne. 
+     - Buizel & Floatzel.
+     - Finneon & Lumineon.
+     - Oshawott, Dewott & Samurott.
+     - Skrelp & Dragalge.
+- Earthquake (TM):
+     - Bonsly.
+- Bullet Seed (TM):
+     - Deeling & Sawsbuck.
+     - Skiddo & Gogoat.
+- Water Pulse (TM):
+     - Sneasel & Weavile.
+     - Basculin.
+
+---------------------------------------
+
+Trainer Changes:
+- Lorelei (Rematch): Cryogonal changed.
+
+---------------------------------------
+Ver. 1.3b fixes
+---------------------------------------
+
+Sprite updates and fixes:
+- Altaria.
+- Swablu.
+
+
+---------------------------------------
+Ver. 1.3c fixes
+---------------------------------------
+
+Fixes and updates:
+- Shed Skin description.
+- Luvdisc name in a dialogue.
+- Virizion's name.
+- Palette of a Shiny Moémon egg.
+- Use of Oval Stone not having effect on Happiny.
+- Updated encounters in: Route 1, Route 4, Route 13, Route 18, Moémon Mansion BF1, Rock Tunnel, Clear Forest.
+- Changed the Tangela trade at Cinnabar Island.
+
+---------------------------------------
+
+Icon updates and fixes:
+- Audino.
+- Feraligatr.
+- Furfrou.
+- Ledyba.
+- Linoone.
+- Lunatone.
+- Nincada.
+- Pichu.
+- Raichu.
+- Sentret.
+- Shedinja.
+- Solrock.
+- Umbreon.
+- Wooper.
+
+---------------------------------------
+
+Sprite updates and fixes:
+- Sandshrew (New)
+- Magmar.
+- Flareon.
+- Igglybuff (New)
+- Forretress (New)
+- Larvitar (New)
+- Pupitar (New)
+- Tyranitar (New)
+- Mega Gardevoir
+- Wailmer (New)
+- Numel.
+- Torkoal (New)
+- Shieldon.
+- Burmy.
+- Wormadam.
+- Dusknoir.
+- Unown-A (New)
+- Unown-F (New)
+- Unown-G
+- Unown-J
+- Unown-V
+- Unown-Y (New)
+- Unown-Z
+
+---------------------------------------
+
+Fixed sprite positions:
+- Drowzee.
+- Flareon.
+- Qwilfish.
+- Druddigon.
+- Golett.
+- Mega Camerupt.
+- Patrat.
+- Totodile.
+- Xatu.
+- Umbreon.
+- Emolga.
+
+---------------------------------------
+
+Pokémon Changes:
+- Muchlax Item:
+     - Item 1: None > Lum Berry.
+- Hoppip Learnset:
+     - Tackle (Lv. 1)
+- Politoed's Ability 2:
+     - Damp > Drizzle.
+- Burmy, Wormadam & Mothim's Learnsets:
+     - Struggle Bug (Lv. 1)
