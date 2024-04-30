@@ -1,6 +1,0 @@
-NOTAS DE VERSION:
-14/6/2019 (v1.0.0)
-- No se han realizado cambios, solo se han añadido recursos a la descarga.
-
-¡Por favor reporta cualquier error en nuestra web!
-http://www.gridegames.com
