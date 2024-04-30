@@ -1,0 +1,23 @@
+Changelog v2.6:
+- Removed the guaranteed shiny option from Talrega's fountain;
+- Shiny encounter rate has been set to 1/1024 (the old one was 1/8192);
+- Fixed an issue regarding shiny encounters becoming Bad Eggs after being captured (GOD AT LEAST I HOPE SO);
+- Fixed an issue regarding callAsm and battlestring functions;
+- Fixed an issue regarding Choice Scarf not boosting the user's speed;
+- Fixed an issue regarding Technician not boosting low BP moves;
+- Fixed an issue regarding Boomburst not being recognized as a sound-based move;
+- Fixed an issue regarding Sandy Shock's stats;
+- Fixed an issue regarding some learnsets;
+- New Pokémon added: Kleavor (use Black Augurite on Scyther);
+- New abilities added: Moxie, Defiant, Competitive, Skill Link;
+- New moves added: Shell Smash, Quiver Dance, Stone Edge, Stone Axe (70 BP, 95 Accuracy high-crit move, Kleavor only);
+- Pokémon gender ratio has been set at 50% (except for male/female only species);
+- Learnsets and abilities have been updated (for example Butterfree now learns Quiver Dance, Furret has Fur Coat etc etc);
+- New items added: Eviolite, Rocky Helmet, Flame Orb, Toxic Orb, Life Orb, Assault Vest, Weakness Policy, Light Clay;
+- Sitrus Berry's effect updated: it now restores 25% of max HP instead of just 30 HP;
+- Pokéball containing TMs are now yellow;
+- New move animations for: Mysticalfire, PowerUpPunch, Aura Sphere, Head Smash, Iron Head, Poison Jab, X-Scissor, Icicle Crash, Drain Punch, Shadow Sneak, Aqua Jet, Bullet Punch, Shell Smash;
+- Bag, TM Case and Treasure Pouch have now a better UI;
+- Reworked TM case: you can now see which Pokémon are compatible with a determined TM before teaching it;
+- You can now see your team and current game version in the "Continue/New Game" screen;
+- Hard Mode bosses updated with new held items and moves;

@@ -1,2 +1,0 @@
-Rename the extension of the file
-txt=gba

@@ -1,0 +1,14 @@
+▬▬▬▬▬▬▬▬ HOW TO PLAY - PC ▬▬▬▬▬▬▬▬
+
+1) Download the 1636 - Pokemon Fire Red (U)(Squirrels) rom. I can't give you any link, so don't ask for it.
+2) Download mGBA 0.9.2, mGBA 0.10 or mGBA 0.10.2 from the mGBA website: https://mgba.io/
+3) Unzip the game archive and open the game folder.
+4) Open NUPS (or a random .ups rom patcher).
+File to patch -> Browse -> Pokemon Fire Red (U)(Squirrels).gba
+UPS Patch -> Browse -> "your patch".ups
+If file is invalid -> Abort
+5) After all of this, click on patch.
+6) Open your patched rom with mGBA. Have fun.
+
+If the patch doesn't match the rom, it means you downloaded the wrong base rom.
+If you are playing on retroarch core of mGBA, be sure to go to Core Options and disable "Use BIOS File if found". 

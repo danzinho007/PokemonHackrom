@@ -1,0 +1,14 @@
+▬▬▬▬▬▬▬▬ HOW TO PLAY - ANDROID ▬▬▬▬▬▬▬▬
+
+1) Download the 1636 - Pokemon Fire Red (U)(Squirrels) rom. I can't give you any link, so don't ask for it.
+2.A) Download Lemuroid or RetroArch from the PlayStore. If you downloaded RetroArch, use the mGBA core.
+2.B) Download Retroarch from the Altstore and use the mGBA core.
+3) Unzip the game archive and open the game folder.
+4) Go to https://www.marcrobledo.com/RomPatcher.js/ or use another rom patcher.
+Rom File -> Browse -> Pokemon Fire Red (U)(Squirrels).gba
+Patch File -> Browse -> "your patch".ups
+5) After all of this, click on Apply Patch
+6) Open your patched rom with Lemuroid (Android) or RetroArch (Android/iOS). Have fun
+
+If the patch doesn't match the rom, it means you downloaded the wrong base rom.
+If you are playing on retroarch core of mGBA, be sure to go to Core Options and disable "Use BIOS File if found".
