@@ -1,7 +1,0 @@
-aqui vai uma lista de coisas para fazer para que o jogo não bug:
-
-
-
-1- Depois de pegar o inicial, va para o centro pokemon e recupere.
-
-2- antes de batalhar no gym 1, salve o game pos se perder o jogo vai travar

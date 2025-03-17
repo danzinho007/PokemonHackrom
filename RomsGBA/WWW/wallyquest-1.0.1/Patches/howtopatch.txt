@@ -1,6 +1,0 @@
-How to patch:
-Use RomPatcher.js or NUPS.
-
-wallyquest-1.0.1-trashman is to be applied to the Trashman ROM.
-v1.0-to-v1.0.1.ups is for patching existing v1.0 ROMs. To avoid possible versioning issues, however, recommend a clean Trashman patch
-Due to confusion, I've decided not to provide the patch for the other ROM I was aware of. Please use Trashman
