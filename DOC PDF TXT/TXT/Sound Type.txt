@@ -1,9 +1,0 @@
-Sound Type -
-Offensive
-2x - Ground, Fight, Psychic, Fairy
-1/2x - Steel, Water, Grass, Ice, Bug
-
-Defensive
-1/2x - Electric
-2x - Flying, Water, Bug
-0x - Sound
